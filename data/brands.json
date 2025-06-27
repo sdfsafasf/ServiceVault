@@ -9,6 +9,11 @@
     "name": "Opel",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Opel_logo_2023.svg",
         "invertInDark": true 
+  },
+  {
+    "code": "BMW",
+    "name": "BMW",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg",
   }
 
   
