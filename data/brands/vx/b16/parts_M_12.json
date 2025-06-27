@@ -1,0 +1,57 @@
+[
+  {
+    "call": "10",
+    "part": "39112567",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39202444",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39202441",
+    "desc": "SPRING,ASSY.,REAR (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112568",
+    "desc": "SPRING,ASSY.,REAR (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13366704",
+    "desc": "SPRING,ASSY.,REAR (FOR HOLDEN)",
+    "qty": "2",
+    "usage": "B14XFT[LE2],TRIM LEVEL F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

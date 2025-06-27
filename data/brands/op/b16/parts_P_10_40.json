@@ -1,0 +1,211 @@
+[
+  {
+    "call": "1",
+    "part": "39116194",
+    "desc": "LINKAGE,ASSY.,WINDSCREEN WIPER,WITH MOTOR,RH-LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39116193",
+    "desc": "LINKAGE,ASSY.,WINDSCREEN WIPER,WITH MOTOR,LH-LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39116196",
+    "desc": "LINKAGE,ASSY.,WINDSCREEN WIPER,WITH MOTOR,RH-RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39116195",
+    "desc": "LINKAGE,ASSY.,WINDSCREEN WIPER,WITH MOTOR,LH-RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13295277",
+    "desc": "-SCREW,HEX.HD.,WITH WASHER (WITH BUSH) (OVAL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13295278",
+    "desc": "-SCREW,HEX.HD.,WITH WASHER (WITH BUSH) (ROUND)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39164473",
+    "desc": "-GROMMET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39149321",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39149320",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39193936",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39193935",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13324862",
+    "desc": "NUT,HEX.,M10",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13262446",
+    "desc": "CAP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "COVER (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "(95529086)",
+    "desc": "SET,WIPER BLADE (EXCEPT HOLDEN) (NLS.- USE 1689813980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "",
+    "desc": "-BLADE,WINDSCREEN WIPER,RH,700MM LONG (EXCEPT HOLDEN) (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-BLADE,WINDSCREEN WIPER,LH,700MM LONG (EXCEPT HOLDEN) (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39215985",
+    "desc": "BLADE,WINDSCREEN WIPER,RH-RHD (FOR HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39215983",
+    "desc": "BLADE,WINDSCREEN WIPER,LH-RHD (FOR HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

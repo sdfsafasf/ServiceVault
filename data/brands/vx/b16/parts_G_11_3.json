@@ -1,0 +1,112 @@
+[
+  {
+    "call": "19",
+    "part": "(13599392)",
+    "desc": "PUMP,ASSY.,FUEL (NLS.- USE 13509664)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13509664)",
+    "desc": "PUMP,ASSY.,FUEL (NLS.- USE 13522651)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13599393)",
+    "desc": "PUMP,ASSY.,FUEL (EMISSION CODE NE4) (NLS.- USE 13509663)",
+    "qty": "1",
+    "usage": "B16DTH[LVL],B16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "13509663",
+    "desc": "PUMP,ASSY.,FUEL (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "B16DTH[LVL],B16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13509664)",
+    "desc": "PUMP,ASSY.,FUEL (EMISSION CODE NCV) (NLS.- USE 13522651)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO],D16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "13522651",
+    "desc": "PUMP,ASSY.,FUEL",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39002198",
+    "desc": "SEAL,RING,FUEL PUMP TO FUEL TANK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "10325852",
+    "desc": "RETAINER,FUEL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(13598647)",
+    "desc": "SENDER,FUEL GAUGE (NLS.- USE 13509665)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13509665",
+    "desc": "SENDER,FUEL GAUGE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

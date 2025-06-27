@@ -1,0 +1,79 @@
+[
+  {
+    "call": "9",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,CRANKSHAFT,BEARING CAP,THREEBOND 1227,80ML (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "55588331",
+    "desc": "BEARING,CRANKSHAFT,KIT,STD.",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "55588332",
+    "desc": "BEARING,CRANKSHAFT,KIT,0.127MM U/S",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "55588333",
+    "desc": "GUIDE,CRANKSHAFT BEARING,KIT,STD.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "55588334",
+    "desc": "GUIDE,CRANKSHAFT BEARING,KIT,0.127MM U/S",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55596779",
+    "desc": "SEAL,OIL,CRANKSHAFT,FRONT,WITH GROOVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "",
+    "desc": "SEAL,OIL,CRANKSHAFT,REAR (PLEASE REFER TO GROUP E) (TIMING CHAIN,GEAR AND PULLEYS) (SHORTCUT: B16.E155)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "call": "1X",
+    "part": "(12664831)",
+    "desc": "GASKET SET,CYLINDER HEAD OVERHAUL (NLS.- USE 12679878)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "(12679878)",
+    "desc": "GASKET SET,CYLINDER HEAD OVERHAUL (NLS.- USE 12687228)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11548125",
+    "desc": "-SCREW,M10 X 110",
+    "qty": "10",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12636176",
+    "desc": "-GASKET",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(12627061)",
+    "desc": "-GASKET (NLS.- USE 12664202)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(12639143)",
+    "desc": "-GASKET (NLS.- USE 12665421)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "12665421",
+    "desc": "-GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "12663440",
+    "desc": "-GASKET,CYLINDER HEAD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12636177",
+    "desc": "-GASKET,CAMSHAFT CASE TO CYLINDER HEAD,OUTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "12636384",
+    "desc": "-GASKET,CAMSHAFT CASE TO CYLINDER HEAD,INNER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "12637018",
+    "desc": "-GASKET,INDUCTION MANIFOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

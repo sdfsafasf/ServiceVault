@@ -1,0 +1,211 @@
+[
+  {
+    "call": "1",
+    "part": "13367066",
+    "desc": "SHAFT,ASSY.,DRIVE,RH (EXCHANGE - REMAN PART 95522361)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95522361",
+    "desc": "SHAFT,ASSY.,DRIVE,RH,EXCHANGE - REMAN (CORE RETURN NO. 95524444)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13367065",
+    "desc": "SHAFT,ASSY.,DRIVE,LH (EXCHANGE - REMAN PART 95522359)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95522359",
+    "desc": "SHAFT,ASSY.,DRIVE,LH,EXCHANGE - REMAN (CORE RETURN NO. 95524444)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "13462049",
+    "desc": "-JOINT,ASSY.,SHAFT,OUTER,WITH BOOT KIT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "13462052",
+    "desc": "--BOOT,WITH CLAMPS,DRIVE SHAFT,OUTER (KIT)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13291762",
+    "desc": "---CLAMP,BOOT TO JOINT,OUTER,87MM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "93170250",
+    "desc": "---CLAMP,BOOT TO SHAFT,OUTER,30.5MM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "---COMPONENT,NOT SERVICED SEPARATELY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8X",
+    "part": "39005064",
+    "desc": "-JOINT,ASSY.,SHAFT,INNER,WITH BOOT KIT,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8X",
+    "part": "39005065",
+    "desc": "-JOINT,ASSY.,SHAFT,INNER,WITH BOOT KIT,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39005048",
+    "desc": "--BOOT,WITH CLAMPS,DRIVE SHAFT,INNER (KIT)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "---COMPONENT",
+    "desc": "",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "95518713",
+    "desc": "---CLAMP,BOOT TO JOINT,INNER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "---COMPONENT",
+    "desc": "",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13296471",
+    "desc": "---CIRCLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13329237",
+    "desc": "GREASE,SPECIAL,OLISTAMOLY 2 LN 584 LO / RENOLIT M FLA 2,100GRAMS,DRIVE SHAFT JOINT (IDENT GR17)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13329240",
+    "desc": "GREASE,SPECIAL,ONE LUBER C,160GRAMS,DRIVE SHAFT JOINT (IDENT GR19)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "9121965",
+    "desc": "OIL,CIRCLIP,SHAFT RETAINING,1 LITRE",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

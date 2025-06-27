@@ -1,0 +1,104 @@
+[
+  {
+    "call": "1",
+    "part": "39108397",
+    "desc": "HOSE,HEATER,WATER INLET,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1369,
+        "y": 394
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39108398",
+    "desc": "HOSE,HEATER,WATER INLET,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39108399",
+    "desc": "HOSE,HEATER,WATER OUTLET,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1369,
+        "y": 1197
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39108400",
+    "desc": "HOSE,HEATER,WATER OUTLET,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13465222",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1451,
+        "y": 1239
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39179171",
+    "desc": "HOSE,HEATER,WATER OUTLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1829,
+        "y": 1935
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13136378",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1717,
+        "y": 1956
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

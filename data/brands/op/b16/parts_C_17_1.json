@@ -1,0 +1,95 @@
+[
+  {
+    "call": "7",
+    "part": "(13430750)",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,DRIVERS SEAT (NLS.- USE 39016993)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 43,
+        "y": 2066
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39016993",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,DRIVERS SEAT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13435319)",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,PASSENGER SEAT (FOR 4-WAY MANUAL SEAT,RPO AG5) (NLS.- USE 39016995)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39016995",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,PASSENGER SEAT (FOR 4-WAY MANUAL SEAT,RPO AG5)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13435322)",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,PASSENGER SEAT (FOR 6-WAY MANUAL SEAT,RPO AG6) (NLS.- USE 39016994)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39016994",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,PASSENGER SEAT (FOR 6-WAY MANUAL SEAT,RPO AG6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13435322)",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,PASSENGER SEAT (FOR 8-WAY MANUAL SEAT,RPO A53) (NLS.- USE 39016994)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39016994",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,PASSENGER SEAT (FOR 8-WAY MANUAL SEAT,RPO A53)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

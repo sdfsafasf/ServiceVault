@@ -1,0 +1,79 @@
+[
+  {
+    "call": "6",
+    "part": "(12703046)",
+    "desc": "VALVE,FLOW CONTROL (NLS.- USE 12701246)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(12701246)",
+    "desc": "VALVE,FLOW CONTROL (NLS.- USE 12711428)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(12711428)",
+    "desc": "VALVE,FLOW CONTROL (NLS.- USE 12716827)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12666900",
+    "desc": "-GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "-SENSOR,COOLANT TEMPERATURE (PLEASE REFER TO GROUP P) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (COOLANT TEMPERATURE SENSOR) (SHORTCUT: B16.P22)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55575090",
+    "desc": "-RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11548166",
+    "desc": "-SCREW,HEX.HD.,M5 X 30",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

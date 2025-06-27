@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "(55491603)",
+    "desc": "STARTER,ASSY. (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (EXCHANGE - REMAN PART 95521367) (NLS.- USE 55503728)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55503728",
+    "desc": "STARTER,ASSY. (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (EXCHANGE - REMAN PART 95526714)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95521367)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (CORE RETURN NO. 95524454) (NLS.- USE 95526714)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95526714)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (CORE RETURN NO. 95524454) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55496055)",
+    "desc": "STARTER,ASSY. (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (EXCHANGE - REMAN PART 95523406) (NLS.- USE 55502420)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95523406)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (CORE RETURN NO. 95524454) (NLS.- USE 95526370)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55506642",
+    "desc": "STARTER,ASSY. (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (EXCHANGE - REMAN PART 95527121)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95527121",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (USED WITH F17 MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (CORE RETURN NO. 95524454)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55584278)",
+    "desc": "STARTER,ASSY. (USED WITH F17 EASYTRONIC TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (EXCHANGE - REMAN PART 95520360) (NLS.- USE 55491606)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55491606",
+    "desc": "STARTER,ASSY. (USED WITH F17 EASYTRONIC TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (EXCHANGE - REMAN PART 95521368)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(95520360)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (USED WITH F17 EASYTRONIC TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (CORE RETURN NO. 95524454) (NLS.- USE 95521368)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95521368",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (USED WITH F17 EASYTRONIC TRANSMISSION) (FOR STOP/START ENGINE SYSTEM) (CORE RETURN NO. 95524454)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11588741",
+    "desc": "SCREW,HEX.HD.,M10 X 45",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

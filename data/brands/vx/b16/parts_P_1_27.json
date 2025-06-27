@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "(12647553)",
+    "desc": "MODULE,IGNITION COIL (NLS.- USE 12673523)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "12673523",
+    "desc": "MODULE,IGNITION COIL",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11588717",
+    "desc": "-SCREW,HEX.HD.,M6 X 45",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

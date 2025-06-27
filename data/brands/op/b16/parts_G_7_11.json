@@ -1,0 +1,156 @@
+[
+  {
+    "call": "1",
+    "part": "(55491536)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION (NLS.- USE 55496265)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55496265)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION (NLS.- USE 55504606, 55569992 12 47 528)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55576681",
+    "desc": "-SCREW,HEX.HD.,M8 X 70,INDUCTION MANIFOLD",
+    "qty": "7",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55569383",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-VALVE,ASSY.,CHARGED AIR BY-PASS (SHORTCUT: B16.G502)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "",
+    "desc": "-HOSE,VACUUM (SHORTCUT: B16.G502)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "",
+    "desc": "-HOSE,VACUUM (SHORTCUT: B16.G502)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "-CLAMP,HOSE (SHORTCUT: B16.G502)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "-VALVE,EVAPORATION CONTROL (SHORTCUT: B16.G505)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "-BRACKET (SHORTCUT: B16.G505)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "",
+    "desc": "-SCREW,TORX (SHORTCUT: B16.G505)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-SENSOR,AIR TEMPERATURE AND CHARGE AIR PRESSURE (SHORTCUT: B16.P25)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "",
+    "desc": "-SCREW,TORX (SHORTCUT: B16.P25)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13452498",
+    "desc": "CAP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "55585049",
+    "desc": "PUMP,ASSY.,FUEL INJECTION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11562426",
+    "desc": "-SCREW,HEX.HD.,M6 X 25",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12610684",
+    "desc": "-RETAINER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "55592001",
+    "desc": "-GASKET,FUEL INJECTION PUMP (KIT)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55569519",
+    "desc": "ROLLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55577802",
+    "desc": "COVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

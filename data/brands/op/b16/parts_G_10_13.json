@@ -1,0 +1,35 @@
+[
+  {
+    "call": "20",
+    "part": "55496779",
+    "desc": "BODY,ASSY.,THROTTLE VALVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "11588717",
+    "desc": "SCREW,M6 X 45",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "",
+    "desc": "GASKET,THROTTLE VALVE (PLEASE REFER TO GROUP G) (FUEL AND EXHAUST) (INDUCTION MANIFOLD) (SHORTCUT: B16.G703)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

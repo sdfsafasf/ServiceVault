@@ -1,0 +1,191 @@
+[
+  {
+    "call": "8",
+    "part": "(39019571)",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 61,
+        "y": 2308
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39066796",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39019573)",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39066798",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39019572)",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39066797",
+    "desc": "",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13476995",
+    "desc": "COVER,ARMREST,BLACK,LH (EXCEPT RPO A9U,ONE TOUCH FOLDING SEAT BACK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1449,
+        "y": 1581
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13476993",
+    "desc": "COVER,ARMREST,BLACK,LH (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1449,
+        "y": 1771
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13476992)",
+    "desc": "COVER,ARMREST,BLACK,LH (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U) (NLS.- USE 39059230)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39059230",
+    "desc": "COVER,ARMREST,BLACK,LH (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13476994",
+    "desc": "COVER,ARMREST,BLACK,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 689,
+        "y": 1602
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39025712)",
+    "desc": "COVER (NLS.- USE YR00048780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 427,
+        "y": 2283
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39012586)",
+    "desc": "BRACKET,ARMREST (NLS.- USE YR00073380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 570,
+        "y": 1834
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13405019)",
+    "desc": "SCREW,TORX (NLS.- USE YR00073280)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 767,
+        "y": 1634
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

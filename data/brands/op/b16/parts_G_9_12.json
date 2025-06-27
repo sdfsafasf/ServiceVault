@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "(55578375)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE (NLS.- USE 55494601)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]\n(E)      -20 A3161266FP8X1193",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55494601)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE (NLS.- USE 55498493)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]\n(E)  20 A3161266FP8X1194-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55498493",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]\n(E)  20 A3161266FP8X1194-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55569989)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE (NLS.- USE 55494599)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]\n(E)      -20 A2162255GW5X0366",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55498492",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE (EMISSION CODE NE4) (EXCHANGE - REMAN PART 1684882180)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]\n(E)  20 A2162255GW5X0367-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "1684882180",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 95524845)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]\n(E)  20 A2162255GW5X0367-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55503129",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE (EMISSION CODE NCV) (EXCHANGE - REMAN PART 1684882380)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "1684882380",
+    "desc": "MANIFOLD,ASSY.,INDUCTION,COMPLETE,EXCHANGE - REMAN (EMISSION CODE NCV) (CORE RETURN NO. 95524845)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55577046",
+    "desc": "-GASKET,INDUCTION MANIFOLD TO CYLINDER HEAD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55584584",
+    "desc": "-SCREW,HEX.HD.,M6 X 50,INDUCTION MANIFOLD",
+    "qty": "9",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55580214",
+    "desc": "-GASKET,EGR PIPE,INDUCTION MANIFOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55577047",
+    "desc": "-GASKET,THROTTLE VALVE,INDUCTION MANIFOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "-SENSOR,AIR TEMPERATURE AND CHARGE AIR PRESSURE (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (CHARGE AIR PRESSURE SENSOR) (SHORTCUT: B16.P30-1)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "-SCREW (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (CHARGE AIR PRESSURE SENSOR) (SHORTCUT: B16.P30-1)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55574965",
+    "desc": "BRACE,INDUCTION MANIFOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11588712)",
+    "desc": "SCREW,HEX.HD.,M6 X 20,BRACE,INDUCTION MANIFOLD (NLS.- USE YR00052080)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11588322)",
+    "desc": "NUT,HEX.,M6,BRACE,INDUCTION MANIFOLD (NLS.- USE YQ00108380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

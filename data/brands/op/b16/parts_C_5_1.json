@@ -1,0 +1,353 @@
+[
+  {
+    "call": "1",
+    "part": "(13432461)",
+    "desc": "GRILLE,AIR INLET (NLS.- USE 39019109)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1263,
+        "y": 116
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39019109)",
+    "desc": "GRILLE,AIR INLET (NLS.- USE 39126930)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13474152)",
+    "desc": "DEFLECTOR,WATER,LHD (NLS.- USE 39019107)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 210,
+        "y": 572
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39019107",
+    "desc": "DEFLECTOR,WATER,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13474153",
+    "desc": "DEFLECTOR,WATER,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13444618",
+    "desc": "INSULATOR,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1302,
+        "y": 654
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13444619",
+    "desc": "INSULATOR,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 122,
+        "y": 289
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13444616)",
+    "desc": "COVER,LHD (NLS.- USE 39019099)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 42,
+        "y": 1002
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39019099)",
+    "desc": "COVER,LHD (NLS.- USE 39094229)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39094229)",
+    "desc": "COVER,LHD (NLS.- USE 39120567)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39120567",
+    "desc": "COVER,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13396661",
+    "desc": "COVER,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39019102)",
+    "desc": "COVER,RHD (NLS.- USE 39094230)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39094230)",
+    "desc": "COVER,RHD (NLS.- USE 39120568)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13418795)",
+    "desc": "-PLUG (NLS.- USE 39019105)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1147,
+        "y": 868
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39019105",
+    "desc": "-PLUG",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "90184910",
+    "desc": "-INSULATOR",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1230,
+        "y": 1012
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11900378",
+    "desc": "-SCREW,TORX,M5 X 12",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1235,
+        "y": 917
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "SCREW,HEX.HD. (PLEASE REFER TO GROUP K) (SHORTCUT: B16.K401)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1451,
+        "y": 1169
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13418796)",
+    "desc": "PLUG (NLS.- USE 39019106)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1037,
+        "y": 667
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13473357",
+    "desc": "TUBE,LHD",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 421,
+        "y": 2174
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13421955)",
+    "desc": "TUBE,RHD (NLS.- USE 39041662)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 109,
+        "y": 2272
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39041662)",
+    "desc": "TUBE,RHD (NLS.- USE 39072453)",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39072453",
+    "desc": "TUBE,RHD",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13453211",
+    "desc": "VALVE,DRAIN,PLENUM,RH",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1294,
+        "y": 1556
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13453210",
+    "desc": "VALVE,DRAIN,PLENUM,LH",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

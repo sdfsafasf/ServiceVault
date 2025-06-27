@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "13363900",
+    "desc": "BLOCK,DAMPER,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11610904",
+    "desc": "SCREW,HEX.HD.,M12 X 45 (SINGLE USE PART)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11571149",
+    "desc": "SCREW,HEX.HD.,M12 X 55 (SINGLE USE PART)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13363920",
+    "desc": "BRACKET,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11546418",
+    "desc": "SCREW,HEX.HD.,M10 X 110 (SINGLE USE PART)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39070281",
+    "desc": "BLOCK,DAMPER,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11610904",
+    "desc": "SCREW,HEX.HD.,M12 X 45 (SINGLE USE PART)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11571149",
+    "desc": "SCREW,HEX.HD.,M12 X 55 (SINGLE USE PART)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11570514)",
+    "desc": "SCREW,HEX.HD.,M10 X 61 (NLS.- USE YR00306480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13364007",
+    "desc": "BRACKET,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "11610906",
+    "desc": "SCREW,HEX.HD.,M12 X 55 (SINGLE USE PART)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39002584",
+    "desc": "BLOCK,DAMPER,REAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(11610909)",
+    "desc": "SCREW,HEX.HD.,M12 X 71 (SINGLE USE PART) (NLS.- USE YR00051080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13364120",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(11589277)",
+    "desc": "SCREW,HEX.HD.,M12 X 66 (SINGLE USE PART) (NLS.- USE YR00055280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13364129",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11610909)",
+    "desc": "SCREW,HEX.HD.,M12 X 71 (SINGLE USE PART) (NLS.- USE YR00051080)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

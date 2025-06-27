@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "(55588898)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (EMISSION CODE NE4) (FOR M32 MANUAL TRANSMISSION,RPO MZ0/MGR) (EXCHANGE - REMAN PART 95521107) (NLS.- NO REPLACEMENT PART) (IDENT DPZ)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (NOT SERVICED) (EMISSION CODE NCV) (FOR M32 MANUAL TRANSMISSION,RPO MGR) (IDENT GJL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95521107",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

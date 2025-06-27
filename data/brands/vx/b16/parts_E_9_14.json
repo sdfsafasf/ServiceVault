@@ -1,0 +1,46 @@
+[
+  {
+    "call": "33",
+    "part": "55591055",
+    "desc": "SHACKLE,FRONT,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "55486211",
+    "desc": "SHACKLE,FRONT,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "35",
+    "part": "55486227",
+    "desc": "SHACKLE,REAR,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "(11588739)",
+    "desc": "SCREW,HEX.HD,ENGINE LIFTING HANGER TO CYLINDER HEAD,M10 X 35 (NLS.- USE YQ00689380)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

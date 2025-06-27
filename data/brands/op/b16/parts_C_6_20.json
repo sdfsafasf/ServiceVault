@@ -1,0 +1,34 @@
+[
+  {
+    "call": "10",
+    "part": "(13354566)",
+    "desc": "LABEL,WARNING,AIR CONDITIONING,FAN (EXCEPT RPO KRV,LOW GWP REFRIGERANT) (NLS.- USE YR00208180)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2164,
+        "y": 279
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13354567)",
+    "desc": "LABEL,WARNING,AIR CONDITIONING,FAN (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV) (NLS.- USE YR00208080)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2155,
+        "y": 615
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

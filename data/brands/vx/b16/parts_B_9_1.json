@@ -1,0 +1,334 @@
+[
+  {
+    "call": "1",
+    "part": "(13462006)",
+    "desc": "HANDLE,OUTER,FRONT DOOR,PRIMED (EXCEPT RPO ATH,KEYLESS ENTRY AND START SYSTEM) (NLS.- USE 13506795)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1353,
+        "y": 680
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13506795",
+    "desc": "HANDLE,OUTER,FRONT DOOR,PRIMED (EXCEPT RPO ATH/AVJ,KEYLESS ENTRY AND START SYSTEM)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39007167)",
+    "desc": "HANDLE,OUTER,FRONT DOOR,PRIMED,WITH PRIMED BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH) (NLS.- USE 13506790)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1344,
+        "y": 1153
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13506790)",
+    "desc": "HANDLE,OUTER,FRONT DOOR,PRIMED,WITH PRIMED BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH) (NLS.- USE 13531203)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13509605)",
+    "desc": "HANDLE,OUTER,FRONT DOOR,PRIMED,WITH CHROME BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH/AVJ) (NLS.- USE 13531200)",
+    "usage": "",
+    "range": "(C)      -K8068352\n(C)      -JG999999",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13531200",
+    "desc": "HANDLE,OUTER,FRONT DOOR,PRIMED,WITH CHROME BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH/AVJ)",
+    "usage": "",
+    "range": "(C)  K8068353-\n(C)  KG000001-",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13590084",
+    "desc": "SCREW (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH/AVJ)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1748,
+        "y": 1636
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39008804)",
+    "desc": "COVER,HANDLE,LHD,DRIVER SIDE,PRIMED (NLS.- USE 13598841)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1643,
+        "y": 538
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13598841",
+    "desc": "COVER,HANDLE,LHD,DRIVER SIDE,PRIMED",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39008802)",
+    "desc": "COVER,HANDLE,RHD,DRIVER SIDE,PRIMED (NLS.- USE 13598839)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13598839",
+    "desc": "COVER,HANDLE,RHD,DRIVER SIDE,PRIMED",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13462005)",
+    "desc": "COVER,HANDLE,PASSENGER SIDE,PRIMED (NLS.- USE 13597112)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13597112",
+    "desc": "COVER,HANDLE,PASSENGER SIDE,PRIMED",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506030)",
+    "desc": "BRACKET,OUTER HANDLE,RH-LHD (NLS.- USE 13515503)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 41,
+        "y": 1215
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506030)",
+    "desc": "BRACKET,OUTER HANDLE,RH-RHD (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (NLS.- USE 13515503)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515503",
+    "desc": "BRACKET,OUTER HANDLE,RH-LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515503",
+    "desc": "BRACKET,OUTER HANDLE,RH-RHD (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506034)",
+    "desc": "BRACKET,OUTER HANDLE,LH-RHD (NLS.- USE 13515507)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506034)",
+    "desc": "BRACKET,OUTER HANDLE,LH-LHD (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (NLS.- USE 13515507)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515507",
+    "desc": "BRACKET,OUTER HANDLE,LH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515507",
+    "desc": "BRACKET,OUTER HANDLE,LH-LHD (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506038)",
+    "desc": "BRACKET,OUTER HANDLE,LH-LHD (FOR THEFT DETERRENT SYSTEM,RPO UTT) (NLS.- USE 13515513)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515513",
+    "desc": "BRACKET,OUTER HANDLE,LH-LHD (FOR THEFT DETERRENT SYSTEM,RPO UTT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506039)",
+    "desc": "BRACKET,OUTER HANDLE,RH-RHD (FOR THEFT DETERRENT SYSTEM,RPO UTT) (NLS.- USE 13515502)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515502",
+    "desc": "BRACKET,OUTER HANDLE,RH-RHD (FOR THEFT DETERRENT SYSTEM,RPO UTT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11547361",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 255,
+        "y": 1164
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13596806)",
+    "desc": "INSULATOR,DOOR HANDLE (NLS.- USE YR00251180)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1743,
+        "y": 933
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,332 @@
+{
+  "sectionTitle": "Steering",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Power Steering",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Power Steering Schematics",
+              "url": "astra-k/4446247.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC C0176",
+              "url": "astra-k/3825979.pdf"
+            },
+            {
+              "title": "DTC C0460",
+              "url": "astra-k/3788533.pdf"
+            },
+            {
+              "title": "DTC C0475",
+              "url": "astra-k/3825988.pdf"
+            },
+            {
+              "title": "DTC C0545",
+              "url": "astra-k/3825994.pdf"
+            },
+            {
+              "title": "DTC C055C",
+              "url": "astra-k/3826051.pdf"
+            },
+            {
+              "title": "DTC C0569",
+              "url": "astra-k/3713422.pdf"
+            },
+            {
+              "title": "DTC C056D (Power Steering Control Module)",
+              "url": "astra-k/4200155.pdf"
+            },
+            {
+              "title": "DTC C056E",
+              "url": "astra-k/4088578.pdf"
+            },
+            {
+              "title": "Symptoms - Power Steering System",
+              "url": "astra-k/2661517.pdf"
+            },
+            {
+              "title": "Rattle, Clunk, Pop or Shudder Noise from the Power Steering System",
+              "url": "astra-k/3713937.pdf"
+            },
+            {
+              "title": "Whine or Growl Noise from the Power Steering System",
+              "url": "astra-k/3713938.pdf"
+            },
+            {
+              "title": "Increase in Effort While Turning Steering Wheel",
+              "url": "astra-k/3713954.pdf"
+            },
+            {
+              "title": "Poor Return of Steering Wheel",
+              "url": "astra-k/2151782.pdf"
+            },
+            {
+              "title": "Steering Wheel Surges/Jerks While Turning",
+              "url": "astra-k/3713978.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Wire to Wire Repair - Steering",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - Steering",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Steering Linkage Outer Tie Rod Replacement",
+              "url": "astra-k/3682252.pdf"
+            },
+            {
+              "title": "Steering Linkage Outer Tie Rod Replacement",
+              "url": "astra-k/3682252.pdf"
+            },
+            {
+              "title": "Steering Gear Boot Replacement",
+              "url": "astra-k/2167768.pdf"
+            },
+            {
+              "title": "Steering Gear Heat Shield Replacement",
+              "url": "astra-k/4228628.pdf"
+            },
+            {
+              "title": "Electric Belt Drive Rack and Pinion Steering Gear Replacement",
+              "url": "astra-k/4223951.pdf"
+            },
+            {
+              "title": "Steering Linkage Inner Tie Rod Replacement",
+              "url": "astra-k/3787892.pdf"
+            },
+            {
+              "title": "Power Steering Control Module Calibration",
+              "url": "astra-k/4335808.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Power Steering System Description and Operation (Belt Drive Electronic Power Steering)",
+              "url": "Document.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Steering Wheel and Column",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Temperature Versus Resistance - Steering Wheel Heater Temperature Sensor",
+              "url": "astra-k/4775200.pdf"
+            },
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/ Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Steering Wheel Schematics",
+              "url": "astra-k/4446249.pdf"
+            },
+            {
+              "title": "Column Lock Schematics",
+              "url": "astra-k/4446251.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B1023",
+              "url": "astra-k/2243254.pdf"
+            },
+            {
+              "title": "DTC B144C",
+              "url": "astra-k/2397741.pdf"
+            },
+            {
+              "title": "DTC B2515",
+              "url": "astra-k/2243304.pdf"
+            },
+            {
+              "title": "DTC B2897",
+              "url": "astra-k/2243301.pdf"
+            },
+            {
+              "title": "DTC B2910",
+              "url": "astra-k/2243170.pdf"
+            },
+            {
+              "title": "DTC B305A",
+              "url": "astra-k/2243271.pdf"
+            },
+            {
+              "title": "Symptoms - Steering Wheel and Column",
+              "url": "astra-k/2171343.pdf"
+            },
+            {
+              "title": "Heated Steering Wheel Indicator Malfunction",
+              "url": "astra-k/4195295.pdf"
+            },
+            {
+              "title": "Heated Steering Wheel Malfunction",
+              "url": "astra-k/4195294.pdf"
+            },
+            {
+              "title": "High Telescoping Effort",
+              "url": "astra-k/2164177.pdf"
+            },
+            {
+              "title": "High Effort While Tilting Column",
+              "url": "astra-k/2164179.pdf"
+            },
+            {
+              "title": "Noise in Steering Column",
+              "url": "astra-k/3714048.pdf"
+            },
+            {
+              "title": "Looseness in Steering Column",
+              "url": "astra-k/2164174.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Wire to Wire Repair - Steering",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - Steering",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Intermediate Steering Shaft Replacement",
+              "url": "astra-k/4228760.pdf"
+            },
+            {
+              "title": "Steering Column Accident Damage Inspection",
+              "url": "astra-k/5845484.pdf"
+            },
+            {
+              "title": "Steering Column Upper Trim Cover Replacement",
+              "url": "astra-k/4276245.pdf"
+            },
+            {
+              "title": "Steering Column Lower Trim Cover Replacement",
+              "url": "astra-k/3701837.pdf"
+            },
+            {
+              "title": "Column Lock Module Replacement",
+              "url": "astra-k/4328962.pdf"
+            },
+            {
+              "title": "Turn Signal Switch Replacement",
+              "url": "astra-k/3716447.pdf"
+            },
+            {
+              "title": "Turn Signal Switch Bracket Replacement",
+              "url": "astra-k/4223950.pdf"
+            },
+            {
+              "title": "Steering Wheel Pad Accessory Wiring Harness Replacement",
+              "url": "astra-k/4228629.pdf"
+            },
+            {
+              "title": "Steering Wheel Replacement",
+              "url": "astra-k/3708721.pdf"
+            },
+            {
+              "title": "Steering Wheel Switch Opening Cover Replacement",
+              "url": "astra-k/4228635.pdf"
+            },
+            {
+              "title": "Steering Wheel Spoke Lower Cover Replacement",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Steering Column Replacement",
+              "url": "astra-k/4228758.pdf"
+            },
+            {
+              "title": "Steering Column Dash Inner Seal Replacement",
+              "url": "astra-k/3683216.pdf"
+            },
+            {
+              "title": "Steering Column Dash Outer Seal Replacement",
+              "url": "astra-k/4228633.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Steering Wheel and Column Description and Operation",
+              "url": "astra-k/2321204.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "call": "2",
+    "part": "39018032",
+    "desc": "PANEL,ASSY.,REAR END,LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39022735)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39157663)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13502347)",
+    "desc": "VENT,AIR,REAR END PANEL (NLS.- USE 13597326 18 14 232)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13588034)",
+    "desc": "VENTILATOR (NLS.- USE YR00206280)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(90242083)",
+    "desc": "PLUG,18.5MM DIA. (NLS.- USE YQ00162680)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "42503111",
+    "desc": "BRACKET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

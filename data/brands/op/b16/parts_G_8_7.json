@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "(39163253)",
+    "desc": "CONVERTER,ASSY.,CATALYTIC,WITH EXHAUST PIPE (NLS.- USE 39239555)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39163249",
+    "desc": "SILENCER,ASSY.",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39163250",
+    "desc": "SILENCER,ASSY.",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13278370",
+    "desc": "CLAMP,60MM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13453329",
+    "desc": "RING,DAMPER,EXHAUST PIPE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13276148",
+    "desc": "RING,DAMPER,EXHAUST PIPE SUSPENSION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39112907",
+    "desc": "INSULATOR,SILENCER MOUNTING",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39107025",
+    "desc": "INSULATOR,SILENCER MOUNTING",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11546438",
+    "desc": "NUT,HEX.",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39131360",
+    "desc": "SHIELD,HEAT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13245749)",
+    "desc": "RETAINER,HEAT SHIELD (NLS.- USE YR00086280)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "24465252",
+    "desc": "RETAINER,HEAT SHIELD",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

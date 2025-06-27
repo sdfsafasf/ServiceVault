@@ -1,0 +1,112 @@
+[
+  {
+    "call": "3",
+    "part": "(42392206)",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO) (NLS.- USE 42450330) (IDENT AFPN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8095570\n(C)      -GG143637",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "42450330",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO) (IDENT AFPN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8095571-G8999999\n(C)  GG143638-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(42518885)",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO) (NLS.- USE 42555131) (IDENT AGXL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "42555131",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO) (IDENT AHK8)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "42612717",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO) (IDENT AJR8)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(42392204)",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q) (NLS.- USE 42450331) (IDENT AFPL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8097504\n(C)      -GG143637",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "42450331",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q) (IDENT AFPL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8097505-G8999999\n(C)  GG143638-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(42518886)",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q) (NLS.- USE 42555132) (IDENT AGXM)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "42555132",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q) (IDENT AHK9)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "42612718",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q) (IDENT AJR9)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

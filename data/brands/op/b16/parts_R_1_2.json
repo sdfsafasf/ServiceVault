@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "(39134432)",
+    "desc": "HARNESS ASSY.,CNG CYLINDER VALVE (NLS.- USE 39179529)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13201607",
+    "desc": "-STRAP,RETAINING",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12663006",
+    "desc": "CONTROL MODULE,DUAL FUEL - CNG (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39129469",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

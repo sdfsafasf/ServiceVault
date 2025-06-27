@@ -1,0 +1,344 @@
+[
+  {
+    "call": "1",
+    "part": "(39010376)",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (NLS.- USE 39131675)",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 689,
+        "y": 1521
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39131675",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13356644",
+    "desc": "-STUD,M8,REFRIGERANT PIPE TO CONDENSER",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1058,
+        "y": 1946
+      },
+      {
+          "x": 91, "y": 495
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13356644",
+    "desc": "-STUD,M8,REFRIGERANT PIPE TO CONDENSER",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE],B16SHT[LWC],D16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],B16DTR[LVK],B16DTU[LWV],D16DTI[LXO],D16DTR[LVK],D16DTN[LVL]",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39139805",
+    "desc": "-STUD,M8,REFRIGERANT PIPE TO CONDENSER",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "13465911",
+    "desc": "-SET,DESICCANT INSERT,DEHYDRATOR TANK",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 701,
+        "y": 1161
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13278013",
+    "desc": "--CAP,RESERVOIR,CONDENSER DEHYDRATOR",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 903,
+        "y": 1262
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13278014",
+    "desc": "---SEAL,CAP",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1031,
+        "y": 1228
+      },
+      {
+        "x": 1031,
+        "y": 1280
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13475956)",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (FOR MANUAL TRANSMISSION,RPO MM3) (NLS.- USE 39011385)",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 845,
+        "y": 2211
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39011385)",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (FOR MANUAL TRANSMISSION,RPO MM3) (NLS.- USE 39131676)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39131676",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (FOR MANUAL TRANSMISSION,RPO MM3)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "1680000980",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (FOR MANUAL TRANSMISSION,RPO MM3) (EUROREPAR)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39011385)",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (FOR AUTOMATIC TRANSMISSION,RPO MM1) (NLS.- USE 39131676)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39131676",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (FOR AUTOMATIC TRANSMISSION,RPO MM1)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "1680000980",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (FOR AUTOMATIC TRANSMISSION,RPO MM1) (EUROREPAR)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39011385)",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (NLS.- USE 39131676)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39131676",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "1680000980",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (EUROREPAR)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39131676",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "1680000980",
+    "desc": "CONDENSER,ASSY.,AIR CONDITIONING (EUROREPAR)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7X",
+    "part": "13465910",
+    "desc": "-SET,DESICCANT INSERT,DEHYDRATOR TANK",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE],B16SHT[LWC],D16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],B16DTR[LVK],B16DTU[LWV],D16DTI[LXO],D16DTR[LVK],D16DTN[LVL]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1666,
+        "y": 1100
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7X",
+    "part": "13465910",
+    "desc": "-SET,DESICCANT INSERT,DEHYDRATOR TANK",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13378468",
+    "desc": "--CAP,RESERVOIR,CONDENSER DEHYDRATOR",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE],B16SHT[LWC],D16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],B16DTR[LVK],B16DTU[LWV],D16DTI[LXO],D16DTR[LVK],D16DTN[LVL]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1865,
+        "y": 1002
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13378468",
+    "desc": "--CAP,RESERVOIR,CONDENSER DEHYDRATOR",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13378471",
+    "desc": "---SEAL,CAP",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE],B16SHT[LWC],D16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],B16DTR[LVK],B16DTU[LWV],D16DTI[LXO],D16DTR[LVK],D16DTN[LVL]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2011,
+        "y": 1005
+      },
+      {
+        "x": 2005,
+        "y": 1060
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13378471",
+    "desc": "---SEAL,CAP",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

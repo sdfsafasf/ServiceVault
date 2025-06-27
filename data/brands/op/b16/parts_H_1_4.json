@@ -1,0 +1,90 @@
+[
+  {
+    "call": "1",
+    "part": "24579293",
+    "desc": "GEAR,CLUSTER,INPUT SHAFT,37/31/25/11 TEETH (CLUTCH SIDE 22 SPLINES) (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24579702",
+    "desc": "GEAR,CLUSTER,INPUT SHAFT,37/31/22/11 TEETH (CLUTCH SIDE 22 SPLINES) (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24466959",
+    "desc": "BEARING,25 X 60 X 17MM,CLUSTER GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24466960",
+    "desc": "RING,SNAP,BEARING TO EXTENSION CASE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55350126",
+    "desc": "GEAR,FIFTH SPEED,TRANSMISSION CLUSTER GEAR,41 TEETH (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55350128",
+    "desc": "GEAR,FIFTH SPEED,TRANSMISSION CLUSTER GEAR,43 TEETH (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "90086806",
+    "desc": "RING,SNAP,25 X 2 MM,BEARING TO CLUSTER GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "90086158",
+    "desc": "BEARING,NEEDLE,MAINDRIVE PINION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

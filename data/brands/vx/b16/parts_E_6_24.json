@@ -1,0 +1,35 @@
+[
+  {
+    "call": "19X",
+    "part": "12663172",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (STD.)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20X",
+    "part": "12698277",
+    "desc": "-RING SET,PISTON,STD.",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "12639680",
+    "desc": "-RING,SNAP",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

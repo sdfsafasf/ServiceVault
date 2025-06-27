@@ -1,0 +1,86 @@
+[
+  {
+    "code": "1",
+    "name": "AERIAL"
+  },
+  {
+    "code": "2",
+    "name": "AMPLIFIER"
+  },
+  {
+    "code": "3",
+    "name": "CAR TELEPHONE MICROPHONE"
+  },
+  {
+    "code": "4",
+    "name": "COMPACT DISC PLAYER"
+  },
+  {
+    "code": "5",
+    "name": "DISPLAY UNIT"
+  },
+  {
+    "code": "6",
+    "name": "HMI MODULE (FOR NAVIGATION SYSTEM)"
+  },
+  {
+    "code": "7",
+    "name": "LOUDSPEAKERS"
+  },
+  {
+    "code": "8",
+    "name": "ONSTAR (FOR ON-STAR COMMUNICATION SYSTEM,RPO UE1)"
+  },
+  {
+    "code": "9",
+    "name": "OPEL/VAUXHALL ECALL (FOR EMERGENCY CALL COMMUNICATION SYSTEM,RPO UER)"
+  },
+  {
+    "code": "10",
+    "name": "PORTABLE DEVICE INTERFACE MODULE"
+  },
+  {
+    "code": "11",
+    "name": "RADIO AUXILIARY CONNECTOR"
+  },
+  {
+    "code": "12",
+    "name": "RADIO CONTROLS (INSTRUMENT PANEL)"
+  },
+  {
+    "code": "13",
+    "name": "RADIO CONTROLS (STEERING WHEEL)"
+  },
+  {
+    "code": "14",
+    "name": "RADIO FITTINGS"
+  },
+  {
+    "code": "15",
+    "name": "RADIOS (FOR RF900 NAVI INTELLILINK SYSTEM,RPO IO6)"
+  },
+  {
+    "code": "16",
+    "name": "RADIOS (FOR RF700 TOUCH INTELLILINK SYSTEM,RPO IO5)"
+  },
+  {
+    "code": "17",
+    "name": "RADIOS (FOR R4.0 INTELLILINK SYSTEM,RPO IOB)"
+  },
+  {
+    "code": "18",
+    "name": "RADIOS (FOR R300BT RADIO,RPO IP1)"
+  },
+  {
+    "code": "19",
+    "name": "RADIOS (FOR RADIO INFOTAINMENT SYSTEM,RPO IOR)"
+  },
+  {
+    "code": "20",
+    "name": "RADIOS (FOR RADIO INFOTAINMENT SYSTEM,RPO IOU)"
+  },
+  {
+    "code": "21",
+    "name": "RADIOS (SD CARD)"
+  }
+]

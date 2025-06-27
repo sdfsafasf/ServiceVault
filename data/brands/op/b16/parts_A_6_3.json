@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "(39037559)",
+    "desc": "SHELL,TAIL GATE (NLS.- USE 39047564)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39047564",
+    "desc": "SHELL,TAIL GATE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "call": "9",
+    "part": "13406210",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,INNER,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 59,
+        "y": 643
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13406209",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,INNER,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13406214)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39023046)",
+    "usage": "",
+    "range": "(C)      -G8015092\n(C)      -GG000580",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1041,
+        "y": 118
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39023046)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39042817)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39042817)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39102977)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39102977)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39133181)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39133181)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 42707837)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13406213",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,LH",
+    "usage": "",
+    "range": "(C)      -G8015092\n(C)      -GG000580",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39023045)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 39042816)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39042816)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 39102976)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39102976)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 39133180)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39133180)",
+    "desc": "WEATHERSTRIP,REAR DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 42707836)",
+    "usage": "",
+    "range": "(C)  G8015093-\n(C)  GG000581-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

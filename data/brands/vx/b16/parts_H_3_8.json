@@ -1,0 +1,167 @@
+[
+  {
+    "call": "1",
+    "part": "(11099271)",
+    "desc": "PLUG,SCREW,M18 X 1,5,TRANSMISSION CASE OIL FILLER,WITH SEAL (NLS.- USE 1696253880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "93190368",
+    "desc": "PLUG,SCREW,M18 X 1.5,TRANSMISSION CASE OIL DRAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11900017",
+    "desc": "SCREW,TORX,M8 X 40,CASE,TRANSMISSION",
+    "qty": "15",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55557445",
+    "desc": "SCREW,TORX,M8 X 30,CLUTCH CASE TO TRANSMISSION CASE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55567563",
+    "desc": "MAGNET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55563951",
+    "desc": "MAGNET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(55590819)",
+    "desc": "CASE,TRANSMISSION (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(55590980)",
+    "desc": "HOUSING,ASSY.,CLUTCH (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(55494809)",
+    "desc": "HOUSING,ASSY.,CLUTCH (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55595591",
+    "desc": "PLUG,BLANKING,M12,REVERSE LAMP SWITCH (FOR M32 MANUAL TRANSMISSION,RPO MZ0/MZ4) (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55599495",
+    "desc": "SLEEVE,CENTERING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "11900018",
+    "desc": "SCREW,TORX,M8 X 45,COVER,DIFFERENTIAL",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11900046",
+    "desc": "SCREW,TORX,M12 X 75,COVER,DIFFERENTIAL",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,CASE,TRANSMISSION (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

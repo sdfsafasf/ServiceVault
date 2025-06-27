@@ -1,0 +1,24 @@
+[
+  {
+    "call": "3",
+    "part": "(55588330)",
+    "desc": "MOTOR,ASSY.,SHORT (ALSO USE 2X 55571574) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55571574",
+    "desc": "DEFLECTOR,CYLINDER BLOCK,COOLING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

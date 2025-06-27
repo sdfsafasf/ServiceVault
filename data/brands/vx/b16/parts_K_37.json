@@ -1,0 +1,46 @@
+[
+  {
+    "call": "8",
+    "part": "(39000056)",
+    "desc": "KNUCKLE,STEERING,RH (NLS.- USE 39030300)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8049180\n(C)      -GG066126",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39030300",
+    "desc": "KNUCKLE,STEERING,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8049181-\n(C)  GG066127-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39000055)",
+    "desc": "KNUCKLE,STEERING,LH (NLS.- USE 39030299)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8049180\n(C)      -GG066126",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39030299",
+    "desc": "KNUCKLE,STEERING,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8049181-\n(C)  GG066127-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

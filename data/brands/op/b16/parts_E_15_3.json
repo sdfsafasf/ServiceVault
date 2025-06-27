@@ -1,0 +1,112 @@
+[
+  {
+    "call": "1X",
+    "part": "95528712",
+    "desc": "REPAIR KIT,CLUTCH SLAVE CYLINDER (BEFORE ORDERING PLEASE CHECK IF VEHICLE IS INCLUDED IN CAMPAIGN 18-C-120)",
+    "qty": "1",
+    "usage": "Note : PLEASE REFER TO TECHNICAL SERVICE BULLETIN 3286",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-CYLINDER,ASSY.,CLUTCH SLAVE (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55565331",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "1666661080",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-PIPE,ASSY.,CLUTCH SLAVE CYLINDER (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24428856",
+    "desc": "PIPE,ASSY.,CLUTCH SLAVE CYLINDER",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-ELBOW (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "",
+    "desc": "-SLEEVE,CLUTCH OPERATING PIPE (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "93185027",
+    "desc": "SCREW,TORX,M6 X 22,CLUTCH SLAVE CYLINDER TO TRANSMISSION",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

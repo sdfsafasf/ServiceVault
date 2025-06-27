@@ -1,0 +1,357 @@
+{
+  "sectionTitle": "Diagnostic Overview, Starting Point, and Programming",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Programming and Setup",
+      "nestedSections": [
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Control Module References",
+              "url": "astra-k/4527995.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "K20 Engine Control Module: Programming and Setup",
+              "url": "astra-k/2208631.pdf"
+            },
+            {
+              "title": "Active Safety Control Module Programming and Setup",
+              "url": "astra-k/2913641.pdf"
+            },
+            {
+              "title": "Body Control Module Programming and Setup",
+              "url": "astra-k/2173651.pdf"
+            },
+            {
+              "title": "Control Solenoid Valve and Transmission Control Module Assembly Programming and Setup (6T30/6T40/6T45/6T50)",
+              "url": "astra-k/2345666.pdf"
+            },
+            {
+              "title": "K22 Cooling Fan Control Module: Programming and Setup",
+              "url": "astra-k/4310565.pdf"
+            },
+            {
+              "title": "Electronic Brake Control Module Programming and Setup",
+              "url": "astra-k/3278072.pdf"
+            },
+            {
+              "title": "Front View Camera Module Programming and Setup",
+              "url": "astra-k/2792213.pdf"
+            },
+            {
+              "title": "Headlamp Control Module Programming and Setup",
+              "url": "astra-k/3953972.pdf"
+            },
+            {
+              "title": "Headlamp High Beam Control Module Programming and Setup",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Headlamp Low Beam Control Module Programming and Setup",
+              "url": "astra-k/4419446.pdf"
+            },
+            {
+              "title": "Headlamp Leveling Control Module Programming and Setup",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Seat Heating Control Module Programming and Setup",
+              "url": "astra-k/1576108.pdf"
+            },
+            {
+              "title": "Human Machine Interface Control Module Programming and Setup",
+              "url": "astra-k/2842009.pdf"
+            },
+            {
+              "title": "HVAC Control Module Programming and Setup",
+              "url": "astra-k/4518392.pdf"
+            },
+            {
+              "title": "HVAC Controls Programming and Setup",
+              "url": "astra-k/4317922.pdf"
+            },
+            {
+              "title": "Immobilizer Control Module Programming and Setup",
+              "url": "astra-k/2644700.pdf"
+            },
+            {
+              "title": "Inflatable Restraint Sensing and Diagnostic Module Programming and Setup",
+              "url": "astra-k/2326663.pdf"
+            },
+            {
+              "title": "Inside Rearview Mirror Programming and Setup",
+              "url": "astra-k/2173271.pdf"
+            },
+            {
+              "title": "Instrument Cluster Programming and Setup",
+              "url": "astra-k/2891115.pdf"
+            },
+            {
+              "title": "Keyless Entry Control Module Programming and Setup",
+              "url": "astra-k/2174490.pdf"
+            },
+            {
+              "title": "Liftgate Control Module Programming and Setup",
+              "url": "astra-k/2338317.pdf"
+            },
+            {
+              "title": "Liftgate Handsfree Sensor Module Programming and Setup",
+              "url": "astra-k/3635815.pdf"
+            },
+            {
+              "title": "Multifunction LED Control Module Programming and Setup",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Parking Assist Control Module Programming and Setup",
+              "url": "astra-k/4409809.pdf"
+            },
+            {
+              "title": "Passenger Presence System Programming and Setup",
+              "url": "astra-k/2245041.pdf"
+            },
+            {
+              "title": "Power Steering Control Module Programming and Setup",
+              "url": "astra-k/3826086.pdf"
+            },
+            {
+              "title": "Radio Control Programming and Setup",
+              "url": "astra-k/3457812.pdf"
+            },
+            {
+              "title": "Radio Programming and Setup (IOB)",
+              "url": "astra-k/4590563.pdf"
+            },
+            {
+              "title": "Radio Programming and Setup (without IOB)",
+              "url": "astra-k/2902437.pdf"
+            },
+            {
+              "title": "Rear Seat Heater Control Module Programming and Setup",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Remote Control Door Lock Receiver Programming and Setup",
+              "url": "astra-k/2238155.pdf"
+            },
+            {
+              "title": "Seat Memory Control Module Programming and Setup",
+              "url": "astra-k/3457060.pdf"
+            },
+            {
+              "title": "Serial Data Gateway Module Programming and Setup",
+              "url": "astra-k/4244410.pdf"
+            },
+            {
+              "title": "Service Programming System (SPS)",
+              "url": "astra-k/2223856.pdf"
+            },
+            {
+              "title": "Steering Column Lock Module Programming and Setup",
+              "url": "astra-k/2637512.pdf"
+            },
+            {
+              "title": "Steering Wheel Heat Control Module Programming and Setup",
+              "url": "astra-k/2287273.pdf"
+            },
+            {
+              "title": "Sunroof Control Module Programming and Setup (New Motor)",
+              "url": "astra-k/2673090.pdf"
+            },
+            {
+              "title": "Sunroof Control Module Programming and Setup (Existing Motor)",
+              "url": "astra-k/2673091.pdf"
+            },
+            {
+              "title": "Telematics Communication Interface Control Module Programming and Setup",
+              "url": "astra-k/4288931.pdf"
+            },
+            {
+              "title": "Trailer Lamp Control Module Programming and Setup",
+              "url": "astra-k/2173255.pdf"
+            },
+            {
+              "title": "Transmission Control Module Programming and Setup",
+              "url": "astra-k/4004626.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vehicle Diagnostic Information",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "K20 Engine Control Module: Scan Tool Information",
+              "url": "astra-k/2595827.pdf"
+            },
+            {
+              "title": "Active Safety Control Module Scan Tool Information",
+              "url": "astra-k/2914808.pdf"
+            },
+            {
+              "title": "Body Control Module Scan Tool Information",
+              "url": "astra-k/2173537.pdf"
+            },
+            {
+              "title": "Seat Memory Control Module Scan Tool Information",
+              "url": "astra-k/2173156.pdf"
+            },
+            {
+              "title": "Electronic Brake Control Module Scan Tool Information",
+              "url": "astra-k/2180615.pdf"
+            },
+            {
+              "title": "Front View Camera Module Scan Tool Information (without Active Safety Control System, UGN)",
+              "url": "astra-k/2692204.pdf"
+            },
+            {
+              "title": "Front View Camera Module Scan Tool Information (with Active Safety Control System, UGN)",
+              "url": "astra-k/3611740.pdf"
+            },
+            {
+              "title": "K111 Fuel Pump Power Control Module Scan Tool Information",
+              "url": "astra-k/3611075.pdf"
+            },
+            {
+              "title": "Heating, Ventilation and Air Conditioning Control Module Scan Tool Information",
+              "url": "astra-k/4329517.pdf"
+            },
+            {
+              "title": "Heating, Ventilation, and Air Conditioning Controls Scan Tool Information",
+              "url": "astra-k/4318138.pdf"
+            },
+            {
+              "title": "Human Machine Interface Control Module Scan Tool Information",
+              "url": "astra-k/2899251.pdf"
+            },
+            {
+              "title": "Inflatable Restraint Passenger Presence System Scan Tool Information",
+              "url": "astra-k/2229329.pdf"
+            },
+            {
+              "title": "Inflatable Restraint Sensing and Diagnostic Module Scan Tool Information",
+              "url": "astra-k/2177183.pdf"
+            },
+            {
+              "title": "Instrument Cluster Scan Tool Information",
+              "url": "astra-k/2239314.pdf"
+            },
+            {
+              "title": "Liftgate Control Module Scan Tool Information",
+              "url": "astra-k/3629252.pdf"
+            },
+            {
+              "title": "Parking Assist Control Module Scan Tool Information",
+              "url": "astra-k/4388233.pdf"
+            },
+            {
+              "title": "Power Steering Control Module Scan Tool Information",
+              "url": "astra-k/4088775.pdf"
+            },
+            {
+              "title": "Radio Scan Tool Information (IOB/ IP1)",
+              "url": "astra-k/4183922.pdf"
+            },
+            {
+              "title": "Radio Scan Tool Information (IO5/IO6)",
+              "url": "astra-k/2888453.pdf"
+            },
+            {
+              "title": "Steering Column Lock Module Scan Tool Information",
+              "url": "astra-k/2381782.pdf"
+            },
+            {
+              "title": "Telematics Communication Interface Control Module Scan Tool Information",
+              "url": "astra-k/3947744.pdf"
+            },
+            {
+              "title": "Transmission Control Module Scan Tool Information (6T30 - MH9, 6T40 - MH8, or 6T45 - MH7)",
+              "url": "astra-k/2715471.pdf"
+            },
+            {
+              "title": "Transmission Control Module Scan Tool Information (MJA)",
+              "url": "astra-k/4004555.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Strategy Based Diagnosis",
+              "url": "astra-k/1957622.pdf"
+            },
+            {
+              "title": "Diagnostic Procedure Instructions",
+              "url": "astra-k/1814794.pdf"
+            },
+            {
+              "title": "Diagnostic System Check Instructions",
+              "url": "astra-k/2154926.pdf"
+            },
+            {
+              "title": "Diagnostic Starting Point - Vehicle",
+              "url": "astra-k/2218158.pdf"
+            },
+            {
+              "title": "Diagnostic System Check - Vehicle",
+              "url": "astra-k/2910613.pdf"
+            },
+            {
+              "title": "Powertrain Diagnostic Trouble Code (DTC) Type Definitions",
+              "url": "astra-k/2223447.pdf"
+            },
+            {
+              "title": "Diagnostic Trouble Code (DTC) List - Vehicle",
+              "url": "astra-k/4528464.pdf"
+            },
+            {
+              "title": "Symptom Byte List",
+              "url": "astra-k/2686313.pdf"
+            },
+            {
+              "title": "Symptoms - Vehicle",
+              "url": "astra-k/4527953.pdf"
+            },
+            {
+              "title": "Engine Does Not Crank",
+              "url": "astra-k/2181902.pdf"
+            },
+            {
+              "title": "Engine Cranks But Does Not Run",
+              "url": "astra-k/4527935.pdf"
+            },
+            {
+              "title": "Inspection/Maintenance System Check",
+              "url": "astra-k/2174665.pdf"
+            },
+            {
+              "title": "Diagnostic Repair Verification",
+              "url": "astra-k/1556771.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

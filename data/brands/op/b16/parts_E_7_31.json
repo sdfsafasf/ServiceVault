@@ -1,0 +1,200 @@
+[
+  {
+    "call": "1X",
+    "part": "95528473",
+    "desc": "KIT,TIMING CHAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55569245",
+    "desc": "-SPROCKET,CRANKSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55569250",
+    "desc": "-CHAIN,TIMING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(55569249)",
+    "desc": "-TENSIONER,TIMING CHAIN (NLS.- USE 55500814)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55500814",
+    "desc": "-TENSIONER,TIMING CHAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(11588714)",
+    "desc": "-SCREW,HEX.HD.,M6 X 30 (NLS.- USE YR00047880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55569247",
+    "desc": "-RAIL,GUIDE,TIMING CHAIN,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55578703",
+    "desc": "--SCREW,HEX.HD.,M6 X 38",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55569246",
+    "desc": "-RAIL,GUIDE,TIMING CHAIN,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55573061",
+    "desc": "-PIN,TIMING CHAIN,GUIDE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55569248",
+    "desc": "-RAIL,GUIDE,TIMING CHAIN,UPPER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55577599",
+    "desc": "--SCREW,HEX.HD.,M6 X 30",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "90573487",
+    "desc": "-SLEEVE,TIMING CHAIN GUIDE RAIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55598573",
+    "desc": "-SPROCKET,CAMSHAFT,WITH ACTUATOR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55579607",
+    "desc": "-SCREW,HEX.HD.,M10 X 80",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55577913",
+    "desc": "-SCREW,HEX.HD.,M16 X 80,CRANKSHAFT PULLEY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55599164",
+    "desc": "VALVE,SOLENOID,CAMSHAFT POSITION",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "11588713",
+    "desc": "SCREW,HEX.HD.,M6 X 25",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

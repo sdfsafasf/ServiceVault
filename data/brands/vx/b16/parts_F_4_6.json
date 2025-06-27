@@ -1,0 +1,68 @@
+[
+  {
+    "call": "23",
+    "part": "(12672523)",
+    "desc": "CONNECTOR (NLS.- USE 12638710 13 38 488)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(12638710)",
+    "desc": "CONNECTOR (NLS.- USE 12707589)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(12627061)",
+    "desc": "-GASKET (NLS.- USE 12664202)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "11611106",
+    "desc": "-SCREW,HEX.HD.,M6 X 34",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "",
+    "desc": "-SENSOR,COOLANT TEMPERATURE (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P15)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "",
+    "desc": "-RETAINER (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P15)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

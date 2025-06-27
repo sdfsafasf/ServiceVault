@@ -1,0 +1,112 @@
+[
+  {
+    "call": "0",
+    "part": "",
+    "desc": "CLUTCH SLAVE CYLINDER",
+    "qty": "",
+    "usage": "NOTE: PLEASE ENSURE THAT THE TRANSMISSION IDENTIFICATION MATCHES EXACTLY BEFORE ORDERING - PLEASE REFER TO THE FOREWORD PAGE 'TRANSMISSION NUMBER IDENTIFICATION'.",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55597066",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE (MANUFACTURED BY LUK) (NOT SERVICED - USE KIT 55508965)",
+    "qty": "1",
+    "usage": "DIESEL ENGINES\n(T)      -A84881491",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55597066",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE,MANUFACTURED BY FTE",
+    "qty": "1",
+    "usage": "DIESEL ENGINES\n(T)  A84881492-\nNote : PLEASE REFER TO TECHNICAL SERVICE BULLETIN 3286",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55495509",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-SEAL (MANUFACTURED BY LUK) (NOT SERVICED - USE KIT 55508965)",
+    "qty": "1",
+    "usage": "DIESEL ENGINES\n(T)      -A84881491",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "9200965",
+    "desc": "-CAP,SEALING,CLUTCH SLAVE CYLINDER PIPE (MANUFACTURED BY FTE)",
+    "qty": "1",
+    "usage": "DIESEL ENGINES\n(T)  A84881492-\nNote : PLEASE REFER TO TECHNICAL SERVICE BULLETIN 3286",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11098452",
+    "desc": "SCREW,TORX,M6 X 22,CLUTCH SLAVE CYLINDER TO TRANSMISSION",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "55508965",
+    "desc": "REPAIR KIT,CLUTCH SLAVE CYLINDER (MANUFACTURED BY FTE) (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (BEFORE ORDERING PLEASE CHECK IF VEHICLE IS INCLUDED IN CAMPAIGN 18-C-120)",
+    "qty": "1",
+    "usage": "DIESEL ENGINES\n(T)      -A84881491",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

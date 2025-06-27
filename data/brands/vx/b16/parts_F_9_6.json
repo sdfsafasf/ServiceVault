@@ -1,0 +1,46 @@
+[
+  {
+    "call": "19",
+    "part": "(55591996)",
+    "desc": "CONNECTOR,WATER OUTLET,CYLINDER BLOCK (NLS.- USE 55512657)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "55574006",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11588724)",
+    "desc": "-SCREW,HEX.HD.,M8 X 30 (NLS.- USE YR00052980)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "11588327",
+    "desc": "-SLEEVE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

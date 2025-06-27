@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1X",
+    "part": "24266041",
+    "desc": "KIT,CLUTCH (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA) (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "55593662",
+    "desc": "KIT,CLUTCH (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA) (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55494588",
+    "desc": "DISC,ASSY.,CLUTCH (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55494700",
+    "desc": "COVER,CLUTCH (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11570368",
+    "desc": "SCREW,HEX.HD.,M8 X 15",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(90397024)",
+    "desc": "GREASE,LUBRICATING ,MICROLUBE GNY 202,200GRAMS,MAINDRIVE PINION SPLINES (NLS.- USE 95599784) (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

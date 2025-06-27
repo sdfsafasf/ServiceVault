@@ -1,0 +1,46 @@
+[
+  {
+    "call": "X",
+    "part": "",
+    "desc": "PLEASE REFER TO GROUP C (SHORTCUT: B16.C100)",
+    "qty": "AR",
+    "usage": "MANUAL TRANSMISSION,LHD",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "PLEASE REFER TO GROUP C (SHORTCUT: B16.C101)",
+    "qty": "AR",
+    "usage": "MANUAL TRANSMISSION,RHD",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "PLEASE REFER TO GROUP C (SHORTCUT: B16.C102)",
+    "qty": "AR",
+    "usage": "AUTOMATIC TRANSMISSION,EASYTRONIC TRANSMISSION,LHD",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "PLEASE REFER TO GROUP C (SHORTCUT: B16.C103)",
+    "qty": "AR",
+    "usage": "AUTOMATIC TRANSMISSION,EASYTRONIC TRANSMISSION,RHD",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "call": "19",
+    "part": "55507851",
+    "desc": "ROD,OIL LEVEL INDICATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "24504031",
+    "desc": "-'O'RING,OIL LEVEL INDICATOR ROD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "55507817",
+    "desc": "TUBE,OIL LEVEL ROD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "12670252",
+    "desc": "-'O'RING,OIL LEVEL GUIDE TUBE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "11548002",
+    "desc": "SCREW,HEX.HD.,M5 X 15",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

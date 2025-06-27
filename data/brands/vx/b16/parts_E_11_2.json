@@ -1,0 +1,156 @@
+[
+  {
+    "call": "5",
+    "part": "(55494590)",
+    "desc": "PIPE,CLUTCH OPERATING,LHD (NLS.- USE 24586550)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(24586550)",
+    "desc": "PIPE,CLUTCH OPERATING,LHD (NLS.- USE 55507213)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55507213",
+    "desc": "PIPE,CLUTCH OPERATING,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55491002",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55491002",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55491002",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(55484677)",
+    "desc": "PIPE,CLUTCH OPERATING,RHD (NLS.- USE 55502360)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55484669",
+    "desc": "PIPE,CLUTCH OPERATING,REAR,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55495508",
+    "desc": "-SEAL,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55583106",
+    "desc": "HOSE,CLUTCH,MASTER CYLINDER TO RESERVOIR,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55583107",
+    "desc": "HOSE,CLUTCH,MASTER CYLINDER TO RESERVOIR,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13105589",
+    "desc": "ELBOW,CONNECTOR (USE IN CONJUNCTION WITH 55498116 AND 90522036)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(55352592)",
+    "desc": "CLIP,PIPE,CLUTCH SLAVE CYLINDER,RHD (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "90522036",
+    "desc": "SLEEVE,CLUTCH OPERATING PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

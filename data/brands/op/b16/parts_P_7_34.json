@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "13458877",
+    "desc": "HARNESS,ASSY.,HEATER UNIT,LHD (FOR HEATER SYSTEM WITHOUT AIR CONDITIONING,RPO C42)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13460234",
+    "desc": "HARNESS,ASSY.,HEATER UNIT,RHD (FOR HEATER SYSTEM WITHOUT AIR CONDITIONING,RPO C42)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13458878",
+    "desc": "HARNESS,ASSY.,AIR CONDITIONING UNIT,LHD (FOR MANUAL AIR CONDITIONING,RPO C67)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13458879",
+    "desc": "HARNESS,ASSY.,AIR CONDITIONING UNIT,RHD (FOR MANUAL AIR CONDITIONING,RPO C67)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13458882",
+    "desc": "HARNESS,ASSY.,AIR CONDITIONING UNIT,LHD (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13458883",
+    "desc": "HARNESS,ASSY.,AIR CONDITIONING UNIT,RHD (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

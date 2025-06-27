@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "39225110",
+    "desc": "INSTRUMENT,ASSY.,COMBINED (FOR LCD DRIVER INFORMATION CENTRE,RPO UHS)",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39225111",
+    "desc": "INSTRUMENT,ASSY.,COMBINED (FOR LCD DRIVER INFORMATION CENTRE,RPO UHS)",
+    "qty": "1",
+    "usage": "DIESEL ENGINES",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

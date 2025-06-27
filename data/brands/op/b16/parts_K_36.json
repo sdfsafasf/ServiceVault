@@ -1,0 +1,189 @@
+[
+  {
+    "call": "14",
+    "part": "39000784",
+    "desc": "SHAFT,STABILIZER,FRONT (FOR TORSION BEAM REAR AXLE WITHOUT WATT LINKAGE,RPO GNF) (FOR STANDARD CHASSIS)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39000784",
+    "desc": "SHAFT,STABILIZER,FRONT (FOR TORSION BEAM REAR AXLE WITHOUT WATT LINKAGE,RPO GNF) (FOR HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13497657",
+    "desc": "SHAFT,STABILIZER,FRONT (FOR TORSION BEAM REAR AXLE WITHOUT WATT LINKAGE,RPO GNF) (FOR RAISED CHASSIS,RPO ZQF)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39005088",
+    "desc": "SHAFT,STABILIZER,FRONT (FOR TORSION BEAM REAR AXLE WITH WATT LINKAGE,RPO GNG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39005088",
+    "desc": "SHAFT,STABILIZER,FRONT (FOR TORSION BEAM REAR AXLE WITH WATT LINKAGE,RPO GNG) (FOR HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39005088",
+    "desc": "SHAFT,STABILIZER,FRONT (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "",
+    "desc": "-CLAMP (NOT SERVICED SEPARATELY)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "",
+    "desc": "-INSULATOR (NOT SERVICED SEPARATELY)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11588723)",
+    "desc": "SCREW,HEX.HD.,M8 X 25 (SINGLE USE PART) (NLS.- USE YR00058780)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39001004)",
+    "desc": "LINK,STABILIZER,RH (NLS.- USE 39064481)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39064481)",
+    "desc": "LINK,STABILIZER,RH (NLS.- USE 42705814)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "42705814",
+    "desc": "LINK,STABILIZER,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39001003)",
+    "desc": "LINK,STABILIZER,LH (NLS.- USE 39064480)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39064480)",
+    "desc": "LINK,STABILIZER,LH (NLS.- USE 42705813)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "42705813",
+    "desc": "LINK,STABILIZER,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "11602123",
+    "desc": "NUT,HEX.,M12",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11609282",
+    "desc": "NUT,HEX.,M12",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

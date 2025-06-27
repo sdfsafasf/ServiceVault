@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1",
+    "name": "INSTRUMENTS (KM/H)"
+  },
+  {
+    "code": "2",
+    "name": "INSTRUMENTS (MPH)"
+  },
+  {
+    "code": "3",
+    "name": "INSTRUMENTS (KM/H (MPH))"
+  },
+  {
+    "code": "4",
+    "name": "OUTSIDE AIR TEMPERATURE SENSOR"
+  }
+]

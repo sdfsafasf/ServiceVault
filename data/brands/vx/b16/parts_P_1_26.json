@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "(55595166)",
+    "desc": "MODULE,IGNITION COIL (NLS.- USE 55515867)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11548188",
+    "desc": "SCREW,HEX.HD.,M5 X 42",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

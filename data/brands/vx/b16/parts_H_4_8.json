@@ -1,0 +1,101 @@
+[
+  {
+    "call": "12",
+    "part": "55583267",
+    "desc": "SCREW,HEX.HD.,M10 X 70",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11094031",
+    "desc": "SCREW,TORX,M10 X 60",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11546378",
+    "desc": "NUT,HEX.,M10",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11546404",
+    "desc": "SCREW,HEX.HD.,M10 X 40",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(11589276)",
+    "desc": "SCREW,HEX.HD.,M12 X 55 (NLS.- USE YR00146980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "90351708",
+    "desc": "SLEEVE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,TRANSMISSION (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,SCREW (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(90397024)",
+    "desc": "GREASE,LUBRICATING ,MICROLUBE GNY 202,200GRAMS,MAINDRIVE PINION SPLINES (NLS.- USE 95599784) (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "call": "1",
+    "part": "(13363243)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR MECHANICAL STEERING LOCK,RPO ULX) (NLS.- USE 39060144)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39060144)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR MECHANICAL STEERING LOCK,RPO ULX) (NLS.- USE 39082844)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39082844)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR MECHANICAL STEERING LOCK,RPO ULX) (NLS.- USE 39094320)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39094320)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR MECHANICAL STEERING LOCK,RPO ULX) (NLS.- USE 39133886)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39133886",
+    "desc": "COLUMN,ASSY.,STEERING (FOR MECHANICAL STEERING LOCK,RPO ULX) (EXCHANGE - REMAN PART 1676948280)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1676948280",
+    "desc": "COLUMN,ASSY.,STEERING,EXCHANGE - REMAN (FOR MECHANICAL STEERING LOCK,RPO ULX) (CORE RETURN NO. 95524455)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39017406)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR ELECTRICAL STEERING LOCK,RPO N06) (NLS.- USE 39067824)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39067824)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR ELECTRICAL STEERING LOCK,RPO N06) (NLS.- USE 39082847, 13447853 2 X)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39082847)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR ELECTRICAL STEERING LOCK,RPO N06) (NLS.- USE 39066326)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39066326)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR ELECTRICAL STEERING LOCK,RPO N06) (NLS.- USE 39094887)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39094887)",
+    "desc": "COLUMN,ASSY.,STEERING (FOR ELECTRICAL STEERING LOCK,RPO N06) (NLS.- USE 39137738)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-J8036552\n(C)  HG000001-JG036552",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39137738",
+    "desc": "COLUMN,ASSY.,STEERING (FOR ELECTRICAL STEERING LOCK,RPO N06) (EXCHANGE - REMAN PART 1676948380)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8036553-\n(C)  JG036443-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(1676948380)",
+    "desc": "COLUMN,ASSY.,STEERING,EXCHANGE - REMAN (FOR ELECTRICAL STEERING LOCK,RPO N06) (CORE RETURN NO. 95524455) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8036553-\n(C)  JG036443-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(39017407)",
+    "desc": "MODULE,LOCK CONTROL,KIT (FOR ELECTRICAL STEERING LOCK,RPO N06) (NLS.- USE 39094909, 13447853 2 X)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13447853",
+    "desc": "-SCREW,M5 X 16 (FOR ELECTRICAL STEERING LOCK,RPO N06)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39094909)",
+    "desc": "-MODULE,LOCK CONTROL (FOR ELECTRICAL STEERING LOCK,RPO N06) (NLS.- USE 39156455)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39156455",
+    "desc": "-MODULE,LOCK CONTROL (FOR ELECTRICAL STEERING LOCK,RPO N06)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11546459)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00000480)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13279296)",
+    "desc": "BARREL AND KEYS,IGNITION AND STEERING LOCK,SPECIFIED LOCK (NLS.- USE 39136772)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39136772",
+    "desc": "BARREL AND KEYS,IGNITION AND STEERING LOCK,SPECIFIED LOCK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13526234",
+    "desc": "BARREL AND KEYS,IGNITION AND STEERING LOCK,SPECIFIED LOCK (HOLDEN) (EXCEPT RPO AVJ,KEYLESS ENTRY AND START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "1",
+    "name": "FAN AND DRIVE"
+  },
+  {
+    "code": "2",
+    "name": "HEADER TANK"
+  },
+  {
+    "code": "3",
+    "name": "HOSES AND PIPES"
+  },
+  {
+    "code": "4",
+    "name": "RADIATOR"
+  },
+  {
+    "code": "5",
+    "name": "RADIATOR MOUNTING PARTS"
+  },
+  {
+    "code": "6",
+    "name": "WATER OUTLET"
+  },
+  {
+    "code": "7",
+    "name": "WATER PUMP,THERMOSTAT AND OIL COOLER"
+  }
+]

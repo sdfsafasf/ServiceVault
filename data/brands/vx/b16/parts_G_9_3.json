@@ -1,0 +1,35 @@
+[
+  {
+    "call": "41",
+    "part": "55504439",
+    "desc": "INJECTOR,ASSY.,DIESEL EXHAUST FLUID (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "42",
+    "part": "55580455",
+    "desc": "-GASKET (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "43",
+    "part": "11516076",
+    "desc": "NUT,HEX.,M8",
+    "qty": "2",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

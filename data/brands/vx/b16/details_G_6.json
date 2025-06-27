@@ -1,0 +1,46 @@
+[
+  {
+    "code": "1",
+    "name": "AIR CLEANER"
+  },
+  {
+    "code": "2",
+    "name": "AIRFLOW METER"
+  },
+  {
+    "code": "3",
+    "name": "EXHAUST PIPE AND SILENCER"
+  },
+  {
+    "code": "4",
+    "name": "EXHAUST PIPE,SILENCER AND CATALYTIC CONVERTER"
+  },
+  {
+    "code": "5",
+    "name": "FUEL EVAPORATION TANK"
+  },
+  {
+    "code": "6",
+    "name": "FUEL INJECTION"
+  },
+  {
+    "code": "7",
+    "name": "FUEL PIPES AND FITTINGS"
+  },
+  {
+    "code": "8",
+    "name": "INDUCTION MANIFOLD"
+  },
+  {
+    "code": "9",
+    "name": "THROTTLE VALVE BODY"
+  },
+  {
+    "code": "10",
+    "name": "TURBOCHARGER"
+  },
+  {
+    "code": "11",
+    "name": "TURBOCHARGER VACUUM SYSTEM"
+  }
+]

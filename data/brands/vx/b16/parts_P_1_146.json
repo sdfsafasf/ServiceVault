@@ -1,0 +1,46 @@
+[
+  {
+    "call": "3",
+    "part": "55571602",
+    "desc": "CABLE,FUEL PRESSURE SENSOR,FUEL RAIL (IDENT AH)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55573997",
+    "desc": "BRACKET,CABLE,FUEL PRESSURE SENSOR,FUEL RAIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90381846",
+    "desc": "-STRAP,RETAINING,120 MM LONG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11588711",
+    "desc": "SCREW,HEX.HD.,M6 X 16",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

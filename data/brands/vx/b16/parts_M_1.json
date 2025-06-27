@@ -1,0 +1,211 @@
+[
+  {
+    "call": "1",
+    "part": "(13362441)",
+    "desc": "AXLE,ASSY.,REAR (NLS.- USE 39140602)",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39140602)",
+    "desc": "AXLE,ASSY.,REAR (NLS.- USE 39169045)",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39169045)",
+    "desc": "AXLE,ASSY.,REAR (NLS.- USE 39154142)",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39154142",
+    "desc": "AXLE,ASSY.,REAR",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],B14XFT[LE2],F14SHL[L3T],F14SHT[L3T]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13362443)",
+    "desc": "AXLE,ASSY.,REAR (NLS.- USE 39140603)",
+    "qty": "1",
+    "usage": "DIESEL ENGINES",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39140603)",
+    "desc": "AXLE,ASSY.,REAR (NLS.- USE 39169047)",
+    "qty": "1",
+    "usage": "DIESEL ENGINES",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39154144",
+    "desc": "AXLE,ASSY.,REAR",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13370602)",
+    "desc": "BRACKET,RH (NLS.- USE 39029201)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39029201)",
+    "desc": "BRACKET,RH (NLS.- USE 39099557)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39099557",
+    "desc": "BRACKET,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13370601)",
+    "desc": "BRACKET,LH (EXCEPT RPO TR7,AUTOMATIC HEADLAMP LEVELING) (NLS.- USE 39029200)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39029200)",
+    "desc": "BRACKET,LH (EXCEPT RPO TR7,AUTOMATIC HEADLAMP LEVELING) (NLS.- USE 39099556)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39099556",
+    "desc": "BRACKET,LH (EXCEPT RPO TR7,AUTOMATIC HEADLAMP LEVELING)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13460250)",
+    "desc": "BRACKET,LH (FOR AUTOMATIC HEADLAMP LEVELING,RPO TR7) (NLS.- USE 39029202)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39029202)",
+    "desc": "BRACKET,LH (FOR AUTOMATIC HEADLAMP LEVELING,RPO TR7) (NLS.- USE 39077837)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39077837)",
+    "desc": "BRACKET,LH (FOR AUTOMATIC HEADLAMP LEVELING,RPO TR7) (NLS.- USE 39119962)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39119962",
+    "desc": "BRACKET,LH (FOR AUTOMATIC HEADLAMP LEVELING,RPO TR7)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11547126",
+    "desc": "SCREW,HEX.HD.,M12 X 60 (SINGLE USE PART)",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11610914",
+    "desc": "SCREW,HEX.HD.,M12 X 100 (SINGLE USE PART)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

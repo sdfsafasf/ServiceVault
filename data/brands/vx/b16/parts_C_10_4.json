@@ -1,0 +1,577 @@
+[
+  {
+    "call": "1",
+    "part": "13406674",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,RH",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1024,
+        "y": 2452
+      },
+      {
+        "x": 1430,
+        "y": 2376
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13406674",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,RH (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13406674",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,RH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5) (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39142316",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,RH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39142316",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,RH (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13406673",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,LH",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13406673",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,LH (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13406673",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,LH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5) (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39142315",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,LH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39142315",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,LH (EXCEPT RPO W71,CIVIL AUTHORITY VEHICLE) (EXCEPT RPO 9C1,POLICE VEHICLE)",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39117479",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,RH (FOR CIVIL AUTHORITY VEHICLE,RPO W71) (FOR POLICE VEHICLE,RPO 9C1)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39117480",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,LH (FOR CIVIL AUTHORITY VEHICLE,RPO W71) (FOR POLICE VEHICLE,RPO 9C1)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13406679",
+    "desc": "REGULATOR,ELECTRIC,WITH MOTOR,FRONT DOOR WINDOW,LH (FOR PASSENGER SIDE ELECTRIC WINDOW,RPO AED) (HOLDEN)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-MOTOR,WINDOW REGULATOR,FRONT DOOR (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 905,
+        "y": 2394
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-SCREW,TORX (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 1382,
+        "y": 2254
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11546543",
+    "desc": "SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 719,
+        "y": 2128
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11546545",
+    "desc": "NUT",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [
+      {
+        "x": 615,
+        "y": 1154
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39023023)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39081606)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1788,
+        "y": 528
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39081606)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39132658)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39132658)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39147958)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39147958)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39164628)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39023024)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39081607)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39081607)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39132659)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39132659)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39147959)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39147959)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING) (NLS.- USE 39164627)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39164627",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (WITH BLACK SURROUND MOULDING)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39023022)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (FOR CHROME WINDOW SURROUND MOULDING) (NLS.- USE 39081605)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39081605)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (FOR CHROME WINDOW SURROUND MOULDING) (NLS.- USE 39147941)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39147941)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (FOR CHROME WINDOW SURROUND MOULDING) (NLS.- USE 39164630)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39164630",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,RH,WITH FIXED GLASS (WITH HIGH GLOSS BLACK SURROUND MOULDING)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39023021)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (FOR CHROME WINDOW SURROUND MOULDING) (NLS.- USE 39081604)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39081604)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (FOR CHROME WINDOW SURROUND MOULDING) (NLS.- USE 39147940)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39147940)",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (FOR CHROME WINDOW SURROUND MOULDING) (NLS.- USE 39164629)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39164629",
+    "desc": "CHANNEL,SEALING,FRONT DOOR WINDOW,LH,WITH FIXED GLASS (WITH HIGH GLOSS BLACK SURROUND MOULDING)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(11588710)",
+    "desc": "SCREW,HEX.HD.,M6 X 13 (NLS.- USE YR00161480)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1174,
+        "y": 1814
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13463466)",
+    "desc": "RAIL,GUIDE,DOOR WINDOW,RH (NLS.- USE 39056791)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2123,
+        "y": 834
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39056791)",
+    "desc": "RAIL,GUIDE,DOOR WINDOW,RH (NLS.- USE 39115737)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13463465)",
+    "desc": "RAIL,GUIDE,DOOR WINDOW,LH (NLS.- USE 39056789)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39056789)",
+    "desc": "RAIL,GUIDE,DOOR WINDOW,LH (NLS.- USE 39115736)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39115737",
+    "desc": "-INSULATOR,RH,RAIL,GUIDE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1907,
+        "y": 1044
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39056790",
+    "desc": "-INSULATOR,LH,RAIL,GUIDE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11507067)",
+    "desc": "-NUT (NLS.- USE YQ00110880)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1992,
+        "y": 1185
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-INSULATOR,RH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1891,
+        "y": 1179
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-INSULATOR,LH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11546544",
+    "desc": "-SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1861,
+        "y": 1228
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11546544",
+    "desc": "SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1491,
+        "y": 2058
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

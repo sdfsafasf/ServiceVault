@@ -1,0 +1,90 @@
+[
+  {
+    "call": "15",
+    "part": "(13599390)",
+    "desc": "PUMP,ASSY.,FUEL (NLS.- USE 13507131)",
+    "qty": "1",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13507131",
+    "desc": "PUMP,ASSY.,FUEL",
+    "qty": "1",
+    "usage": "B14XE[LV7]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13599391)",
+    "desc": "PUMP,ASSY.,FUEL (NLS.- USE 13507895)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],B14XFL[LE2],B14XFT[LE2],B16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13507895",
+    "desc": "PUMP,ASSY.,FUEL",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1],F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],F14SHL[L3T],F14SHT[L3T],B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13450830)",
+    "desc": "SEAL,RING,FUEL PUMP TO FUEL TANK (NLS.- USE 39002198)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "39002198",
+    "desc": "SEAL,RING,FUEL PUMP TO FUEL TANK",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]F14SHL[L3T],F14SHT[L3T]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "10325852",
+    "desc": "RETAINER,FUEL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13591757",
+    "desc": "SENDER,FUEL GAUGE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

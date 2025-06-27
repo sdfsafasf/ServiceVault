@@ -1,0 +1,98 @@
+[
+  {
+    "call": "1",
+    "part": "39057863",
+    "desc": "HOSE,HEATER,WATER INLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1987,
+        "y": 568
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "90572594",
+    "desc": "CLAMP,HOSE,27MM",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2030,
+        "y": 763
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39057866",
+    "desc": "HOSE,HEATER,WATER OUTLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 837,
+        "y": 1266
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13465222",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 996,
+        "y": 1294
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90572594",
+    "desc": "CLAMP,HOSE,27MM",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1707,
+        "y": 1306
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "90572590",
+    "desc": "CLAMP,HOSE,23MM",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1731,
+        "y": 1654
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

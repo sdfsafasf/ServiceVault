@@ -1,0 +1,156 @@
+[
+  {
+    "call": "1",
+    "part": "98500430",
+    "desc": "DIFFERENTIAL,ASSY.,TRANSMISSION,LESS IMPULSE SENDER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55567483",
+    "desc": "GEAR,RING,71 TEETH (FINAL DRIVE RATIO 3.94)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(94730815)",
+    "desc": "GEAR,RING,74 TEETH (FINAL DRIVE RATIO 4.63) (NLS.- USE 24585659)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24585659",
+    "desc": "GEAR,RING,74 TEETH (FINAL DRIVE RATIO 4.63)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24579251",
+    "desc": "SCREW,TORX,M10 X 26",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "90113108",
+    "desc": "SET,TAPERED ROLLER BEARING,DIFFERENTIAL GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90304340",
+    "desc": "ADJUSTER,DIFFERENTIAL BEARING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "90079848",
+    "desc": "SEAL,ADJUSTER,DIFFERENTIAL BEARING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "90079853",
+    "desc": "PLATE,LOCK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11080343",
+    "desc": "SCREW,HEX.HD.,M6 X 16",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(90182165)",
+    "desc": "SEAL,DRIVE SHAFT,FRONT AXLE (NLS.- USE 24583232) (PRODUCTION NO. 90288278)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "24583232",
+    "desc": "SEAL,DRIVE SHAFT,FRONT AXLE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,SCREW (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "90510259",
+    "desc": "GREASE,POLYLUB GLY 801,90 GRAMS,ADJUSTER,DIFFERENTIAL BEARING (IDENT GR10)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

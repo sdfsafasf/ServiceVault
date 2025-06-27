@@ -1,0 +1,90 @@
+[
+  {
+    "call": "41X",
+    "part": "(55588497)",
+    "desc": "-KIT,OIL FILTER ELEMENT (NLS.- USE 95526687)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "41X",
+    "part": "1667441680",
+    "desc": "-KIT,OIL FILTER ELEMENT (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "42",
+    "part": "24416319",
+    "desc": "--'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "42",
+    "part": "24416319",
+    "desc": "---'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "43",
+    "part": "(55593191)",
+    "desc": "--'O'RING (NLS.- USE 55504235)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "43",
+    "part": "(55593191)",
+    "desc": "--'O'RING (NLS.- USE 55504235)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "44",
+    "part": "55573793",
+    "desc": "-CAP,OIL FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "45",
+    "part": "24441396",
+    "desc": "--PLUG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

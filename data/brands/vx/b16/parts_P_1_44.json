@@ -1,0 +1,24 @@
+[
+  {
+    "call": "31",
+    "part": "(55577270)",
+    "desc": "SENSOR,METAL TEMPERATURE,CYLINDER HEAD (NLS.- USE 55491076 12 49 080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "55491076",
+    "desc": "SENSOR,METAL TEMPERATURE,CYLINDER HEAD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

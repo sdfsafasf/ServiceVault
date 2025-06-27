@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(12672502)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 19420197)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(12669908)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (EMISSION CODE NE4) (NLS.- USE 12700116)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(12693292)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (EMISSION CODE NCV) (NLS.- USE 12697426)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(12697426)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (EMISSION CODE NCV) (NLS.- USE 12711695)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13408287",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13408288",
+    "desc": "BRACKET,ENGINE CONTROL MODULE,MODULE,ELECTRONIC BRAKE CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11588723)",
+    "desc": "SCREW,HEX,HD.,M8 X 25,BRACKET (NLS.- USE YR00058780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

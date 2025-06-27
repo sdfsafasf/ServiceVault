@@ -1,0 +1,24 @@
+[
+  {
+    "call": "17",
+    "part": "55506886",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 1)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55503721",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 2)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

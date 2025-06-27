@@ -1,0 +1,83 @@
+[
+  {
+    "call": "6",
+    "part": "(39071821)",
+    "desc": "WEATHERSTRIP,REAR DOOR (BODY SIDE) (NLS.- USE 39179851)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 323,
+        "y": 1007
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13406093)",
+    "desc": "WEATHERSTRIP,REAR DOOR,RH (DOOR SIDE) (NLS.- USE 39034144)",
+    "usage": "",
+    "range": "(C)      -G8036440\n(C)      -GG035147",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 911,
+        "y": 1246
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39034144",
+    "desc": "WEATHERSTRIP,REAR DOOR,RH (DOOR SIDE)",
+    "usage": "",
+    "range": "(C)  G8036441-\n(C)  GG035148-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13406092)",
+    "desc": "WEATHERSTRIP,REAR DOOR,LH (DOOR SIDE) (NLS.- USE 39034143)",
+    "usage": "",
+    "range": "(C)      -G8036440\n(C)      -GG035460",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39034143",
+    "desc": "WEATHERSTRIP,REAR DOOR,LH (DOOR SIDE)",
+    "usage": "",
+    "range": "(C)  G8036441-\n(C)  GG035461-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(11611342)",
+    "desc": "-RETAINER,REAR DOOR WEATHERSTRIP,0.7MM THICKNESS FIXING (NLS.- USE YQ00110980)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 811,
+        "y": 1161
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

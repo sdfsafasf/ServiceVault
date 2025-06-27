@@ -1,0 +1,211 @@
+[
+  {
+    "call": "12",
+    "part": "(55514883)",
+    "desc": "SENSOR,EXHAUST TEMPERATURE (POSITION 1) (NLS.- USE YR00097880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55511451",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55499286",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11548002",
+    "desc": "SCREW,M5 X 15",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55497481",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 2",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55497480",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 3",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(11546364)",
+    "desc": "NUT,M6 (NLS.- USE YQ00161880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55512063",
+    "desc": "SENSOR,EXHAUST PARTICULATE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -M8999999\n(C)      -MG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "55512062",
+    "desc": "BRACKET,EXHAUST PARTICULATE SENSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -M8999999\n(C)      -MG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11546364)",
+    "desc": "NUT,EXHAUST PARTICULATE SENSOR (NLS.- USE YQ00161880)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(55513252)",
+    "desc": "SENSOR,NITROGEN OXIDE [NOX],POSITION 1 (NLS.- USE 55516786)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "55516786",
+    "desc": "SENSOR,NITROGEN OXIDE [NOX],POSITION 1",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(55513253)",
+    "desc": "SENSOR,NITROGEN OXIDE [NOX],POSITION 2 (NLS.- USE 55516788)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "55516788",
+    "desc": "SENSOR,NITROGEN OXIDE [NOX],POSITION 2",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "55501681",
+    "desc": "BRACKET,NITROGEN OXIDE SENSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "11588711",
+    "desc": "SCREW,M5 X 15",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "55504029",
+    "desc": "BRACKET,NITROGEN OXIDE SENSOR (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "11548002",
+    "desc": "SCREW,M5 X 15",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(11546364)",
+    "desc": "NUT,NITROGEN OXIDE SENSOR,M6 (NLS.- USE YQ00161880)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

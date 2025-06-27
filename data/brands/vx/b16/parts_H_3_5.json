@@ -1,0 +1,222 @@
+[
+  {
+    "call": "1",
+    "part": "55582310",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER (EXCEPT STOP/START ENGINE SYSTEM)",
+    "qty": "1",
+    "usage": "(T)      -A64244339\n(D)      -07012016",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55598090",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER (EXCEPT STOP/START ENGINE SYSTEM)",
+    "qty": "1",
+    "usage": "(T)  A64244340-\n(D)  08012016-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55582311",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER (FOR STOP/START ENGINE SYSTEM)",
+    "qty": "1",
+    "usage": "(T)      -A64244339\n(D)      -07012016",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55598091",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER,WITH REVERSE LAMP SWITCH (FOR STOP/START ENGINE SYSTEM)",
+    "qty": "1",
+    "usage": "(T)  A64244340-\n(D)  08012016-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "93182244",
+    "desc": "-SEAL,RING,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "1",
+    "usage": "(T)      -A64244339\n(D)      -07012016",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55494556",
+    "desc": "-SEAL,RING,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "1",
+    "usage": "(T)  A64244340-\n(D)  08012016-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55500280",
+    "desc": "-RING,RETAINING,LOCK,GEARSHIFT LEVER",
+    "qty": "1",
+    "usage": "(T)  A64244340-\n(D)  08012016-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11097431",
+    "desc": "SCREW,TORX,M8 X 30,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13106275",
+    "desc": "CAP,TRANSMISSION CASE VENTILATION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55561154",
+    "desc": "BEARING,NEEDLE,SHAFT,GEARSHIFT CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55350411",
+    "desc": "SHAFT,ASSY.,GEAR SELECTOR,FIRST,SECOND,FIFTH AND SIXTH GEARS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55350411",
+    "desc": "SHAFT,ASSY.,GEAR SELECTOR,THIRD,FOURTH AND REVERSE GEARS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55560106",
+    "desc": "FORK,SELECTOR,FIRST AND SECOND GEAR",
+    "qty": "1",
+    "usage": "(T)      -A64244339\n(D)      -07012016",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55599030",
+    "desc": "FORK,SELECTOR,FIRST AND SECOND GEAR",
+    "qty": "1",
+    "usage": "(T)  A64244340-\n(D)  08012016-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55570787",
+    "desc": "FORK,SELECTOR,THIRD AND FOURTH GEAR",
+    "qty": "1",
+    "usage": "(T)      -A74641384\n(D)      -01012017",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55491475",
+    "desc": "FORK,SELECTOR,THIRD AND FOURTH GEAR",
+    "qty": "1",
+    "usage": "(T)  A74641385-\n(D)  02012017-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55560108",
+    "desc": "FORK,SELECTOR,FIFTH AND SIXTH GEAR",
+    "qty": "1",
+    "usage": "(T)      -A74641384\n(D)      -01012017",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55491474",
+    "desc": "FORK,SELECTOR,FIFTH AND SIXTH GEAR",
+    "qty": "1",
+    "usage": "(T)  A74641385-\n(D)  02012017-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55560109",
+    "desc": "FORK,SELECTOR,REVERSE GEAR",
+    "qty": "1",
+    "usage": "(T)      -A74641384\n(D)      -01012017",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55491476",
+    "desc": "FORK,SELECTOR,REVERSE GEAR",
+    "qty": "1",
+    "usage": "(T)  A74641385-\n(D)  02012017-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

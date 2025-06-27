@@ -1,0 +1,139 @@
+[
+  {
+    "call": "6",
+    "part": "(13433285)",
+    "desc": "PRETENSIONER,SEAT BELT,RH SEAT (NLS.- USE 39017001)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [
+      {
+        "x": 668,
+        "y": 1807
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39017001)",
+    "desc": "PRETENSIONER,SEAT BELT,RH SEAT (NLS.- USE 39040719)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39040719)",
+    "desc": "PRETENSIONER,SEAT BELT,RH SEAT (NLS.- USE 39136483)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39136483",
+    "desc": "PRETENSIONER,SEAT BELT,RH SEAT (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39141277",
+    "desc": "PRETENSIONER,SEAT BELT,RH SEAT (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39141277",
+    "desc": "PRETENSIONER,SEAT BELT,RH SEAT",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13433284)",
+    "desc": "PRETENSIONER,SEAT BELT,LH SEAT (NLS.- USE 39017000)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39017000)",
+    "desc": "PRETENSIONER,SEAT BELT,LH SEAT (NLS.- USE 39040718)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39040718)",
+    "desc": "PRETENSIONER,SEAT BELT,LH SEAT (NLS.- USE 39136482)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39136482",
+    "desc": "PRETENSIONER,SEAT BELT,LH SEAT (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39141278",
+    "desc": "PRETENSIONER,SEAT BELT,LH SEAT (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39141278",
+    "desc": "PRETENSIONER,SEAT BELT,LH SEAT",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

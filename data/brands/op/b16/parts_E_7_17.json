@@ -1,0 +1,35 @@
+[
+  {
+    "call": "7",
+    "part": "55569821",
+    "desc": "HOSE,VENTILATION,VALVE,PRESSURE CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "9195487",
+    "desc": "CLAMP,29 MM ID.,VENTILATION HOSE TO VENTILATION PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "90572592",
+    "desc": "CLAMP,25 MM ID.,VENTILATION HOSE TO VENTILATION PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

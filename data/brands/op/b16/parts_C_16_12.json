@@ -1,0 +1,83 @@
+[
+  {
+    "call": "1",
+    "part": "(39014009)",
+    "desc": "PAD,CUSHION (EXCEPT RPO HRI / 62Q,ALCANTARA TRIM) (NLS.- USE 39084315)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 658,
+        "y": 1074
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39084315",
+    "desc": "PAD,CUSHION (EXCEPT RPO HRI / 62Q,ALCANTARA TRIM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39153906",
+    "desc": "PAD,CUSHION (FOR ALCANTARA TRIM,RPO HRI / 62Q)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24437789)",
+    "desc": "BRACKET,RETAINER (NLS.- USE YQ00223480)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 146,
+        "y": 1064
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13489888)",
+    "desc": "COVER,CHILD SEAT RETAINING BRACKET (NLS.- USE 39059229)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 441,
+        "y": 119
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39059229",
+    "desc": "COVER,CHILD SEAT RETAINING BRACKET",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

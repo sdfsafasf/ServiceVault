@@ -1,0 +1,46 @@
+[
+  {
+    "call": "13",
+    "part": "(13431587)",
+    "desc": "HARNESS,ASSY.,REAR SEAT (FOR HEATED REAR SEAT,RPO KA6) (NLS.- USE 39028569)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39028569",
+    "desc": "HARNESS,ASSY.,REAR SEAT (FOR HEATED REAR SEAT,RPO KA6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13431588",
+    "desc": "HARNESS,ASSY.,REAR SEAT (FOR 40/20/40 SPLIT REAR SEAT,RPO ARJ) (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39074930",
+    "desc": "HARNESS,ASSY.,REAR SEAT (FOR 40/20/40 SPLIT REAR SEAT,RPO ARJ) (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

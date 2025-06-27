@@ -1,0 +1,200 @@
+[
+  {
+    "call": "1",
+    "part": "(24581375)",
+    "desc": "TRANSMISSION,ASSY. (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 3.94) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95521011) (NLS.- USE 24583201) (IDENT BA5)",
+    "qty": "1",
+    "usage": "B10XFL[LE1]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(24583201)",
+    "desc": "TRANSMISSION,ASSY. (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 3.94) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95521011) (NLS.- USE 55511996) (IDENT A5W)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55511996)",
+    "desc": "TRANSMISSION,ASSY. (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 3.94) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 1677220880) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95521011)",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 3.94) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (NLS.- USE 1677220880)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1677220880",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 3.94) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "24581586",
+    "desc": "TRANSMISSION,ASSY. (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 4.63) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (EXCHANGE - REMAN PART 95521016) (IDENT BBC)",
+    "qty": "1",
+    "usage": "B14XE[LV7]",
+    "range": "(C)      -G8044810\n(C)      -GG047019",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95521016",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 4.63) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (CORE RETURN NO. 95524458) (IDENT BBC)",
+    "qty": "1",
+    "usage": "B14XE[LV7]",
+    "range": "(C)      -G8044810\n(C)      -GG047019",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(24583210)",
+    "desc": "TRANSMISSION,ASSY. (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 4.63) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (EXCHANGE - REMAN PART 95521021) (NLS.- NO REPLACEMENT PART) (IDENT BZY)",
+    "qty": "1",
+    "usage": "B14XE[LV7]",
+    "range": "(C)  G8044811-\n(C)  GG047020-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95521021",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 4.63) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (CORE RETURN NO. 95524458) (IDENT BZY)",
+    "qty": "1",
+    "usage": "B14XE[LV7]",
+    "range": "(C)  G8044811-\n(C)  GG047020-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55487151)",
+    "desc": "TRANSMISSION,ASSY. (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA) (FINAL DRIVE RATIO 4.19) (EXCHANGE - REMAN PART 95520990) (NLS.- NO REPLACEMENT PART) (IDENT BML)",
+    "qty": "1",
+    "usage": "B10XFL[LE1]\n(T)      -A163599410",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95520990",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA) (FINAL DRIVE RATIO 4.19) (CORE RETURN NO. 95524458) (IDENT BML)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55494839)",
+    "desc": "TRANSMISSION,ASSY. (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA) (FINAL DRIVE RATIO 4.19) (EXCHANGE - REMAN PART 95524214) (NLS.- NO REPLACEMENT PART) (IDENT BZM)",
+    "qty": "1",
+    "usage": "B10XFL[LE1]\n(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95524214",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA) (FINAL DRIVE RATIO 4.19) (CORE RETURN NO. 95524458) (IDENT BZM)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],D10XFL[LE1]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(24579840)",
+    "desc": "PLATE,TRANSMISSION END (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 3.94) (NLS.- USE 24584955)",
+    "qty": "1",
+    "usage": "B10XFL[LE1]\n(T)      -A16359940",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(24584955)",
+    "desc": "PLATE,TRANSMISSION END (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 3.94) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "B10XFL[LE1]\n(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(24581581)",
+    "desc": "PLATE,TRANSMISSION END (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 4.63) (NLS.- USE 24584958)",
+    "qty": "1",
+    "usage": "B14XE[LV7]\n(T)      -A16359940",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24584958",
+    "desc": "PLATE,TRANSMISSION END (FOR F17 MANUAL TRANSMISSION,RPO M26) (FINAL DRIVE RATIO 4.63)",
+    "qty": "1",
+    "usage": "B14XE[LV7]\n(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(24584975)",
+    "desc": "PLATE,TRANSMISSION END (FOR EASYTRONIC TRANSMISSION,RPO MJA) (FINAL DRIVE RATIO 4.19) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "B14XE[LV7]\n(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

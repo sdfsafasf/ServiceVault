@@ -1,0 +1,18 @@
+[
+  {
+    "code": "1",
+    "name": "FRONT DOOR CHECK LINK"
+  },
+  {
+    "code": "2",
+    "name": "FRONT DOOR HINGE"
+  },
+  {
+    "code": "3",
+    "name": "FRONT DOOR LOCKING MECHANISM"
+  },
+  {
+    "code": "4",
+    "name": "FRONT DOOR WINDOW OPENING MECHANISM"
+  }
+]

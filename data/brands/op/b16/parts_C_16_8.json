@@ -1,0 +1,138 @@
+[
+  {
+    "call": "5",
+    "part": "(13459387)",
+    "desc": "LATCH,RELEASE,REAR SEAT,RH (NLS.- USE 39012720)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2142,
+        "y": 1732
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39012720)",
+    "desc": "LATCH,RELEASE,REAR SEAT,RH (NLS.- USE 39047257)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39047257)",
+    "desc": "LATCH,RELEASE,REAR SEAT,RH (NLS.- USE 39103262)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39103262)",
+    "desc": "LATCH,RELEASE,REAR SEAT,RH (NLS.- USE YR003948YX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13459386)",
+    "desc": "LATCH,RELEASE,REAR SEAT,LH (NLS.- USE 39012719)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39012719)",
+    "desc": "LATCH,RELEASE,REAR SEAT,LH (NLS.- USE 39047258)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39047258)",
+    "desc": "LATCH,RELEASE,REAR SEAT,LH (NLS.- USE 39103263)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39103263)",
+    "desc": "LATCH,RELEASE,REAR SEAT,LH (NLS.- USE YR003947YX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13516141)",
+    "desc": "SCREW (NLS.- USE YR00082680)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2046,
+        "y": 2133
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13453287)",
+    "desc": "BEZEL,LATCH,OUTER,BLACK (NLS.- USE 39041657)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1642,
+        "y": 343
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39041657)",
+    "desc": "BEZEL,LATCH,OUTER,BLACK (NLS.- USE YR003992YX)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

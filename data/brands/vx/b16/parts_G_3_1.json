@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "13367306",
+    "desc": "AIR CLEANER,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13367308)",
+    "desc": "-ELEMENT,AIR CLEANER (NLS.- USE 39030321)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "1689023980",
+    "desc": "-ELEMENT,AIR CLEANER (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "1689023780",
+    "desc": "-ELEMENT,AIR CLEANER (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "9129705",
+    "desc": "-BUMPER",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13465202",
+    "desc": "-SCREW",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13367311",
+    "desc": "DUCT,AIR INTAKE,REAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13367313",
+    "desc": "DUCT,AIR INTAKE,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13412837)",
+    "desc": "RIVET,EXPANDING (NLS.- USE YR00268780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39012601",
+    "desc": "DUCT,AIR OUTLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "24415470",
+    "desc": "-CLAMP,66-75MM,HOSE TO AIRFLOW METER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "24415469",
+    "desc": "-CLAMP,59-70 MM,AIR OUTLET DUCT,AIR CLEANER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13465913)",
+    "desc": "-BUMPER (NLS.- NO REPLACEMENT PART)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

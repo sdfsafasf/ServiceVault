@@ -1,0 +1,26 @@
+[
+  {
+    "code": "1",
+    "name": "PARKING HEATER (PARKING HEATER)"
+  },
+  {
+    "code": "2",
+    "name": "PARKING HEATER (EXHAUST SYSTEM)"
+  },
+  {
+    "code": "3",
+    "name": "PARKING HEATER (FUEL SYSTEM)"
+  },
+  {
+    "code": "4",
+    "name": "PARKING HEATER (WATER PUMP AND FITTINGS)"
+  },
+  {
+    "code": "5",
+    "name": "PARKING HEATER (ELECTRICAL)"
+  },
+  {
+    "code": "6",
+    "name": "PARKING HEATER (LABEL)"
+  }
+]

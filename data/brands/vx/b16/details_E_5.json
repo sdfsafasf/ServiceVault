@@ -1,0 +1,106 @@
+[
+  {
+    "code": "1",
+    "name": "CLUTCH"
+  },
+  {
+    "code": "2",
+    "name": "CONNECTING ROD"
+  },
+  {
+    "code": "3",
+    "name": "CONNECTING ROD BEARINGS"
+  },
+  {
+    "code": "4",
+    "name": "CRANKSHAFT"
+  },
+  {
+    "code": "5",
+    "name": "CRANKSHAFT BEARINGS AND SEALS"
+  },
+  {
+    "code": "6",
+    "name": "CYLINDER BLOCK"
+  },
+  {
+    "code": "7",
+    "name": "CYLINDER BLOCK PLUGS"
+  },
+  {
+    "code": "8",
+    "name": "CYLINDER HEAD AND VALVE TRAIN"
+  },
+  {
+    "code": "9",
+    "name": "CYLINDER HEAD COVER"
+  },
+  {
+    "code": "10",
+    "name": "ENGINE ASSEMBLY"
+  },
+  {
+    "code": "11",
+    "name": "ENGINE COVER"
+  },
+  {
+    "code": "12",
+    "name": "ENGINE GASKET SETS (TOP END)"
+  },
+  {
+    "code": "13",
+    "name": "ENGINE MOUNTINGS (FOR M32 MANUAL TRANSMISSION,RPO M60/MGW)"
+  },
+  {
+    "code": "14",
+    "name": "ENGINE VENTILATION"
+  },
+  {
+    "code": "15",
+    "name": "ENGINE,STRIPPED"
+  },
+  {
+    "code": "16",
+    "name": "FLYWHEEL AND FITTINGS (USED WITH MANUAL TRANSMISSION)"
+  },
+  {
+    "code": "17",
+    "name": "FRONT COVER"
+  },
+  {
+    "code": "18",
+    "name": "OIL FILLER"
+  },
+  {
+    "code": "19",
+    "name": "OIL FILTER"
+  },
+  {
+    "code": "20",
+    "name": "OIL LEVEL INDICATOR"
+  },
+  {
+    "code": "21",
+    "name": "OIL PAN AND FITTINGS"
+  },
+  {
+    "code": "22",
+    "name": "OIL PIPES,VALVES AND FITTINGS"
+  },
+  {
+    "code": "23",
+    "name": "OIL PRESSURE SWITCH"
+  },
+  {
+    "code": "24",
+    "name": "OIL PUMP AND FITTINGS"
+  },
+  {
+    "code": "25",
+    "name": "PISTON AND RINGS"
+  },
+  {
+    "code": "26",
+    "name": "TIMING CHAIN,GEAR AND PULLEYS"
+  }
+]

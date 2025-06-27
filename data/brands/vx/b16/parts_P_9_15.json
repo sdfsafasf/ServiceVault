@@ -1,0 +1,134 @@
+[
+  {
+    "call": "1",
+    "part": "(39008421)",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO) (NLS.- USE 39026165)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8093261\n(C)      -GG134508",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39026165)",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO) (NLS.- USE 39039744)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8093261\n(C)      -GG134508",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39039744",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8093262-G8999999\n(C)  GG134509-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39084504",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39132630",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39157262",
+    "desc": "RADIO (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39008422)",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39026166)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8093343\n(C)      -GG134508",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39026166)",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39039745)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8093343\n(C)      -GG134508",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39039745",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8093344-G8999999\n(C)  GG134509-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39084505",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39132631",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39157263",
+    "desc": "RADIO (FOR DAB RADIO,RPO U2Q)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

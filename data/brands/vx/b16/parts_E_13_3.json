@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(55583068)",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE (NLS.- USE 55597499,55597500,55572350,90522038)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55514864",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE,WITH PIPE",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(55515015)",
+    "desc": "-CYLINDER,ASSY.,CLUTCH SLAVE,LESS PIPE (NLS.- USE 55514864)",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55597500",
+    "desc": "-PIPE,ASSY.,CLUTCH SLAVE CYLINDER",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55575807",
+    "desc": "SCREW,TORX",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55581064",
+    "desc": "'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

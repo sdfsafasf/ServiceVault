@@ -1,0 +1,57 @@
+[
+  {
+    "call": "1",
+    "part": "(39046384)",
+    "desc": "SHELL,TAIL GATE (NLS.- USE 39072085)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39072085)",
+    "desc": "SHELL,TAIL GATE (NLS.- USE 39103591)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39103591)",
+    "desc": "SHELL,TAIL GATE (NLS.- USE 39128946)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39128946",
+    "desc": "SHELL,TAIL GATE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "15259076",
+    "desc": "PLUG (EXCEPT RPO TC2,POWER OPENING TAILGATE)",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

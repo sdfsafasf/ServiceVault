@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "(13373146)",
+    "desc": "HOSE,RADIATOR INLET (NLS.- USE 39063438)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13162322",
+    "desc": "-CLAMP,38MM DIA.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13373153)",
+    "desc": "HOSE,RADIATOR OUTLET (NLS.- USE 39057860)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39057860",
+    "desc": "HOSE,RADIATOR OUTLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13162322",
+    "desc": "-CLAMP,38MM DIA.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "12649874",
+    "desc": "PIPE,THERMOSTAT BYPASS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "12635750",
+    "desc": "-GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12649871",
+    "desc": "-HOSE,THERMOSTAT BYPASS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "90572594",
+    "desc": "-CLAMP,HOSE,27MM",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11588714)",
+    "desc": "-SCREW,HEX.HD.,M6 X 30 (NLS.- USE YR00047880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11588712)",
+    "desc": "SCREW,HEX.HD.,M6 X 20 (NLS.- USE YR00052080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13377134)",
+    "desc": "HOSE,HEADER TANK (NLS.- USE 39057874)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "90530642",
+    "desc": "-CLAMP,HOSE,14 MM.DIA.",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

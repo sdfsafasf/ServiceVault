@@ -1,0 +1,112 @@
+[
+  {
+    "call": "1",
+    "part": "13512293",
+    "desc": "CONTROL MODULE,AIRBAG",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13510404)",
+    "desc": "CONTROL MODULE,AIRBAG (NLS.- USE 13520997)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13520997",
+    "desc": "CONTROL MODULE,AIRBAG",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13504470",
+    "desc": "SENSOR,AIRBAG,FRONT END",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13504470",
+    "desc": "SENSOR,AIRBAG,SIDE,LOWER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13576422",
+    "desc": "SENSOR,AIRBAG,SIDE,UPPER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39124069",
+    "desc": "INDICATOR,AIRBAG CONTROL (FOR PASSENGER AIRBAG DISABLE SWITCH,RPO C99)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39124069",
+    "desc": "INDICATOR,AIRBAG CONTROL (FOR PASSENGER AIRBAG DISABLE SWITCH,RPO C99) (FOR EUROPEAN MARKETING GROUP,RPO MBM)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39125993",
+    "desc": "INDICATOR,AIRBAG CONTROL (EXCEPT RPO C99,PASSENGER AIRBAG DISABLE SWITCH)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39125993",
+    "desc": "INDICATOR,AIRBAG CONTROL (FOR AUSTRALIA,NEW ZEALAND)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

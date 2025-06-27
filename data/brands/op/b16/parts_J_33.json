@@ -1,0 +1,24 @@
+[
+  {
+    "call": "X",
+    "part": "",
+    "desc": "PLEASE REFER TO GROUP E (SHORTCUT: B16.E126)",
+    "qty": "",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "PLEASE REFER TO GROUP E (SHORTCUT: B16.E156)",
+    "qty": "",
+    "usage": "B16DTR[LVK],D16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

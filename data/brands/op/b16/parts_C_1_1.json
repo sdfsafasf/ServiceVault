@@ -1,0 +1,56 @@
+[
+  {
+    "call": "17",
+    "part": "(13431594)",
+    "desc": "INSULATOR,BONNET (NLS.- USE 39034618)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 980,
+        "y": 845
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "39034618",
+    "desc": "INSULATOR,BONNET",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "39111574",
+    "desc": "INSULATOR,BONNET",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13336240)",
+    "desc": "CLIP,INSULATOR TO BONNET (NLS.- USE YQ00158480)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 877,
+        "y": 933
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "call": "1",
+    "part": "(13413136)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,LHD,BLACK (EXC.CD CHANGER) (NLS.- USE 39046757)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 988,
+        "y": 1463
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39046757)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,LHD,BLACK (EXC.CD CHANGER) (NLS.- USE 39203527)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "",
+    "desc": "@",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13413137)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,RHD,BLACK (EXC.CD CHANGER) (NLS.- USE 39046759)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2176,
+        "y": 1463
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39046759)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,RHD,BLACK (EXC.CD CHANGER) (NLS.- USE 39207314)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13455701)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,LHD,BLACK (FOR CD CHANGER) (NLS.- USE 39046758)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 994,
+        "y": 2160
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39046758)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,LHD,BLACK (FOR CD CHANGER) (NLS.- USE 39203526)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13455702)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,RHD,BLACK (FOR CD CHANGER) (NLS.- USE 39046760)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2179,
+        "y": 2166
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39046760)",
+    "desc": "BOX,WITH LID,INSTRUMENT PANEL,RHD,BLACK (FOR CD CHANGER) (NLS.- USE 39207313)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "@",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 515,
+        "y": 1188
+      },
+      {
+        "x": 1651,
+        "y": 1179
+      },
+      {
+        "x": 1657,
+        "y": 1885
+      },
+      {
+        "x": 509,
+        "y": 1891
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13223533",
+    "desc": "-BUMPER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 240,
+        "y": 2251
+      },
+      {
+        "x": 1407,
+        "y": 2257
+      },
+      {
+        "x": 1397,
+        "y": 1552
+      },
+      {
+        "x": 231,
+        "y": 1561
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13458098)",
+    "desc": "-LID,ASSY.,GLOVE BOX,LHD (NLS.- USE 39046761)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 796,
+        "y": 1207
+      },
+      {
+        "x": 793,
+        "y": 1909
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39046761",
+    "desc": "-LID,ASSY.,GLOVE BOX,LHD",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13458099)",
+    "desc": "-LID,ASSY.,GLOVE BOX,RHD (NLS.- USE 39046762)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1975,
+        "y": 1210
+      },
+      {
+        "x": 1993,
+        "y": 1900
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39046762",
+    "desc": "-LID,ASSY.,GLOVE BOX,RHD",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "--HANDLE AND LOCK,ASSY. (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2033,
+        "y": 2227
+      },
+      {
+        "x": 854,
+        "y": 2270
+      },
+      {
+        "x": 854,
+        "y": 1555
+      },
+      {
+        "x": 2033,
+        "y": 1518
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11609509",
+    "desc": "--SCREW,4.2 X 13",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 823,
+        "y": 2181
+      },
+      {
+        "x": 1993,
+        "y": 2141
+      },
+      {
+        "x": 2002,
+        "y": 1442
+      },
+      {
+        "x": 826,
+        "y": 1488
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13500191",
+    "desc": "--RETAINER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 643,
+        "y": 2395
+      },
+      {
+        "x": 1849,
+        "y": 2380
+      },
+      {
+        "x": 1846,
+        "y": 1686
+      },
+      {
+        "x": 640,
+        "y": 1698
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39093058",
+    "desc": "--HOLDER,PEN,GLOVE BOX",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 722,
+        "y": 2010
+      },
+      {
+        "x": 1849,
+        "y": 2050
+      },
+      {
+        "x": 1840,
+        "y": 1359
+      },
+      {
+        "x": 719,
+        "y": 1317
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13427447",
+    "desc": "-DAMPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 701,
+        "y": 1888
+      },
+      {
+        "x": 1868,
+        "y": 1918
+      },
+      {
+        "x": 1871,
+        "y": 1219
+      },
+      {
+        "x": 713,
+        "y": 1192
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(11609952)",
+    "desc": "NUT (NLS.- USE YQ00109480)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1321,
+        "y": 1885
+      },
+      {
+        "x": 1321,
+        "y": 1176
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 1593,
+        "y": 993
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 1501,
+        "y": 2474
+      },
+      {
+        "x": 1492,
+        "y": 1772
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13413074)",
+    "desc": "COVER,FUSES,RHD (NLS.- USE 39050049)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1177,
+        "y": 1763
+      },
+      {
+        "x": 1168,
+        "y": 2459
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "39050049",
+    "desc": "COVER,FUSES,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "",
+    "desc": "STORAGE COMPARTMENT,INSTRUMENT PANEL (PLEASE REFER TO GROUP D) (INSTRUMENT PANEL AND CONSOLE TRIM) (INSTRUMENT PANEL COVER) (SHORTCUT: B16.D1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 820,
+        "y": 825
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13412995)",
+    "desc": "INSULATOR,INSTRUMENT PANEL BOX,RH-LHD (NLS.- USE 39089677)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 924,
+        "y": 804
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39089677)",
+    "desc": "INSULATOR,INSTRUMENT PANEL BOX,RH-LHD (NLS.- USE 39154139)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39154139",
+    "desc": "INSULATOR,INSTRUMENT PANEL BOX,RH-LHD",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13412996)",
+    "desc": "INSULATOR,INSTRUMENT PANEL BOX,LH-RHD (NLS.- USE 39045037)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39045037)",
+    "desc": "INSULATOR,INSTRUMENT PANEL BOX,LH-RHD (NLS.- USE 39089678)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39089678)",
+    "desc": "INSULATOR,INSTRUMENT PANEL BOX,LH-RHD (NLS.- USE 39154140)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39154140",
+    "desc": "INSULATOR,INSTRUMENT PANEL BOX,LH-RHD",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11589290",
+    "desc": "RIVET,EXPANDING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1446,
+        "y": 1039
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11546970)",
+    "desc": "SCREW,TORX,M4 X 14 (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 896,
+        "y": 1063
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

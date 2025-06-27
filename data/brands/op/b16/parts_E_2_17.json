@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "55490786",
+    "desc": "CAP,OIL FILLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24100002",
+    "desc": "-'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "call": "1",
+    "part": "13267272",
+    "desc": "LABEL,WARNING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 565,
+        "y": 903
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "93184613",
+    "desc": "LABEL,TYRE PRESSURE,70 X 50 MM (FOR HAND WRITTEN ENTRIES OF THE TYRE PRESSURE DATA) (SERVICE REPAIR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1573,
+        "y": 928
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13267271",
+    "desc": "LABEL,MAX 80 KM/H,SPARE WHEEL (FOR SPACE SAVER WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1058,
+        "y": 1893
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13439952",
+    "desc": "LABEL,MAX 120 KM/H,SPARE WHEEL (FOR SPACE SAVER WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1772,
+        "y": 1914
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39140125",
+    "desc": "LABEL,MAX 50 MP/H,SPARE WHEEL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 363,
+        "y": 1914
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

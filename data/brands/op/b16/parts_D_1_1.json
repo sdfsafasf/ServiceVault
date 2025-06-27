@@ -1,0 +1,110 @@
+[
+  {
+    "call": "1",
+    "part": "13413141",
+    "desc": "EXTENSION,INSTRUMENT PANEL,RH-LHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1435,
+        "y": 1802
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39018607",
+    "desc": "EXTENSION,INSTRUMENT PANEL,LH-LHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 823,
+        "y": 1625
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39001572",
+    "desc": "EXTENSION,INSTRUMENT PANEL,RH-RHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1479,
+        "y": 2442
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13413142",
+    "desc": "EXTENSION,INSTRUMENT PANEL,LH-RHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 838,
+        "y": 2165
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11547375",
+    "desc": "-CLIP,EXTENSION",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1517,
+        "y": 2307
+      },
+      {
+        "x": 1482,
+        "y": 1676
+      },
+      {
+        "x": 655,
+        "y": 1587
+      },
+      {
+        "x": 684,
+        "y": 2114
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11570498)",
+    "desc": "SCREW,TORX,4.2 X 20,LH-LHD (NLS.- USE YQ00155980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 84,
+        "y": 887
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

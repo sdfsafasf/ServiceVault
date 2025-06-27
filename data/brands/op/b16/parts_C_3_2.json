@@ -1,0 +1,109 @@
+[
+  {
+    "call": "1",
+    "part": "13412438",
+    "desc": "TRAY,STORAGE,BLACK (EXCEPT RPO MCR,SD CARD PORT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1660,
+        "y": 634
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39149764",
+    "desc": "TRAY,STORAGE,BLACK (FOR SD CARD PORT,RPO MCR) (EXCEPT RPO MCY,USB CHARGE PORT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11546970)",
+    "desc": "SCREW,TORX,M4 X 14 (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1256,
+        "y": 1186
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11570498)",
+    "desc": "SCREW,HEX.HD.,M4 X 20 (NLS.- USE YQ00155980)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 828,
+        "y": 1095
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39035734",
+    "desc": "MOULDING,REAR CONSOLE,BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2089,
+        "y": 655
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 2019,
+        "y": 809
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13465871",
+    "desc": "COVER,BLANKING (EXCEPT RPO USR,USB CHARGE PORT) (EXCEPT RPO MCY,USB CHARGE PORT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1534,
+        "y": 468
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

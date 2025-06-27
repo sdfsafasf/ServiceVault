@@ -1,0 +1,123 @@
+[
+  {
+    "call": "3",
+    "part": "39015377",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (FOR ROOF MOUNTED AERIAL,RPO U74/U91) (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (IDENT 8PA)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -HG000122",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39070433",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (FOR ROOF MOUNTED AERIAL,RPO U74/U91) (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (IDENT 8WN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000079-K8999999\n(C)  HG000123-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39015379",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (IDENT 8PC)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -HG000122",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39070435",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (IDENT 8WQ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000079-K8999999\n(C)  HG000123-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39015380",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (FOR THEFT DETERRENT SYSTEM,RPO UTT) (IDENT 8PD)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -HG000122",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39070436",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (FOR THEFT DETERRENT SYSTEM,RPO UTT) (IDENT 8WR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000079-K8999999\n(C)  HG000123-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39015378",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (FOR ROOF MOUNTED AERIAL,RPO U74/U91) (FOR THEFT DETERRENT SYSTEM,RPO UTT) (IDENT 8PB)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -HG000122",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39070434",
+    "desc": "HARNESS,ASSY.,TAILGATE,EXTENSION (FOR ROOF MOUNTED AERIAL,RPO U74/U91) (FOR THEFT DETERRENT SYSTEM,RPO UTT) (IDENT 8WP)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000079-K8999999\n(C)  HG000123-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13154940",
+    "desc": "-CLIP,HARNESS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13460525",
+    "desc": "HARNESS,ASSY.,LAMP,HIGH-LEVEL BRAKE LAMP",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39071167",
+    "desc": "HARNESS,ASSY.,LAMP,HIGH-LEVEL BRAKE LAMP",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "2",
+    "part": "9268827",
+    "desc": "SWITCH,WARNING CHIME MODULE,LHD,WITH HARNESS",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "9271973",
+    "desc": "LAMP,LHD,LED,115 X 18 X 9",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "9268307",
+    "desc": "HARNESS,ASSY.,LHD",
+    "qty": "1",
+    "usage": "- \t9268826 \tSWITCH,INTERIOR LAMP,FLOOR,LHD",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

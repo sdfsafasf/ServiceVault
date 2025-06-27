@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "(55510723)",
+    "desc": "CASE,CAMSHAFT,WITH COVER,COMPLETE (NLS.- USE YR55510723)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55496242",
+    "desc": "-GASKET KIT,CASE,CAMSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55515470",
+    "desc": "-INSULATOR,CASE,CAMSHAFT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55514695",
+    "desc": "INSULATOR,CASE,CAMSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11548291",
+    "desc": "SCREW,HEX.HD.,M5 X 63",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11548166",
+    "desc": "SCREW,HEX.HD.,M5 X 30",
+    "qty": "10",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11548189",
+    "desc": "SCREW,HEX.HD.,M5 X 45",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55490276",
+    "desc": "CAMSHAFT,INLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55490275",
+    "desc": "CAMSHAFT,EXHAUST",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

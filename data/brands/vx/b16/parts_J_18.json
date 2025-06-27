@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "",
+    "desc": "PIPE,ASSY.,VACUUM (SHORTCUT: B16.G602)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13375192",
+    "desc": "PIPE,ASSY.,VACUUM (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13375194",
+    "desc": "PIPE,ASSY.,VACUUM (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-VALVE (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13581099",
+    "desc": "-SENSOR,VACUUM (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "-CONNECTOR (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

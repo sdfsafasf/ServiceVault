@@ -1,0 +1,29 @@
+[
+  {
+    "call": "3",
+    "part": "95599023",
+    "desc": "PAINT,AEROSOL SPRAY,1 COMPONENT CLEAR COAT,GM (NLS.- USE 95528597)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 415,
+        "y": 1282
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95528597",
+    "desc": "PAINT,AEROSOL SPRAY,1 COMPONENT CLEAR COAT,OPEL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

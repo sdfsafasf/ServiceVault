@@ -1,0 +1,79 @@
+[
+  {
+    "call": "6",
+    "part": "(13480441)",
+    "desc": "CABLE,ASSY.,HANDBRAKE (FOR USE WITH 15\" BRAKE SYSTEM,RPO J67/J79) (NLS.- USE 39014938)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39014938)",
+    "desc": "CABLE,ASSY.,HANDBRAKE (FOR USE WITH 15\" BRAKE SYSTEM,RPO J67/J79) (NLS.- USE 39046242)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39046242",
+    "desc": "CABLE,ASSY.,HANDBRAKE (FOR USE WITH 15\" BRAKE SYSTEM,RPO J67/J79)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13386238)",
+    "desc": "CABLE,ASSY.,HANDBRAKE (FOR USE WITH 16\" BRAKE SYSTEM,RPO J60) (NLS.- USE 39014940)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39014940)",
+    "desc": "CABLE,ASSY.,HANDBRAKE (FOR USE WITH 16\" BRAKE SYSTEM,RPO J60) (NLS.- USE 39046243)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(11588723)",
+    "desc": "SCREW,TORX,M8 X 25 (NLS.- USE YR00058780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(11546364)",
+    "desc": "NUT,HEX.,M6 (NLS.- USE YQ00161880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

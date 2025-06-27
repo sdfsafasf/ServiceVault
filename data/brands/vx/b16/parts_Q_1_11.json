@@ -1,0 +1,178 @@
+[
+  {
+    "call": "9X",
+    "part": "13456280",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],B14XE[LV7],B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -G8046807\n(C)      -GG040307",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042385",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],B14XE[LV7],B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)  G8046808-G8999999\n(C)  GG040308-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "13456280",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD (FOR M32 MANUAL TRANSMISSION,RPO M60,MZ4,MZ0)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)      -G8041350\n(C)      -GG040423",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042385",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD (FOR M32 MANUAL TRANSMISSION,RPO M60,MZ4,MZ0) (FOR M32 MANUAL TRANSMISSION,RPO MGP)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)  G8041351-G8999999\n(C)  GG040424-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "13456280",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTU[LWV],B16DTR[LVK]",
+    "range": "(C)      -G8041178\n(C)      -GG040579",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042385",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR M32/M35 MANUAL TRANSMISSION,RPO MGR/MGW/MOP)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTU[LWV],B16DTR[LVK]",
+    "range": "(C)  G8041179-G8999999\n(C)  GG040580-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042385",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "13456281",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],B14XE[LV7],B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -G8038702\n(C)      -GG040469",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042386",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "qty": "1",
+    "usage": "B10XFL[LE1],B14XE[LV7],B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)  G8038703-G8999999\n(C)  GG040470-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "13456281",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD (FOR M32 MANUAL TRANSMISSION,RPO M60,MZ4,MZ0)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)      -G8038380\n(C)      -GG040668",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042386",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD (FOR M32 MANUAL TRANSMISSION,RPO M60,MZ4,MZ0) (FOR M32 MANUAL TRANSMISSION,RPO MGP)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)  G8038381-G8999999\n(C)  GG040669-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "13456281",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTU[LWV],B16DTR[LVK]",
+    "range": "(C)      -G8038487\n(C)      -GG040098",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042386",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR M32/M35 MANUAL TRANSMISSION,RPO MGR/MGW/MOP)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTU[LWV],B16DTR[LVK]",
+    "range": "(C)  G8038488-G8999999\n(C)  GG040099-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39042386",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10X",
+    "part": "(19212762)",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,LHD (AUTOMATIC TRANSMISSION) (EASYTRONIC TRANSMISSION) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10X",
+    "part": "(19212763)",
+    "desc": "KIT,PEDAL PADS,STAINLESS STEEL,RHD (AUTOMATIC TRANSMISSION) (EASYTRONIC TRANSMISSION) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

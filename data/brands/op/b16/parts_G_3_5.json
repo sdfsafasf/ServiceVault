@@ -1,0 +1,101 @@
+[
+  {
+    "call": "8",
+    "part": "(12668432)",
+    "desc": "FUEL RAIL (NLS.- USE 12676473)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "12676473",
+    "desc": "FUEL RAIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "11612156",
+    "desc": "SCREW,FUEL RAIL",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11588717",
+    "desc": "SCREW,FUEL RAIL,EARTH,M6 X 45",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "12655674",
+    "desc": "INJECTOR,ASSY.,FUEL",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12X",
+    "part": "12668869",
+    "desc": "-SET,RING SEALS",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "12585749",
+    "desc": "--RETAINER",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "12668870",
+    "desc": "--SET,RING SEALS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "",
+    "desc": "HARNESS,ASSY.,FUEL INJECTION (PLEASE REFER TO GROUP P) (ENGINE WIRING HARNESS) (SHORTCUT: B16.P512)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

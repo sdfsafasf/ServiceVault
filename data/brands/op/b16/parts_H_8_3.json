@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "(24273306)",
+    "desc": "CONVERTER,TORQUE (FOR 250 CVT TRANSMISSION,RPO MRG) (NLS.- USE 24299157)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11588468)",
+    "desc": "SCREW,SPECIAL,M10 X 15,TRANSMISSION,TORQUE CONVERTER (NLS.- USE YR00134580)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24262294",
+    "desc": "SEAL,OIL,TORQUE CONVERTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95599784",
+    "desc": "GREASE,LUBRICATING MICROLUBE GNY 202,100GRAMS,MAINDRIVE PINION SPLINES,TORQUE CONVERTER",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

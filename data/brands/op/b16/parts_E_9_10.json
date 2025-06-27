@@ -1,0 +1,79 @@
+[
+  {
+    "call": "4",
+    "part": "9427693",
+    "desc": "PLUG,5/8,CYLINDER BLOCK",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11562127",
+    "desc": "PLUG,14 MM OD.,OIL DUCT,14 MM OD.",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "9427695",
+    "desc": "PLUG,OIL DUCT (19.39MM DIA. X 6.6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11569958",
+    "desc": "PLUG,WATER DRAIN",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11569958",
+    "desc": "PLUG,OIL DUCT",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50 ML,PLUG (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "90542114",
+    "desc": "SEALING COMPOUND,50 GRAMS,PLUG (IDENT SC10)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

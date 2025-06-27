@@ -1,0 +1,90 @@
+[
+  {
+    "call": "6",
+    "part": "39014780",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (FOR RAIN SENSOR,RPO CE1) (FOR FORWARD COLLISION SENSOR,RPO UEU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39014779",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (FOR RAIN SENSOR,RPO CE1) (EXCEPT RPO UEU,FORWARD COLLISION SENSOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39014777",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (FOR AIR MOISTURE SENSOR,RPO ASV) (EXCEPT RPO CE1,RAIN SENSOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39014778",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (EXCEPT RPO ASV,AIR MOISTURE SENSOR) (EXCEPT RPO CE1,RAIN SENSOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39202162",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (FOR RAIN SENSOR,RPO CE1) (FOR TILTABLE INTERIOR REAR VIEW MIRROR,RPO D31) (FOR HEADLAMPS,AUTOMATIC ON-OFF WITH TUNNEL DETECTION,RPO TTW) (FOR FORWARD COLLISION SENSOR,RPO UEU) (FOR FOLLOWING DISTANCE SENSOR,RPO UE4) (FOR LANE DEPARTURE WARNING,RPO UHX) (FOR A",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39202163",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (FOR RAIN SENSOR,RPO CE1) (FOR LIGHT SENSITIVE INTERIOR MIRROR,RPO DD8) (FOR HEADLAMPS,AUTOMATIC ON-OFF WITH TUNNEL DETECTION,RPO TTW) (EXCEPT RPO C50,HEATED WINDSCREEN) (EXCEPT RPO UEU,FORWARD COLLISION SENSOR) (EXCEPT RPO UE4,FOLLOWING DISTANCE SENSOR) (EXCE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39202164",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (FOR RAIN SENSOR,RPO CE1) (FOR LIGHT SENSITIVE INTERIOR MIRROR,RPO DD8) (FOR HEADLAMPS,AUTOMATIC ON-OFF WITH TUNNEL DETECTION,RPO TTW) (FOR FORWARD COLLISION SENSOR,RPO UEU) (FOR FOLLOWING DISTANCE SENSOR,RPO UE4) (FOR LANE DEPARTURE WARNING,RPO UHX) (FOR ADVA",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39202165",
+    "desc": "HARNESS,ASSY.,INTERIOR REAR VIEW MIRROR (FOR RAIN SENSOR,RPO CE1) (FOR HEATED WINDSCREEN,RPO C50) (FOR LIGHT SENSITIVE INTERIOR MIRROR,RPO DD8) (FOR HEADLAMPS,AUTOMATIC ON-OFF WITH TUNNEL DETECTION,RPO TTW) (FOR FORWARD COLLISION SENSOR,RPO UEU) (FOR FOLLOWING DISTANCE SENSOR,RPO UE4) (FOR LANE DEPA",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "call": "1",
+    "part": "55598446",
+    "desc": "CASE,CAMSHAFT,WITH COVER,COMPLETE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55571587",
+    "desc": "-GASKET,COVER,CAMSHAFT HOUSING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55574959",
+    "desc": "-INSULATOR,SCREW,CYLINDER HEAD COVER",
+    "qty": "16",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55578373",
+    "desc": "-INSULATION,SCREW,CYLINDER HEAD COVER,CENTRE",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55571591",
+    "desc": "-SCREW,CYLINDER HEAD COVER,OUTER",
+    "qty": "16",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55583625",
+    "desc": "-SCREW,CYLINDER HEAD COVER,CENTRE",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(55499177)",
+    "desc": "CAMSHAFT,INLET (NLS.- USE 55501297,55501414)",
+    "qty": "1",
+    "usage": "(E)      -20 A2180128JCBX0356",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55501297",
+    "desc": "CAMSHAFT,INLET (USE IN CONJUNCTION WITH 55501414 AR)",
+    "qty": "1",
+    "usage": "(E)  20 A2180128JCBX0357-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(55570028)",
+    "desc": "CAMSHAFT,EXHAUST (NLS.- USE 55501298, 55501414)",
+    "qty": "1",
+    "usage": "(E)      -20 A2180128JCBX0356",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55501298",
+    "desc": "CAMSHAFT,EXHAUST (USE IN CONJUNCTION WITH 55501414 AR)",
+    "qty": "1",
+    "usage": "(E)  20 A2180128JCBX0357-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,COVER (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

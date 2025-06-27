@@ -1,0 +1,57 @@
+[
+  {
+    "call": "1",
+    "part": "(55514262)",
+    "desc": "STARTER,ASSY. (NLS.- USE 55515481)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(1681473980)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (NLS.- USE 1680007380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11546892",
+    "desc": "STUD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588744)",
+    "desc": "SCREW,HEX.HD.,M10 X 61 (NLS.- USE YR00067280)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(90351710)",
+    "desc": "SLEEVE,CYLINDER BLOCK (NLS.- USE YQ00690080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

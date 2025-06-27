@@ -1,0 +1,166 @@
+[
+  {
+    "code": "1",
+    "name": "ACCESSORY POWER OUTLET SOCKET"
+  },
+  {
+    "code": "2",
+    "name": "AIRBAG CONTROL"
+  },
+  {
+    "code": "3",
+    "name": "ANTI-THEFT WARNING SYSTEM"
+  },
+  {
+    "code": "4",
+    "name": "BODY CONTROL MODULE"
+  },
+  {
+    "code": "5",
+    "name": "CENTRAL LOCKING RECEIVER"
+  },
+  {
+    "code": "6",
+    "name": "CHASSIS CONTROL (AXLE SPEED SENSOR (FRONT AXLE))"
+  },
+  {
+    "code": "7",
+    "name": "CHASSIS CONTROL (AXLE SPEED SENSOR (REAR AXLE))"
+  },
+  {
+    "code": "8",
+    "name": "CIGARETTE LIGHTER"
+  },
+  {
+    "code": "9",
+    "name": "FRONT CAMERA"
+  },
+  {
+    "code": "10",
+    "name": "FUEL PUMP FLOW CONTROL MODULE"
+  },
+  {
+    "code": "11",
+    "name": "HORN AND FITTINGS"
+  },
+  {
+    "code": "12",
+    "name": "INTERIOR SENSORS (ROOF)"
+  },
+  {
+    "code": "13",
+    "name": "INTERIOR SENSORS (INSTRUMENT PANEL)"
+  },
+  {
+    "code": "14",
+    "name": "INTERIOR SENSORS (FRONT SEAT)"
+  },
+  {
+    "code": "15",
+    "name": "INTERIOR SWITCHES (INSTRUMENT PANEL)"
+  },
+  {
+    "code": "16",
+    "name": "INTERIOR SWITCHES (STEERING COLUMN)"
+  },
+  {
+    "code": "17",
+    "name": "INTERIOR SWITCHES (STEERING WHEEL)"
+  },
+  {
+    "code": "18",
+    "name": "INTERIOR SWITCHES (FRONT TUNNEL CONSOLE)"
+  },
+  {
+    "code": "19",
+    "name": "INTERIOR SWITCHES (ROOF CONSOLE)"
+  },
+  {
+    "code": "20",
+    "name": "INTERIOR SWITCHES (DOOR)"
+  },
+  {
+    "code": "21",
+    "name": "INTERIOR SWITCHES (FRONT SEAT)"
+  },
+  {
+    "code": "22",
+    "name": "INTERIOR SWITCHES (REAR SEAT)"
+  },
+  {
+    "code": "23",
+    "name": "INTERIOR SWITCHES (LOAD COMPARTMENT)"
+  },
+  {
+    "code": "24",
+    "name": "KEYLESS ENTRY AND START SYSTEM"
+  },
+  {
+    "code": "25",
+    "name": "MOTORS (DOOR WINDOW REGULATOR MOTOR)"
+  },
+  {
+    "code": "26",
+    "name": "MOTORS (DOOR MIRROR ADJUSTMENT MOTOR)"
+  },
+  {
+    "code": "27",
+    "name": "MOTORS (SUN ROOF OPERATING MOTOR)"
+  },
+  {
+    "code": "28",
+    "name": "OUTSIDE AIR TEMPERATURE SENSOR"
+  },
+  {
+    "code": "29",
+    "name": "PARK PILOT AND COLLISION AVOIDANCE"
+  },
+  {
+    "code": "30",
+    "name": "REAR VIEW CAMERA"
+  },
+  {
+    "code": "31",
+    "name": "SERIAL DATA GATEWAY MODULE"
+  },
+  {
+    "code": "32",
+    "name": "STEERING COLUMN ELECTRONIC MODULE"
+  },
+  {
+    "code": "33",
+    "name": "TAIL GATE CONTROL AND ACCESSORY MODULE (FOR POWER OPENING TAILGATE,RPO TC2 (ESTATE 35))"
+  },
+  {
+    "code": "34",
+    "name": "TAIL GATE OPENING SWITCH"
+  },
+  {
+    "code": "35",
+    "name": "TAIL GATE WIPER (-K8999999,-KG999999)"
+  },
+  {
+    "code": "36",
+    "name": "TAIL GATE WIPER (L8000001-,LG000001-)"
+  },
+  {
+    "code": "37",
+    "name": "TELEPHONE AND NAVIGATION TRANSFORMER"
+  },
+  {
+    "code": "38",
+    "name": "TYRE PRESSURE MONITORING SYSTEM"
+  },
+  {
+    "code": "39",
+    "name": "WINDSCREEN WIPER (-K8999999,-KG999999)"
+  },
+  {
+    "code": "40",
+    "name": "WINDSCREEN WIPER (L8000001-,LG000001-)"
+  },
+  {
+    "code": "41",
+    "name": "WINDSCREEN/TAIL GATE WASH"
+  }
+]

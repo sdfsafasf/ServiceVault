@@ -1,0 +1,79 @@
+[
+  {
+    "call": "5",
+    "part": "(39015400)",
+    "desc": "HARNESS,ASSY.,RADIO AERIAL AND MODULE (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (EXCEPT RPO U2Q,DAB RADIO) (NLS.- USE 39094767)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39094767",
+    "desc": "HARNESS,ASSY.,RADIO AERIAL AND MODULE (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39015402)",
+    "desc": "HARNESS,ASSY.,RADIO AERIAL AND MODULE (FOR DAB RADIO,RPO U2Q) (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (NLS.- USE 39094769)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39094769",
+    "desc": "HARNESS,ASSY.,RADIO AERIAL AND MODULE (FOR DAB RADIO,RPO U2Q) (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39015401)",
+    "desc": "HARNESS,ASSY.,RADIO AERIAL AND MODULE (FOR DAB RADIO,RPO U2Q) (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (NLS.- USE 39094768)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39094768",
+    "desc": "HARNESS,ASSY.,RADIO AERIAL AND MODULE (FOR DAB RADIO,RPO U2Q) (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39205549",
+    "desc": "HARNESS,ASSY.,RADIO AERIAL AND MODULE (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

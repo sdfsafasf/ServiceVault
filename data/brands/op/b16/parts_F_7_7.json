@@ -1,0 +1,35 @@
+[
+  {
+    "call": "6",
+    "part": "55492938",
+    "desc": "THERMOSTAT,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55492940",
+    "desc": "-SEAL,THERMOSTAT HOUSING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55576192",
+    "desc": "SCREW,HEX.HD.,M6 X 20",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

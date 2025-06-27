@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "13406800",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (IDENT C3Y)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8079240\n(C)      -GG108470",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39050212",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (IDENT EZ1)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8079241-H8079612\n(C)  GG108471-HG141738",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39085946",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (IDENT JX4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8079613-H8999999\n(C)  HG141739-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39096636",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (FOR HEATER SYSTEM WITHOUT AIR CONDITIONING,RPO C42) (IDENT PU5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39109306",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (IDENT SF4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39108465",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR M35 MANUAL TRANSMISSION,RPO MOP) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (IDENT SC2)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39176682",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR M35 MANUAL TRANSMISSION,RPO MOP) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (IDENT P6A)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-K8999999\n(C)  KG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13406412",
+    "desc": "CABLE,ALTERNATOR AND STARTER (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (FOR STOP/START ENGINE SYSTEM) (IDENT YNQ)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39114729)",
+    "desc": "CABLE,ALTERNATOR AND STARTER (FOR M35 MANUAL TRANSMISSION,RPO MOP) (NLS.- USE 39202181) (IDENT SU1)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

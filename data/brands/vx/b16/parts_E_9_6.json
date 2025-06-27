@@ -1,0 +1,233 @@
+[
+  {
+    "call": "9",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,CRANKSHAFT,BEARING CAP,THREEBOND 1227,80ML (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "55588333",
+    "desc": "GUIDE,CRANKSHAFT BEARING,KIT,STD. (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "55588333",
+    "desc": "GUIDE,CRANKSHAFT BEARING,KIT,STD. (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "55588334",
+    "desc": "GUIDE,CRANKSHAFT BEARING,KIT,0.127MM U/S",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "55588331",
+    "desc": "BEARING,CRANKSHAFT,KIT,STD. (EMISSION CODE NE4)",
+    "qty": "4",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "55588331",
+    "desc": "BEARING,CRANKSHAFT,KIT,STD. (EMISSION CODE NCV)",
+    "qty": "4",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "55588332",
+    "desc": "BEARING,CRANKSHAFT,KIT,0.127MM U/S",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55488881",
+    "desc": "GUIDE,CRANKSHAFT BEARING,UPPER,RED,CLASS A",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55488882",
+    "desc": "GUIDE,CRANKSHAFT BEARING,UPPER,BLUE,CLASS B",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55488883",
+    "desc": "GUIDE,CRANKSHAFT BEARING,UPPER,YELLOW,CLASS C",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55488884",
+    "desc": "BEARING,CRANKSHAFT,UPPER,RED,CLASS A",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55488885",
+    "desc": "BEARING,CRANKSHAFT,UPPER,BLUE,CLASS B",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55488886",
+    "desc": "BEARING,CRANKSHAFT,UPPER,YELLOW,CLASS C",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55488887",
+    "desc": "BEARING,CRANKSHAFT,LOWER,RED,CLASS A",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55488888",
+    "desc": "BEARING,CRANKSHAFT,LOWER,BLUE,CLASS B",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55488889",
+    "desc": "BEARING,CRANKSHAFT,LOWER,YELLOW,CLASS C",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55488890",
+    "desc": "BEARING,CRANKSHAFT,LOWER,RED,CLASS A",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55488891",
+    "desc": "BEARING,CRANKSHAFT,LOWER,BLUE,CLASS B",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55488892",
+    "desc": "BEARING,CRANKSHAFT,LOWER,YELLOW,CLASS C",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55596779",
+    "desc": "SEAL,OIL,CRANKSHAFT,FRONT,WITH GROOVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "",
+    "desc": "SEAL,OIL,CRANKSHAFT,REAR (PLEASE REFER TO GROUP E) (TIMING CHAIN,GEAR AND PULLEYS) (SHORTCUT: B16.E125)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

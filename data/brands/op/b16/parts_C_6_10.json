@@ -1,0 +1,120 @@
+[
+  {
+    "call": "1",
+    "part": "(13497197)",
+    "desc": "HOSE,HEATER,WATER INLET (NLS.- USE 39057862) (IDENT AAGH)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 534,
+        "y": 354
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39057862",
+    "desc": "HOSE,HEATER,WATER INLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "90572594",
+    "desc": "-CLAMP,HOSE,26MM",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 623,
+        "y": 402
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13497198)",
+    "desc": "HOSE,HEATER,WATER OUTLET (NLS.- USE 39057865) (IDENT AAGJ)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 314,
+        "y": 1455
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39057865",
+    "desc": "HOSE,HEATER,WATER OUTLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "90572594",
+    "desc": "-CLAMP,HOSE,27MM",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 382,
+        "y": 1832
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90572590",
+    "desc": "-CLAMP,HOSE,23MM",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1628,
+        "y": 916
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13465222",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1825,
+        "y": 1446
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

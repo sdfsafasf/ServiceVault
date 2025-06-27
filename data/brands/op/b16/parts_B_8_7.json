@@ -1,0 +1,105 @@
+[
+  {
+    "call": "5X",
+    "part": "93165025",
+    "desc": "KIT,ADHESIVE,310ML (IDENT GL01)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 429,
+        "y": 64
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13420994)",
+    "desc": "GLASS,TAILGATE (STANDARD TINT) (NLS.- USE 39032092)",
+    "usage": "",
+    "range": "(C)      -G8067239",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1597,
+        "y": 738
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39032092)",
+    "desc": "GLASS,TAILGATE (STANDARD TINT) (NLS.- USE 39083337)",
+    "usage": "",
+    "range": "(C)  G8067240-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39083337",
+    "desc": "GLASS,TAILGATE (STANDARD TINT)",
+    "usage": "",
+    "range": "(C)  G8067240-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13420993)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (NLS.- USE 39032091)",
+    "usage": "",
+    "range": "(C)      -G8067179",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39032091)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (NLS.- USE 39083336)",
+    "usage": "",
+    "range": "(C)  G8067180-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39083336",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO]",
+    "usage": "",
+    "range": "(C)  G8067180-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(90588171)",
+    "desc": "STOP,SELF ADHESIVE (NLS.- USE YR00580180)",
+    "usage": "",
+    "range": "",
+    "qty": "5",
+    "positions": [
+      {
+        "x": 1365,
+        "y": 631
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

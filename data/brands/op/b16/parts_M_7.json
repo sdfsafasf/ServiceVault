@@ -1,0 +1,35 @@
+[
+  {
+    "call": "4",
+    "part": "39056534",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR",
+    "qty": "2",
+    "usage": "B14XFT[LE2],B16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39131173",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR TORSION BEAM REAR AXLE WITHOUT WATT LINKAGE,RPO GNF)",
+    "qty": "2",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39220071",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR TORSION BEAM REAR AXLE WITH WATT LINKAGE,RPO GNG)",
+    "qty": "2",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

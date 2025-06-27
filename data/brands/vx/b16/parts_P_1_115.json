@@ -1,0 +1,35 @@
+[
+  {
+    "call": "26",
+    "part": "12627008",
+    "desc": "-SENSOR,MINIMUM OIL LEVEL,OIL PAN (EXC.RPO ACN,BREAKPOINT CONTROL MY19.5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "12627010",
+    "desc": "--SEAL (EXC.RPO ACN,BREAKPOINT CONTROL MY19.5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "11588713",
+    "desc": "SCREW,HEX.HD.,M6 X 25 (EXC.RPO ACN,BREAKPOINT CONTROL MY19.5)",
+    "qty": "3",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

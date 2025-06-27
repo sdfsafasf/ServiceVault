@@ -1,0 +1,35 @@
+[
+  {
+    "call": "16",
+    "part": "55511061",
+    "desc": "CAP,OIL FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55515118",
+    "desc": "FITTING,OIL FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55515474",
+    "desc": "ELEMENT,OIL FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

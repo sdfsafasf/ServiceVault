@@ -1,0 +1,46 @@
+[
+  {
+    "call": "15",
+    "part": "(12663317)",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 1) (NLS.- USE 12701634)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "12701634",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 1)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(12663317)",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 2) (NLS.- USE 12701634)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "12701634",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 2)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

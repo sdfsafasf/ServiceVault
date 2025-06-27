@@ -1,0 +1,83 @@
+[
+  {
+    "call": "1",
+    "part": "13409777",
+    "desc": "COVER,WHEEL HUB (FOR 6J X 15 STEEL WHEEL)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 153,
+        "y": 127
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13409778",
+    "desc": "COVER,WHEEL HUB (FOR 6J X 15 STEEL WHEEL)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13409775",
+    "desc": "COVER,WHEEL HUB (FOR 6.5J X 16 STEEL WHEEL)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 930,
+        "y": 225
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13409776",
+    "desc": "COVER,WHEEL HUB (FOR 6.5J X 16 STEEL WHEEL)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13409779",
+    "desc": "COVER,WHEEL HUB (FOR 6.5J X 16 STEEL WHEEL)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1628,
+        "y": 108
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13409780",
+    "desc": "COVER,WHEEL HUB (FOR 6.5J X 16 STEEL WHEEL)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

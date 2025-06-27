@@ -1,0 +1,211 @@
+[
+  {
+    "call": "1",
+    "part": "13367062",
+    "desc": "SHAFT,ASSY.,DRIVE,RH (EXCHANGE - REMAN PART 95522357)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95522357)",
+    "desc": "SHAFT,ASSY.,DRIVE,RH,EXCHANGE - REMAN (CORE RETURN NO. 95524444) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13367061",
+    "desc": "SHAFT,ASSY.,DRIVE,LH (EXCHANGE - REMAN PART 95522355)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95522355",
+    "desc": "SHAFT,ASSY.,DRIVE,LH,EXCHANGE - REMAN (CORE RETURN NO. 95524444)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "13462051",
+    "desc": "-JOINT,ASSY.,SHAFT,OUTER,WITH BOOT KIT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "13462054",
+    "desc": "--BOOT,WITH CLAMPS,DRIVE SHAFT,OUTER (KIT)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "---COMPONENT",
+    "desc": "",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "93192201",
+    "desc": "---CLAMP,BOOT TO SHAFT,OUTER,31.5MM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "---COMPONENT",
+    "desc": "",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8X",
+    "part": "39005055",
+    "desc": "-JOINT,ASSY.,SHAFT,INNER,WITH BOOT KIT,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "13462060",
+    "desc": "-JOINT,ASSY.,SHAFT,INNER,WITH BOOT KIT,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10X",
+    "part": "13462065",
+    "desc": "--BOOT,WITH CLAMPS,DRIVE SHAFT,INNER (KIT)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "---COMPONENT",
+    "desc": "",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "---COMPONENT",
+    "desc": "",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13296471",
+    "desc": "---CIRCLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "---COMPONENT",
+    "desc": "",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13329238",
+    "desc": "GREASE,SPECIAL,OLISTAMOLY 2 LN 584 LO / RENOLIT M FLA 2,130GRAMS,DRIVE SHAFT JOINT (IDENT GR17)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13329239",
+    "desc": "GREASE,SPECIAL,GKY H-15,150GRAMS,DRIVE SHAFT JOINT (IDENT GR18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "9121965",
+    "desc": "OIL,CIRCLIP,SHAFT RETAINING,1 LITRE",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

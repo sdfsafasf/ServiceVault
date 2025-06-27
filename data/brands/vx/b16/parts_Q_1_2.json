@@ -1,0 +1,90 @@
+[
+  {
+    "call": "1",
+    "part": "(13479199)",
+    "desc": "ADAPTOR,FLEXCONNECT (NLS.- USE 9834351480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "(13479211)",
+    "desc": "SHELF,KIT,FLEXCONNECT (NLS.- USE 9834352280)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13479199",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(13479212)",
+    "desc": "HOOK,KIT,FLEXCONNECT (NLS.- USE 9834352480)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13479199",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "(13479207)",
+    "desc": "HOLDER KIT,I PAD - MINI,FLEXCONNECT (NLS.- USE 9834352080)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13479199",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "(13479206)",
+    "desc": "HOLDER KIT,I PAD,FLEXCONNECT (NLS.- USE 9834351880)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13479199",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "(39003961)",
+    "desc": "HOLDER KIT,I PAD,AIR,FLEXCONNECT (NLS.- USE 9834352680)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13479199",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "(39003963)",
+    "desc": "HOLDER KIT,SAMSUNG GALAXY TAB 10.1 VERSION 3/4,FLEXCONNECT (NLS.- USE 9834352880)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13479199",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10X",
+    "part": "(13479205)",
+    "desc": "COAT HANGER,FRONT SEAT HEADREST,KIT,FLEXCONNECT (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13479199",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

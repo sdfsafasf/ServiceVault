@@ -1,0 +1,34 @@
+[
+  {
+    "call": "1",
+    "part": "13373165",
+    "desc": "HOSE,HEATER,WATER INLET (IDENT PR6)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1069,
+        "y": 845
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13373176",
+    "desc": "HOSE,HEATER,WATER OUTLET (IDENT PQ6)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1640,
+        "y": 928
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

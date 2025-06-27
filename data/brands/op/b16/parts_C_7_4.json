@@ -1,0 +1,260 @@
+[
+  {
+    "call": "1",
+    "part": "39023895",
+    "desc": "PEDAL,ASSY.,BRAKE AND ACCELERATOR (EXC.RPO AVV,BREAKPOINT CONTROL MY16.5)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 411,
+        "y": 1283
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39023900",
+    "desc": "PEDAL,ASSY.,BRAKE AND ACCELERATOR (FOR RPO AVV,BREAKPOINT CONTROL MY16.5)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39080691)",
+    "desc": "PEDAL,ASSY.,BRAKE AND ACCELERATOR (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (NLS.- USE 39222128)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39222132",
+    "desc": "PEDAL,ASSY.,BRAKE AND ACCELERATOR (FOR ELECTRICAL BOOST BRAKE APPLY SYSTEM,RPO JE0)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39009727",
+    "desc": "-PAD,BRAKE PEDAL (EXCEPT RPO JF5,SPORT ALLOY PEDAL)",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 1633,
+        "y": 2007
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13373777",
+    "desc": "-PEDAL,ACCELERATOR (EXC.RPO AVV,BREAKPOINT CONTROL MY16.5)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2060,
+        "y": 1317
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13466236",
+    "desc": "-PEDAL,ACCELERATOR (FOR RPO AVV,BREAKPOINT CONTROL MY16.5)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13466236",
+    "desc": "-PEDAL,ACCELERATOR",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13281365",
+    "desc": "-SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2164,
+        "y": 1583
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39009737",
+    "desc": "-COVER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 325,
+        "y": 538
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13285340)",
+    "desc": "-CLAMP,LOCKING,PISTON ROD TO BRAKE PEDAL (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (NLS.- USE 39081933)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 961,
+        "y": 1644
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39159520",
+    "desc": "-CLAMP,LOCKING,PISTON ROD TO BRAKE PEDAL (FOR ELECTRICAL BOOST BRAKE APPLY SYSTEM,RPO JE0)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13583370)",
+    "desc": "-SENSOR,POSITION,BRAKE PEDAL (NLS.- USE 13597423)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1688,
+        "y": 1094
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13281351",
+    "desc": "-SCREW,SENSOR,M6 X 12",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1739,
+        "y": 553
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13281369",
+    "desc": "PAD,ACCELERATOR PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 341,
+        "y": 2001
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13281356",
+    "desc": "PAD,BRAKE PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 157,
+        "y": 2200
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11588722)",
+    "desc": "SCREW,HEX.HD.,M8 X 20 (NLS.- USE YQ00526080)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 2176,
+        "y": 681
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11546459)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00000480)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 881,
+        "y": 165
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

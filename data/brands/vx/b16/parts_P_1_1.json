@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(13587307)",
+    "desc": "ALTERNATOR,ASSY.,130 AMP (EXCHANGE - REMAN PART 95519911) (NLS.- USE 39078192) (IDENT AJY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95519911)",
+    "desc": "ALTERNATOR,ASSY.,EXCHANGE - REMAN,130 AMP (CORE RETURN NO. 95524437) (NLS.- USE 95523614)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39078192",
+    "desc": "ALTERNATOR,ASSY.,130 AMP (EXCHANGE - REMAN PART 95523614) (IDENT AT6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95523614)",
+    "desc": "ALTERNATOR,ASSY.,EXCHANGE - REMAN,130 AMP (CORE RETURN NO. 95524437) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11561936",
+    "desc": "STUD,M8",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11589253",
+    "desc": "SCREW,TORX,M8 X 105",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

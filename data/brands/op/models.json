@@ -1,0 +1,10 @@
+{
+  "op": [
+    { "code": "B16", "name": "Astra-K (16 - )" },
+    { "code": "P10", "name": "Astra-J (10-20)" },
+    { "code": "S07", "name": "Corsa-D (06-14)" },
+    { "code": "X15", "name": "Corsa-E (14-19)" },
+    { "code": "G09", "name": "Insignia-A (08-17)" },
+    { "code": "Z18", "name": "Insignia-B (17 - )" }
+  ]
+}

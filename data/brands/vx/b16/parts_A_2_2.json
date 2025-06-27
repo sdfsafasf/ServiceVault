@@ -1,0 +1,50 @@
+[
+  {
+    "call": "6",
+    "part": "(39037562)",
+    "desc": "PANEL,BONNET (NLS.- USE 39054067)",
+    "usage": "",
+    "range": "(C)      -K8999999(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : Diisobutyl phthalate:CAS-number:84-69-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39037562)",
+        "desc": "PANEL,BONNET (NLS.- USE 39054067)"
+      },
+      {
+        "part": "39054067",
+        "desc": "PANEL,BONNET"
+      }
+    ]
+  },
+  {
+    "call": "6",
+    "part": "39169009",
+    "desc": "PANEL,BONNET",
+    "usage": "",
+    "range": "(C)  L8000001-(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 461,
+        "y": 1065
+      }
+    ],
+    "reach": [],
+    "history": [
+      {
+        "part": "Part History is not available.",
+        "desc": ""
+      }
+    ]
+  }
+]

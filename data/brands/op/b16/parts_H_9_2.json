@@ -1,0 +1,68 @@
+[
+  {
+    "call": "8",
+    "part": "(55486235)",
+    "desc": "CABLE,ASSY.,GEARSHIFT LEVER (NLS.- USE 55499529)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55499529",
+    "desc": "CABLE,ASSY.,GEARSHIFT LEVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11546389)",
+    "desc": "NUT,FLANGED,M6 (NLS.- USE YR00713080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55593382",
+    "desc": "GUIDE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55588981",
+    "desc": "BRACKET,GEARSHIFT CONTROL CABLE (IDENT GY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11546333",
+    "desc": "SCREW,M8 X 25.7",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

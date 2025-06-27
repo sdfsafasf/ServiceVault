@@ -1,0 +1,189 @@
+[
+  {
+    "call": "13",
+    "part": "55510178",
+    "desc": "PUMP,ASSY.,FUEL INJECTION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55597097",
+    "desc": "-'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55569519",
+    "desc": "ROLLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11547060",
+    "desc": "SCREW,HEX.HD.,M8 X 30",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55487482",
+    "desc": "COVER,FUEL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11548002",
+    "desc": "SCREW,HEX.HD.,M5 X 15",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(55503731)",
+    "desc": "FUEL RAIL,ASSY. (NLS.- USE 55515688)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(55492929)",
+    "desc": "-INJECTOR,ASSY.,FUEL (NLS.- USE 55515687)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21X",
+    "part": "(55514591)",
+    "desc": "--SEAL KIT (NLS.- USE 12709734)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "55492931",
+    "desc": "---'O'RING,UPPER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "55492934",
+    "desc": "---SEAL,LOWER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "55492928",
+    "desc": "-RETAINER",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "11548178",
+    "desc": "-SCREW,HEX.HD.,M8 X 35",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "11588327",
+    "desc": "-SLEEVE",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "",
+    "desc": "-SENSOR,FUEL PRESSURE (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (FUEL PRESSURE SENSOR) (SHORTCUT: B16.P7)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "",
+    "desc": "-HARNESS,ASSY.,FUEL INJECTION (PLEASE REFER TO GROUP P) (ENGINE WIRING HARNESS) (SHORTCUT: B16.P506)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "",
+    "desc": "--CLIP (PLEASE REFER TO GROUP P) (ENGINE WIRING HARNESS) (SHORTCUT: B16.P506)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

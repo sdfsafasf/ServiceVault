@@ -1,0 +1,200 @@
+[
+  {
+    "call": "1",
+    "part": "55489542",
+    "desc": "LEVER,ASSY.,GEARSHIFT",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55491498)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 55497889)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55496168)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR M32 MANUAL TRANSMISSION,RPO M60,MZ4,MZ0) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (NLS.- USE 55499322)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55499322)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR M32 MANUAL TRANSMISSION,RPO M60,MZ4,MZ0) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (NLS.- USE 55497889)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55497889)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR MANUAL TRANSMISSION,RPO MM3) (NLS.- USE 55509624)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55504008)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR MANUAL TRANSMISSION,RPO MM3) (NLS.- USE 55506447)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55506447)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR MANUAL TRANSMISSION,RPO MM3) (FOR F17 MANUAL TRANSMISSION,RPO M26) (NLS.- USE 55497889)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55593385",
+    "desc": "-ADJUSTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55593384",
+    "desc": "-ADJUSTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55489536",
+    "desc": "-PAWL,LEVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55583342",
+    "desc": "-'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55492328)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55496613) (IDENT BBS)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55496613)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55501644) (IDENT BD6)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55501644)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55503244) (IDENT BK3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55503244)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55504707) (IDENT BLY)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55504707)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55504423) (IDENT BLY)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55504423)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55510368) (IDENT BMR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55492569",
+    "desc": "-RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

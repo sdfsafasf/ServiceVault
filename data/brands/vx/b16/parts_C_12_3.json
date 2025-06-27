@@ -1,0 +1,359 @@
+[
+  {
+    "call": "26",
+    "part": "(13596956)",
+    "desc": "LOCK,ASSY.,REAR DOOR,RH (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (NLS.- USE 13598385) (IDENT ALA)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 229,
+        "y": 2094
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13598385)",
+    "desc": "LOCK,ASSY.,REAR DOOR,RH (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (NLS.- USE 13533667) (IDENT ART)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "13533667",
+    "desc": "LOCK,ASSY.,REAR DOOR,RH (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (IDENT BP5)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13596953)",
+    "desc": "LOCK,ASSY.,REAR DOOR,LH (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (NLS.- USE 13598364) (IDENT AK7)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13598364)",
+    "desc": "LOCK,ASSY.,REAR DOOR,LH (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (NLS.- USE 13533664) (IDENT AP4)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "13533664",
+    "desc": "LOCK,ASSY.,REAR DOOR,LH (EXCEPT RPO UTT,THEFT DETERRENT SYSTEM) (IDENT BPY)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13596954)",
+    "desc": "LOCK,ASSY.,REAR DOOR,RH (FOR THEFT DETERRENT SYSTEM,RPO UTT) (NLS.- USE 13598376) (IDENT AK8)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13598376)",
+    "desc": "LOCK,ASSY.,REAR DOOR,RH (FOR THEFT DETERRENT SYSTEM,RPO UTT) (NLS.- USE 13533626) (IDENT ARH)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "13533626",
+    "desc": "LOCK,ASSY.,REAR DOOR,RH (FOR THEFT DETERRENT SYSTEM,RPO UTT) (IDENT BNM)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13596955)",
+    "desc": "LOCK,ASSY.,REAR DOOR,LH (FOR THEFT DETERRENT SYSTEM,RPO UTT) (NLS.- USE 13598377) (IDENT AK9)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13598377)",
+    "desc": "LOCK,ASSY.,REAR DOOR,LH (FOR THEFT DETERRENT SYSTEM,RPO UTT) (NLS.- USE 13533625) (IDENT ARJ)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "13533625",
+    "desc": "LOCK,ASSY.,REAR DOOR,LH (FOR THEFT DETERRENT SYSTEM,RPO UTT) (IDENT BNL)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "",
+    "desc": "-SCREW,HEX.HD.,M6 X 24 (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 272,
+        "y": 1957
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "10399379",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 150,
+        "y": 1815
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "11546703",
+    "desc": "SCREW,For old door Version with sinkhole",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 341,
+        "y": 750
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "9675768080",
+    "desc": "SCREW,For new door Version w/o sinkhole",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "(13406619)",
+    "desc": "CABLE,BOWDEN,DOOR OUTER HANDLE (NLS.- USE 39079235)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 523,
+        "y": 2057
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "(39079235)",
+    "desc": "CABLE,BOWDEN,DOOR OUTER HANDLE (NLS.- USE 39134813)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "13406621",
+    "desc": "CABLE,BOWDEN,HANDLE,DOOR INNER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 827,
+        "y": 1590
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "39005556",
+    "desc": "ROD,OPERATING,LOCK,WITH KNOB",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 193,
+        "y": 1244
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "13456186",
+    "desc": "ROD,OPERATING,LOCK,WITH KNOB",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "20908489",
+    "desc": "CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 265,
+        "y": 1484
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "(13591437)",
+    "desc": "STRIKER,DOOR LOCK (NLS.- USE 13511488)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 135,
+        "y": 1080
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "(13511488)",
+    "desc": "STRIKER,DOOR LOCK (NLS.- USE YR00176580)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "35",
+    "part": "11518445",
+    "desc": "SCREW,M8 X 25",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 262,
+        "y": 1020
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "13586495",
+    "desc": "SPACER",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 53,
+        "y": 1068
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "37",
+    "part": "(13500936)",
+    "desc": "PLUG,ACCESS HOLE (NLS.- USE YR00714480)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 272,
+        "y": 528
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

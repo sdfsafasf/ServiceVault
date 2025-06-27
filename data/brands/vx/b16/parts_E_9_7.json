@@ -1,0 +1,24 @@
+[
+  {
+    "call": "32",
+    "part": "55491638",
+    "desc": "PULLEY,CRANKSHAFT,WITH GROOVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "55588003",
+    "desc": "SCREW,TORX,M10 X 33",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

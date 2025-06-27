@@ -1,0 +1,46 @@
+[
+  {
+    "call": "8",
+    "part": "(55491542)",
+    "desc": "-BODY,ASSY.,THROTTLE VALVE (NLS.- USE 55494220)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55494220",
+    "desc": "-BODY,ASSY.,THROTTLE VALVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "12637576",
+    "desc": "-SEAL,RING,THROTTLE VALVE BODY TO INDUCTION MANIFOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11588717",
+    "desc": "-SCREW,M6 X 45",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

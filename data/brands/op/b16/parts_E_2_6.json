@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "55487412",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,PLATE (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

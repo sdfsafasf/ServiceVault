@@ -1,0 +1,24 @@
+[
+  {
+    "call": "11",
+    "part": "55490894",
+    "desc": "SENSOR,METAL TEMPERATURE,CYLINDER HEAD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "0",
+    "part": "YR55508114",
+    "desc": "HARNESS,METAL TEMPERATURE SENSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

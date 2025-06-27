@@ -1,0 +1,38 @@
+[
+  {
+    "code": "1",
+    "name": "BULB AND FUSE SETS"
+  },
+  {
+    "code": "2",
+    "name": "FACTORY FITTED MOBILE PHONE PORTAL"
+  },
+  {
+    "code": "3",
+    "name": "PARKING HEATER (LHD (FOR AIR CONDITIONING OR CLIMATE CONTROL) (B10XFL[LE1],D10XFT[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],B16DTR[LVK],D16DTR[LVK] ENGINES))"
+  },
+  {
+    "code": "4",
+    "name": "PARKING PILOT SYSTEM (EXCEPT RPO UD7,PARK PILOT SYSTEM)"
+  },
+  {
+    "code": "5",
+    "name": "PORTABLE DEVICE INTERFACE MODULE"
+  },
+  {
+    "code": "6",
+    "name": "RADIO AUXILIARY CONNECTOR"
+  },
+  {
+    "code": "7",
+    "name": "REAR VIEW CAMERA (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "8",
+    "name": "REAR VIEW CAMERA (ESTATE 35)"
+  },
+  {
+    "code": "9",
+    "name": "TRAILER COUPLING ELECTRICAL FITTINGS"
+  }
+]

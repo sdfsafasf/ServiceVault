@@ -1,0 +1,54 @@
+[
+  {
+    "code": "1",
+    "name": "DIFFERENTIAL"
+  },
+  {
+    "code": "2",
+    "name": "GEAR SELECTION CONTROL (F17 MANUAL TRANSMISSION)"
+  },
+  {
+    "code": "3",
+    "name": "GEAR SELECTION CONTROL (EASYTRONIC TRANSMISSION)"
+  },
+  {
+    "code": "4",
+    "name": "MAINDRIVE PINION GEARS"
+  },
+  {
+    "code": "5",
+    "name": "MAINSHAFT"
+  },
+  {
+    "code": "6",
+    "name": "MAINSHAFT GEARS (FIRST AND SECOND GEARS)"
+  },
+  {
+    "code": "7",
+    "name": "MAINSHAFT GEARS (THIRD,FOURTH AND FIFTH GEARS)"
+  },
+  {
+    "code": "8",
+    "name": "REPAIR KIT"
+  },
+  {
+    "code": "9",
+    "name": "REVERSE GEAR"
+  },
+  {
+    "code": "10",
+    "name": "SELECTOR SHAFT AND FORK"
+  },
+  {
+    "code": "11",
+    "name": "TRANSMISSION ASSEMBLY"
+  },
+  {
+    "code": "12",
+    "name": "TRANSMISSION ASSEMBLY FIXINGS"
+  },
+  {
+    "code": "13",
+    "name": "TRANSMISSION CASE AND COVERS"
+  }
+]

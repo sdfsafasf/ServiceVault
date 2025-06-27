@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(12701699)",
+    "desc": "PUMP,ASSY.,WATER (NLS.- USE 12707765)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(12707765)",
+    "desc": "PUMP,ASSY.,WATER (NLS.- USE 12712268)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-INSULATOR (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588726)",
+    "desc": "SCREW,HEX.HD.,M8 X 40 (NLS.- USE YR00047280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11546365)",
+    "desc": "NUT (NLS.- USE YR00047480)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11570206",
+    "desc": "STUD,M8",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "(39225105)",
+    "desc": "CONTROL MODULE (NLS.- USE YR00711580)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39150397",
+    "desc": "SPLITTER,RADIO/GPS SIGNAL (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB) (FOR RADIO INFOTAINMENT SYSTEM,RPO IOU)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

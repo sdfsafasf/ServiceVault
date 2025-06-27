@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "12992435",
+    "desc": "STUD,M8 X 82,CABLE BRACKET,TRANSMISSION CASE (SINGLE USE PART)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11099271)",
+    "desc": "PLUG,SCREW,M18 X 1,5,TRANSMISSION CASE OIL FILLER,WITH SEAL (NLS.- USE 1696253880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11099271)",
+    "desc": "PLUG,SCREW,M18 X 1.5,TRANSMISSION CASE OIL DRAIN,WITH SEAL (NLS.- USE 1696253880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55592822",
+    "desc": "PLUG,BLANKING,M12,REVERSE LAMP SWITCH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,CASE,TRANSMISSION (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

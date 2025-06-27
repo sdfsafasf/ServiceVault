@@ -1,0 +1,24 @@
+[
+  {
+    "call": "16",
+    "part": "12690199",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 1)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(12681390)",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER (POSITION 2) (NLS.- USE 12703380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

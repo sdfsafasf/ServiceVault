@@ -1,0 +1,35 @@
+[
+  {
+    "call": "12",
+    "part": "(55490075)",
+    "desc": "SENSOR,AIR TEMPERATURE AND CHARGE AIR PRESSURE (EMISSION CODE NE4) (NLS.- USE 12681993)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "12681993",
+    "desc": "SENSOR,AIR TEMPERATURE AND CHARGE AIR PRESSURE (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55563672",
+    "desc": "SCREW,TORX,M4 X 20",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

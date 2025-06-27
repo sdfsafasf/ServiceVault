@@ -1,0 +1,101 @@
+[
+  {
+    "call": "28",
+    "part": "(13453649)",
+    "desc": "REAR VIEW CAMERA (FOR REAR VIEW CAMERA,RPO UVC) (NLS.- USE 13473347)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(13473347)",
+    "desc": "REAR VIEW CAMERA (FOR REAR VIEW CAMERA,RPO UVC) (NLS.- USE 39099846)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "39099846",
+    "desc": "REAR VIEW CAMERA (FOR REAR VIEW CAMERA,RPO UVC)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "39215940",
+    "desc": "REAR VIEW CAMERA (FOR DIGITAL REAR VIEW CAMERA,RPO UVB)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "(13491400)",
+    "desc": "REAR VIEW CAMERA (FOR REAR VIEW CAMERA,RPO UVC) (NLS.- USE 39098092)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "39098092",
+    "desc": "REAR VIEW CAMERA (FOR REAR VIEW CAMERA,RPO UVC)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "39215909",
+    "desc": "REAR VIEW CAMERA (FOR DIGITAL REAR VIEW CAMERA,RPO UVB)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "(39003991)",
+    "desc": "BRACKET,ASSY. (EXCEPT REAR VIEW CAMERA) (NLS.- USE 39059024)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "39059024",
+    "desc": "BRACKET,ASSY. (EXCEPT REAR VIEW CAMERA)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

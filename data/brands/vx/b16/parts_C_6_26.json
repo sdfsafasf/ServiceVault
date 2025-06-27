@@ -1,0 +1,170 @@
+[
+  {
+    "call": "1",
+    "part": "39171886",
+    "desc": "HOSE ASSY.,LIQUID REFRIGERANT,COMPRESSOR AND CONDENSER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 344,
+        "y": 2347
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 484,
+        "y": 2280
+      },
+      {
+        "x": 781,
+        "y": 2033
+      },
+      {
+        "x": 1743,
+        "y": 596
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-SENSOR,PRESSURE (FOR AIR CONDITIONING) (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 811,
+        "y": 2405
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "25872392",
+    "desc": "-VALVE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 750,
+        "y": 2308
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13418811",
+    "desc": "-'O'RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 753,
+        "y": 2234
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11588725",
+    "desc": "SCREW,HEX.HD.,M8 X 35,REFRIGERANT HOSE TO COMPRESSOR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 967,
+        "y": 2103
+      },
+      {
+        "x": 2156,
+        "y": 1519
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 356,
+        "y": 1913
+      },
+      {
+        "x": 1658,
+        "y": 786
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39171885",
+    "desc": "HOSE,ASSY.,EVAPORATOR TO COMPRESSOR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1426,
+        "y": 1669
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1569,
+        "y": 1654
+      },
+      {
+        "x": 1514,
+        "y": 1446
+      },
+      {
+        "x": 1676,
+        "y": 281
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,987 @@
+{
+  "sectionTitle": "Power and Signal Distribution",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Data Communications",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Data Communication Schematics",
+              "url": "astra-k/4446048.pdf"
+            },
+            {
+              "title": "Body Control System Schematics",
+              "url": "astra-k/4446050.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Control Module U Code List",
+              "url": "astra-k/2827477.pdf"
+            },
+            {
+              "title": "DTC B1000",
+              "url": "astra-k/2693869.pdf"
+            },
+            {
+              "title": "DTC B1001",
+              "url": "astra-k/2693870.pdf"
+            },
+            {
+              "title": "DTC B1016",
+              "url": "astra-k/2827731.pdf"
+            },
+            {
+              "title": "DTC B101D",
+              "url": "astra-k/2693871.pdf"
+            },
+            {
+              "title": "DTC B101E",
+              "url": "astra-k/2693872.pdf"
+            },
+            {
+              "title": "DTC C056D",
+              "url": "astra-k/2693873.pdf"
+            },
+            {
+              "title": "DTC C056E",
+              "url": "astra-k/4088578.pdf"
+            },
+            {
+              "title": "DTC C078A",
+              "url": "astra-k/2708920.pdf"
+            },
+            {
+              "title": "DTC P0601-P0607, P060A-P060C, P0610, P062F, P0630, P0634, P064F, P06B8, P16E9-P16F3, P16F9, P16FD, P16FE, P262B, P30D6-P30DD, or P3186",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC P23A9",
+              "url": "astra-k/4695367.pdf"
+            },
+            {
+              "title": "DTC U0020",
+              "url": "astra-k/2708959.pdf"
+            },
+            {
+              "title": "DTC U0028",
+              "url": "astra-k/4055251.pdf"
+            },
+            {
+              "title": "DTC U0029",
+              "url": "astra-k/2745830.pdf"
+            },
+            {
+              "title": "DTC U0073 or U2100",
+              "url": "astra-k/2708962.pdf"
+            },
+            {
+              "title": "DTC U0074",
+              "url": "astra-k/2851921.pdf"
+            },
+            {
+              "title": "DTC U0075",
+              "url": "astra-k/2743247.pdf"
+            },
+            {
+              "title": "DTC U0077",
+              "url": "astra-k/4144050.pdf"
+            },
+            {
+              "title": "DTC U0078",
+              "url": "astra-k/2708970.pdf"
+            },
+            {
+              "title": "DTC U007B",
+              "url": "astra-k/4244413.pdf"
+            },
+            {
+              "title": "DTC U007C",
+              "url": "astra-k/4262382.pdf"
+            },
+            {
+              "title": "DTC U007D",
+              "url": "astra-k/4245759.pdf"
+            },
+            {
+              "title": "DTC U0100-U02FF",
+              "url": "astra-k/4340911.pdf"
+            },
+            {
+              "title": "DTC U01B0",
+              "url": "astra-k/4310782.pdf"
+            },
+            {
+              "title": "DTC U0241 or U0242",
+              "url": "astra-k/4296668.pdf"
+            },
+            {
+              "title": "DTC U0300-U0336",
+              "url": "astra-k/2693876.pdf"
+            },
+            {
+              "title": "DTC U0400-U05FF",
+              "url": "astra-k/2693877.pdf"
+            },
+            {
+              "title": "DTC U053B",
+              "url": "astra-k/5146587.pdf"
+            },
+            {
+              "title": "DTC U1340-U135F",
+              "url": "astra-k/4122526.pdf"
+            },
+            {
+              "title": "DTC U1500-U15FF",
+              "url": "astra-k/2708974.pdf"
+            },
+            {
+              "title": "DTC U1653",
+              "url": "astra-k/4405072.pdf"
+            },
+            {
+              "title": "DTC U1725-U172A",
+              "url": "astra-k/4211023.pdf"
+            },
+            {
+              "title": "DTC U1814",
+              "url": "astra-k/2709004.pdf"
+            },
+            {
+              "title": "DTC U1833",
+              "url": "astra-k/2851964.pdf"
+            },
+            {
+              "title": "DTC U184A",
+              "url": "astra-k/2851966.pdf"
+            },
+            {
+              "title": "DTC U185D",
+              "url": "astra-k/2815110.pdf"
+            },
+            {
+              "title": "DTC U185E",
+              "url": "astra-k/2815111.pdf"
+            },
+            {
+              "title": "DTC U18A2",
+              "url": "astra-k/2853650.pdf"
+            },
+            {
+              "title": "DTC U18A7",
+              "url": "astra-k/4108756.pdf"
+            },
+            {
+              "title": "DTC U18B9-U18BF",
+              "url": "astra-k/2693878.pdf"
+            },
+            {
+              "title": "DTC U2098",
+              "url": "astra-k/2743294.pdf"
+            },
+            {
+              "title": "DTC U2099",
+              "url": "astra-k/2709006.pdf"
+            },
+            {
+              "title": "DTC U209E",
+              "url": "astra-k/2744780.pdf"
+            },
+            {
+              "title": "DTC U209F",
+              "url": "astra-k/2744781.pdf"
+            },
+            {
+              "title": "DTC U2160-U2231",
+              "url": "astra-k/3512395.pdf"
+            },
+            {
+              "title": "DTC U2400",
+              "url": "astra-k/2815112.pdf"
+            },
+            {
+              "title": "DTC U2616",
+              "url": "astra-k/2853655.pdf"
+            },
+            {
+              "title": "DTC U3000",
+              "url": "astra-k/4161203.pdf"
+            },
+            {
+              "title": "DTC U3012",
+              "url": "astra-k/4088962.pdf"
+            },
+            {
+              "title": "Symptoms - Data Communications",
+              "url": "astra-k/4339126.pdf"
+            },
+            {
+              "title": "Scan Tool Does Not Power Up",
+              "url": "astra-k/2709015.pdf"
+            },
+            {
+              "title": "Scan Tool Does Not Communicate with Gateway Expansion High Speed GMLAN Device",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Scan Tool Does Not Communicate with Gateway Isolated High Speed GMLAN Device",
+              "url": "astra-k/4338062.pdf"
+            },
+            {
+              "title": "Scan Tool Does Not Communicate with Gateway Isolated Low Speed GMLAN Device",
+              "url": "astra-k/4337920.pdf"
+            },
+            {
+              "title": "Scan Tool Does Not Communicate with High Speed GMLAN Device",
+              "url": "astra-k/2709021.pdf"
+            },
+            {
+              "title": "Scan Tool Does Not Communicate with Low Speed GMLAN Device",
+              "url": "astra-k/4426334.pdf"
+            },
+            {
+              "title": "Data Link References",
+              "url": "astra-k/4605030.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Body Control Module Replacement (Left Hand Drive)",
+              "url": "astra-k/4215901.pdf"
+            },
+            {
+              "title": "Body Control Module Replacement (Right Hand Drive)",
+              "url": "astra-k/4215902.pdf"
+            },
+            {
+              "title": "Body Control Module Bracket Replacement (Right Hand Drive)",
+              "url": "astra-k/4215903.pdf"
+            },
+            {
+              "title": "Body Control Module Bracket Replacement (Left Hand Drive)",
+              "url": "astra-k/4084837.pdf"
+            },
+            {
+              "title": "Serial Data Gateway Module Replacement (Left Hand Drive)",
+              "url": "astra-k/4554915.pdf"
+            },
+            {
+              "title": "Serial Data Gateway Module Replacement (Right Hand Drive)",
+              "url": "astra-k/4695135.pdf"
+            },
+            {
+              "title": "Serial Data Gateway Bracket Replacement (Left Hand Drive)",
+              "url": "astra-k/4564304.pdf"
+            },
+            {
+              "title": "Serial Data Gateway Bracket Replacement (Right Hand Drive)",
+              "url": "astra-k/4695136.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Body Control System Description and Operation",
+              "url": "astra-k/2172041.pdf"
+            },
+            {
+              "title": "Data Link Communications Description and Operation",
+              "url": "astra-k/4165117.pdf"
+            },
+            {
+              "title": "Serial Data Gateway Module Description and Operation",
+              "url": "astra-k/4239856.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Power Outlets",
+      "nestedSections": [
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Cigar Lighter/Power Outlet Schematics",
+              "url": "astra-k/4446056.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Symptoms - Power Outlets",
+              "url": "astra-k/2176287.pdf"
+            },
+            {
+              "title": "Power Outlet Receptacle Malfunction (12V)",
+              "url": "astra-k/4192612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Accessory Power Receptacle Replacement (Front Floor Console)",
+              "url": "astra-k/4215912.pdf"
+            },
+            {
+              "title": "Accessory Power Receptacle Replacement (Front Floor Rear Console)",
+              "url": "astra-k/4215913.pdf"
+            },
+            {
+              "title": "Accessory Power Receptacle Replacement (Rear Compartment - 5-Door Wagon 35)",
+              "url": "astra-k/4329374.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Power Outlets Description and Operation",
+              "url": "astra-k/3621649.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wiring Systems and Power Management",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Harness Routing Views",
+              "url": "astra-k/4429446.pdf"
+            },
+            {
+              "title": "How to Use Electrical Schematics",
+              "url": "astra-k/3293350.pdf"
+            },
+            {
+              "title": "Electrical Schematic Symbols",
+              "url": "astra-k/2087480.pdf"
+            },
+            {
+              "title": "Vehicle Zoning Strategy",
+              "url": "astra-k/2135905.pdf"
+            },
+            {
+              "title": "Schematics RPO Code List",
+              "url": "astra-k/4495771.pdf"
+            },
+            {
+              "title": "Master Electrical Schematic Icons",
+              "url": "astra-k/3770341.pdf"
+            },
+            {
+              "title": "Power Distribution Schematics",
+              "url": "astra-k/4446061.pdf"
+            },
+            {
+              "title": "Power Moding Schematics",
+              "url": "astra-k/4446071.pdf"
+            },
+            {
+              "title": "Ignition Lock Schematics",
+              "url": "astra-k/4446077.pdf"
+            },
+            {
+              "title": "Ground Distribution Schematics",
+              "url": "astra-k/4446082.pdf"
+            },
+            {
+              "title": "Trailer Connector/Provision Schematics",
+              "url": "astra-k/4446085.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Master Electrical Component List",
+              "url": "astra-k/4495773.pdf"
+            },
+            {
+              "title": "Front of Vehicle/Engine Compartment Component Views",
+              "url": "astra-k/4429447.pdf"
+            },
+            {
+              "title": "Powertrain Component Views",
+              "url": "astra-k/4429449.pdf"
+            },
+            {
+              "title": "Instrument Panel/Center Console Component Views",
+              "url": "astra-k/4429450.pdf"
+            },
+            {
+              "title": "Passenger Compartment/Roof Component Views",
+              "url": "astra-k/4429451.pdf"
+            },
+            {
+              "title": "Door Component Views",
+              "url": "astra-k/4429452.pdf"
+            },
+            {
+              "title": "Luggage Compartment/Rear of Vehicle Component Views",
+              "url": "astra-k/4429457.pdf"
+            },
+            {
+              "title": "Wheels/Vehicle Underbody Component Views",
+              "url": "astra-k/4429459.pdf"
+            },
+            {
+              "title": "Ground Views",
+              "url": "astra-k/4429460.pdf"
+            },
+            {
+              "title": "Electrical Center Identification Views",
+              "url": "astra-k/4429465.pdf"
+            },
+            {
+              "title": "Component Connector End Views",
+              "url": "astra-k/4509879.pdf"
+            },
+            {
+              "title": "Inline Harness Connector End Views",
+              "url": "astra-k/4509881.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B097B",
+              "url": "astra-k/2753527.pdf"
+            },
+            {
+              "title": "DTC B097C",
+              "url": "astra-k/2768370.pdf"
+            },
+            {
+              "title": "DTC B1370",
+              "url": "astra-k/2896828.pdf"
+            },
+            {
+              "title": "DTC B1370-B1379, B1380-B1389, or B1440-B1443",
+              "url": "astra-k/2658507.pdf"
+            },
+            {
+              "title": "DTC B1445 (Body Control Module)",
+              "url": "astra-k/4192694.pdf"
+            },
+            {
+              "title": "DTC B1445 (Power Supply Transformer With Automatic Transmission)",
+              "url": "astra-k/4192906.pdf"
+            },
+            {
+              "title": "DTC B1445 (Power Supply Transformer With Manual Transmission)",
+              "url": "astra-k/4192941.pdf"
+            },
+            {
+              "title": "DTC B144A",
+              "url": "astra-k/4206422.pdf"
+            },
+            {
+              "title": "DTC B144B",
+              "url": "astra-k/4193848.pdf"
+            },
+            {
+              "title": "DTC B144D",
+              "url": "astra-k/3685494.pdf"
+            },
+            {
+              "title": "DTC B1451",
+              "url": "astra-k/3610635.pdf"
+            },
+            {
+              "title": "DTC B305E",
+              "url": "astra-k/4192663.pdf"
+            },
+            {
+              "title": "DTC P2533-P2535",
+              "url": "astra-k/4067439.pdf"
+            },
+            {
+              "title": "DTC P2537",
+              "url": "astra-k/3352705.pdf"
+            },
+            {
+              "title": "Symptoms - Wiring Systems",
+              "url": "astra-k/2779801.pdf"
+            },
+            {
+              "title": "Ignition Can/Cannot Be Turned Off with Transmission in Any Gear (With Push Button Start)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Ignition Can/Cannot Be Turned Off with Transmission in Any Gear (Without Push Button Start)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Ignition Mode Switch Indicator Malfunction",
+              "url": "astra-k/2718351.pdf"
+            },
+            {
+              "title": "Power Mode Mismatch (With Push Button Start)",
+              "url": "astra-k/4192974.pdf"
+            },
+            {
+              "title": "Power Mode Mismatch (Without Push Button Start)",
+              "url": "astra-k/4192977.pdf"
+            },
+            {
+              "title": "Retained Accessory Power Malfunction",
+              "url": "astra-k/4193878.pdf"
+            },
+            {
+              "title": "Vehicle Will Not Change Power Mode",
+              "url": "astra-k/2717988.pdf"
+            },
+            {
+              "title": "General Electrical Diagnosis",
+              "url": "astra-k/106801.pdf"
+            },
+            {
+              "title": "Checking Aftermarket Accessories",
+              "url": "astra-k/2101991.pdf"
+            },
+            {
+              "title": "Circuit Testing",
+              "url": "astra-k/2414706.pdf"
+            },
+            {
+              "title": "Using Connector Test Adapters",
+              "url": "astra-k/2162525.pdf"
+            },
+            {
+              "title": "Probing Electrical Circuits",
+              "url": "astra-k/5142695.pdf"
+            },
+            {
+              "title": "Troubleshooting with a Digital Multimeter",
+              "url": "astra-k/2396712.pdf"
+            },
+            {
+              "title": "Troubleshooting with a Test Lamp",
+              "url": "astra-k/2161361.pdf"
+            },
+            {
+              "title": "Using Fused Jumper Wires",
+              "url": "astra-k/2161372.pdf"
+            },
+            {
+              "title": "Measuring Voltage",
+              "url": "astra-k/2102003.pdf"
+            },
+            {
+              "title": "Measuring Voltage Drop",
+              "url": "astra-k/2102005.pdf"
+            },
+            {
+              "title": "Measuring Frequency",
+              "url": "astra-k/2102007.pdf"
+            },
+            {
+              "title": "Testing Ground and Low Reference Circuits",
+              "url": "astra-k/2398569.pdf"
+            },
+            {
+              "title": "Testing for Continuity",
+              "url": "astra-k/2102009.pdf"
+            },
+            {
+              "title": "Testing for Short to Ground",
+              "url": "astra-k/2102011.pdf"
+            },
+            {
+              "title": "Testing for a Short to Voltage",
+              "url": "astra-k/2102013.pdf"
+            },
+            {
+              "title": "Testing for Intermittent Conditions and Poor Connections",
+              "url": "astra-k/2161319.pdf"
+            },
+            {
+              "title": "Inducing Intermittent Fault Conditions",
+              "url": "astra-k/2160426.pdf"
+            },
+            {
+              "title": "Testing for Electrical Intermittents",
+              "url": "astra-k/2160633.pdf"
+            },
+            {
+              "title": "Scan Tool Snapshot Procedure",
+              "url": "astra-k/2710320.pdf"
+            },
+            {
+              "title": "Circuit Protection - Fuses",
+              "url": "astra-k/2474390.pdf"
+            },
+            {
+              "title": "Circuit Protection - Circuit Breakers",
+              "url": "astra-k/303638.pdf"
+            },
+            {
+              "title": "Circuit Protection - Fusible Links",
+              "url": "astra-k/2160852.pdf"
+            },
+            {
+              "title": "Ignition Key Cannot Be Inserted, Rotated, or Removed from the Ignition Lock Cylinder",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Wiring Repairs",
+              "url": "astra-k/2160816.pdf"
+            },
+            {
+              "title": "Connector Repairs",
+              "url": "astra-k/2413364.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Repairing Damaged Wire Insulation",
+              "url": "astra-k/2160849.pdf"
+            },
+            {
+              "title": "Coaxial Cable Repairs",
+              "url": "astra-k/2670923.pdf"
+            },
+            {
+              "title": "Flat Wire Repairs",
+              "url": "astra-k/2102021.pdf"
+            },
+            {
+              "title": "Folded-Over Wire Repair",
+              "url": "astra-k/2531817.pdf"
+            },
+            {
+              "title": "Serial Data Circuit Wiring Repairs",
+              "url": "astra-k/2169173.pdf"
+            },
+            {
+              "title": "Heated Oxygen Sensor Wiring Repairs",
+              "url": "astra-k/2160881.pdf"
+            },
+            {
+              "title": "High Temperature Wiring Repairs",
+              "url": "astra-k/2169177.pdf"
+            },
+            {
+              "title": "SIR/SRS Wiring Repairs",
+              "url": "astra-k/2169386.pdf"
+            },
+            {
+              "title": "Splicing Twisted or Shielded Cable",
+              "url": "astra-k/303649.pdf"
+            },
+            {
+              "title": "Wire to Wire Repair",
+              "url": "astra-k/2161159.pdf"
+            },
+            {
+              "title": "Connector Position Assurance Locks",
+              "url": "astra-k/303666.pdf"
+            },
+            {
+              "title": "Terminal Position Assurance Locks",
+              "url": "astra-k/303668.pdf"
+            },
+            {
+              "title": "AFL/EPC Connectors",
+              "url": "astra-k/2161491.pdf"
+            },
+            {
+              "title": "Bosch Connectors (BSK)",
+              "url": "astra-k/2166713.pdf"
+            },
+            {
+              "title": "Bosch Connectors (0.64)",
+              "url": "astra-k/2166714.pdf"
+            },
+            {
+              "title": "Bosch Connectors (2.8 JPT)",
+              "url": "astra-k/2166717.pdf"
+            },
+            {
+              "title": "Bosch Connectors (ECM)",
+              "url": "astra-k/2166718.pdf"
+            },
+            {
+              "title": "Delphi Connectors (Weather Pack)",
+              "url": "astra-k/2166297.pdf"
+            },
+            {
+              "title": "Delphi Connectors (Push To Seat)",
+              "url": "astra-k/2166301.pdf"
+            },
+            {
+              "title": "Delphi Connectors (Pull To Seat)",
+              "url": "astra-k/2166323.pdf"
+            },
+            {
+              "title": "Delphi Connectors (Micro-Pack 100W)",
+              "url": "astra-k/2166397.pdf"
+            },
+            {
+              "title": "Delphi Connectors (Micro .64)",
+              "url": "astra-k/2166400.pdf"
+            },
+            {
+              "title": "Delphi Connectors (12-Way)",
+              "url": "astra-k/2166404.pdf"
+            },
+            {
+              "title": "Delphi Connectors (Steering Gear)",
+              "url": "astra-k/2395533.pdf"
+            },
+            {
+              "title": "FCI Connectors (Lever Lock)",
+              "url": "astra-k/2166640.pdf"
+            },
+            {
+              "title": "FCI Connectors (SIR)",
+              "url": "astra-k/2395559.pdf"
+            },
+            {
+              "title": "FEP Connectors (Steering Gear)",
+              "url": "astra-k/2395534.pdf"
+            },
+            {
+              "title": "JST Connectors",
+              "url": "astra-k/2166645.pdf"
+            },
+            {
+              "title": "Kostal Connectors (Glow Plug Control Module)",
+              "url": "astra-k/2168229.pdf"
+            },
+            {
+              "title": "Kostal Connectors (Transmission)",
+              "url": "astra-k/2168230.pdf"
+            },
+            {
+              "title": "Molex Connectors (Lever Lock)",
+              "url": "astra-k/2168235.pdf"
+            },
+            {
+              "title": "Molex Connectors (SIR)",
+              "url": "astra-k/3267137.pdf"
+            },
+            {
+              "title": "Sumitomo Connectors",
+              "url": "astra-k/2168238.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (CM 42-Way)",
+              "url": "astra-k/2168268.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (Sensor)",
+              "url": "astra-k/2168269.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (0.25 Cap)",
+              "url": "astra-k/2168270.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (43-Way)",
+              "url": "astra-k/2168272.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (Door Module)",
+              "url": "astra-k/2168274.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (102-Way Inline)",
+              "url": "astra-k/2168731.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (Seat)",
+              "url": "astra-k/2168522.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (SIR)",
+              "url": "astra-k/2168782.pdf"
+            },
+            {
+              "title": "Tyco/AMP Connectors (36-Position Transmission)",
+              "url": "astra-k/5136879.pdf"
+            },
+            {
+              "title": "Yazaki Connectors (2-Way)",
+              "url": "astra-k/2166825.pdf"
+            },
+            {
+              "title": "Yazaki Connectors (16-Way)",
+              "url": "astra-k/2166826.pdf"
+            },
+            {
+              "title": "Repairing Connector Terminals (Terminated Lead Repair)",
+              "url": "astra-k/2488504.pdf"
+            },
+            {
+              "title": "Terminal Removal",
+              "url": "astra-k/2425923.pdf"
+            },
+            {
+              "title": "Electrical Relay Replacement (Attached to Wire Harness)",
+              "url": "astra-k/777743.pdf"
+            },
+            {
+              "title": "Electrical Relay Replacement (Within an Electrical Center)",
+              "url": "astra-k/2131891.pdf"
+            },
+            {
+              "title": "Fuse Block Replacement (Gasoline and Diesel Engine)",
+              "url": "astra-k/4278347.pdf"
+            },
+            {
+              "title": "Fuse Block Replacement (CNG)",
+              "url": "astra-k/4539496.pdf"
+            },
+            {
+              "title": "Front Compartment Fuse Block Replacement",
+              "url": "astra-k/4140348.pdf"
+            },
+            {
+              "title": "Front Compartment Fuse Block Housing Replacement",
+              "url": "astra-k/3704100.pdf"
+            },
+            {
+              "title": "Body Wiring Harness Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4220383.pdf"
+            },
+            {
+              "title": "Body Wiring Harness Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4331807.pdf"
+            },
+            {
+              "title": "Body Rear Wiring Harness Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4229464.pdf"
+            },
+            {
+              "title": "Body Rear Wiring Harness Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4331813.pdf"
+            },
+            {
+              "title": "Rear Body Fuse Block Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4215914.pdf"
+            },
+            {
+              "title": "Rear Body Fuse Block Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4331812.pdf"
+            },
+            {
+              "title": "Ignition Lock Cylinder Replacement",
+              "url": "astra-k/4606743.pdf"
+            },
+            {
+              "title": "Ignition and Start Switch Replacement",
+              "url": "astra-k/3704076.pdf"
+            },
+            {
+              "title": "Engine Stop/Start Mode Control Switch Replacement",
+              "url": "astra-k/4215916.pdf"
+            },
+            {
+              "title": "Ignition and Start Switch Housing Replacement",
+              "url": "astra-k/3704091.pdf"
+            },
+            {
+              "title": "Wiring Harness Repair Time Allowances",
+              "url": "astra-k/3981639.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Electronic Park Lock Description and Operation",
+              "url": "astra-k/1811078.pdf"
+            },
+            {
+              "title": "Power Mode Description and Operation",
+              "url": "astra-k/4473530.pdf"
+            },
+            {
+              "title": "Retained Accessory Power Description and Operation (WIthout Push Button Start)",
+              "url": "astra-k/2155931.pdf"
+            },
+            {
+              "title": "Retained Accessory Power Description and Operation (With Push Button Start)",
+              "url": "astra-k/4193884.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

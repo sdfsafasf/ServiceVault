@@ -1,0 +1,115 @@
+[
+  {
+    "call": "1",
+    "part": "(39014512)",
+    "desc": "HINGE,ASSY.,BONNET,RH (NLS.- USE 39032150)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1995,
+        "y": 812
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39032150",
+    "desc": "HINGE,ASSY.,BONNET,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39014511)",
+    "desc": "HINGE,ASSY.,BONNET,LH (NLS.- USE 39032149)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39032149",
+    "desc": "HINGE,ASSY.,BONNET,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11519388)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M8 X 25 (NLS.- USE YR00712980)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 2019,
+        "y": 938
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11519382)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M6 X 16 (NLS.- USE 95530321)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1740,
+        "y": 1202
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11611321)",
+    "desc": "NUT,M6 (NLS.- USE YQ00158380)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1824,
+        "y": 1169
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(11514519)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YQ00156180)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1476,
+        "y": 1133
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "5",
+    "part": "13375176",
+    "desc": "PIPE,ASSY.,VACUUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13581099",
+    "desc": "-SENSOR,VACUUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-CONNECTOR (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

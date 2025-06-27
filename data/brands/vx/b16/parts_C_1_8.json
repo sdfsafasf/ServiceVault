@@ -1,0 +1,106 @@
+[
+  {
+    "call": "1",
+    "part": "13431571",
+    "desc": "INSULATOR,REAR,LH (FOR SOUND ACOUSTIC PACKAGE,RPO BS1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1680,
+        "y": 944
+      },
+      {
+        "x": 1946,
+        "y": 2301
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13431572",
+    "desc": "INSULATOR,REAR,RH (FOR SOUND ACOUSTIC PACKAGE,RPO BS1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 104,
+        "y": 1394
+      },
+      {
+        "x": 440,
+        "y": 279
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13431582",
+    "desc": "INSULATOR,REAR,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1713,
+        "y": 466
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13431583",
+    "desc": "INSULATOR,REAR,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 501,
+        "y": 158
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13431539",
+    "desc": "INSULATOR,LH,REAR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1825,
+        "y": 548
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13431540",
+    "desc": "INSULATOR,RH,REAR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1051,
+        "y": 182
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

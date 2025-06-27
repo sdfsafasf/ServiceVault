@@ -1,0 +1,164 @@
+[
+  {
+    "call": "11",
+    "part": "13431604",
+    "desc": "INSULATOR,FRONT WING,LH (FOR SOUND ACOUSTIC PACKAGE,RPO BS1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1971,
+        "y": 1485
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39161713",
+    "desc": "INSULATOR,FRONT WING,LH",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13431605",
+    "desc": "INSULATOR,FRONT WING,RH (FOR SOUND ACOUSTIC PACKAGE,RPO BS1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 526,
+        "y": 988
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39161714",
+    "desc": "INSULATOR,FRONT WING,RH",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13475912",
+    "desc": "INSULATOR,FRONT WING,LH",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1550,
+        "y": 2086
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39173203",
+    "desc": "INSULATOR,FRONT WING,LH",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13475913",
+    "desc": "INSULATOR,FRONT WING,RH",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 398,
+        "y": 1403
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39173204",
+    "desc": "INSULATOR,FRONT WING,RH",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13475914",
+    "desc": "INSULATOR,FRONT WING,LH",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1675,
+        "y": 2217
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39122833",
+    "desc": "INSULATOR,FRONT WING,LH",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13475915",
+    "desc": "INSULATOR,FRONT WING,RH",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 258,
+        "y": 1439
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "39122834",
+    "desc": "INSULATOR,FRONT WING,RH",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

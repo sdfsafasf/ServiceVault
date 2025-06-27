@@ -1,0 +1,252 @@
+[
+  {
+    "call": "1",
+    "part": "(39025939)",
+    "desc": "HOSE ASSY.,LIQUID REFRIGERANT,COMPRESSOR AND CONDENSER (NLS.- USE 39042322)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],D16DTI[LXO]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1305,
+        "y": 1392
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39042322)",
+    "desc": "HOSE ASSY.,LIQUID REFRIGERANT,COMPRESSOR AND CONDENSER (NLS.- USE 39169633)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],D16DTI[LXO]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39025947)",
+    "desc": "HOSE ASSY.,LIQUID REFRIGERANT,COMPRESSOR AND CONDENSER (NLS.- USE 39042323)",
+    "usage": "B16DTR[LVK],D16DTR[LVK]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 963,
+        "y": 727
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39042323",
+    "desc": "HOSE ASSY.,LIQUID REFRIGERANT,COMPRESSOR AND CONDENSER",
+    "usage": "B16DTR[LVK],D16DTR[LVK]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1363,
+        "y": 1154
+      },
+      {
+        "x": 804,
+        "y": 1578
+      },
+      {
+        "x": 203,
+        "y": 895
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1326,
+        "y": 776
+      },
+      {
+        "x": 633,
+        "y": 1364
+      },
+      {
+        "x": 157,
+        "y": 535
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 72,
+        "y": 394
+      },
+      {
+        "x": 1106,
+        "y": 715
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1872,
+        "y": 785
+      },
+      {
+        "x": 786,
+        "y": 480
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13502758)",
+    "desc": "-SENSOR,PRESSURE (FOR AIR CONDITIONING) (NLS.- USE 13587668)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1652,
+        "y": 1273
+      },
+      {
+        "x": 591,
+        "y": 919
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13418811",
+    "desc": "-'O'RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 581,
+        "y": 824
+      },
+      {
+        "x": 1646,
+        "y": 1148
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "25872392",
+    "desc": "-VALVE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 581,
+        "y": 779
+      },
+      {
+        "x": 1634,
+        "y": 998
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11588727",
+    "desc": "SCREW,HEX.HD.,M8 X 45,REFRIGERANT HOSE TO COMPRESSOR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1350,
+        "y": 59
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1115,
+        "y": 260
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1579,
+        "y": 101
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

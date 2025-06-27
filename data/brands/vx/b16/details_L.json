@@ -1,0 +1,38 @@
+[
+  {
+    "code": "1",
+    "name": "AIRBAG"
+  },
+  {
+    "code": "2",
+    "name": "STEERING COLUMN"
+  },
+  {
+    "code": "3",
+    "name": "STEERING COLUMN COVER"
+  },
+  {
+    "code": "4",
+    "name": "STEERING GEAR AND TIE RODS"
+  },
+  {
+    "code": "5",
+    "name": "STEERING KNUCKLE"
+  },
+  {
+    "code": "6",
+    "name": "STEERING WHEEL (FOR PLASTIC STEERING WHEEL,RPO N45)"
+  },
+  {
+    "code": "7",
+    "name": "STEERING WHEEL (FOR LEATHER STEERING WHEEL,RPO N34 (-H8999999, -HG999999))"
+  },
+  {
+    "code": "8",
+    "name": "STEERING WHEEL (FOR LEATHER STEERING WHEEL,RPO N34 (J8000001-, JG000001-))"
+  },
+  {
+    "code": "9",
+    "name": "STEERING WHEEL (FOR LEATHER STEERING WHEEL,RPO N35)"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "13375177",
+    "desc": "PIPE,ASSY.,VACUUM (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39146333",
+    "desc": "PIPE,ASSY.,VACUUM (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13375179",
+    "desc": "PIPE,ASSY.,VACUUM (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13406491",
+    "desc": "PIPE,ASSY.,VACUUM (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39146332",
+    "desc": "PIPE,ASSY.,VACUUM (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-VALVE (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13581099",
+    "desc": "-SENSOR,VACUUM (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13449657)",
+    "desc": "-CONNECTOR (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13303884",
+    "desc": "-CLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

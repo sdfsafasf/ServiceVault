@@ -1,0 +1,79 @@
+[
+  {
+    "call": "22",
+    "part": "(39022007)",
+    "desc": "SENSOR,HEADLAMP LEVELLING,FRONT (NLS.- USE 39147648)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "11547773",
+    "desc": "NUT,INSERT,M6",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "10271003",
+    "desc": "STUD,BALL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "11517102",
+    "desc": "NUT,HEX.,M6",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13377865)",
+    "desc": "SENSOR,HEADLAMP LEVELLING,REAR (NLS.- USE 39147647)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "10271003",
+    "desc": "STUD,BALL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(11588710)",
+    "desc": "SCREW,HEX.HD.,M6 X 13 (NLS.- USE YR00161480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "code": "1",
+    "name": "INSTRUCTION LABELS"
+  },
+  {
+    "code": "2",
+    "name": "ROAD WHEELS (STEEL WHEELS"
+  },
+  {
+    "code": "3",
+    "name": "ROAD WHEELS (STEEL WHEELS (SPARE)"
+  },
+  {
+    "code": "4",
+    "name": "ROAD WHEELS (ALLOY WHEELS)"
+  },
+  {
+    "code": "5",
+    "name": "TYRE VALVES AND CAPS"
+  },
+  {
+    "code": "6",
+    "name": "WHEEL BALANCE WEIGHTS (FOR STEEL WHEELS)"
+  },
+  {
+    "code": "7",
+    "name": "WHEEL BALANCE WEIGHTS (FOR ALLOY WHEELS (SELF ADHESIVE))"
+  },
+  {
+    "code": "8",
+    "name": "WHEEL BALANCE WEIGHTS (FOR ALLOY WHEELS (CLAMPING))"
+  },
+  {
+    "code": "9",
+    "name": "WHEEL COVERS (STEEL WHEELS)"
+  },
+  {
+    "code": "10",
+    "name": "WHEEL COVERS (ALLOY WHEELS)"
+  },
+  {
+    "code": "11",
+    "name": "WHEEL FIXINGS"
+  }
+]

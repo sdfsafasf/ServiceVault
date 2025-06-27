@@ -1,0 +1,134 @@
+[
+  {
+    "call": "-",
+    "part": "39239266",
+    "desc": "DECAL,BONNET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39229703",
+    "desc": "DECAL,FRONT DOOR,RH,UPPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39229705",
+    "desc": "DECAL,FRONT DOOR,LH,UPPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39239261",
+    "desc": "DECAL,FRONT DOOR,RH,LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39239263",
+    "desc": "DECAL,FRONT DOOR,LH,LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39229709",
+    "desc": "DECAL,REAR DOOR,RH,UPPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39229707",
+    "desc": "DECAL,REAR DOOR,LH,UPPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39239257",
+    "desc": "DECAL,REAR DOOR,RH,LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39239255",
+    "desc": "DECAL,REAR DOOR,LH,LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39229713",
+    "desc": "DECAL,REAR QUARTER,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39229711",
+    "desc": "DECAL,REAR QUARTER,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "-",
+    "part": "39229699",
+    "desc": "DECAL,TAILGATE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

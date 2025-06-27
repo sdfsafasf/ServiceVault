@@ -1,0 +1,178 @@
+[
+  {
+    "call": "10",
+    "part": "(13366696)",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (NLS.- USE 39112567) (IDENT AAVB)",
+    "qty": "2",
+    "usage": "B14XE[LV7]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112567",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AA73)",
+    "qty": "2",
+    "usage": "B14XE[LV7]",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112567",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (EMISSION CODE NE4) (IDENT AA73)",
+    "qty": "2",
+    "usage": "B14XE[LV7]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13366704",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AAVD)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13366704",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (IDENT AAVD)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112568",
+    "desc": "SPRING,ASSY.,REAR (IDENT AA74)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112568",
+    "desc": "SPRING,ASSY.,REAR (EMISSION CODE NE4) (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (IDENT AA74)",
+    "qty": "2",
+    "usage": "B14XE[LV7]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112568",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (EXCEPT HOLDEN) (IDENT AA74)",
+    "qty": "2",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112568",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT HOLDEN) (IDENT AA74)",
+    "qty": "2",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112568",
+    "desc": "SPRING,ASSY.,REAR (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (IDENT AA74)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366694)",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 39112568) (IDENT AAVH)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366707)",
+    "desc": "SPRING,ASSY.,REAR (FOR LOWERED CHASSIS,RPO XJ6) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (NLS.- USE 39112570) (IDENT AA18)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112570",
+    "desc": "SPRING,ASSY.,REAR (FOR LOWERED CHASSIS,RPO XJ6) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AA76)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112570",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AA76)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366700)",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (NLS.- USE 39112573) (IDENT AA0N)",
+    "qty": "2",
+    "usage": "B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112573",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (IDENT AA79)",
+    "qty": "2",
+    "usage": "B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

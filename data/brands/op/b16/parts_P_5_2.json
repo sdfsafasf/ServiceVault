@@ -1,0 +1,79 @@
+[
+  {
+    "call": "29",
+    "part": "(13401154)",
+    "desc": "LAMP,ASSY.,FRONT FOG,RH (NLS.- USE 39098908)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "39098908",
+    "desc": "LAMP,ASSY.,FRONT FOG,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "(13401153)",
+    "desc": "LAMP,ASSY.,FRONT FOG,LH (NLS.- USE 39098907)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "39098907",
+    "desc": "LAMP,ASSY.,FRONT FOG,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "13500801",
+    "desc": "-BULB,FOG LAMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "(11570637)",
+    "desc": "SCREW,TORX (NLS.- USE YR00280680)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "(11516397)",
+    "desc": "NUT,SPRING (NLS.- USE 95530322)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "call": "8",
+    "part": "55497482",
+    "desc": "SENSOR,TEMPERATURE,EGR COOLER,POSITION 1",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(55486534)",
+    "desc": "SENSOR,TEMPERATURE,EGR COOLER,POSITION 2 (NLS.- USE YR00149780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "call": "1",
+    "part": "(39133122)",
+    "desc": "WHEEL,STEERING,LEATHER GRIP (EXCEPT RPO KSA/K38,ADAPTIVE CRUISE CONTROL) (EXCEPT RPO UVD,HEATED STEERING WHEEL) (NLS.- USE 39159070)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39159070)",
+    "desc": "WHEEL,STEERING,LEATHER GRIP (EXCEPT RPO KSA/K38,ADAPTIVE CRUISE CONTROL) (EXCEPT RPO UVD,HEATED STEERING WHEEL) (NLS.- USE 39229899)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39133124)",
+    "desc": "WHEEL,STEERING,LEATHER GRIP (FOR HEATED STEERING WHEEL,RPO UVD) (EXCEPT RPO KSA/K38,ADAPTIVE CRUISE CONTROL) (NLS.- USE 39159072)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39133123)",
+    "desc": "WHEEL,STEERING,LEATHER GRIP (FOR ADAPTIVE CRUISE CONTROL,RPO KSA/K38) (EXCEPT RPO UVD,HEATED STEERING WHEEL) (NLS.- USE 39159071)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39159071",
+    "desc": "WHEEL,STEERING,LEATHER GRIP (FOR ADAPTIVE CRUISE CONTROL,RPO KSA/K38) (EXCEPT RPO UVD,HEATED STEERING WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39133125",
+    "desc": "WHEEL,STEERING,LEATHER GRIP (FOR HEATED STEERING WHEEL,RPO UVD) (FOR ADAPTIVE CRUISE CONTROL,RPO KSA/K38)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39098443",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (EXCEPT RPO UVD,HEATED STEERING WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39108429",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (FOR STEERING WHEEL HEATING,RPO UVD)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39159077",
+    "desc": "-SWITCH,RADIO AND TELEPHONE OPERATION,STEERING WHEEL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39096105)",
+    "desc": "-SWITCH,CRUISE CONTROL (EXCEPT RPO KSA/K38,ADAPTIVE CRUISE CONTROL) (NLS.- USE 39159080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39096106",
+    "desc": "-SWITCH,CRUISE CONTROL (FOR ADAPTIVE CRUISE CONTROL,RPO KSA/K38)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13439135",
+    "desc": "-COVER,CENTRE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13439138",
+    "desc": "-COVER,CENTRE,LOWER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11610164)",
+    "desc": "SCREW,TORX,M15 X 20 (SINGLE USE PART) (NLS.- USE YR00102280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "call": "20",
+    "part": "13592754",
+    "desc": "PUMP,ASSY.,AUXILIARY COOLING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39161642",
+    "desc": "BRACKET,AUXILIARY WATER PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "95530321",
+    "desc": "SCREW,HEX.HD.,M6 X 16",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "11519508",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,955 @@
+{
+  "sectionTitle": "Safety and Security",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Immobilizer",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Immobilizer Schematics",
+              "url": "astra-k/4446090.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B2955",
+              "url": "astra-k/2702544.pdf"
+            },
+            {
+              "title": "DTC B302A",
+              "url": "astra-k/2554510.pdf"
+            },
+            {
+              "title": "DTC B3031",
+              "url": "astra-k/2535683.pdf"
+            },
+            {
+              "title": "DTC B3055",
+              "url": "astra-k/2535686.pdf"
+            },
+            {
+              "title": "DTC B305C",
+              "url": "astra-k/2679264.pdf"
+            },
+            {
+              "title": "DTC B3060",
+              "url": "astra-k/2535688.pdf"
+            },
+            {
+              "title": "DTC B389A",
+              "url": "astra-k/2535695.pdf"
+            },
+            {
+              "title": "DTC B3902",
+              "url": "astra-k/2535700.pdf"
+            },
+            {
+              "title": "DTC B3924-B3928",
+              "url": "astra-k/3286991.pdf"
+            },
+            {
+              "title": "DTC B3935",
+              "url": "astra-k/2535696.pdf"
+            },
+            {
+              "title": "DTC B3976",
+              "url": "astra-k/2535698.pdf"
+            },
+            {
+              "title": "DTC B3978-B3982",
+              "url": "astra-k/3286993.pdf"
+            },
+            {
+              "title": "DTC B3984",
+              "url": "astra-k/2535701.pdf"
+            },
+            {
+              "title": "DTC P0513",
+              "url": "astra-k/2535702.pdf"
+            },
+            {
+              "title": "DTC P0633",
+              "url": "astra-k/2535703.pdf"
+            },
+            {
+              "title": "DTC P1629",
+              "url": "astra-k/2535734.pdf"
+            },
+            {
+              "title": "DTC P162B",
+              "url": "astra-k/2363247.pdf"
+            },
+            {
+              "title": "DTC P1630",
+              "url": "astra-k/2776285.pdf"
+            },
+            {
+              "title": "DTC P1631",
+              "url": "astra-k/2535708.pdf"
+            },
+            {
+              "title": "DTC P1649",
+              "url": "astra-k/2535709.pdf"
+            },
+            {
+              "title": "DTC P1677",
+              "url": "astra-k/2912975.pdf"
+            },
+            {
+              "title": "Symptoms - Immobilizer",
+              "url": "astra-k/2486497.pdf"
+            },
+            {
+              "title": "OnStar Stolen Vehicle Slowdown Active",
+              "url": "astra-k/2554512.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Theft Deterrent Module Replacement (Ignition Lock)",
+              "url": "astra-k/4091897.pdf"
+            },
+            {
+              "title": "Theft Deterrent Module Replacement (Front Floor Console)",
+              "url": "astra-k/3792170.pdf"
+            },
+            {
+              "title": "Immobilizer System Component Programming",
+              "url": "astra-k/2205363.pdf"
+            },
+            {
+              "title": "Key with Integrated Transmitter Programming",
+              "url": "astra-k/3232022.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Immobilizer Description and Operation",
+              "url": "astra-k/2544766.pdf"
+            },
+            {
+              "title": "Remote Vehicle Speed Limiting Description and Operation",
+              "url": "astra-k/2363249.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Object Detection and Pedestrian Protection",
+      "nestedSections": [
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Object Detection Schematics",
+              "url": "astra-k/4446093.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B094D or B094E",
+              "url": "astra-k/4209952.pdf"
+            },
+            {
+              "title": "DTC B0954, B0955, B0956, or B0957",
+              "url": "astra-k/4629103.pdf"
+            },
+            {
+              "title": "DTC B095D or B095E",
+              "url": "astra-k/4629122.pdf"
+            },
+            {
+              "title": "DTC B0958, B0959, B0960, or B0961",
+              "url": "astra-k/4629123.pdf"
+            },
+            {
+              "title": "DTC B0967 or B0968",
+              "url": "astra-k/4259562.pdf"
+            },
+            {
+              "title": "DTC B096B",
+              "url": "astra-k/4259564.pdf"
+            },
+            {
+              "title": "DTC B096C or B096D",
+              "url": "astra-k/4629125.pdf"
+            },
+            {
+              "title": "DTC B0987",
+              "url": "astra-k/5247637.pdf"
+            },
+            {
+              "title": "DTC B1011",
+              "url": "astra-k/2783258.pdf"
+            },
+            {
+              "title": "DTC B1015",
+              "url": "astra-k/2745745.pdf"
+            },
+            {
+              "title": "DTC B127B",
+              "url": "astra-k/3980695.pdf"
+            },
+            {
+              "title": "DTC B1405",
+              "url": "astra-k/4629099.pdf"
+            },
+            {
+              "title": "DTC B356A",
+              "url": "astra-k/3980065.pdf"
+            },
+            {
+              "title": "DTC B390C",
+              "url": "astra-k/4213369.pdf"
+            },
+            {
+              "title": "DTC P15F6",
+              "url": "astra-k/4213502.pdf"
+            },
+            {
+              "title": "DTC P15F7",
+              "url": "astra-k/4258882.pdf"
+            },
+            {
+              "title": "Symptoms - Object Detection",
+              "url": "astra-k/4210592.pdf"
+            },
+            {
+              "title": "Forward Collision Alert System Malfunction",
+              "url": "astra-k/2889209.pdf"
+            },
+            {
+              "title": "Parking Assist System Malfunction",
+              "url": "astra-k/4259566.pdf"
+            },
+            {
+              "title": "Parallel Parking Assist System Malfunction",
+              "url": "astra-k/4259567.pdf"
+            },
+            {
+              "title": "Rear Vision Camera System Malfunction",
+              "url": "astra-k/2890606.pdf"
+            },
+            {
+              "title": "Side Blind Spot Alert System Malfunction",
+              "url": "astra-k/4210572.pdf"
+            },
+            {
+              "title": "Lane Departure Warning System Malfunction",
+              "url": "astra-k/2789589.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Forward Range Radar Bracket Replacement",
+              "url": "astra-k/4539497.pdf"
+            },
+            {
+              "title": "Forward Range Radar Sensor Replacement",
+              "url": "astra-k/4539498.pdf"
+            },
+            {
+              "title": "Active Safety Control Module Replacement",
+              "url": "astra-k/4338403.pdf"
+            },
+            {
+              "title": "Forward Collision Alert Display Replacement",
+              "url": "astra-k/4091877.pdf"
+            },
+            {
+              "title": "Parking Assist Alarm Disable Switch Replacement",
+              "url": "astra-k/3708716.pdf"
+            },
+            {
+              "title": "Parking Assist Control Module Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4228704.pdf"
+            },
+            {
+              "title": "Parking Assist Control Module Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4338398.pdf"
+            },
+            {
+              "title": "Front Parking Assist Alarm Sensor Replacement",
+              "url": "astra-k/5020447.pdf"
+            },
+            {
+              "title": "Front Parking Assist Alarm Sensor Bracket Replacement",
+              "url": "astra-k/4228725.pdf"
+            },
+            {
+              "title": "Rear Object Sensor Wiring Harness Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4228722.pdf"
+            },
+            {
+              "title": "Rear Object Sensor Wiring Harness Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4338401.pdf"
+            },
+            {
+              "title": "Rear Parking Assist Alarm Sensor Replacement",
+              "url": "astra-k/5020445.pdf"
+            },
+            {
+              "title": "Multifunction Relay Module Bracket Replacement",
+              "url": "astra-k/5146112.pdf"
+            },
+            {
+              "title": "Front View Camera Replacement",
+              "url": "astra-k/4091876.pdf"
+            },
+            {
+              "title": "Rearview Driver Information Camera Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4091874.pdf"
+            },
+            {
+              "title": "Rearview Driver Information Camera Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4228707.pdf"
+            },
+            {
+              "title": "Front View Camera Module Learn",
+              "url": "astra-k/2789614.pdf"
+            },
+            {
+              "title": "Parking Assist Sensor Learn Calibration",
+              "url": "astra-k/4475940.pdf"
+            },
+            {
+              "title": "Radar Sensor Module - Long Range Learn",
+              "url": "astra-k/2910605.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Parking Assist Description and Operation (with UD7)",
+              "url": "astra-k/3804876.pdf"
+            },
+            {
+              "title": "Parking Assist Description and Operation (with UFQ)",
+              "url": "astra-k/3804884.pdf"
+            },
+            {
+              "title": "Lane Departure Warning Description and Operation",
+              "url": "astra-k/2789888.pdf"
+            },
+            {
+              "title": "Lane Keep Assist Description and Operation",
+              "url": "astra-k/4053603.pdf"
+            },
+            {
+              "title": "Side Blind Spot Alert Description and Operation",
+              "url": "astra-k/4174384.pdf"
+            },
+            {
+              "title": "Forward Collision Alert Description and Operation",
+              "url": "astra-k/3782702.pdf"
+            },
+            {
+              "title": "Active Safety System Description and Operation",
+              "url": "astra-k/3821159.pdf"
+            },
+            {
+              "title": "Rear Vision Camera Description and Operation",
+              "url": "astra-k/3767829.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Remote Functions",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Remote Function Schematics",
+              "url": "astra-k/4446096.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B305D",
+              "url": "astra-k/4840768.pdf"
+            },
+            {
+              "title": "DTC B3101",
+              "url": "astra-k/2536169.pdf"
+            },
+            {
+              "title": "DTC B3105",
+              "url": "astra-k/2536171.pdf"
+            },
+            {
+              "title": "DTC B3106",
+              "url": "astra-k/2536172.pdf"
+            },
+            {
+              "title": "DTC B3109-B3113",
+              "url": "astra-k/2536173.pdf"
+            },
+            {
+              "title": "DTC B310D-B310F",
+              "url": "astra-k/2536174.pdf"
+            },
+            {
+              "title": "DTC B3119",
+              "url": "astra-k/2731952.pdf"
+            },
+            {
+              "title": "DTC B3120",
+              "url": "astra-k/2731958.pdf"
+            },
+            {
+              "title": "DTC B3121",
+              "url": "astra-k/2596134.pdf"
+            },
+            {
+              "title": "DTC B3122",
+              "url": "astra-k/2555142.pdf"
+            },
+            {
+              "title": "DTC B3123",
+              "url": "astra-k/2596138.pdf"
+            },
+            {
+              "title": "DTC B3124",
+              "url": "astra-k/2555147.pdf"
+            },
+            {
+              "title": "Symptoms - Remote Functions",
+              "url": "astra-k/2501650.pdf"
+            },
+            {
+              "title": "No Remote Detected",
+              "url": "astra-k/2732407.pdf"
+            },
+            {
+              "title": "Keyless Entry System Malfunction",
+              "url": "astra-k/2596163.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Ignition Lock Key Transmitter Antenna Replacement - Instrument Panel",
+              "url": "astra-k/4091868.pdf"
+            },
+            {
+              "title": "Ignition Lock Key Transmitter Antenna Replacement - Floor Console",
+              "url": "astra-k/4298930.pdf"
+            },
+            {
+              "title": "Ignition Lock Key Transmitter Antenna Replacement - Rear Compartment",
+              "url": "astra-k/4228734.pdf"
+            },
+            {
+              "title": "Ignition Lock Key Transmitter Antenna Replacement - Rear Bumper Fascia",
+              "url": "astra-k/3687085.pdf"
+            },
+            {
+              "title": "Keyless Entry Control Module Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4228736.pdf"
+            },
+            {
+              "title": "Keyless Entry Control Module Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336910.pdf"
+            },
+            {
+              "title": "Keyless Entry Control Module Bracket Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4228735.pdf"
+            },
+            {
+              "title": "Keyless Entry Control Module Bracket Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336909.pdf"
+            },
+            {
+              "title": "Remote Function Actuator Module Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4228731.pdf"
+            },
+            {
+              "title": "Remote Function Actuator Module Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336906.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Keyless Entry System Description and Operation",
+              "url": "astra-k/2864245.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seat Belts",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Seat Belt Schematics",
+              "url": "astra-k/4446100.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B0072, B0073, or B0075-B0077",
+              "url": "astra-k/2754002.pdf"
+            },
+            {
+              "title": "DTC B0082",
+              "url": "astra-k/2574210.pdf"
+            },
+            {
+              "title": "DTC B059A",
+              "url": "astra-k/3289794.pdf"
+            },
+            {
+              "title": "Symptoms - Seat Belts",
+              "url": "astra-k/2380419.pdf"
+            },
+            {
+              "title": "Seat Belt Does Not Retract",
+              "url": "astra-k/2164771.pdf"
+            },
+            {
+              "title": "Seat Belt Indicator Malfunction - Driver",
+              "url": "astra-k/2381594.pdf"
+            },
+            {
+              "title": "Seat Belt Indicator Malfunction - Passenger",
+              "url": "astra-k/2382323.pdf"
+            },
+            {
+              "title": "Seat Belt Indicator Malfunction - Rear",
+              "url": "astra-k/2382822.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Passenger Seat Belt Front Passenger Presence Sensor Replacement",
+              "url": "astra-k/4091882.pdf"
+            },
+            {
+              "title": "Repairs and Inspections Required After a Collision",
+              "url": "astra-k/3863248.pdf"
+            },
+            {
+              "title": "Seat Belt Latch Stop Installation",
+              "url": "astra-k/2137807.pdf"
+            },
+            {
+              "title": "Front Seat Belt Buckle Replacement",
+              "url": "astra-k/4091880.pdf"
+            },
+            {
+              "title": "Rear Seat Belt Buckle Replacement",
+              "url": "astra-k/3687091.pdf"
+            },
+            {
+              "title": "Rear Seat Center Belt Retractor Replacement",
+              "url": "astra-k/4328876.pdf"
+            },
+            {
+              "title": "Front Seat Belt Retractor Replacement",
+              "url": "astra-k/4228741.pdf"
+            },
+            {
+              "title": "Rear Seat Belt Retractor Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4228740.pdf"
+            },
+            {
+              "title": "Rear Seat Belt Retractor Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4338410.pdf"
+            },
+            {
+              "title": "Child Seat Bracket Trim Cover Replacement",
+              "url": "astra-k/3687094.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Seat Belt System Description and Operation",
+              "url": "astra-k/3649204.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Supplemental Restraints",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "SIR Schematics",
+              "url": "astra-k/4446104.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B0012",
+              "url": "astra-k/5084643.pdf"
+            },
+            {
+              "title": "DTC B0014, B0021, B0031, or B0038",
+              "url": "astra-k/3259581.pdf"
+            },
+            {
+              "title": "DTC B0015, B001A, B001B, or B0022",
+              "url": "astra-k/2904468.pdf"
+            },
+            {
+              "title": "DTC B0016, B0018, B0023, or B0025",
+              "url": "astra-k/3966973.pdf"
+            },
+            {
+              "title": "DTC B0019 or B0020",
+              "url": "astra-k/2672028.pdf"
+            },
+            {
+              "title": "DTC B001A or B001B",
+              "url": "astra-k/2277046.pdf"
+            },
+            {
+              "title": "DTC B0032, B0039, or B0045",
+              "url": "astra-k/3966985.pdf"
+            },
+            {
+              "title": "DTC B0051",
+              "url": "astra-k/2159986.pdf"
+            },
+            {
+              "title": "DTC B0052",
+              "url": "astra-k/4807112.pdf"
+            },
+            {
+              "title": "DTC B0074",
+              "url": "astra-k/2676874.pdf"
+            },
+            {
+              "title": "DTC B0080",
+              "url": "astra-k/1947624.pdf"
+            },
+            {
+              "title": "DTC B0081 (Inflatable Restraint Sensing and Diagnostic Module)",
+              "url": "astra-k/2202570.pdf"
+            },
+            {
+              "title": "DTC B0081 (Passenger Presence Module)",
+              "url": "astra-k/2676869.pdf"
+            },
+            {
+              "title": "DTC B0082",
+              "url": "astra-k/2574210.pdf"
+            },
+            {
+              "title": "DTC B0083-B0088",
+              "url": "astra-k/4231514.pdf"
+            },
+            {
+              "title": "DTC B0098",
+              "url": "astra-k/2605031.pdf"
+            },
+            {
+              "title": "DTC B067F or B0680",
+              "url": "astra-k/4066642.pdf"
+            },
+            {
+              "title": "DTC B1001",
+              "url": "astra-k/2693870.pdf"
+            },
+            {
+              "title": "DTC B1019",
+              "url": "astra-k/2160053.pdf"
+            },
+            {
+              "title": "Passenger Presence System Rezeroing",
+              "url": "astra-k/2839750.pdf"
+            },
+            {
+              "title": "Symptoms - SIR",
+              "url": "astra-k/1410697.pdf"
+            },
+            {
+              "title": "Airbag Indicator Malfunction (Driver)",
+              "url": "astra-k/2160137.pdf"
+            },
+            {
+              "title": "Airbag Indicator Malfunction (Passenger)",
+              "url": "astra-k/2397857.pdf"
+            },
+            {
+              "title": "SIR Disabling and Enabling",
+              "url": "astra-k/2107228.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "SIR Service Precautions",
+              "url": "astra-k/2217668.pdf"
+            },
+            {
+              "title": "Restraints Control Module Replacement",
+              "url": "astra-k/4091886.pdf"
+            },
+            {
+              "title": "Steering Wheel Airbag Replacement",
+              "url": "astra-k/4871726.pdf"
+            },
+            {
+              "title": "Steering Wheel Airbag Coil Replacement",
+              "url": "astra-k/3687858.pdf"
+            },
+            {
+              "title": "Steering Wheel Airbag Coil Centering",
+              "url": "astra-k/2187458.pdf"
+            },
+            {
+              "title": "Instrument Panel Airbag Replacement",
+              "url": "astra-k/4294056.pdf"
+            },
+            {
+              "title": "Front End Inflatable Restraint Discriminating Sensor Replacement",
+              "url": "astra-k/3687857.pdf"
+            },
+            {
+              "title": "Front and Rear Row Roof Rail Airbag Replacement",
+              "url": "astra-k/4228747.pdf"
+            },
+            {
+              "title": "Front Seat Outboard Seat Back Airbag Replacement",
+              "url": "astra-k/3979429.pdf"
+            },
+            {
+              "title": "Airbag Side Impact Center Pillar Sensor Replacement",
+              "url": "astra-k/4328876.pdf"
+            },
+            {
+              "title": "Airbag Side Impact Sensor Replacement - Front Side Door",
+              "url": "astra-k/4244967.pdf"
+            },
+            {
+              "title": "Inflatable Restraint Instrument Panel Compartment Module Disable Switch Replacement",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Instrument Panel Airbag Arming Status Display Replacement",
+              "url": "astra-k/4228745.pdf"
+            },
+            {
+              "title": "Front Seat Belt Anchor Plate Tensioner Replacement",
+              "url": "astra-k/4091894.pdf"
+            },
+            {
+              "title": "Repairs and Inspections Required After a Collision",
+              "url": "astra-k/3863248.pdf"
+            },
+            {
+              "title": "Inflatable Restraint Module Handling and Scrapping",
+              "url": "astra-k/2608290.pdf"
+            },
+            {
+              "title": "Pretensioner Handling and Scrapping",
+              "url": "astra-k/2608293.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Supplemental Inflatable Restraint System Description and Operation",
+              "url": "astra-k/3907778.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Theft Deterrent",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Theft Deterrent System Schematics",
+              "url": "astra-k/4446232.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B291A",
+              "url": "astra-k/2907829.pdf"
+            },
+            {
+              "title": "DTC B291B",
+              "url": "astra-k/2907831.pdf"
+            },
+            {
+              "title": "Symptoms - Theft Deterrent",
+              "url": "astra-k/2613023.pdf"
+            },
+            {
+              "title": "Content Theft Deterrent Malfunction",
+              "url": "astra-k/2908061.pdf"
+            },
+            {
+              "title": "Inclination/Intrusion Sensor Malfunction",
+              "url": "astra-k/2908237.pdf"
+            },
+            {
+              "title": "Glass Breakage Sensor Malfunction",
+              "url": "astra-k/2907826.pdf"
+            },
+            {
+              "title": "Security Indicator Malfunction (with CJ2)",
+              "url": "astra-k/2884819.pdf"
+            },
+            {
+              "title": "Security Indicator Malfunction (without CJ2)",
+              "url": "astra-k/2897409.pdf"
+            },
+            {
+              "title": "Theft Deterrent Alarm Malfunction",
+              "url": "Document.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Theft Deterrent Alarm Replacement",
+              "url": "astra-k/4259663.pdf"
+            },
+            {
+              "title": "Theft Deterrent Sensor Replacement",
+              "url": "astra-k/2328078.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Theft Systems Description and Operation",
+              "url": "astra-k/2491085.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

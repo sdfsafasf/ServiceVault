@@ -1,0 +1,35 @@
+[
+  {
+    "call": "6",
+    "part": "12683500",
+    "desc": "SENSOR,CAMSHAFT REVOLUTIONS",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12626252",
+    "desc": "-'O'RING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11548166",
+    "desc": "SCREW,HEX.HD.,M5 X 30",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

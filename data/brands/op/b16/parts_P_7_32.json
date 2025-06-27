@@ -1,0 +1,35 @@
+[
+  {
+    "call": "2",
+    "part": "13372741",
+    "desc": "HARNESS,ASSY.,FUEL PUMP",
+    "qty": "",
+    "usage": "PETROL ENGINES",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13372749",
+    "desc": "HARNESS,ASSY.,FUEL PUMP",
+    "qty": "",
+    "usage": "DIESEL ENGINES",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13257299",
+    "desc": "STRAP,HARNESS FIXING",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "call": "1",
+    "part": "(39021427)",
+    "desc": "CONTROL,ASSY.,HEATER AND VENTILATOR (NLS.- USE 39042437)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 890,
+        "y": 1999
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39042437",
+    "desc": "CONTROL,ASSY.,HEATER AND VENTILATOR",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39021426)",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (EXCEPT RPO KA1,HEATED SEAT) (EXCEPT RPO UVD,HEATED STEERING WHEEL) (NLS.- USE 39042438)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 887,
+        "y": 2264
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39042438",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (EXCEPT RPO KA1,HEATED SEAT) (EXCEPT RPO UVD,HEATED STEERING WHEEL)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39018795)",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (NLS.- USE 39042439)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1024,
+        "y": 1389
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39042439",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39018794)",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR SEAT VENTILATION,RPO KU1/KU3) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (NLS.- USE 39042440)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1021,
+        "y": 1660
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39042440",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR SEAT VENTILATION,RPO KU1/KU3) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39018788)",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (EXCEPT RPO KA1,HEATED SEAT) (EXCEPT RPO UVD,HEATED STEERING WHEEL) (NLS.- USE 39042441)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1039,
+        "y": 1953
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39042441",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (EXCEPT RPO KA1,HEATED SEAT) (EXCEPT RPO UVD,HEATED STEERING WHEEL)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39158162",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (EXCEPT RPO C50,HEATED WINDSCREEN) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (EXCEPT RPO KA1,HEATED SEAT) (EXCEPT RPO UVD,HEATED STEERING WHEEL)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39018789)",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (NLS.- USE 39042442)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1030,
+        "y": 2218
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39042442",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39158163",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (EXCEPT RPO C50,HEATED WINDSCREEN)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39018790)",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (FOR SEAT VENTILATION,RPO KU1/KU3) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (NLS.- USE 39042443)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1704,
+        "y": 1398
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39042443",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (FOR SEAT VENTILATION,RPO KU1/KU3) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39158164",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (FOR SEAT VENTILATION,RPO KU1/KU3) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (EXCEPT RPO C50,HEATED WINDSCREEN)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39158161",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (FOR SEAT VENTILATION,RPO KU1/KU3) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (FOR HEATED WINDSCREEN,RPO C50)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1698,
+        "y": 1672
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39158160",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (FOR HEATED SEAT,RPO KA1) (FOR HEATED STEERING WHEEL,RPO UVD) (FOR HEATED WINDSCREEN,RPO C50) (EXCEPT RPO KU1/KU3,SEAT VENTILATION)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1692,
+        "y": 1947
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39158159",
+    "desc": "CONTROL,ASSY.,HEATER AND AIR CONDITIONING (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (FOR HEATED WINDSCREEN,RPO C50) (EXCEPT RPO KA1,HEATED SEAT) (EXCEPT RPO KU1/KU3,SEAT VENTILATION) (EXCEPT RPO UVD,HEATED STEERING WHEEL)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1686,
+        "y": 2215
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13598152)",
+    "desc": "REMOTE CONTROL (EXCEPT RPO CJ2,DUAL ZONE CLIMATE CONTROL) (NLS.- USE 84234761)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1128,
+        "y": 1114
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84234761",
+    "desc": "REMOTE CONTROL (EXCEPT RPO CJ2,DUAL ZONE CLIMATE CONTROL)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84295141",
+    "desc": "REMOTE CONTROL (EXCEPT RPO CJ2,DUAL ZONE CLIMATE CONTROL)",
+    "usage": "",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84295141",
+    "desc": "REMOTE CONTROL (FOR HEATER SYSTEM WITHOUT AIR CONDITIONING,RPO C42)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84692728",
+    "desc": "REMOTE CONTROL (FOR MANUAL AIR CONDITIONING,RPO C67)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84692734",
+    "desc": "REMOTE CONTROL (FOR MANUAL AIR CONDITIONING,RPO C67)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13598154)",
+    "desc": "REMOTE CONTROL (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (NLS.- USE 84234763)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84234763",
+    "desc": "REMOTE CONTROL (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84295139",
+    "desc": "REMOTE CONTROL (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84692731",
+    "desc": "REMOTE CONTROL (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "84692739",
+    "desc": "REMOTE CONTROL (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13482740",
+    "desc": "BRACKET,CONTROL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1533,
+        "y": 1215
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

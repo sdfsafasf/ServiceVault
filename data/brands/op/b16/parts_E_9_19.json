@@ -1,0 +1,112 @@
+[
+  {
+    "call": "5",
+    "part": "(55500393)",
+    "desc": "ENGINE,ASSY.,STRIPPED (NLS.- NO REPLACEMENT PART) (IDENT JCF)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ]",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55495999)",
+    "desc": "ENGINE,ASSY.,STRIPPED (NLS.- NO REPLACEMENT PART) (IDENT HRT)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55498666)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (NLS.- NO REPLACEMENT PART) (IDENT HVG)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55498667)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP) (NLS.- NO REPLACEMENT PART) (IDENT HVH)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55502505)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR M32 MANUAL TRANSMISSION,RPO MGP) (NLS.- NO REPLACEMENT PART) (IDENT CP5)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL]",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55512492)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR M32 MANUAL TRANSMISSION,RPO MGP) (NLS.- NO REPLACEMENT PART) (IDENT L89)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55502506)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (WITH SWITCHABLE WATER PUMP) (NLS.- NO REPLACEMENT PART) (IDENT CP6)",
+    "qty": "1",
+    "usage": "D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55512493)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (WITH NON-SWITCHABLE WATER PUMP) (NLS.- NO REPLACEMENT PART) (IDENT CP6)",
+    "qty": "1",
+    "usage": "D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55502861)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR M32 MANUAL TRANSMISSION,RPO MGP) (WITH SWITCHABLE WATER PUMP) (NLS.- NO REPLACEMENT PART) (IDENT CSS)",
+    "qty": "1",
+    "usage": "D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55512497)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR M32 MANUAL TRANSMISSION,RPO MGP) (WITH NON-SWITCHABLE WATER PUMP) (NLS.- NO REPLACEMENT PART) (IDENT L9F)",
+    "qty": "1",
+    "usage": "D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

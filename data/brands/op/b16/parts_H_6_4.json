@@ -1,0 +1,68 @@
+[
+  {
+    "call": "6",
+    "part": "24243755",
+    "desc": "PLUG,SCREW,TORQUE CONVERTER CASE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "24226020",
+    "desc": "PLUG,SCREW,TORQUE CONVERTER CASE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11516337",
+    "desc": "SCREW,HEX.HD.,M8 X 30",
+    "qty": "14",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "24288436",
+    "desc": "SEAL KIT,DRIVE SHAFT,WITH INSTALLATION TOOL,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "24263268",
+    "desc": "GASKET (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU/MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "24266166",
+    "desc": "GASKET (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

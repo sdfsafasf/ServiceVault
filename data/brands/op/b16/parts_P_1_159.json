@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(12638691)",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95520361) (NLS.- USE 12680618)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8012451\n(C)      -JG015098",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95520361)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (NLS.- USE 95525322)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8012451\n(C)      -JG015098",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "12680618",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95525322)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8012452-\n(C)  JG015099-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95525322)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8012452-\n(C)  JG015099-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11588741",
+    "desc": "SCREW,HEX.HD.,M10 X 45",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11546366",
+    "desc": "NUT,M10",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11546807",
+    "desc": "STUD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

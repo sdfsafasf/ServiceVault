@@ -1,0 +1,79 @@
+[
+  {
+    "call": "3X",
+    "part": "39001690",
+    "desc": "REAR VIEW CAMERA,KIT (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13491400)",
+    "desc": "-REAR VIEW CAMERA (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB) (NLS.- USE 39098092)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39001691",
+    "desc": "-HARNESS,ASSY. (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "90148142",
+    "desc": "-STRIP,INSULATING,1000 X 5 X 40MM (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7X",
+    "part": "39006839",
+    "desc": "REAR VIEW CAMERA,KIT (FOR RADIO INFOTAINMENT SYSTEM,RPO IO5/IO6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13491400)",
+    "desc": "-REAR VIEW CAMERA (FOR RADIO INFOTAINMENT SYSTEM,RPO IO5/IO6) (NLS.- USE 39098092)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39006837",
+    "desc": "-HARNESS,ASSY. (FOR RADIO INFOTAINMENT SYSTEM,RPO IO5/IO6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

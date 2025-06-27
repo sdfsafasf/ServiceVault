@@ -1,0 +1,134 @@
+[
+  {
+    "call": "1X",
+    "part": "39034631",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,ANTELAO SAND",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "39034632",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,TOFANO GOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "39034633",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,CORONADO BROWN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "39034634",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,PIANO BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "39034635",
+    "desc": "-KIT,TOOL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "95528763",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,FOR NAVIGATION SYSTEM,ANTELAO SAND",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "(95528762)",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,FOR NAVIGATION SYSTEM,TOFANO GOLD (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "(95528760)",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,FOR NAVIGATION SYSTEM,CORONADO BROWN (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "95528761",
+    "desc": "MODULE,PORTABLE DEVICE INTERFACE,KIT,FOR NAVIGATION SYSTEM,PIANO BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13463388",
+    "desc": "MOUNTING PLATE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13463392",
+    "desc": "-HARNESS,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13463389",
+    "desc": "-AERIAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

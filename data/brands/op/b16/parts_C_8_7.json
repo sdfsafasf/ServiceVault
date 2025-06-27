@@ -1,0 +1,51 @@
+[
+  {
+    "call": "11",
+    "part": "(13405324)",
+    "desc": "WEATHERSTRIP,TAIL GATE (FOR REPAIR) (NLS.- USE 39102819)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 262,
+        "y": 1628
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39102819)",
+    "desc": "WEATHERSTRIP,TAIL GATE (FOR REPAIR) (NLS.- USE 39211969)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13405326)",
+    "desc": "WEATHERSTRIP,TAIL GATE (FOR REPAIR) (NLS.- USE 39102821)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39102821)",
+    "desc": "WEATHERSTRIP,TAIL GATE (FOR REPAIR) (NLS.- USE 39211971)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

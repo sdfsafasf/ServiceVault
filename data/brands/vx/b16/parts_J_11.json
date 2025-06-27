@@ -1,0 +1,35 @@
+[
+  {
+    "call": "5",
+    "part": "39021695",
+    "desc": "PIPE,ASSY.,VACUUM (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-VALVE (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-CONNECTOR (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

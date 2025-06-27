@@ -1,0 +1,68 @@
+[
+  {
+    "call": "16",
+    "part": "(55491533)",
+    "desc": "CABLE,ASSY.,GEARSHIFT CONTROL (NLS.- USE 55499541) (IDENT APV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55499541",
+    "desc": "CABLE,ASSY.,GEARSHIFT CONTROL (IDENT APV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55593382",
+    "desc": "GUIDE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55588983",
+    "desc": "BRACKET,GEARSHIFT CONTROL CABLE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(11546389)",
+    "desc": "NUT,FLANGED,M6 (NLS.- USE YR00713080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

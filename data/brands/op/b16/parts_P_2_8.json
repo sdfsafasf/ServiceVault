@@ -1,0 +1,57 @@
+[
+  {
+    "call": "15",
+    "part": "24273916",
+    "desc": "SENSOR,REVOLUTIONS,INPUT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11548404",
+    "desc": "-SCREW",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "24291277",
+    "desc": "SENSOR,TRANSMISSION SPEED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11548404",
+    "desc": "-SCREW",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "24290536",
+    "desc": "SENSOR,REVOLUTIONS,OUTPUT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "9",
+    "part": "12645578",
+    "desc": "CRANKSHAFT,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(12637327)",
+    "desc": "PULSE GENERATOR (NLS.- USE 55504588)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "9157141",
+    "desc": "BUSH,CRANKSHAFT (FOR MANUAL TRANSMISSION,RPO MM3)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

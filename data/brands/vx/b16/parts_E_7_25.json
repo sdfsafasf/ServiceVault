@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "55590832",
+    "desc": "PAN,ASSY.,OIL,WITH SENSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11588713",
+    "desc": "-SCREW,HEX.HD.,OIL PAN TO CYLINDER BLOCK,M6 X 25",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12627008",
+    "desc": "-SENSOR,MINIMUM OIL LEVEL,OIL PAN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "12627010",
+    "desc": "--SEAL,MINIMUM OIL LEVEL SENSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11588713",
+    "desc": "-SCREW,HEX.HD.,M6 X 25,OIL LEVEL SENSOR",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55577568",
+    "desc": "-PLUG,OIL DRAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12616850",
+    "desc": "--SEAL,RING,OIL PAN DRAIN PLUG (FOR 11562588 06 52 884 ASSY.)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "90351709",
+    "desc": "-SLEEVE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "11588721",
+    "desc": "-SCREW",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55569827",
+    "desc": "VALVE,NON-RETURN,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55569264",
+    "desc": "PIPE,SUCTION,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55570140",
+    "desc": "-GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55579160",
+    "desc": "-SCREW,HEX.HD.,M6 X 30,BAFFLE,OIL PAN",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55579159",
+    "desc": "-SCREW,OIL PUMP SUCTION PIPE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(11588714)",
+    "desc": "SCREW,HEX.HD.,OIL PAN TO CYLINDER BLOCK,M6 X 30 (NLS.- USE YR00047880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,80 ML,OIL PAN TO CYLINDER BLOCK (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

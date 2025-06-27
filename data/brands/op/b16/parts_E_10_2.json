@@ -1,0 +1,57 @@
+[
+  {
+    "call": "1X",
+    "part": "55485511",
+    "desc": "KIT,CLUTCH (FOR F40 MANUAL TRANSMISSION,RPO MR6) (EXCHANGE - REMAN PART 95530149)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "95530149",
+    "desc": "KIT,CLUTCH,EXCHANGE - REMAN (FOR F40 MANUAL TRANSMISSION,RPO MR6) (CORE RETURN NO. 90141216, 90141217)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "55494996",
+    "desc": "KIT,CLUTCH (FOR M35 MANUAL TRANSMISSION,RPO MOP)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11570368",
+    "desc": "SCREW,HEX.HD.,M8 X 15",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(90397024)",
+    "desc": "GREASE,LUBRICATING ,MICROLUBE GNY 202,200GRAMS,MAINDRIVE PINION SPLINES (NLS.- USE 95599784) (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

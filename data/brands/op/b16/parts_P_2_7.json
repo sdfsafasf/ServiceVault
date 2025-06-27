@@ -1,0 +1,57 @@
+[
+  {
+    "call": "10",
+    "part": "(24298199)",
+    "desc": "SENSOR,REVOLUTIONS,INPUT (NLS.- USE 24279771)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-SEAL (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11588713",
+    "desc": "SCREW,HEX.HD.,M6 X 25",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "24295280",
+    "desc": "SENSOR,REVOLUTIONS,OUTPUT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(11547183)",
+    "desc": "-SCREW,M6 X 25 (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

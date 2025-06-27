@@ -1,0 +1,35 @@
+[
+  {
+    "call": "17",
+    "part": "55504477",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 1 (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "12690748",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 2 (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55354925",
+    "desc": "CLIP (EMISSION CODE NCV)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(39002171)",
+    "desc": "SENSOR,AXLE SPEED,FRONT (FOR STANDARD CHASSIS) (NLS.- USE 42703444)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13473250",
+    "desc": "SENSOR,AXLE SPEED,FRONT (FOR RAISED CHASSIS,RPO ZQF)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39002171)",
+    "desc": "SENSOR,AXLE SPEED,FRONT (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST) (NLS.- USE 42703444)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39002172)",
+    "desc": "SENSOR,AXLE SPEED,FRONT (FOR COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST,RPO UGN) (NLS.- USE 39124497)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39124497)",
+    "desc": "SENSOR,AXLE SPEED,FRONT (FOR COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST,RPO UGN) (NLS.- USE 42686721)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11609650",
+    "desc": "SCREW,TORX,M6 X 20",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11588712)",
+    "desc": "SCREW,TORX,M6 X 20 (NLS.- USE YR00052080)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

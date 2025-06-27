@@ -1,0 +1,1513 @@
+{
+  "sectionTitle": "Body Systems",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Fixed and Moveable Windows",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Moveable Window Schematics",
+              "url": "astra-k/4445803.pdf"
+            },
+            {
+              "title": "Defogger Schematics",
+              "url": "astra-k/4445808.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Window Systems Component Views",
+              "url": "astra-k/4179508.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B0283",
+              "url": "astra-k/2466178.pdf"
+            },
+            {
+              "title": "DTC B316B, B317A, B318A, or B319A (AXG, AEF, AER)",
+              "url": "astra-k/4243410.pdf"
+            },
+            {
+              "title": "DTC B316B, B317A, B318A, or B319A (AXG, AEF Without AER)",
+              "url": "astra-k/4243416.pdf"
+            },
+            {
+              "title": "DTC B316B, B317A, B318A, or B319A (AXG, AED, AEQ)",
+              "url": "astra-k/4521793.pdf"
+            },
+            {
+              "title": "DTC B3205, B3210, B3215, or B3220",
+              "url": "astra-k/4243407.pdf"
+            },
+            {
+              "title": "Symptoms - Fixed and Moveable Windows",
+              "url": "astra-k/2093268.pdf"
+            },
+            {
+              "title": "Rear Window Defogger Malfunction",
+              "url": "astra-k/4215018.pdf"
+            },
+            {
+              "title": "Power Windows Malfunction (AXG, AEF, AER)",
+              "url": "astra-k/4243384.pdf"
+            },
+            {
+              "title": "Power Windows Malfunction (AXG, AEF Without AER)",
+              "url": "astra-k/4243396.pdf"
+            },
+            {
+              "title": "Power Windows Malfunction (AXG, AED, AEQ)",
+              "url": "astra-k/4521786.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Windshield Replacement",
+              "url": "astra-k/4179506.pdf"
+            },
+            {
+              "title": "Windshield Side Reveal Molding Replacement",
+              "url": "astra-k/4179498.pdf"
+            },
+            {
+              "title": "Front Side Door Window Adjustment",
+              "url": "astra-k/4070784.pdf"
+            },
+            {
+              "title": "Front Side Door Window Replacement",
+              "url": "astra-k/4070748.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Adjustment",
+              "url": "astra-k/3771953.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Replacement",
+              "url": "astra-k/4070716.pdf"
+            },
+            {
+              "title": "Quarter Window Replacement",
+              "url": "astra-k/4331662.pdf"
+            },
+            {
+              "title": "Liftgate Window Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4179501.pdf"
+            },
+            {
+              "title": "Liftgate Window Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4332255.pdf"
+            },
+            {
+              "title": "Front Side Door Window Switch Replacement",
+              "url": "astra-k/4179488.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Switch Replacement",
+              "url": "astra-k/4328067.pdf"
+            },
+            {
+              "title": "Front Side Door Window Regulator Replacement",
+              "url": "astra-k/4179491.pdf"
+            },
+            {
+              "title": "Window Motor Programming - Express Function",
+              "url": "astra-k/2533802.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Regulator Replacement",
+              "url": "astra-k/5043232.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Regulator Handle Replacement",
+              "url": "astra-k/4179514.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Channel Rear Retainer Replacement",
+              "url": "astra-k/4179525.pdf"
+            },
+            {
+              "title": "Front Side Door Window Inner Sealing Strip Replacement",
+              "url": "astra-k/4070804.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Upper Reveal Molding Replacement",
+              "url": "astra-k/4179489.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Belt Reveal Molding Replacement",
+              "url": "astra-k/4179516.pdf"
+            },
+            {
+              "title": "Front Side Door Window Belt Reveal Molding Replacement",
+              "url": "astra-k/4070789.pdf"
+            },
+            {
+              "title": "Front Side Door Window Upper Reveal Molding Replacement",
+              "url": "astra-k/4070795.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Frame Inner Filler Insulator Replacement",
+              "url": "astra-k/4179523.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Inner Sealing Strip Replacement",
+              "url": "astra-k/4328071.pdf"
+            },
+            {
+              "title": "Front Side Door Window Weatherstrip Replacement",
+              "url": "astra-k/5042550.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Weatherstrip Replacement",
+              "url": "astra-k/4328076.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Adhesive Service Kit Description",
+              "url": "astra-k/2170130.pdf"
+            },
+            {
+              "title": "Power Windows Description and Operation (AXG, AEF Without AER)",
+              "url": "astra-k/2197659.pdf"
+            },
+            {
+              "title": "Power Windows Description and Operation (AXG, AEF With AER)",
+              "url": "astra-k/3572146.pdf"
+            },
+            {
+              "title": "Power Windows Description and Operation (AXG, AED, AEQ)",
+              "url": "astra-k/3256056.pdf"
+            },
+            {
+              "title": "Rear Window Defogger Description and Operation",
+              "url": "astra-k/2093287.pdf"
+            },
+            {
+              "title": "Stationary Window Description",
+              "url": "astra-k/2165186.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Horns",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Horn Schematics",
+              "url": "astra-k/4445809.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B2750",
+              "url": "astra-k/4209402.pdf"
+            },
+            {
+              "title": "Symptoms - Horns",
+              "url": "astra-k/1875165.pdf"
+            },
+            {
+              "title": "Horns Malfunction",
+              "url": "astra-k/4209405.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Wire to Wire Repair - Horns",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - Horns",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Horn Replacement (Dual Horn)",
+              "url": "astra-k/4070847.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Horns System Description and Operation",
+              "url": "astra-k/2537598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lighting",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Headlights/Daytime Running Lights (DRL) Schematics",
+              "url": "astra-k/4445812.pdf"
+            },
+            {
+              "title": "Fog Lights Schematics",
+              "url": "astra-k/4445818.pdf"
+            },
+            {
+              "title": "Exterior Lights Schematics",
+              "url": "astra-k/4445820.pdf"
+            },
+            {
+              "title": "Interior Lights Schematics",
+              "url": "astra-k/4445832.pdf"
+            },
+            {
+              "title": "Interior Lights Dimming Schematics",
+              "url": "astra-k/4445833.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B1480",
+              "url": "astra-k/4183971.pdf"
+            },
+            {
+              "title": "DTC B2530",
+              "url": "astra-k/3613051.pdf"
+            },
+            {
+              "title": "DTC B2540",
+              "url": "astra-k/4259797.pdf"
+            },
+            {
+              "title": "DTC B2545",
+              "url": "astra-k/4184039.pdf"
+            },
+            {
+              "title": "DTC B255F",
+              "url": "astra-k/4184052.pdf"
+            },
+            {
+              "title": "DTC B256A",
+              "url": "astra-k/4521908.pdf"
+            },
+            {
+              "title": "DTC B256C or B256D",
+              "url": "astra-k/4184514.pdf"
+            },
+            {
+              "title": "DTC B2570",
+              "url": "astra-k/2581450.pdf"
+            },
+            {
+              "title": "DTC B2575 or B2699",
+              "url": "astra-k/4200248.pdf"
+            },
+            {
+              "title": "DTC B257A",
+              "url": "astra-k/2534896.pdf"
+            },
+            {
+              "title": "DTC B257B",
+              "url": "astra-k/2534899.pdf"
+            },
+            {
+              "title": "DTC B2580 (T4A)",
+              "url": "astra-k/4208693.pdf"
+            },
+            {
+              "title": "DTC B2580 or B3866 (T4L)",
+              "url": "astra-k/4184568.pdf"
+            },
+            {
+              "title": "DTC B2585 or B3867",
+              "url": "astra-k/4200173.pdf"
+            },
+            {
+              "title": "DTC B258A or B258E",
+              "url": "astra-k/4184503.pdf"
+            },
+            {
+              "title": "DTC B2590 or B2595",
+              "url": "astra-k/4214401.pdf"
+            },
+            {
+              "title": "DTC B259C or B259D",
+              "url": "astra-k/4184541.pdf"
+            },
+            {
+              "title": "DTC B259E or B259F",
+              "url": "astra-k/4184553.pdf"
+            },
+            {
+              "title": "DTC B25F2 or B25F3",
+              "url": "astra-k/4184466.pdf"
+            },
+            {
+              "title": "DTC B25F4 or B25F5",
+              "url": "astra-k/4184476.pdf"
+            },
+            {
+              "title": "DTC B25F6 or B25F7",
+              "url": "astra-k/4184487.pdf"
+            },
+            {
+              "title": "DTC B25F8 or B25F9",
+              "url": "astra-k/4184574.pdf"
+            },
+            {
+              "title": "DTC B2600 or B2605",
+              "url": "astra-k/4522456.pdf"
+            },
+            {
+              "title": "DTC B2610",
+              "url": "astra-k/4200176.pdf"
+            },
+            {
+              "title": "DTC B2615",
+              "url": "astra-k/4200179.pdf"
+            },
+            {
+              "title": "DTC B2625",
+              "url": "astra-k/4200182.pdf"
+            },
+            {
+              "title": "DTC B2645",
+              "url": "astra-k/4209238.pdf"
+            },
+            {
+              "title": "DTC B3410 or B3420",
+              "url": "astra-k/4200186.pdf"
+            },
+            {
+              "title": "DTC B3415 or B3425",
+              "url": "astra-k/4200188.pdf"
+            },
+            {
+              "title": "DTC B3435 or B3440",
+              "url": "astra-k/4200189.pdf"
+            },
+            {
+              "title": "DTC B3596",
+              "url": "astra-k/4200190.pdf"
+            },
+            {
+              "title": "DTC B3650",
+              "url": "astra-k/4166830.pdf"
+            },
+            {
+              "title": "DTC B3806",
+              "url": "astra-k/4166833.pdf"
+            },
+            {
+              "title": "DTC B3881 or B3882",
+              "url": "astra-k/4200206.pdf"
+            },
+            {
+              "title": "DTC B3883",
+              "url": "astra-k/4200227.pdf"
+            },
+            {
+              "title": "DTC B3884",
+              "url": "astra-k/2466093.pdf"
+            },
+            {
+              "title": "DTC B3885 or B3886",
+              "url": "astra-k/2292407.pdf"
+            },
+            {
+              "title": "DTC B3887 or B3888",
+              "url": "astra-k/2292522.pdf"
+            },
+            {
+              "title": "DTC B3889",
+              "url": "astra-k/2292405.pdf"
+            },
+            {
+              "title": "DTC B388D",
+              "url": "astra-k/4213180.pdf"
+            },
+            {
+              "title": "DTC B388E",
+              "url": "astra-k/3439958.pdf"
+            },
+            {
+              "title": "DTC B3890",
+              "url": "astra-k/2292408.pdf"
+            },
+            {
+              "title": "DTC B3891",
+              "url": "astra-k/2292169.pdf"
+            },
+            {
+              "title": "DTC B3948 or B3949",
+              "url": "astra-k/4200237.pdf"
+            },
+            {
+              "title": "DTC B3950 or B3951",
+              "url": "astra-k/4200243.pdf"
+            },
+            {
+              "title": "DTC C0277 or C0890",
+              "url": "astra-k/4210197.pdf"
+            },
+            {
+              "title": "DTC C0297",
+              "url": "astra-k/4200247.pdf"
+            },
+            {
+              "title": "Symptoms - Lighting",
+              "url": "astra-k/4211105.pdf"
+            },
+            {
+              "title": "Adaptive Forward Lighting Malfunction",
+              "url": "astra-k/4200707.pdf"
+            },
+            {
+              "title": "Backup Lamps Malfunction (Automatic Transmission)",
+              "url": "astra-k/4200725.pdf"
+            },
+            {
+              "title": "Backup Lamps Malfunction (Manual Transmission)",
+              "url": "astra-k/4200729.pdf"
+            },
+            {
+              "title": "Courtesy Lamps Malfunction",
+              "url": "astra-k/4200750.pdf"
+            },
+            {
+              "title": "Daytime Running Lamps Malfunction",
+              "url": "astra-k/4200778.pdf"
+            },
+            {
+              "title": "Dome Lamps Malfunction",
+              "url": "astra-k/4200757.pdf"
+            },
+            {
+              "title": "Front Fog Lamps Malfunction",
+              "url": "astra-k/4210372.pdf"
+            },
+            {
+              "title": "Rear Fog Lamps Malfunction",
+              "url": "astra-k/4260062.pdf"
+            },
+            {
+              "title": "Hazard Lamps Malfunction",
+              "url": "astra-k/4203382.pdf"
+            },
+            {
+              "title": "Headlamps Malfunction",
+              "url": "astra-k/4203389.pdf"
+            },
+            {
+              "title": "Headlamp Leveling Malfunction (Automatic Headlamp Leveling)",
+              "url": "astra-k/4203415.pdf"
+            },
+            {
+              "title": "Headlamp Leveling Malfunction (Manual Headlamp Leveling)",
+              "url": "astra-k/4248845.pdf"
+            },
+            {
+              "title": "Interior Accent Lighting Malfunction",
+              "url": "astra-k/4203647.pdf"
+            },
+            {
+              "title": "Interior Backlighting Malfunction",
+              "url": "astra-k/4203665.pdf"
+            },
+            {
+              "title": "Park, License, and/or Tail Lamps Malfunction",
+              "url": "astra-k/4203800.pdf"
+            },
+            {
+              "title": "Rear Compartment Lamp Malfunction",
+              "url": "astra-k/3619942.pdf"
+            },
+            {
+              "title": "Stop Lamps Malfunction",
+              "url": "astra-k/4203921.pdf"
+            },
+            {
+              "title": "Trailer Lamps Malfunction",
+              "url": "astra-k/4213174.pdf"
+            },
+            {
+              "title": "Turn Signal Lamps and/or Indicators Malfunction",
+              "url": "astra-k/4204037.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Wire to Wire Repair - Lighting",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - Lighting",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Brake Pedal Position Sensor Calibration",
+              "url": "astra-k/2172958.pdf"
+            },
+            {
+              "title": "Brake Pedal Position Sensor Replacement (Left Hand Drive)",
+              "url": "astra-k/4179533.pdf"
+            },
+            {
+              "title": "Brake Pedal Position Sensor Replacement (Right Hand Drive)",
+              "url": "astra-k/4179535.pdf"
+            },
+            {
+              "title": "Sun Load Temperature and DRL Ambient Light Sensor Replacement",
+              "url": "astra-k/4229503.pdf"
+            },
+            {
+              "title": "Headlamp Switch Replacement",
+              "url": "astra-k/4219117.pdf"
+            },
+            {
+              "title": "Trailer Lamp Control Module Replacement",
+              "url": "astra-k/4219129.pdf"
+            },
+            {
+              "title": "Trailer Lamp Control Module Bracket Replacement",
+              "url": "astra-k/4219133.pdf"
+            },
+            {
+              "title": "Hazard Warning Switch Replacement",
+              "url": "astra-k/4219116.pdf"
+            },
+            {
+              "title": "Center Reading and Courtesy Lamp Replacement",
+              "url": "astra-k/4959900.pdf"
+            },
+            {
+              "title": "Front Floor Console Light Conductor Lamp Replacement",
+              "url": "astra-k/4179541.pdf"
+            },
+            {
+              "title": "Front Side Door Light Conductor Lamp Replacement",
+              "url": "astra-k/4179545.pdf"
+            },
+            {
+              "title": "Rear Seat Position Center Courtesy Lamp Replacement",
+              "url": "astra-k/4280787.pdf"
+            },
+            {
+              "title": "Sunshade Illuminated Mirror Lamp Bulb Replacement",
+              "url": "astra-k/2295466.pdf"
+            },
+            {
+              "title": "Dome Lamp Wiring Harness Replacement (without Sunroof)",
+              "url": "astra-k/2309732.pdf"
+            },
+            {
+              "title": "Dome Lamp Wiring Harness Replacement (with Sunroof)",
+              "url": "astra-k/4219131.pdf"
+            },
+            {
+              "title": "Front Headlamp Replacement (Halogen)",
+              "url": "astra-k/4219118.pdf"
+            },
+            {
+              "title": "Front Headlamp Replacement (LED/Matrix)",
+              "url": "astra-k/4219119.pdf"
+            },
+            {
+              "title": "Headlamp Bulb Replacement",
+              "url": "astra-k/4219124.pdf"
+            },
+            {
+              "title": "Headlamp Leveling Actuator Replacement",
+              "url": "astra-k/4575241.pdf"
+            },
+            {
+              "title": "Headlamp Bracket Replacement",
+              "url": "astra-k/4734223.pdf"
+            },
+            {
+              "title": "Front Headlamp Aiming",
+              "url": "astra-k/4219126.pdf"
+            },
+            {
+              "title": "Front Suspension Automatic Forward Lighting Position Sensor Replacement",
+              "url": "astra-k/4194280.pdf"
+            },
+            {
+              "title": "Rear Suspension Automatic Forward Lighting Leveling Position Sensor Replacement",
+              "url": "astra-k/4179952.pdf"
+            },
+            {
+              "title": "Suspension Position Sensor Calibration",
+              "url": "astra-k/4310963.pdf"
+            },
+            {
+              "title": "Headlamp Control Module Replacement (Daytime Running Light and Turn Signal Lamp)",
+              "url": "astra-k/4219121.pdf"
+            },
+            {
+              "title": "Headlamp Control Module Replacement (High Beam)",
+              "url": "astra-k/4219122.pdf"
+            },
+            {
+              "title": "Headlamp Control Module Replacement (Low Beam)",
+              "url": "astra-k/4219123.pdf"
+            },
+            {
+              "title": "Headlamp Control Module Replacement (AFL / AHL)",
+              "url": "astra-k/4287570.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Replacement",
+              "url": "astra-k/4179528.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Bulb Replacement",
+              "url": "astra-k/3783299.pdf"
+            },
+            {
+              "title": "Front Fog Lamp and Front Object Sensor Wiring Harness Replacement",
+              "url": "astra-k/4179537.pdf"
+            },
+            {
+              "title": "Rear Fog Lamp Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4219128.pdf"
+            },
+            {
+              "title": "Rear Fog Lamp Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336139.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Opening Cover Replacement",
+              "url": "astra-k/4179540.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Aiming",
+              "url": "astra-k/2332754.pdf"
+            },
+            {
+              "title": "Rear Reflector Replacement (Holden Hatchback 68)",
+              "url": "astra-k/4283135.pdf"
+            },
+            {
+              "title": "Rear Reflector Replacement (Opel/Vauxhall Hatchback 68)",
+              "url": "astra-k/4219135.pdf"
+            },
+            {
+              "title": "Rear Reflector Replacement (Station Wagon 35)",
+              "url": "astra-k/4538058.pdf"
+            },
+            {
+              "title": "Front Side Turn Signal Lamp Replacement",
+              "url": "astra-k/4412204.pdf"
+            },
+            {
+              "title": "High Mount Stop Lamp Wiring Harness Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4219130.pdf"
+            },
+            {
+              "title": "High Mount Stop Lamp Wiring Harness Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336140.pdf"
+            },
+            {
+              "title": "High Mount Stop Lamp Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4219125.pdf"
+            },
+            {
+              "title": "High Mount Stop Lamp Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336137.pdf"
+            },
+            {
+              "title": "Headlamp Wiring Harness Replacement",
+              "url": "astra-k/4084642.pdf"
+            },
+            {
+              "title": "Rear License Plate Lamp Replacement",
+              "url": "astra-k/4070853.pdf"
+            },
+            {
+              "title": "Tail Lamp Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4219127.pdf"
+            },
+            {
+              "title": "Tail Lamp Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336138.pdf"
+            },
+            {
+              "title": "Rear Compartment Courtesy Lamp Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4219120.pdf"
+            },
+            {
+              "title": "Rear Compartment Courtesy Lamp Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4336136.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Exterior Lighting Systems Description and Operation",
+              "url": "astra-k/4213314.pdf"
+            },
+            {
+              "title": "Interior Lighting Systems Description and Operation",
+              "url": "astra-k/4211958.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mirrors",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Inside Rearview Mirror Schematics",
+              "url": "astra-k/4445834.pdf"
+            },
+            {
+              "title": "Outside Rearview Mirror Schematics",
+              "url": "astra-k/4445835.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Symptoms - Mirrors",
+              "url": "astra-k/2495567.pdf"
+            },
+            {
+              "title": "Heated Mirrors Malfunction",
+              "url": "astra-k/4203233.pdf"
+            },
+            {
+              "title": "Automatic Day-Night Mirrors Malfunction",
+              "url": "astra-k/2102599.pdf"
+            },
+            {
+              "title": "Power Mirror Folding Malfunction",
+              "url": "astra-k/4203228.pdf"
+            },
+            {
+              "title": "Power Mirror Malfunction",
+              "url": "astra-k/4203230.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Outside Rearview Mirror Replacement",
+              "url": "astra-k/4200379.pdf"
+            },
+            {
+              "title": "Outside Rearview Mirror Remote Control Switch Replacement",
+              "url": "astra-k/4328945.pdf"
+            },
+            {
+              "title": "Outside Rearview Mirror Actuator Replacement",
+              "url": "astra-k/4165761.pdf"
+            },
+            {
+              "title": "Outside Rearview Mirror Glass Replacement",
+              "url": "astra-k/4200378.pdf"
+            },
+            {
+              "title": "Outside Rearview Mirror Housing Replacement",
+              "url": "astra-k/4070955.pdf"
+            },
+            {
+              "title": "Inside Rearview Mirror Replacement (with TQ5)",
+              "url": "astra-k/4477887.pdf"
+            },
+            {
+              "title": "Inside Rearview Mirror Replacement (Without TQ5)",
+              "url": "astra-k/4601483.pdf"
+            },
+            {
+              "title": "Inside Rearview Mirror Bracket Installation",
+              "url": "astra-k/2199562.pdf"
+            },
+            {
+              "title": "Inside Rearview Mirror Wiring Harness Replacement",
+              "url": "astra-k/3702737.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Automatic Day-Night Mirror Description and Operation",
+              "url": "astra-k/2221566.pdf"
+            },
+            {
+              "title": "Outside Mirror Description and Operation",
+              "url": "astra-k/2102602.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vehicle Access",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Door Lock/Indicator Schematics",
+              "url": "astra-k/4445838.pdf"
+            },
+            {
+              "title": "Release Systems Schematics",
+              "url": "astra-k/4445839.pdf"
+            },
+            {
+              "title": "Liftgate Schematics",
+              "url": "astra-k/4445842.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B1019 - Liftgate Control Module",
+              "url": "astra-k/2470513.pdf"
+            },
+            {
+              "title": "DTC B1474 or B3849",
+              "url": "astra-k/3641503.pdf"
+            },
+            {
+              "title": "DTC B1534 or B1535",
+              "url": "astra-k/4207849.pdf"
+            },
+            {
+              "title": "DTC B153A - Liftgate Latch Switches Malfunction",
+              "url": "astra-k/4822971.pdf"
+            },
+            {
+              "title": "DTC B153E - Liftgate Angle Sensor Malfunction",
+              "url": "astra-k/4223277.pdf"
+            },
+            {
+              "title": "DTC B153F - Liftgate Object Sensor Malfunction",
+              "url": "astra-k/4449571.pdf"
+            },
+            {
+              "title": "DTC B2494 - Liftgate Handle Switch Malfunction",
+              "url": "astra-k/4088456.pdf"
+            },
+            {
+              "title": "DTC B2495 or B24A0",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B297B or B297C",
+              "url": "astra-k/4215082.pdf"
+            },
+            {
+              "title": "DTC B3125, B3130, or B3135",
+              "url": "astra-k/4161421.pdf"
+            },
+            {
+              "title": "DTC B3140 or B3150",
+              "url": "astra-k/4783646.pdf"
+            },
+            {
+              "title": "DTC B323A-B323C",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B324A or B3245",
+              "url": "astra-k/4204749.pdf"
+            },
+            {
+              "title": "DTC B3265",
+              "url": "astra-k/4206412.pdf"
+            },
+            {
+              "title": "DTC B3618",
+              "url": "astra-k/4204758.pdf"
+            },
+            {
+              "title": "DTC B3797",
+              "url": "astra-k/4206497.pdf"
+            },
+            {
+              "title": "DTC B384A",
+              "url": "astra-k/4110760.pdf"
+            },
+            {
+              "title": "DTC B3938",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B396A - Liftgate Motor Power Open/Close Malfunction",
+              "url": "astra-k/3961685.pdf"
+            },
+            {
+              "title": "DTC B396C or B396D - Liftgate Interior Release Open/Close Switch Malfunction",
+              "url": "astra-k/3641492.pdf"
+            },
+            {
+              "title": "DTC B396E - Liftgate Close Switch Malfunction",
+              "url": "astra-k/2470536.pdf"
+            },
+            {
+              "title": "Symptoms - Vehicle Access",
+              "url": "astra-k/4083271.pdf"
+            },
+            {
+              "title": "Exterior Door Handle Switch Malfunction",
+              "url": "astra-k/4207842.pdf"
+            },
+            {
+              "title": "Fuel Filler Door Release Malfunction (With UTT)",
+              "url": "astra-k/4206460.pdf"
+            },
+            {
+              "title": "Fuel Filler Door Release Malfunction (Without UTT)",
+              "url": "astra-k/2697677.pdf"
+            },
+            {
+              "title": "Hatch Release Malfunction",
+              "url": "astra-k/4204801.pdf"
+            },
+            {
+              "title": "Liftgate System Diagnosis",
+              "url": "astra-k/4449586.pdf"
+            },
+            {
+              "title": "Liftgate Handsfree Sensor Malfunction",
+              "url": "astra-k/3414572.pdf"
+            },
+            {
+              "title": "Liftgate Latch Release/Cinch Malfunction",
+              "url": "astra-k/3743162.pdf"
+            },
+            {
+              "title": "Liftgate Release Malfunction (Without TB5)",
+              "url": "astra-k/4206211.pdf"
+            },
+            {
+              "title": "Liftgate Ajar Indicator Malfunction (With TB5)",
+              "url": "astra-k/2241291.pdf"
+            },
+            {
+              "title": "Liftgate Ajar Indicator Malfunction (Without TB5)",
+              "url": "astra-k/2241291.pdf"
+            },
+            {
+              "title": "Door Ajar Indicator Malfunction",
+              "url": "astra-k/4776267.pdf"
+            },
+            {
+              "title": "Power Door Dead Lock Malfunction",
+              "url": "astra-k/4092376.pdf"
+            },
+            {
+              "title": "Power Door Lock Key Cylinder Switches Malfunction",
+              "url": "astra-k/3468430.pdf"
+            },
+            {
+              "title": "Power Door Locks Malfunction",
+              "url": "astra-k/4161396.pdf"
+            },
+            {
+              "title": "Power Liftgate Malfunction",
+              "url": "astra-k/4834092.pdf"
+            },
+            {
+              "title": "Rear Hatch/Gate Ajar Indicator Malfunction",
+              "url": "astra-k/4207825.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Front Side Door Inside Handle Cable Replacement",
+              "url": "astra-k/3686955.pdf"
+            },
+            {
+              "title": "Rear Side Door Inside Handle Cable Replacement",
+              "url": "astra-k/3686958.pdf"
+            },
+            {
+              "title": "Front Side Door Lock Cylinder Replacement",
+              "url": "astra-k/3686963.pdf"
+            },
+            {
+              "title": "Liftgate Calibration",
+              "url": "astra-k/2226185.pdf"
+            },
+            {
+              "title": "Opening the Liftgate Without Electrical Power (5-Door Hatchback 68)",
+              "url": "astra-k/4219144.pdf"
+            },
+            {
+              "title": "Opening the Liftgate Without Electrical Power (5-Door Wagon 35)",
+              "url": "astra-k/4429463.pdf"
+            },
+            {
+              "title": "Front Side Door Outside Handle Replacement (without Keyless Entry)",
+              "url": "astra-k/3686976.pdf"
+            },
+            {
+              "title": "Front Side Door Outside Handle Replacement (with Keyless Entry)",
+              "url": "astra-k/4298618.pdf"
+            },
+            {
+              "title": "Front Side Door Outside Handle Bracket Replacement",
+              "url": "astra-k/3686951.pdf"
+            },
+            {
+              "title": "Front Side Door Outside Handle Cable Replacement",
+              "url": "astra-k/3687009.pdf"
+            },
+            {
+              "title": "Rear Side Door Outside Handle Bracket Replacement",
+              "url": "astra-k/5043987.pdf"
+            },
+            {
+              "title": "Liftgate Outside Handle Replacement",
+              "url": "astra-k/4219143.pdf"
+            },
+            {
+              "title": "Liftgate Latch Replacement (Hatchback 68)",
+              "url": "astra-k/4219142.pdf"
+            },
+            {
+              "title": "Liftgate Latch Replacement (Wagon 35 with Basic Liftgate)",
+              "url": "astra-k/4516361.pdf"
+            },
+            {
+              "title": "Liftgate Latch Replacement (Wagon 35 with Power Liftgate)",
+              "url": "astra-k/4336148.pdf"
+            },
+            {
+              "title": "Rear Side Door Outside Handle Replacement (without Keyless Entry)",
+              "url": "astra-k/3686979.pdf"
+            },
+            {
+              "title": "Rear Side Door Outside Handle Replacement (with Keyless Entry)",
+              "url": "astra-k/3716390.pdf"
+            },
+            {
+              "title": "Rear Side Door Outside Handle Cable Replacement",
+              "url": "astra-k/3703276.pdf"
+            },
+            {
+              "title": "Front Side Door Latch Replacement",
+              "url": "astra-k/3686982.pdf"
+            },
+            {
+              "title": "Rear Side Door Latch Replacement",
+              "url": "astra-k/5043985.pdf"
+            },
+            {
+              "title": "Front Side Door Lock Cylinder Opening Cover Replacement",
+              "url": "astra-k/3686996.pdf"
+            },
+            {
+              "title": "Rear Side Door Lock Cylinder Opening Cover Replacement",
+              "url": "astra-k/3686998.pdf"
+            },
+            {
+              "title": "Rear Gate Module Replacement",
+              "url": "astra-k/4336152.pdf"
+            },
+            {
+              "title": "Rear Closure Hands Free Module Replacement",
+              "url": "astra-k/4336155.pdf"
+            },
+            {
+              "title": "Rear Closure Hands Free Sensor Replacement (Lower)",
+              "url": "astra-k/4336156.pdf"
+            },
+            {
+              "title": "Rear Closure Hands Free Sensor Replacement (Upper)",
+              "url": "astra-k/4336157.pdf"
+            },
+            {
+              "title": "Front Side Door Locking Rod Knob Replacement",
+              "url": "astra-k/3687001.pdf"
+            },
+            {
+              "title": "Front Side Door Lock Cylinder Rod Replacement",
+              "url": "astra-k/3686992.pdf"
+            },
+            {
+              "title": "Front Side Door Outside Handle Cable Retainer Replacement",
+              "url": "astra-k/3687003.pdf"
+            },
+            {
+              "title": "Liftgate Power Assist Actuator Replacement",
+              "url": "astra-k/4336154.pdf"
+            },
+            {
+              "title": "Rear Side Door Locking Rod Knob Replacement",
+              "url": "astra-k/5043236.pdf"
+            },
+            {
+              "title": "Front Side Door Lock Striker Replacement",
+              "url": "astra-k/2295479.pdf"
+            },
+            {
+              "title": "Liftgate Latch Striker Replacement",
+              "url": "astra-k/4257172.pdf"
+            },
+            {
+              "title": "Rear Side Door Lock Striker Replacement",
+              "url": "astra-k/2361075.pdf"
+            },
+            {
+              "title": "Liftgate Release Switch Replacement",
+              "url": "astra-k/4336151.pdf"
+            },
+            {
+              "title": "Liftgate Close Switch Replacement",
+              "url": "astra-k/4336153.pdf"
+            },
+            {
+              "title": "Door Lock Switch Replacement",
+              "url": "astra-k/3686947.pdf"
+            },
+            {
+              "title": "Rear Closure Fixed Handle Applique Replacement",
+              "url": "astra-k/4332260.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Door Ajar Indicator Description and Operation",
+              "url": "astra-k/2360259.pdf"
+            },
+            {
+              "title": "Fuel Fill Door Description and Operation",
+              "url": "astra-k/2166911.pdf"
+            },
+            {
+              "title": "Liftgate Ajar Indicator Description and Operation",
+              "url": "astra-k/2244967.pdf"
+            },
+            {
+              "title": "Liftgate Description and Operation",
+              "url": "astra-k/5385493.pdf"
+            },
+            {
+              "title": "Power Door Locks Description and Operation",
+              "url": "astra-k/3220205.pdf"
+            },
+            {
+              "title": "Rear Hatch/Gate Description and Operation",
+              "url": "astra-k/3511590.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wipers and Washers",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Wiper/Washer Schematics",
+              "url": "astra-k/4445843.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B370A",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B370B",
+              "url": "astra-k/4205498.pdf"
+            },
+            {
+              "title": "DTC B371A",
+              "url": "astra-k/4205531.pdf"
+            },
+            {
+              "title": "DTC B371C",
+              "url": "astra-k/4205574.pdf"
+            },
+            {
+              "title": "DTC B3811",
+              "url": "astra-k/4205079.pdf"
+            },
+            {
+              "title": "DTC B3873",
+              "url": "astra-k/4204894.pdf"
+            },
+            {
+              "title": "Symptoms - Wiper/Washer Systems",
+              "url": "astra-k/4210825.pdf"
+            },
+            {
+              "title": "Windshield Wiper System Malfunction",
+              "url": "astra-k/4204792.pdf"
+            },
+            {
+              "title": "Washer Malfunction",
+              "url": "astra-k/4204833.pdf"
+            },
+            {
+              "title": "Rain Sensor Malfunction",
+              "url": "astra-k/4200264.pdf"
+            },
+            {
+              "title": "Rear Wiper System Malfunction",
+              "url": "astra-k/4205438.pdf"
+            },
+            {
+              "title": "Rear Wiper Washer System Malfunction",
+              "url": "astra-k/4205019.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Windshield Wiper and Windshield Washer Switch Replacement",
+              "url": "astra-k/2279726.pdf"
+            },
+            {
+              "title": "Windshield Washer Nozzle Hose Replacement",
+              "url": "astra-k/5043219.pdf"
+            },
+            {
+              "title": "Windshield Washer Nozzle Replacement",
+              "url": "astra-k/4200387.pdf"
+            },
+            {
+              "title": "Rear Window Washer Nozzle Replacement",
+              "url": "astra-k/4200385.pdf"
+            },
+            {
+              "title": "Washer Hose Repair",
+              "url": "astra-k/2690744.pdf"
+            },
+            {
+              "title": "Windshield Washer Pump Hose Replacement",
+              "url": "astra-k/2788354.pdf"
+            },
+            {
+              "title": "Rear Window Washer Nozzle Hose Replacement",
+              "url": "astra-k/4219138.pdf"
+            },
+            {
+              "title": "Windshield Washer Solvent Container Filler Tube Replacement",
+              "url": "astra-k/2279735.pdf"
+            },
+            {
+              "title": "Windshield Washer Solvent Container Replacement",
+              "url": "astra-k/4200386.pdf"
+            },
+            {
+              "title": "Windshield Washer Pump Replacement",
+              "url": "astra-k/4200388.pdf"
+            },
+            {
+              "title": "Windshield Washer Pump Grommet Replacement",
+              "url": "astra-k/4200390.pdf"
+            },
+            {
+              "title": "Windshield Washer Solvent Container Level Sensor Replacement",
+              "url": "astra-k/3686926.pdf"
+            },
+            {
+              "title": "Dash Upper Extension Panel Opening Cover Replacement",
+              "url": "astra-k/3686929.pdf"
+            },
+            {
+              "title": "Air Inlet Grille Panel Replacement",
+              "url": "astra-k/4200389.pdf"
+            },
+            {
+              "title": "Windshield Wiper Arm Replacement",
+              "url": "astra-k/3686891.pdf"
+            },
+            {
+              "title": "Rear Window Wiper Arm Replacement",
+              "url": "astra-k/4200382.pdf"
+            },
+            {
+              "title": "Rear Window Wiper Motor Replacement",
+              "url": "astra-k/4200383.pdf"
+            },
+            {
+              "title": "Windshield Wiper System Module Replacement",
+              "url": "astra-k/4200384.pdf"
+            },
+            {
+              "title": "Windshield Multifunction Sensor Mount Bracket Cover Replacement",
+              "url": "astra-k/4219140.pdf"
+            },
+            {
+              "title": "Windshield Outside Moisture/Ambient Light and Humidity Sensor Replacement",
+              "url": "astra-k/4221678.pdf"
+            },
+            {
+              "title": "Wiper Blade Element Cleaning",
+              "url": "astra-k/2165089.pdf"
+            },
+            {
+              "title": "Multifunction Relay Module Bracket Replacement",
+              "url": "astra-k/5146112.pdf"
+            },
+            {
+              "title": "Windshield Wiper Arm Adjustment",
+              "url": "astra-k/4219139.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Wiper/Washer System Description and Operation",
+              "url": "astra-k/4446420.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

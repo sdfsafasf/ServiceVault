@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "(13453907)",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39109107)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39109107)",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39185891)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39109108)",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39185892)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39185892",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "22790134",
+    "desc": "-COCK,DRAIN,WATER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12641073",
+    "desc": "-SENSOR,TEMPERATURE,ENGINE COOLANT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55575090",
+    "desc": "-RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39109101",
+    "desc": "-SEAL,RADIATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13378477",
+    "desc": "-VALVE,VENT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

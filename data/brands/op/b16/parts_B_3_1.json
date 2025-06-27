@@ -1,0 +1,160 @@
+[
+  {
+    "call": "1",
+    "part": "13407457",
+    "desc": "COUPLING,ASSY.,TRAILER,REMOVABLE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1672,
+        "y": 739
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11589165",
+    "desc": "SCREW,HEX.HD.,M10 X 34 (NLS.- USE 9826136280)",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 106,
+        "y": 870
+      },
+      {
+        "x": 187,
+        "y": 2278
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11516754",
+    "desc": "NUT,M10",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 806,
+        "y": 1067
+      },
+      {
+        "x": 973,
+        "y": 2359
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11546462",
+    "desc": "NUT,M10 (NLS.- USE YR00270680)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "6",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13407460",
+    "desc": "DRAWBAR,REMOVABLE,TRAILER COUPLING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1795,
+        "y": 1208
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "12847559",
+    "desc": "BAG,REMOVABLE DRAWBAR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 205,
+        "y": 984
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13365495",
+    "desc": "HARNESS,ASSY.,TRAILER COUPLING,13 PIN (NLS.- USE 39026778)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1433,
+        "y": 129
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39026778",
+    "desc": "HARNESS,ASSY.,TRAILER COUPLING,13 PIN",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13363075",
+    "desc": "-SOCKET,PLUG,13 PIN,TRAILER COUPLING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1379,
+        "y": 230
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11040782",
+    "desc": "SCREW,RD.HD.,M5 X 30,PLUG SOCKET FIXING (NLS.- USE YQ00219680)",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 1493,
+        "y": 338
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "call": "9",
+    "part": "13412498",
+    "desc": "GLASS,REAR DOOR,STANDARD TINT,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1648,
+        "y": 859
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13412497",
+    "desc": "GLASS,REAR DOOR,STANDARD TINT,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13412500",
+    "desc": "GLASS,REAR DOOR,PRIVACY TINT [RPO AKO],RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13412499",
+    "desc": "GLASS,REAR DOOR,PRIVACY TINT [RPO AKO],LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "",
+    "desc": "GLASS,REAR DOOR,FIXED (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP C) (REAR DOOR FITTINGS) (SHORTCUT: B16.C150)",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 2016,
+        "y": 1166
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

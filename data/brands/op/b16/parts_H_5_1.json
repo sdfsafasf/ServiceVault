@@ -1,0 +1,35 @@
+[
+  {
+    "call": "12",
+    "part": "12755013",
+    "desc": "SEAL,DRIVE SHAFT,FRONT AXLE (EXC.RPO AVV,BREAKPOINT CONTROL MY16.5)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55592318",
+    "desc": "SEAL,DRIVE SHAFT,FRONT AXLE (FOR RPO AVV,BREAKPOINT CONTROL MY16.5)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55592318",
+    "desc": "SEAL,DRIVE SHAFT,FRONT AXLE",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

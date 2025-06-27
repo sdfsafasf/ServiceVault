@@ -1,0 +1,571 @@
+[
+  {
+    "call": "1",
+    "part": "(13439491)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,LH-LHD (NLS.- USE YR003894YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2115,
+        "y": 1441
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13439492)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,RH-RHD (NLS.- USE YR003895YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(25974714)",
+    "desc": "SWITCH,SEAT,LH-LHD (NLS.- USE YR00037580)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1289,
+        "y": 1840
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(25974715)",
+    "desc": "SWITCH,SEAT,RH-RHD (NLS.- USE YR00037480)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13274114)",
+    "desc": "KNOB,BLACK (NLS.- USE YR003828YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1937,
+        "y": 2017
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13274112)",
+    "desc": "KNOB,BLACK (NLS.- USE YR003823YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2028,
+        "y": 2057
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13434791)",
+    "desc": "SWITCH (NLS.- USE YR003830YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1792,
+        "y": 1562
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13273505)",
+    "desc": "SWITCH,ADJUSTER POSITION MEMORY (NLS.- USE YR003829YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1889,
+        "y": 1535
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39010085)",
+    "desc": "SWITCH,LUMBAR SUPPORT,BLACK,RH (NLS.- USE YR003827YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1639,
+        "y": 1559
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39010084)",
+    "desc": "SWITCH,LUMBAR SUPPORT,BLACK,LH (NLS.- USE YR003826YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13472700",
+    "desc": "RETAINER,LH-LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1431,
+        "y": 2117
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13472701",
+    "desc": "RETAINER,RH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13472702)",
+    "desc": "RETAINER,LH-LHD (NLS.- USE YR00048380)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1569,
+        "y": 1586
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13472703",
+    "desc": "RETAINER,RH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13486206)",
+    "desc": "COVER,ADJUSTER MECHANISM,INNER,BLACK,RH SEAT (NLS.- USE YR003899YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 351,
+        "y": 823
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13486205)",
+    "desc": "COVER,ADJUSTER MECHANISM,INNER,BLACK,LH SEAT (NLS.- USE YR003898YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13383815)",
+    "desc": "FRAME,ASSY.,CUSHION EXTENSION,FRONT SEAT (NLS.- USE YR00164380)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 390,
+        "y": 1170
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13404388",
+    "desc": "LEVER,ADJUSTING,EXTENSION,CUSHION,BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 59,
+        "y": 1499
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(11098671)",
+    "desc": "NUT,HEX.,M5,CUSHION FRAME (NLS.- USE YQ00165080)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 535,
+        "y": 1674
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13491401)",
+    "desc": "BRACKET (NLS.- USE YR00182280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 761,
+        "y": 2223
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "23338340",
+    "desc": "MODULE,USED WITH SEAT MEMORY",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 345,
+        "y": 2198
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(39014652)",
+    "desc": "RIVET,MODULE (NLS.- USE YR00172280)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 312,
+        "y": 2048
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "11547638",
+    "desc": "SCREW,BRACKET",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 686,
+        "y": 1074
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13507288)",
+    "desc": "SUPPORT,LUMBAR (NLS.- USE 13510033)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 472,
+        "y": 66
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13510033)",
+    "desc": "SUPPORT,LUMBAR (NLS.- USE 13511246)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13511246)",
+    "desc": "SUPPORT,LUMBAR (NLS.- USE 13513261)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13513261)",
+    "desc": "SUPPORT,LUMBAR (NLS.- USE 13515732)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13515732)",
+    "desc": "SUPPORT,LUMBAR (NLS.- USE 13525201)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13484089)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,RH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE 39058157)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 357,
+        "y": 685
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39058157)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,RH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE YR00177680)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13484088)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,LH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE 39058156)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39058156)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,LH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE YR00177580)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39014716)",
+    "desc": "BRACKET,BACK / SQUAB FRAME,RH (NLS.- USE YR00170180)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 752,
+        "y": 832
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39014715)",
+    "desc": "BRACKET,BACK / SQUAB FRAME,LH (NLS.- USE YR00170080)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(39014652)",
+    "desc": "RIVET (NLS.- USE YR00172280)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 969,
+        "y": 389
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "13404440",
+    "desc": "COVER,OUTER GUIDE RAIL,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1611,
+        "y": 2370
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "13443784",
+    "desc": "COVER,OUTER GUIDE RAIL,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(13383906)",
+    "desc": "SCREW,TORX (NLS.- USE YR00069880)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1292,
+        "y": 2455
+      },
+      {
+        "x": 1177,
+        "y": 2150
+      },
+      {
+        "x": 2112,
+        "y": 1861
+      },
+      {
+        "x": 1618,
+        "y": 2060
+      },
+      {
+        "x": 641,
+        "y": 1140
+      },
+      {
+        "x": 207,
+        "y": 980
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "13513145",
+    "desc": "COVER,FINISHER,SEAT ADJUSTERS",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 870,
+        "y": 1996
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "call": "1",
+    "part": "(39000821)",
+    "desc": "JACK,ASSY. (NLS.- USE 39064618)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 349,
+        "y": 180
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39064618",
+    "desc": "JACK,ASSY. (FOR EUROPE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39064620",
+    "desc": "JACK,ASSY. (FOR AUSTRALIA,NEW ZEALAND)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39121185",
+    "desc": "JACK,ASSY. (FOR GULF STATES)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13348506",
+    "desc": "WRENCH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 211,
+        "y": 630
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "90375681",
+    "desc": "PULLER,WHEEL COVER (FOR STEEL WHEELS)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1573,
+        "y": 900
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13385793",
+    "desc": "PULLER,WHEEL COVER (FOR ALLOY WHEELS)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1579,
+        "y": 1077
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(6651539)",
+    "desc": "SCREWDRIVER,COMBINATION (NLS.- USE YQ00526380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 372,
+        "y": 886
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "12780355",
+    "desc": "TOWING LUG",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [
+      {
+        "x": 1568,
+        "y": 417
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "12780355",
+    "desc": "TOWING LUG (FOR HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39201683)",
+    "desc": "TOWING LUG (EXCEPT HOLDEN) (NLS.- USE YR00306880)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39034635",
+    "desc": "KIT,TOOL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 330,
+        "y": 1731
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13369992",
+    "desc": "TOOL BOX",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1446,
+        "y": 1278
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13323033)",
+    "desc": "STRAP (SPARE WHEEL MOUNTING) (NLS.- USE YQ00611580)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1551,
+        "y": 608
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13369989)",
+    "desc": "TOOL BOX (NLS.- USE 39216576)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [
+      {
+        "x": 1750,
+        "y": 1725
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13389983)",
+    "desc": "FUNNEL,FILLER,OIL (NLS.- USE YR00153480)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO],D16DTR[LVK]",
+    "range": "",
+    "positions": [
+      {
+        "x": 62,
+        "y": 1400
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13389983)",
+    "desc": "FUNNEL,FILLER,OIL (NLS.- USE YR00153480)",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

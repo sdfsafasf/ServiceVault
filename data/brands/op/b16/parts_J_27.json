@@ -1,0 +1,222 @@
+[
+  {
+    "call": "1X",
+    "part": "(13486143)",
+    "desc": "CYLINDER,ASSY.,BRAKE MAIN,KIT,LHD (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (BEFORE ORDERING PLEASE CHECK IF VEHICLE IS INCLUDED IN CAMPAIGN 18-C-120) (NLS.- USE 42704192)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "(13486145)",
+    "desc": "CYLINDER,ASSY.,BRAKE MAIN,KIT,RHD (EXCEPT HOLDEN) (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (BEFORE ORDERING PLEASE CHECK IF VEHICLE IS INCLUDED IN CAMPAIGN 18-C-120) (NLS.- USE 42704193)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "(13486148)",
+    "desc": "CYLINDER,ASSY.,BRAKE MAIN,KIT,RHD (HOLDEN) (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (NLS.- USE 42704195)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "90509682",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95515931",
+    "desc": "-SEAL",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13400833",
+    "desc": "-NUT,HEX.,M16",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13486149",
+    "desc": "RESERVOIR,MAIN CYLINDER,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13486152",
+    "desc": "RESERVOIR,MAIN CYLINDER,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13445067",
+    "desc": "-SWITCH,LOW LEVEL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "93170487",
+    "desc": "-SCREW",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "22895243",
+    "desc": "-CAP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "(13486139)",
+    "desc": "SERVO,ASSY.,VACUUM,LHD (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (EXCEPT RPO JJ2,DUST AND NOISE PERFORMANCE BRAKE LININGS) (NLS.- USE 42704201)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "(13486139)",
+    "desc": "SERVO,ASSY.,VACUUM,LHD (DUST AND NOISE PERFORMANCE BRAKE LININGS,RPO JJ2) (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (NLS.- USE 42704202)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "(13486141)",
+    "desc": "SERVO,ASSY.,VACUUM,RHD (EXCEPT HOLDEN) (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (NLS.- USE 42704203)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "13486142",
+    "desc": "SERVO,ASSY.,VACUUM,RHD (HOLDEN) (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "90509682",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "93168725",
+    "desc": "-GROMMET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13400833",
+    "desc": "-NUT,HEX.,M16",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13445065",
+    "desc": "-SCREW",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "22895248",
+    "desc": "-GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

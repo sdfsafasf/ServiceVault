@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "90584275",
+    "desc": "SWITCH,ASSY.,HANDBRAKE WARNING LIGHT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13460175",
+    "desc": "SCREW,TORX,M5 X 12",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

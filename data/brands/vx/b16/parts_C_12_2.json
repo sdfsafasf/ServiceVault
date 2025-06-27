@@ -1,0 +1,107 @@
+[
+  {
+    "call": "19",
+    "part": "(13590932)",
+    "desc": "HINGE,ASSY.,REAR DOOR,UPPER,RH (NLS.- USE YQ00372180)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1846,
+        "y": 1071
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13590931)",
+    "desc": "HINGE,ASSY.,REAR DOOR,UPPER,LH (NLS.- USE YQ00372280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(13501716)",
+    "desc": "HINGE,ASSY.,REAR DOOR,LOWER,RH (NLS.- USE YQ00224880)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1658,
+        "y": 1696
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(13501715)",
+    "desc": "HINGE,ASSY.,REAR DOOR,LOWER,LH (NLS.- USE YQ00224780)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11561763)",
+    "desc": "SCREW,HEX,HD.,M8 X 30,BODY SIDE (EXCEPT RPO GWP,MANUFACTURED IN GLIWICE) (NLS.- USE YR00713580)",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [
+      {
+        "x": 1992,
+        "y": 1657
+      },
+      {
+        "x": 1928,
+        "y": 1268
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "11609343",
+    "desc": "SCREW,HEX,HD.,M8 X 35,BODY SIDE (MANUFACTURED IN GLIWICE,RPO GWP)",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(11562507)",
+    "desc": "SCREW,HEX,HD.,M8 X 26.5,DOOR SIDE (NLS.- USE YQ00516680)",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [
+      {
+        "x": 1852,
+        "y": 892
+      },
+      {
+        "x": 1940,
+        "y": 1426
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

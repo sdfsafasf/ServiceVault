@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(55493607)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR F17 MANUAL TRANSMISSION,RPO M26) (EXCHANGE - REMAN PART 95522453) (NLS.- NO REPLACEMENT PART) (IDENT HG3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55592823)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR EASYTRONIC TRANSMISSION,RPO MJA) (EXCHANGE - REMAN PART 95522453) (NLS.- NO REPLACEMENT PART) (IDENT FBX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95522453",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95526512",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95526979",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "(E)  20 B1163497HRXX0002-",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95529211",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (EMISSION CODE NCV) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

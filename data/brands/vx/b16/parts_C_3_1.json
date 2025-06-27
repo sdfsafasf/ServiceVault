@@ -1,0 +1,1036 @@
+[
+  {
+    "call": "1",
+    "part": "(13412423)",
+    "desc": "CONSOLE,CENTRE,BLACK (NLS.- USE 39055022)",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 78,
+        "y": 397
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39055022",
+    "desc": "CONSOLE,CENTRE,BLACK",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39055022",
+    "desc": "CONSOLE,CENTRE,BLACK (EXCEPT LOWERED SPORTS CHASSIS)",
+    "usage": "TRIM LEVEL F",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13475279)",
+    "desc": "CONSOLE,CENTRE,BLACK,LEATHER (NLS.- USE 39055021)",
+    "usage": "TRIM LEVEL E",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 84,
+        "y": 817
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39055021)",
+    "desc": "CONSOLE,CENTRE,BLACK,LEATHER (NLS.- USE 39090498)",
+    "usage": "TRIM LEVEL E",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39090498",
+    "desc": "CONSOLE,CENTRE,BLACK,LEATHER",
+    "usage": "TRIM LEVEL E",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39090498",
+    "desc": "CONSOLE,CENTRE,BLACK,LEATHER (FOR LOWERED SPORTS CHASSIS,RPO XK0)",
+    "usage": "TRIM LEVEL F",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [
+      {
+        "x": 123,
+        "y": 695
+      },
+      {
+        "x": 120,
+        "y": 278
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11609539",
+    "desc": "SCREW,M4.2 X 16",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 111,
+        "y": 1621
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13449241",
+    "desc": "BEZEL,PIANO BLACK (FOR 4 SWITCHES)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 763,
+        "y": 1603
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13491479",
+    "desc": "BEZEL,CORONADO BROWN (FOR 4 SWITCHES)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39006424",
+    "desc": "BEZEL,ANTELAO SAND (FOR 4 SWITCHES)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39006425",
+    "desc": "BEZEL,TOFANO GOLD (FOR 4 SWITCHES)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13448083",
+    "desc": "BEZEL,PIANO BLACK (FOR 6 SWITCHES)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 867,
+        "y": 1450
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13491478",
+    "desc": "BEZEL,CORONADO BROWN (FOR 6 SWITCHES)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39006422",
+    "desc": "BEZEL,ANTELAO SAND (FOR 6 SWITCHES)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13448082)",
+    "desc": "COVER,ACCESS,PIANO BLACK (NLS.- USE 39149135)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 498,
+        "y": 948
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39149135",
+    "desc": "COVER,ACCESS,PIANO BLACK",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13491481",
+    "desc": "COVER,ACCESS,CORONADO BROWN",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39006417)",
+    "desc": "COVER,ACCESS,ANTELAO SAND (NLS.- USE 39149137)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39149137",
+    "desc": "COVER,ACCESS,ANTELAO SAND",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39006418",
+    "desc": "COVER,ACCESS,TOFANO GOLD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 498,
+        "y": 1079
+      },
+      {
+        "x": 720,
+        "y": 981
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39006414",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,ANTELAO SAND (FOR HEATER SYSTEM WITHOUT AIR CONDITIONING,RPO C42)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 952,
+        "y": 83
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13448081",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,PIANO BLACK (FOR HEATER SYSTEM WITHOUT AIR CONDITIONING,RPO C42)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13448081",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,PIANO BLACK (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KA1,HEATED SEAT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13448081",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,PIANO BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39006414",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,ANTELAO SAND (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KA1,HEATED SEAT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39006415",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,TOFANO GOLD (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KA1,HEATED SEAT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39006416",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,CORONADO BROWN (FOR MANUAL AIR CONDITIONING,RPO C67) (EXCEPT RPO KA1,HEATED SEAT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13448080",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,PIANO BLACK (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 946,
+        "y": 433
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39006411",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,ANTELAO SAND (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39006412",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,TOFANO GOLD (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39006413",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,CORONADO BROWN (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13448080",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,PIANO BLACK (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR HEATED SEAT,RPO KA1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13448080",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,PIANO BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39006411",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,ANTELAO SAND (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR HEATED SEAT,RPO KA1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39006412",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,TOFANO GOLD (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR HEATED SEAT,RPO KA1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39006413",
+    "desc": "BEZEL,HEATER AND AIR CONDITIONING CONTROLS,CORONADO BROWN (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR HEATED SEAT,RPO KA1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 970,
+        "y": 229
+      },
+      {
+        "x": 961,
+        "y": 585
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39017463)",
+    "desc": "CONSOLE,FRONT TUNNEL,LHD,BLACK (EXCEPT ELECTRIC PARK BRAKE) (NLS.- USE 39124502)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1762,
+        "y": 226
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39124502",
+    "desc": "CONSOLE,FRONT TUNNEL,LHD,BLACK (EXCEPT ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39017464)",
+    "desc": "CONSOLE,FRONT TUNNEL,RHD,BLACK (EXCEPT ELECTRIC PARK BRAKE) (NLS.- USE 39124503)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13468845",
+    "desc": "-BRACKET (EXCEPT ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1799,
+        "y": 1021
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13468846",
+    "desc": "-BRACKET (EXCEPT ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1500,
+        "y": 960
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11547375",
+    "desc": "-CLIP (EXCEPT ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1506,
+        "y": 348
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11515842)",
+    "desc": "-NUT (EXCEPT ELECTRIC PARK BRAKE) (NLS.- USE YQ00111080)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1817,
+        "y": 430
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11546970)",
+    "desc": "-SCREW,TORX,BRACKET,M4 X 14 (EXCEPT ELECTRIC PARK BRAKE) (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 1391,
+        "y": 936
+      },
+      {
+        "x": 1549,
+        "y": 1054
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39018595)",
+    "desc": "CONSOLE,FRONT TUNNEL,BLACK (FOR ELECTRIC PARK BRAKE) (EXCEPT RPO K4C,WIRELESS CHARGING) (NLS.- USE 39124504)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1205,
+        "y": 1858
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39124504",
+    "desc": "CONSOLE,FRONT TUNNEL,BLACK (FOR ELECTRIC PARK BRAKE) (EXCEPT RPO K4C,WIRELESS CHARGING)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "",
+    "desc": "CONSOLE,FRONT TUNNEL,BLACK (FOR ELECTRIC PARK BRAKE) (FOR WIRELESS CHARGING,RPO K4C) (AWAITING TECHNICAL RELEASE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1199,
+        "y": 2300
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13468845",
+    "desc": "-BRACKET (FOR ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1576,
+        "y": 2327
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13468846",
+    "desc": "-BRACKET (FOR ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1531,
+        "y": 1880
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "11547375",
+    "desc": "-CLIP (FOR ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1534,
+        "y": 1274
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39018596",
+    "desc": "-TRAY,STORAGE,BLACK (FOR ELECTRIC PARK BRAKE) (EXCEPT RPO K4C,WIRELESS CHARGING)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 970,
+        "y": 1877
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "13468985",
+    "desc": "--CUP HOLDER,BLACK (FOR ELECTRIC PARK BRAKE) (EXCEPT RPO K4C,WIRELESS CHARGING)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 714,
+        "y": 1746
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "(11546970)",
+    "desc": "--SCREW,TORX,CUP HOLDER,M4 X 14,EXCEPT RPO K4C,WIRELESS CHARGING (FOR ELECTRIC PARK BRAKE) (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 818,
+        "y": 2035
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "",
+    "desc": "-TRAY,STORAGE,BLACK (FOR ELECTRIC PARK BRAKE) (FOR WIRELESS CHARGING,RPO K4C) (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 979,
+        "y": 2303
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "",
+    "desc": "--CUP HOLDER,BLACK (FOR ELECTRIC PARK BRAKE) (FOR WIRELESS CHARGING,RPO K4C) (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 334,
+        "y": 2413
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(11515842)",
+    "desc": "-NUT (FOR ELECTRIC PARK BRAKE) (NLS.- USE YQ00111080)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1811,
+        "y": 1295
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "(11546970)",
+    "desc": "-SCREW,TORX,BRACKET,M4 X 14 (FOR ELECTRIC PARK BRAKE) (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "5",
+    "positions": [
+      {
+        "x": 1982,
+        "y": 2474
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "13460090",
+    "desc": "-PLATE,BLACK (FOR ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2051, "y": 1835
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "(11546970)",
+    "desc": "-SCREW,TORX,BRACKET,M4 X 14 (FOR ELECTRIC PARK BRAKE) (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 1576,
+        "y": 2413
+      },
+      {
+        "x": 1397,
+        "y": 1849
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "39130907",
+    "desc": "LINER,FRONT TUNNEL CONSOLE (FOR WIRELESS CHARGING,RPO K4C)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 65,
+        "y": 1779
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "(39008411)",
+    "desc": "BRACKET (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39040596)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1162,
+        "y": 1447
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "39040596",
+    "desc": "BRACKET (USED WITH MANUAL TRANSMISSION)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "(11561629)",
+    "desc": "-NUT (USED WITH MANUAL TRANSMISSION) (NLS.- USE YQ00110380)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1092,
+        "y": 1225
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "35",
+    "part": "(11570142)",
+    "desc": "NUT,RETAINING (USED WITH MANUAL TRANSMISSION) (NLS.- USE YQ00108280)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1263,
+        "y": 1051
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "(11570498)",
+    "desc": "SCREW,TORX,4.2 X 20 (NLS.- USE YQ00155980)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1071,
+        "y": 1584
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "37",
+    "part": "13579477",
+    "desc": "ASHTRAY,ASSY.,CENTRE CONSOLE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2055,
+        "y": 183
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "38",
+    "part": "13499814",
+    "desc": "BEZEL,COVER,FUSE BOX,ANTELAO SAND",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 711,
+        "y": 850
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "38",
+    "part": "13499815",
+    "desc": "BEZEL,COVER,FUSE BOX,TOFANO GOLD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "38",
+    "part": "13499816",
+    "desc": "BEZEL,COVER,FUSE BOX,CORONADO BROWN",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "38",
+    "part": "13471382",
+    "desc": "BEZEL,COVER,FUSE BOX,PIANO BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

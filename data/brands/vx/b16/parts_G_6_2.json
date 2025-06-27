@@ -1,0 +1,24 @@
+[
+  {
+    "call": "11",
+    "part": "(12671620)",
+    "desc": "METER,ASSY.,AIRFLOW,AIR CLEANER (NLS.- USE 12714453)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39157943",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

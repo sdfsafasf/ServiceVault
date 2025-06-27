@@ -1,0 +1,85 @@
+[
+  {
+    "call": "21",
+    "part": "(13431581)",
+    "desc": "INSULATOR,CENTRE (NLS.- USE 39025925)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1118,
+        "y": 270
+      },
+      {
+        "x": 1341,
+        "y": 370
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39025925",
+    "desc": "INSULATOR,CENTRE",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "90214832",
+    "desc": "BUTTON,PUSH",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1190,
+        "y": 261
+      },
+      {
+        "x": 1423,
+        "y": 373
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39014453",
+    "desc": "INSULATOR,OUTER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1093,
+        "y": 569
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "39126101",
+    "desc": "INSULATOR (FOR DUAL FUEL CNG,RPO FHV)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1556,
+        "y": 1703
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

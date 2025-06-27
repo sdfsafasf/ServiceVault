@@ -1,0 +1,46 @@
+[
+  {
+    "call": "12",
+    "part": "",
+    "desc": "BEARING,CRANKSHAFT,UPPER (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "12687811",
+    "desc": "BEARING,THRUST,UPPER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "",
+    "desc": "BEARING,CRANKSHAFT,LOWER (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "12693989",
+    "desc": "'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

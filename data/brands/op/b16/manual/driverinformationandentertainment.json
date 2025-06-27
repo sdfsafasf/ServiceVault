@@ -1,0 +1,603 @@
+{
+  "sectionTitle": "Driver Information and Entertainment",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Cellular, Entertainment, and Navigation",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Radio/Navigation System Schematics",
+              "url": "astra-k/4445996.pdf"
+            },
+            {
+              "title": "OnStar/Telematics Schematics",
+              "url": "astra-k/4445997.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B0997",
+              "url": "astra-k/2747388.pdf"
+            },
+            {
+              "title": "DTC B1024",
+              "url": "astra-k/1994057.pdf"
+            },
+            {
+              "title": "DTC B1025, B1035, B1045, or B1055",
+              "url": "astra-k/2539679.pdf"
+            },
+            {
+              "title": "DTC B123E",
+              "url": "astra-k/4090279.pdf"
+            },
+            {
+              "title": "DTC B124B (without I06)",
+              "url": "astra-k/4074189.pdf"
+            },
+            {
+              "title": "DTC B124B (I06)",
+              "url": "astra-k/4256751.pdf"
+            },
+            {
+              "title": "DTC B124F",
+              "url": "astra-k/3340079.pdf"
+            },
+            {
+              "title": "DTC B125A (US3)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B125A (U91)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B125B",
+              "url": "astra-k/2817124.pdf"
+            },
+            {
+              "title": "DTC B125E",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B1271",
+              "url": "astra-k/2196971.pdf"
+            },
+            {
+              "title": "DTC B1277",
+              "url": "astra-k/4057485.pdf"
+            },
+            {
+              "title": "DTC B127E (IO6)",
+              "url": "astra-k/4507823.pdf"
+            },
+            {
+              "title": "DTC B127E (IOB)",
+              "url": "astra-k/4518479.pdf"
+            },
+            {
+              "title": "DTC B12A4",
+              "url": "astra-k/2902543.pdf"
+            },
+            {
+              "title": "DTC B12A6",
+              "url": "astra-k/3774450.pdf"
+            },
+            {
+              "title": "DTC B2455",
+              "url": "astra-k/2527396.pdf"
+            },
+            {
+              "title": "DTC B2462 (without I06)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B2462 (I06)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B2470",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "DTC B2476 or B2482",
+              "url": "astra-k/2871371.pdf"
+            },
+            {
+              "title": "Symptoms - Cellular Communication",
+              "url": "astra-k/2536516.pdf"
+            },
+            {
+              "title": "Symptoms - Entertainment",
+              "url": "astra-k/3775954.pdf"
+            },
+            {
+              "title": "Auxiliary Audio Input Malfunction (IOB)",
+              "url": "astra-k/4218714.pdf"
+            },
+            {
+              "title": "Auxiliary Audio Input Malfunction (IP1)",
+              "url": "astra-k/4218715.pdf"
+            },
+            {
+              "title": "Auxiliary Audio Input Malfunction (IO6)",
+              "url": "astra-k/4218743.pdf"
+            },
+            {
+              "title": "Bluetooth Malfunction (without I06)",
+              "url": "astra-k/3460466.pdf"
+            },
+            {
+              "title": "Bluetooth Malfunction (I06)",
+              "url": "astra-k/2868258.pdf"
+            },
+            {
+              "title": "Digital Radio Poor or No Reception",
+              "url": "astra-k/4620722.pdf"
+            },
+            {
+              "title": "OnStar Microphone Malfunction",
+              "url": "astra-k/2548964.pdf"
+            },
+            {
+              "title": "OnStar Audio Malfunction",
+              "url": "astra-k/2326943.pdf"
+            },
+            {
+              "title": "No Global Positioning System (GPS) Reception (without I06)",
+              "url": "astra-k/4594306.pdf"
+            },
+            {
+              "title": "No Global Positioning System (GPS) Reception (I06)",
+              "url": "astra-k/4594314.pdf"
+            },
+            {
+              "title": "OnStar Button LED Malfunction",
+              "url": "astra-k/2872509.pdf"
+            },
+            {
+              "title": "OnStar Call Center Remote Function Requests Malfunction",
+              "url": "astra-k/2326954.pdf"
+            },
+            {
+              "title": "OnStar Button Malfunction",
+              "url": "astra-k/2872519.pdf"
+            },
+            {
+              "title": "OnStar Steering Wheel Control Functions Malfunction",
+              "url": "astra-k/2326959.pdf"
+            },
+            {
+              "title": "Radio Controls Malfunction (IOB)",
+              "url": "astra-k/4138840.pdf"
+            },
+            {
+              "title": "Radio Information Display Malfunction (IOB)",
+              "url": "astra-k/4138540.pdf"
+            },
+            {
+              "title": "Radio Information Display Malfunction (IO6)",
+              "url": "astra-k/4605886.pdf"
+            },
+            {
+              "title": "Radio Poor Reception (U91)",
+              "url": "astra-k/4596210.pdf"
+            },
+            {
+              "title": "Radio Poor Reception (US3)",
+              "url": "astra-k/2747250.pdf"
+            },
+            {
+              "title": "Speaker Replacement Reference",
+              "url": "astra-k/2366783.pdf"
+            },
+            {
+              "title": "Speaker Malfunction",
+              "url": "astra-k/2779767.pdf"
+            },
+            {
+              "title": "Unable to Contact OnStar Call Center",
+              "url": "astra-k/4594318.pdf"
+            },
+            {
+              "title": "OnStar Voice Recognition Malfunction",
+              "url": "astra-k/2326964.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Mobile Telephone Microphone Replacement",
+              "url": "astra-k/4084678.pdf"
+            },
+            {
+              "title": "Human-Machine Interface Control Module Replacement",
+              "url": "astra-k/4084692.pdf"
+            },
+            {
+              "title": "Human-Machine Interface Control Module Bracket Replacement",
+              "url": "astra-k/4084694.pdf"
+            },
+            {
+              "title": "Communication Center Call Switch Replacement",
+              "url": "astra-k/4319108.pdf"
+            },
+            {
+              "title": "Communication Interface Module Replacement (OnStar)",
+              "url": "astra-k/4213441.pdf"
+            },
+            {
+              "title": "Communication Interface Module Bracket Replacement",
+              "url": "astra-k/4213440.pdf"
+            },
+            {
+              "title": "Radio Bracket Replacement (IO5 and IO6 with Left Hand Drive)",
+              "url": "astra-k/4214140.pdf"
+            },
+            {
+              "title": "Radio Bracket Replacement (IP1)",
+              "url": "astra-k/4214142.pdf"
+            },
+            {
+              "title": "Radio Bracket Replacement",
+              "url": "astra-k/4214141.pdf"
+            },
+            {
+              "title": "Radio Replacement (IO5, IO6, IOB)",
+              "url": "astra-k/3687026.pdf"
+            },
+            {
+              "title": "Radio Replacement (IP1)",
+              "url": "astra-k/4213434.pdf"
+            },
+            {
+              "title": "Radio Control Assembly Replacement",
+              "url": "astra-k/4213442.pdf"
+            },
+            {
+              "title": "Digital Radio Receiver Bracket Replacement",
+              "url": "astra-k/5341682.pdf"
+            },
+            {
+              "title": "Disc Player Replacement",
+              "url": "astra-k/4567345.pdf"
+            },
+            {
+              "title": "Audio Player and USB Receptacle Replacement",
+              "url": "astra-k/4213445.pdf"
+            },
+            {
+              "title": "Navigation Signal Splitter Replacement",
+              "url": "astra-k/4213446.pdf"
+            },
+            {
+              "title": "Radio Antenna Coil Replacement",
+              "url": "astra-k/4213444.pdf"
+            },
+            {
+              "title": "Radio Antenna Coil Replacement - Ground Side",
+              "url": "astra-k/4213447.pdf"
+            },
+            {
+              "title": "Radio Antenna Base Replacement",
+              "url": "astra-k/5111351.pdf"
+            },
+            {
+              "title": "Digital Radio Transceiver Module Antenna Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4214137.pdf"
+            },
+            {
+              "title": "Digital Radio Transceiver Module Antenna Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4332259.pdf"
+            },
+            {
+              "title": "Radio Antenna Amplifier Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4213443.pdf"
+            },
+            {
+              "title": "Radio Antenna Amplifier Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4332258.pdf"
+            },
+            {
+              "title": "Radio Front Speaker Grille Replacement",
+              "url": "astra-k/4213438.pdf"
+            },
+            {
+              "title": "Radio Front Speaker Replacement",
+              "url": "astra-k/5121776.pdf"
+            },
+            {
+              "title": "Radio Front Side Door Speaker Replacement",
+              "url": "astra-k/4328032.pdf"
+            },
+            {
+              "title": "Radio Control Switch Replacement - Steering Wheel",
+              "url": "astra-k/4219146.pdf"
+            },
+            {
+              "title": "Radio Rear Side Door Speaker Replacement",
+              "url": "astra-k/4328036.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "OnStar Description and Operation",
+              "url": "astra-k/4288902.pdf"
+            },
+            {
+              "title": "Radio/Audio System Description and Operation",
+              "url": "astra-k/3776939.pdf"
+            },
+            {
+              "title": "Mobile Radio and Mobile Phone Installation Guidelines",
+              "url": "astra-k/2677419.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            },
+            {
+              "title": "Special Tools (MIT Tool Instructions)",
+              "url": "astra-k/3299194.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Displays and Gauges",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Ambient Air Temperature Sensor Resistance",
+              "url": "astra-k/5249067.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Instrument Cluster Schematics",
+              "url": "astra-k/4445998.pdf"
+            },
+            {
+              "title": "Audible Warnings Schematics",
+              "url": "astra-k/4445999.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Displays and Gauges Component Replacement Reference",
+              "url": "astra-k/4214430.pdf"
+            },
+            {
+              "title": "DTC B0550",
+              "url": "astra-k/2745510.pdf"
+            },
+            {
+              "title": "DTC B071F",
+              "url": "astra-k/3648304.pdf"
+            },
+            {
+              "title": "DTC B097D",
+              "url": "astra-k/4224749.pdf"
+            },
+            {
+              "title": "DTC B124F",
+              "url": "astra-k/3340079.pdf"
+            },
+            {
+              "title": "DTC B3567 (with UDC)",
+              "url": "#"
+            },
+            {
+              "title": "DTC P0071-P0074",
+              "url": "#"
+            },
+            {
+              "title": "DTC P0461-P0464 (FWD)",
+              "url": "#"
+            },
+            {
+              "title": "DTC P0521, P0522, or P0523",
+              "url": "#"
+            },
+            {
+              "title": "Symptoms - Displays and Gauges",
+              "url": "astra-k/3979644.pdf"
+            },
+            {
+              "title": "Charge Indicator Malfunction",
+              "url": "astra-k/2160256.pdf"
+            },
+            {
+              "title": "Chime Malfunction (with Radio)",
+              "url": "astra-k/2410617.pdf"
+            },
+            {
+              "title": "Chime Malfunction (without Radio)",
+              "url": "astra-k/4210539.pdf"
+            },
+            {
+              "title": "Driver Information Center Switch Malfunction (with UDC)",
+              "url": "astra-k/4210241.pdf"
+            },
+            {
+              "title": "Engine Oil Pressure Gauge Inaccurate or Inoperative",
+              "url": "astra-k/3417623.pdf"
+            },
+            {
+              "title": "Fuel Gauge Malfunction (FWD)",
+              "url": "astra-k/3417583.pdf"
+            },
+            {
+              "title": "Fuel Gauge Malfunction (AWD)",
+              "url": "astra-k/3721970.pdf"
+            },
+            {
+              "title": "Engine Oil Level Sensor Diagnosis",
+              "url": "astra-k/4224743.pdf"
+            },
+            {
+              "title": "Outside Air Temperature Display Malfunction",
+              "url": "astra-k/4008910.pdf"
+            },
+            {
+              "title": "Speedometer and/or Odometer Malfunction",
+              "url": "astra-k/4452417.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Ambient Air Temperature Calculation Reset (with Ambient Air Temperature Sensor wired to ECM)",
+              "url": "astra-k/4630927.pdf"
+            },
+            {
+              "title": "Ambient Air Temperature Gauge Sensor Replacement",
+              "url": "astra-k/4213449.pdf"
+            },
+            {
+              "title": "Multifunction Chime Alarm Replacement",
+              "url": "astra-k/4828053.pdf"
+            },
+            {
+              "title": "Driver Information Display Replacement",
+              "url": "astra-k/4220382.pdf"
+            },
+            {
+              "title": "Instrument Cluster Replacement",
+              "url": "astra-k/4084700.pdf"
+            },
+            {
+              "title": "Accessory Switch Replacement",
+              "url": "astra-k/4213448.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Audible Warnings Description and Operation",
+              "url": "astra-k/4215178.pdf"
+            },
+            {
+              "title": "Driver Information Center (DIC) Description and Operation (with UDD)",
+              "url": "astra-k/3292889.pdf"
+            },
+            {
+              "title": "Driver Information Center (DIC) Description and Operation (with UDC)",
+              "url": "astra-k/4038738.pdf"
+            },
+            {
+              "title": "Indicator/Warning Message Description and Operation",
+              "url": "astra-k/2255391.pdf"
+            },
+            {
+              "title": "Instrument Cluster Description and Operation",
+              "url": "astra-k/2862608.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Secondary and Configurable Customer Controls",
+      "nestedSections": [
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Steering Wheel Secondary/Configurable Control Schematics",
+              "url": "astra-k/4446002.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B1405",
+              "url": "astra-k/4629099.pdf"
+            },
+            {
+              "title": "DTC B1529",
+              "url": "astra-k/2726178.pdf"
+            },
+            {
+              "title": "DTC B3622 (with UDC)",
+              "url": "astra-k/2726179.pdf"
+            },
+            {
+              "title": "DTC B3622 (with UDD)",
+              "url": "astra-k/4215709.pdf"
+            },
+            {
+              "title": "Symptoms - Secondary and Configurable Customer Controls",
+              "url": "astra-k/2160720.pdf"
+            },
+            {
+              "title": "Steering Wheel Controls Malfunction (with UDC)",
+              "url": "astra-k/2726180.pdf"
+            },
+            {
+              "title": "Steering Wheel Controls Malfunction (with UDD)",
+              "url": "Document.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Steering Wheel Controls Description and Operation (with UDC)",
+              "url": "astra-k/2160733.pdf"
+            },
+            {
+              "title": "Steering Wheel Controls Description and Operation (with UDD)",
+              "url": "astra-k/2893671.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

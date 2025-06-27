@@ -1,0 +1,20 @@
+# Enable mod_rewrite for pretty URLs
+RewriteEngine On
+
+# Force HTTPS (optional, but recommended)
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Remove .html extension (e.g., /epc becomes /epc.html)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([a-zA-Z0-9_-]+)$ $1.html [L]
+
+# Prevent directory listing everywhere
+Options -Indexes
+
+# Deny access to common sensitive files
+<FilesMatch "(\.git|\.env|composer\.json|package\.json|yarn\.lock|\.htaccess)$">
+  Order Allow,Deny
+  Deny from all
+</FilesMatch>

@@ -1,0 +1,211 @@
+[
+  {
+    "call": "1",
+    "part": "55495590",
+    "desc": "HOUSING,ASSY.,CLUTCH (FOR M32 MANUAL TRANSMISSION,RPO MGP)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55495590",
+    "desc": "HOUSING,ASSY.,CLUTCH (FOR M32 MANUAL TRANSMISSION,RPO MGR)",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55484568",
+    "desc": "HOUSING,ASSY.,CLUTCH (FOR M32 MANUAL TRANSMISSION,RPO MGW)",
+    "qty": "1",
+    "usage": "B14XFT[LE2],D14XFL[LE2],D14XFT[LE2],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55496017",
+    "desc": "HOUSING,ASSY.,CLUTCH,FOR M32 MANUAL TRANSMISSION,RPO MGP",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55495590",
+    "desc": "HOUSING,ASSY.,CLUTCH (FOR M35 MANUAL TRANSMISSION,RPO MOP)",
+    "qty": "1",
+    "usage": "D16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55598850",
+    "desc": "CASE,TRANSMISSION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11900017",
+    "desc": "SCREW,TORX,M8 X 40",
+    "qty": "15",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(55509664)",
+    "desc": "SCREW,TORX,M8 X 43 (NLS.- USE 11900017 20 00 194)",
+    "qty": "15",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55557445",
+    "desc": "SCREW,TORX,M8 X 30,CLUTCH CASE TO TRANSMISSION CASE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55489714",
+    "desc": "SCREW,TORX",
+    "qty": "12",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11900018",
+    "desc": "SCREW,TORX,M8 X 45,COVER,DIFFERENTIAL",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11900046",
+    "desc": "SCREW,TORX,M12 X 75,COVER,DIFFERENTIAL",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55599495",
+    "desc": "SLEEVE,CENTERING",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55567563",
+    "desc": "MAGNET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55563951",
+    "desc": "MAGNET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "93190368",
+    "desc": "PLUG,SCREW,M18 X 1.5,TRANSMISSION CASE OIL DRAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11099271)",
+    "desc": "PLUG,SCREW,M18 X 1,5,TRANSMISSION CASE OIL FILLER,WITH SEAL (NLS.- USE 1696253880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,PLUG,OIL DRAIN (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(90297970)",
+    "desc": "COMPOUND,SEALING,65ML (NLS.- USE 95599844) (IDENT SC09)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

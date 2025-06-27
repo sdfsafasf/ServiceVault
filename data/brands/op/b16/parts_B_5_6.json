@@ -1,0 +1,381 @@
+[
+  {
+    "call": "11",
+    "part": "13315549",
+    "desc": "NAMEPLATE,'ASTRA'",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1649,
+        "y": 1355
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13296454",
+    "desc": "NAMEPLATE,'CDTI' (BLACK 'I')",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1652,
+        "y": 1475
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13296455",
+    "desc": "NAMEPLATE,'CDTI' (BLACK 'TI')",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1652,
+        "y": 1594
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13294813",
+    "desc": "NAMEPLATE,'CDTI' (BLACK 'CDTI')",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1637,
+        "y": 1711
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "93192477",
+    "desc": "NAMEPLATE,'TURBO' (CHROME) (PRODUCTION NO. 13271150)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1649,
+        "y": 1830
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13409226",
+    "desc": "NAMEPLATE,'TURBO' (BLACK)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1652,
+        "y": 1953
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13443448",
+    "desc": "NAMEPLATE,'TURBO' (RED)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13362752",
+    "desc": "NAMEPLATE,'ECOFLEX' (SILVER)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1649,
+        "y": 2072
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13296456",
+    "desc": "NAMEPLATE,'BITURBO'",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1652,
+        "y": 2198
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39119165",
+    "desc": "NAMEPLATE,'LS' (HOLDEN)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1649,
+        "y": 2308
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39119166",
+    "desc": "NAMEPLATE,'LT' (HOLDEN)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1885,
+        "y": 2215
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39036564",
+    "desc": "NAMEPLATE,'R'",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1643,
+        "y": 2433
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39036565",
+    "desc": "NAMEPLATE,'RS'",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1888,
+        "y": 2335
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39036566",
+    "desc": "NAMEPLATE,'RSV'",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1064,
+        "y": 2195
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "39087008",
+    "desc": "NAMEPLATE,'ECOTEC'",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1064,
+        "y": 2314
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "39093198",
+    "desc": "NAMEPLATE,'ECOTEC D'",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1067,
+        "y": 2442
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "",
+    "desc": "EMBLEM,OPEL (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP B) (TAIL GATE HANDLE) (SHORTCUT: B16.B91)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 667,
+        "y": 2153
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13454670)",
+    "desc": "EMBLEM,OPEL (NLS.- USE 39208937)",
+    "usage": "ESTATE 35",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "39208937",
+    "desc": "EMBLEM,OPEL",
+    "usage": "ESTATE 35",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "",
+    "desc": "EMBLEM,VAUXHALL (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP B) (TAIL GATE HANDLE) (SHORTCUT: B16.B91)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 407,
+        "y": 2150
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "13454671",
+    "desc": "EMBLEM,VAUXHALL",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "",
+    "desc": "EMBLEM,HOLDEN (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP B) (TAIL GATE HANDLE) (SHORTCUT: B16.B91)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 127,
+        "y": 2147
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "39119164",
+    "desc": "EMBLEM,HOLDEN",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "5",
+      "detail": "3",
+      "call": "1"
+    },
+    "positions": [],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "5",
+      "detail": "3",
+      "call": "2"
+    },
+    "positions": [],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  }
+]

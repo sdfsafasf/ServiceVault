@@ -1,0 +1,24 @@
+[
+  {
+    "call": "9",
+    "part": "(55507118)",
+    "desc": "SENSOR,ASSY.,CRANKSHAFT POSITION (NLS.- USE 12706708)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11548165",
+    "desc": "SCREW,HEX.HD.,M5 X 20",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

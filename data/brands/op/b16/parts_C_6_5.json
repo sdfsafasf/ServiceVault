@@ -1,0 +1,141 @@
+[
+  {
+    "call": "2",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 402,
+        "y": 2245
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1492,
+        "y": 1775
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39222053",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95530291)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 560,
+        "y": 370
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(95530291)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS - NO REPLACEMENT PART)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11X",
+    "part": "39222056",
+    "desc": "-CLUTCH KIT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 87,
+        "y": 935
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11611102",
+    "desc": "SCREW,HEX.HD.",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1107,
+        "y": 1259
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11561936",
+    "desc": "STUD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1685,
+        "y": 50
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1880,
+        "y": 129
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "95599714",
+    "desc": "OIL,AIR CONDITIONING COMPRESSOR,250 ML (IDENT AC09)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 441,
+        "y": 80
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

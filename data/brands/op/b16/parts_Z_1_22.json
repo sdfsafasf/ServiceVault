@@ -1,0 +1,29 @@
+[
+  {
+    "call": "1",
+    "part": "(95599022)",
+    "desc": "PAINT,TOUCH-UP,1 COMPONENT CLEAR COAT,GM (NLS.- USE 95528596)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 531,
+        "y": 50
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95528596",
+    "desc": "PAINT,TOUCH-UP,1 COMPONENT CLEAR COAT,OPEL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

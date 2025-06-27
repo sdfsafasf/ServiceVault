@@ -1,0 +1,211 @@
+[
+  {
+    "call": "4",
+    "part": "11611807",
+    "desc": "SCREW,HEX.HD.,M10 X 48 (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU/MQK)",
+    "qty": "7",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11547232",
+    "desc": "STUD (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU/MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "24276997",
+    "desc": "COVER (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8\n(C)      -GG",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "24282559",
+    "desc": "COVER (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU/MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8-\n(C)  GG-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11546476",
+    "desc": "SCREW,HEX.HD.,M10 X 65 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11546406)",
+    "desc": "SCREW,HEX.HD.,M10 X 50 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP) (NLS.- USE YR00510180)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11546404",
+    "desc": "SCREW,HEX.HD.,M10 X 40 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "24264208",
+    "desc": "COVER,TORQUE CONVERTER (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11546476",
+    "desc": "SCREW,HEX.HD.,M10 X 65 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "4",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11546406)",
+    "desc": "SCREW,HEX.HD.,M10 X 50 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (NLS.- USE YR00510180)",
+    "qty": "2",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11546404",
+    "desc": "SCREW,HEX.HD.,M10 X 40 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "2",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "24264208",
+    "desc": "COVER,TORQUE CONVERTER (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55583266",
+    "desc": "SCREW,HEX.HD. (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "4",
+    "usage": "B16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "11546405",
+    "desc": "SCREW,HEX.HD.,M10 X 45 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "2",
+    "usage": "B16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11546405",
+    "desc": "SCREW,HEX.HD.,M10 X 45 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "2",
+    "usage": "B16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "24257415",
+    "desc": "COVER,TORQUE CONVERTER (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "1",
+    "usage": "B16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "90351708",
+    "desc": "SLEEVE,TRANSMISSION TO CYLINDER BLOCK",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,TRANSMISSION (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(90297970)",
+    "desc": "COMPOUND,LOCKING,LOCTITE 518,65ML,SCREW (NLS.- USE 95599844) (IDENT SC09)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

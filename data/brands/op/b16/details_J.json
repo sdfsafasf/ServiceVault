@@ -1,0 +1,134 @@
+[
+  {
+    "code": "1",
+    "name": "ABS HYDRAULIC UNIT (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM)"
+  },
+  {
+    "code": "2",
+    "name": "ABS HYDRAULIC UNIT (FOR ELECTRICAL BOOST BRAKE APPLY SYSTEM,RPO JE0)"
+  },
+  {
+    "code": "3",
+    "name": "BRAKE PIPES AND HOSES (FRONT (LHD))"
+  },
+  {
+    "code": "4",
+    "name": "BRAKE PIPES AND HOSES (FRONT (RHD))"
+  },
+  {
+    "code": "5",
+    "name": "BRAKE PIPES AND HOSES (FRONT (LHD))"
+  },
+  {
+    "code": "6",
+    "name": "BRAKE PIPES AND HOSES (FRONT (RHD))"
+  },
+  {
+    "code": "7",
+    "name": "BRAKE PIPES AND HOSES (CENTRE/REAR)"
+  },
+  {
+    "code": "8",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (LHD (B10XFL[LE1],D10XFL[LE1] PETROL ENGINES))"
+  },
+  {
+    "code": "9",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (RHD (B10XFL[LE1],D10XFL[LE1] PETROL ENGINES))"
+  },
+  {
+    "code": "10",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (LHD (B14XE[LV7] PETROL ENGINE))"
+  },
+  {
+    "code": "11",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (RHD (B14XE[LV7] PETROL ENGINE))"
+  },
+  {
+    "code": "12",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (LHD (B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2] PETROL ENGINES))"
+  },
+  {
+    "code": "13",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (RHD (B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2] PETROL ENGINES))"
+  },
+  {
+    "code": "14",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (LHD (B14XNT[LFE],D14XNT[LFE] NATURAL GAS ENGINES))"
+  },
+  {
+    "code": "15",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (LHD (B16SHT[LWC],D16SHT[LWC] PETROL ENGINES))"
+  },
+  {
+    "code": "16",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (RHD (B16SHT[LWC],D16SHT[LWC] PETROL ENGINES))"
+  },
+  {
+    "code": "17",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (LHD (B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],B16DTR[LVK],D16DTR[LVK],D16DTI[LXO] DIESEL ENGINES))"
+  },
+  {
+    "code": "18",
+    "name": "BRAKE SERVO UNIT VACUUM PIPE (RHD (B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],B16DTR[LVK],D16DTR[LVK],D16DTI[LXO] DIESEL ENGINES))"
+  },
+  {
+    "code": "19",
+    "name": "ELECTRIC PARK BRAKE"
+  },
+  {
+    "code": "20",
+    "name": "FRONT BRAKE DISC AND CALIPER (FOR 276MM DIA. BRAKE DISCS,RPO J67 (EXCEPT HOLDEN))"
+  },
+  {
+    "code": "21",
+    "name": "FRONT BRAKE DISC AND CALIPER (FOR 276MM DIA. BRAKE DISCS,RPO J67 (HOLDEN))"
+  },
+  {
+    "code": "22",
+    "name": "FRONT BRAKE DISC AND CALIPER (FOR 300MM DIA. BRAKE DISCS,RPO J60/J79))"
+  },
+  {
+    "code": "23",
+    "name": "FRONT BRAKE KITS (FOR 276MM DIA. BRAKE DISCS,RPO J67 (EXCEPT HOLDEN))"
+  },
+  {
+    "code": "24",
+    "name": "FRONT BRAKE KITS (FOR 300MM DIA. BRAKE DISCS,RPO J60/J79)"
+  },
+  {
+    "code": "25",
+    "name": "HANDBRAKE (HANDBRAKE LEVER AND BOOT)"
+  },
+  {
+    "code": "26",
+    "name": "HANDBRAKE (HANDBRAKE CABLE)"
+  },
+  {
+    "code": "27",
+    "name": "MAIN CYLINDER, RESERVOIR AND SERVO"
+  },
+  {
+    "code": "28",
+    "name": "REAR BRAKE DISC AND CALIPER (EXCEPT HOLDEN)"
+  },
+  {
+    "code": "29",
+    "name": "REAR BRAKE DISC AND CALIPER (HOLDEN)"
+  },
+  {
+    "code": "30",
+    "name": "REAR BRAKE KITS"
+  },
+  {
+    "code": "31",
+    "name": "VACUUM PUMP (B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2] PETROL ENGINES (B14XNT[LFE],D14XNT[LFE] NATURAL GAS ENGINES))"
+  },
+  {
+    "code": "32",
+    "name": "VACUUM PUMP (B16SHT[LWC],D16SHT[LWC] PETROL ENGINES)"
+  },
+  {
+    "code": "33",
+    "name": "VACUUM PUMP (B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],B16DTR[LVK],D16DTR[LVK],D16DTI[LXO] DIESEL ENGINES (PLEASE REFER TO GROUP E))"
+  }
+]

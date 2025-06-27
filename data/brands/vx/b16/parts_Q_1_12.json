@@ -1,0 +1,134 @@
+[
+  {
+    "call": "11X",
+    "part": "(13312917)",
+    "desc": "KIT,SAFETY ACCESSORIES (EXC. SPAIN) (NLS.- USE 39179201)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11X",
+    "part": "(39179201)",
+    "desc": "KIT,SAFETY ACCESSORIES (EXC. SPAIN) (NLS.- USE 39199815)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(93199658)",
+    "desc": "-TRIANGLE,WARNING,SMALL (NLS.- USE 39175931)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39175931)",
+    "desc": "-TRIANGLE,WARNING,SMALL (NLS.- USE 1617925380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(93199417)",
+    "desc": "-KIT,FIRST AID (COMPLIES WITH DIN 13164) (NLS.- USE 39199816)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(39199816)",
+    "desc": "-KIT,FIRST AID (COMPLIES WITH DIN 13164) (NLS.- USE 1662698080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "93199829",
+    "desc": "-VEST,REFLECTIVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13400744)",
+    "desc": "FIRE EXTINGUISHER,2 KG (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16X",
+    "part": "(39159731)",
+    "desc": "KIT,FIRE EXTINGUISHER BRACKET ASSY.,LHD (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16X",
+    "part": "39160230",
+    "desc": "KIT,FIRE EXTINGUISHER BRACKET ASSY.,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(93476249)",
+    "desc": "BELT,REAR SEAT (FOR PETS) (NLS.- USE 1607075980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39200464)",
+    "desc": "HAMMER,WINDOW,EMERGENCY EXIT (NLS.- USE 1637770180)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

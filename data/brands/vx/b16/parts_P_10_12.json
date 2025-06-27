@@ -1,0 +1,200 @@
+[
+  {
+    "call": "1",
+    "part": "(20976593)",
+    "desc": "SENSOR,RAIN AND LIGHT,RAIN SENSITIVE WIPERS AND AUTOMATIC HEADLAMPS (EXCEPT RPO CJ2,DUAL ZONE CLIMATE CONTROL) (NLS.- USE 23421319)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "23421319",
+    "desc": "SENSOR,RAIN AND LIGHT,RAIN SENSITIVE WIPERS AND AUTOMATIC HEADLAMPS (EXCEPT RPO CJ2,DUAL ZONE CLIMATE CONTROL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39120598",
+    "desc": "SENSOR,RAIN AND LIGHT,RAIN SENSITIVE WIPERS AND AUTOMATIC HEADLAMPS (EXCEPT RPO CJ2,DUAL ZONE CLIMATE CONTROL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(20971881)",
+    "desc": "SENSOR,RAIN AND LIGHT,RAIN SENSITIVE WIPERS AND AUTOMATIC HEADLAMPS (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (NLS.- USE 84149672)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(84149672)",
+    "desc": "SENSOR,RAIN AND LIGHT,RAIN SENSITIVE WIPERS AND AUTOMATIC HEADLAMPS (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (NLS.- USE 84913360)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39120597)",
+    "desc": "SENSOR,RAIN AND LIGHT,RAIN SENSITIVE WIPERS AND AUTOMATIC HEADLAMPS (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (NLS.- USE 39203558)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39203558",
+    "desc": "SENSOR,RAIN AND LIGHT,RAIN SENSITIVE WIPERS AND AUTOMATIC HEADLAMPS (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95599730",
+    "desc": "TAPE,ADHESIVE (FOR RAIN SENSOR,RPO CE1)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13450509",
+    "desc": "BRACKET,LHD (FOR RAIN SENSOR,RPO CE1) (EXCEPT RPO UHX,LANE DEPARTURE WARNING)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13450510",
+    "desc": "BRACKET,RHD (FOR RAIN SENSOR,RPO CE1) (EXCEPT RPO UHX,LANE DEPARTURE WARNING)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13450511)",
+    "desc": "BRACKET,LHD (FOR LANE DEPARTURE WARNING,RPO UHX) (NLS.- USE 39169649)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13450512",
+    "desc": "BRACKET,RHD (FOR LANE DEPARTURE WARNING,RPO UHX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39129133",
+    "desc": "BRACKET,LHD (FOR RAIN SENSOR,RPO CE1) (FOR HEATED WINDSCREEN,RPO C50) (FOR FORWARD COLLISION SENSOR,RPO UEU) (FOR LANE DEPARTURE WARNING,RPO UHX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39129134",
+    "desc": "BRACKET,RHD (FOR RAIN SENSOR,RPO CE1) (FOR HEATED WINDSCREEN,RPO C50) (FOR FORWARD COLLISION SENSOR,RPO UEU) (FOR LANE DEPARTURE WARNING,RPO UHX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13437064",
+    "desc": "SENSOR,FOR THEFT DETERRENT SYSTEM (FOR VEHICLE INCLINE SENSOR,RPO UTU) (FOR INTERIOR MOVEMENT SENSOR,RPO UTV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39005090",
+    "desc": "SENSOR,HUMIDITY (FOR AIR MOISTURE SENSOR,RPO ASV) (EXCEPT RPO UHX,LANE DEPARTURE WARNING) (EXCEPT RPO CE1,RAIN SENSOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(22898831)",
+    "desc": "SENSOR,HUMIDITY (FOR AIR MOISTURE SENSOR,RPO ASV) (FOR LANE DEPARTURE WARNING,RPO UHX) (NLS.- USE 39005089)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39005089",
+    "desc": "SENSOR,HUMIDITY (FOR AIR MOISTURE SENSOR,RPO ASV) (FOR LANE DEPARTURE WARNING,RPO UHX) (EXCEPT RPO CE1,RAIN SENSOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

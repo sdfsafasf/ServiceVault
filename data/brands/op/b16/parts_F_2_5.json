@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "39146897",
+    "desc": "RADIATOR,ASSY. (FOR MANUAL TRANSMISSION,RPO MM3)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "22790134",
+    "desc": "-COCK,DRAIN,WATER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55497116",
+    "desc": "-SENSOR,TEMPERATURE,ENGINE COOLANT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55575090",
+    "desc": "-RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39109101",
+    "desc": "-SEAL,RADIATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39151588",
+    "desc": "-VALVE,VENT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

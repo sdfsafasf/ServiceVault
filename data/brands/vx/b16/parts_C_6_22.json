@@ -1,0 +1,194 @@
+[
+  {
+    "call": "1",
+    "part": "(39025943)",
+    "desc": "HOSE ASSY.,LIQUID REFRIGERANT,COMPRESSOR AND CONDENSER (NLS.- USE 39074955)",
+    "usage": "B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1551,
+        "y": 1445
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39025941)",
+    "desc": "HOSE ASSY.,LIQUID REFRIGERANT,COMPRESSOR AND CONDENSER (NLS.- USE 39074956)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 753,
+        "y": 1417
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 322,
+        "y": 1965
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 319,
+        "y": 1864
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 322,
+        "y": 1759
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1117,
+        "y": 1935
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13502758)",
+    "desc": "-SENSOR,PRESSURE (FOR AIR CONDITIONING) (NLS.- USE 13587668)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 956,
+        "y": 2412
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13418811",
+    "desc": "-'O'RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 956,
+        "y": 2246
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "25872392",
+    "desc": "-VALVE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 953,
+        "y": 2317
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11588725",
+    "desc": "SCREW,HEX.HD.,M8 X 35,REFRIGERANT HOSE TO COMPRESSOR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1345,
+        "y": 2190
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1117,
+        "y": 367
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1656,
+        "y": 225
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

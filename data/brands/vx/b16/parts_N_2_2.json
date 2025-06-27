@@ -1,0 +1,288 @@
+[
+  {
+    "call": "1",
+    "part": "(13392204)",
+    "desc": "COMPRESSOR,TYRE INFLATION (EXCEPT SPARE WHEEL) (NLS.- USE 39201703)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 414,
+        "y": 774
+      },
+      {
+        "x": 1779,
+        "y": 937
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13189810",
+    "desc": "-ADAPTOR,COMPRESSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 308,
+        "y": 852
+      },
+      {
+        "x": 1838,
+        "y": 1040
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(13472368)",
+    "desc": "SEALANT,TYRE REPAIR KIT,300ML (NLS.- USE 95599908)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2091,
+        "y": 1717
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(95599908)",
+    "desc": "SEALANT,TYRE REPAIR KIT,300ML (NLS.- USE 9816284780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(9816284780)",
+    "desc": "SEALANT,TYRE REPAIR KIT,300ML (NLS.- USE 9844397880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(95599909)",
+    "desc": "SEALANT,TYRE REPAIR KIT,450 ML (NLS.- USE 9816284680)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(6651539)",
+    "desc": "SCREWDRIVER,COMBINATION (NLS.- USE YQ00526380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1007,
+        "y": 1646
+      },
+      {
+        "x": 545,
+        "y": 203
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "12780355",
+    "desc": "TOWING LUG",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [
+      {
+        "x": 701,
+        "y": 1561
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "12780355",
+    "desc": "TOWING LUG (FOR HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39201683)",
+    "desc": "TOWING LUG (EXCEPT HOLDEN) (NLS.- USE YR00306880)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13214747",
+    "desc": "BAG,COMPRESSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 592,
+        "y": 2226
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13361020",
+    "desc": "STRAP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 848,
+        "y": 2073
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13369991",
+    "desc": "TOOL BOX (EXCEPT SPARE WHEEL)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)      -G8074411\n(C)      -GG094332",
+    "positions": [
+      {
+        "x": 1198,
+        "y": 549
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39045397",
+    "desc": "TOOL BOX (EXCEPT SPARE WHEEL)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)  G8074412-\n(C)  GG094333-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13440645",
+    "desc": "TOOL BOX (EXCEPT SPARE WHEEL)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1423,
+        "y": 581
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39040453",
+    "desc": "BOLT (EXCEPT SPARE WHEEL)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 720,
+        "y": 699
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13369990",
+    "desc": "TOOL BOX (EXCEPT SPARE WHEEL)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [
+      {
+        "x": 2107,
+        "y": 1949
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39009514",
+    "desc": "SCREW (EXCEPT SPARE WHEEL)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [
+      {
+        "x": 1535,
+        "y": 1721
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "90126755",
+    "desc": "NUT (EXCEPT SPARE WHEEL)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [
+      {
+        "x": 1532,
+        "y": 1539
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

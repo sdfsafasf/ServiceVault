@@ -1,0 +1,134 @@
+[
+  {
+    "call": "1",
+    "part": "(13442005)",
+    "desc": "ADAPTOR,FLEXCONNECT (NLS.- USE 9834351380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "(13442006)",
+    "desc": "SHELF,KIT,FLEXCONNECT (NLS.- USE 9834352180)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(13442007)",
+    "desc": "HOOK,KIT,FLEXCONNECT (NLS.- USE 9834352380)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "13447400",
+    "desc": "HOLDER KIT,I PAD - MINI,FLEXCONNECT",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "(13447401)",
+    "desc": "HOLDER KIT,I PAD,FLEXCONNECT (NLS.- USE 9834351780)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "(39003960)",
+    "desc": "HOLDER KIT,I PAD,AIR,FLEXCONNECT (NLS.- USE 9834352580)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "39003962",
+    "desc": "HOLDER KIT,SAMSUNG GALAXY TAB 10.1 VERSION 3/4,FLEXCONNECT",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "(39092067)",
+    "desc": "HOLDER KIT,TABLET DEVICE,UNIVERSAL,OPEL,FLEXCONNECT (NLS.- USE 9834352980)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7X",
+    "part": "(39092069)",
+    "desc": "HOLDER KIT,TABLET DEVICE,SMALL,OPEL,FLEXCONNECT (NLS.- USE 9834353180)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8X",
+    "part": "(39092071)",
+    "desc": "HOLDER KIT,TABLET DEVICE,MEDIUM,OPEL,FLEXCONNECT (NLS.- USE 9834353080)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39092073",
+    "desc": "HOLDER KIT,TABLET DEVICE,LARGE,OPEL,FLEXCONNECT",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10X",
+    "part": "(13447402)",
+    "desc": "COAT HANGER,FRONT SEAT HEADREST,KIT,FLEXCONNECT (NLS.- USE 9834351580)",
+    "qty": "1",
+    "usage": "Note : FOR USE IN CONJUNCTION WITH 13442005 17 46 019",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

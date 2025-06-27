@@ -1,0 +1,8 @@
+[
+  { "code": "1", "name": "UNDERBODY" },
+  { "code": "2", "name": "FRONT END" },
+  { "code": "3", "name": "DASH AND SCUTTLE" },
+  { "code": "4", "name": "BODY SIDE AND REAR QUARTER" },
+  { "code": "5", "name": "ROOF" },
+  { "code": "6", "name": "REAR END" }
+]

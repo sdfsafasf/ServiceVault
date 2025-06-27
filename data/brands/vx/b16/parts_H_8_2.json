@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "39146903",
+    "desc": "OIL COOLER,TRANSMISSION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39151043",
+    "desc": "BRACKET,OIL COOLER,PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13311083",
+    "desc": "SCREW,HEX.HD.,OIL COOLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "42735370",
+    "desc": "PIPE,ASSY.,TRANSMISSION OIL COOLER,INLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "23135703",
+    "desc": "-SEAL,OIL COOLER PIPES TO TRANSMISSION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "15052228",
+    "desc": "-CAP,HOSE,OIL COOLER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "15168645",
+    "desc": "-CLIP,OIL COOLER PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11546700",
+    "desc": "-CLIP,OIL COOLER PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11546377)",
+    "desc": "NUT,M8,SUPPORT OIL COOLER PIPE (NLS.- USE YR00004280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

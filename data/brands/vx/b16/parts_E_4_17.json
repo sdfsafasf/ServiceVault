@@ -1,0 +1,35 @@
+[
+  {
+    "call": "4",
+    "part": "(12664616)",
+    "desc": "ENGINE,ASSY.,STRIPPED (EMISSION CODE NE4) (NLS.- USE 12684742) (IDENT GNT)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "12684742",
+    "desc": "ENGINE,ASSY.,STRIPPED (EMISSION CODE NE4) (IDENT L70)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "12684743",
+    "desc": "ENGINE,ASSY.,STRIPPED (EMISSION CODE NCV) (IDENT L71)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

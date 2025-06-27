@@ -1,0 +1,156 @@
+[
+  {
+    "call": "7",
+    "part": "55569508",
+    "desc": "PIPE,FUEL FEED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11588711",
+    "desc": "SCREW,HEX.HD.,M6 X 16",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55570720",
+    "desc": "DISTRIBUTOR,FUEL INJECTOR (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(55596696)",
+    "desc": "DAMPER (NLS.- USE 55501393)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11X",
+    "part": "55596638",
+    "desc": "RETAINER",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12X",
+    "part": "55596697",
+    "desc": "RETAINER",
+    "qty": "7",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(11588715)",
+    "desc": "SCREW,HEX.HD.,M6 X 35 (NLS.- USE YR00713780)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11609577",
+    "desc": "SCREW,HEX.HD.,M6 X 55",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(55595977)",
+    "desc": "INJECTOR,ASSY.,FUEL (EMISSION CODE NE4) (NLS.- USE 55490059 8 15 408)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55490059",
+    "desc": "INJECTOR,ASSY.,FUEL (EMISSION CODE NE4) (EXCHANGE - REMAN PART 95522281)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55570726",
+    "desc": "-'O'RING,KIT (EMISSION CODE NE4)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55570735",
+    "desc": "SCREW,FUEL INJECTOR",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "9275821",
+    "desc": "STRAP,RETAINING,250 MM LONG (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19X",
+    "part": "55484444",
+    "desc": "SEAL KIT (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

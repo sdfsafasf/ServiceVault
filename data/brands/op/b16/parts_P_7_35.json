@@ -1,0 +1,90 @@
+[
+  {
+    "call": "1",
+    "part": "13479549",
+    "desc": "HARNESS,ASSY.,INSTRUMENT PANEL (CUSTOMISED WIRING HARNESS, PLEASE SUPPLY PA NUMBER)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-BOX,FUSE,INSTRUMENT PANEL (PLEASE REFER TO GROUP P) (FUSE BOX,FUSES AND RELAYS) (SHORTCUT: B16.P701)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13417428",
+    "desc": "BRACKET,INSTRUMENT PANEL WIRING HARNESS,STEERING COLUMN",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39050434",
+    "desc": "PROTECTOR",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39197486",
+    "desc": "PROTECTOR,LHD (FOR RADIO INFOTAINMENT SYSTEM,RPO IOU)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39197487",
+    "desc": "PROTECTOR,RHD (FOR RADIO INFOTAINMENT SYSTEM,RPO IOU)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "90148142",
+    "desc": "STRIP,INSULATING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

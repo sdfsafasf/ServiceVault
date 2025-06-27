@@ -1,0 +1,211 @@
+[
+  {
+    "call": "8",
+    "part": "(55499302)",
+    "desc": "PIPE,CLUTCH OPERATING,LHD (NLS.- USE 55507214)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55507214",
+    "desc": "PIPE,CLUTCH OPERATING,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55500100",
+    "desc": "PIPE,CLUTCH OPERATING,LHD",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55491002",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55491002",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55491002",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(55484674)",
+    "desc": "PIPE,CLUTCH OPERATING,RHD (NLS.- USE 55502359)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(55502359)",
+    "desc": "PIPE,CLUTCH OPERATING,RHD (NLS.- USE 55507217)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55500101",
+    "desc": "PIPE,CLUTCH OPERATING,RHD",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55484669",
+    "desc": "PIPE,CLUTCH OPERATING,REAR,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55501175",
+    "desc": "PIPE,CLUTCH OPERATING,REAR,RHD",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55495508",
+    "desc": "-SEAL,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55583106",
+    "desc": "HOSE,CLUTCH,MASTER CYLINDER TO RESERVOIR,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55583106",
+    "desc": "HOSE,CLUTCH,MASTER CYLINDER TO RESERVOIR,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55583107",
+    "desc": "HOSE,CLUTCH,MASTER CYLINDER TO RESERVOIR,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(55583069)",
+    "desc": "ELBOW,CONNECTOR (NLS.- USE 55572350 6 79 017, 55597500 6 79 139, 55597499 6 79 138, 90522038 6 79 543)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(55499405)",
+    "desc": "ELBOW,CONNECTOR (NLS.- USE 55590736 6 79 115, 90522038 6 79 543, 55514864)",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(55352592)",
+    "desc": "CLIP,PIPE,CLUTCH SLAVE CYLINDER,RHD (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "90522038",
+    "desc": "SLEEVE",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

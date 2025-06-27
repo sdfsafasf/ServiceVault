@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1",
+    "name": "F17 MANUAL / EASYTRONIC TRANSMISSION"
+  },
+  {
+    "code": "2",
+    "name": "M1x/M22 MANUAL TRANSMISSION"
+  },
+  {
+    "code": "3",
+    "name": "M32 GEN 1/2 MANUAL TRANSMISSION"
+  },
+  {
+    "code": "4",
+    "name": "M32 GEN 3 / M35 MANUAL TRANSMISSION"
+  },
+  {
+    "code": "5",
+    "name": "F40 MANUAL TRANSMISSION"
+  },
+  {
+    "code": "6",
+    "name": "6T35,6T45 AUTOMATIC TRANSMISSION"
+  },
+  {
+    "code": "7",
+    "name": "9T45 AUTOMATIC TRANSMISSION"
+  },
+  {
+    "code": "8",
+    "name": "CVT-250 AUTOMATIC TRANSMISSION"
+  },
+  {
+    "code": "9",
+    "name": "GEARSHIFT CONTROL - USED WITH FIVE SPEED MANUAL TRANSMISSION"
+  },
+  {
+    "code": "10",
+    "name": "GEARSHIFT CONTROL - USED WITH SIX SPEED MANUAL TRANSMISSION"
+  },
+  {
+    "code": "11",
+    "name": "GEARSHIFT CONTROL - USED WITH EASYTRONIC TRANSMISSION"
+  },
+  {
+    "code": "12",
+    "name": "GEARSHIFT CONTROL - USED WITH AUTOMATIC TRANSMISSION"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(55513254)",
+    "desc": "STARTER,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MGP) (EXCHANGE - REMAN PART 95529872) (NLS.- USE YR00130580)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95529872",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MGP) (CORE RETURN NO. 95524454)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55497009",
+    "desc": "STARTER,ASSY. (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (EXCHANGE - REMAN PART 95530279)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95530279",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (CORE RETURN NO. 95524454)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588744)",
+    "desc": "SCREW,HEX.HD.,M10 X 61 (NLS.- USE YR00067280)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(90351710)",
+    "desc": "SLEEVE,CYLINDER BLOCK (NLS.- USE YQ00690080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

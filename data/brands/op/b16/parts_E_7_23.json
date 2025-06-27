@@ -1,0 +1,112 @@
+[
+  {
+    "call": "17",
+    "part": "55578713",
+    "desc": "FILTER,ASSY.,OIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11588725",
+    "desc": "-SCREW,HEX.HD.,M8 X 35,OIL FILTER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55578715",
+    "desc": "-GASKET,ADAPTOR,OIL FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20X",
+    "part": "(55594652)",
+    "desc": "-FILTER,KIT (NLS.- USE 95526686)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20X",
+    "part": "1682953280",
+    "desc": "-FILTER,KIT (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "55593190",
+    "desc": "-CAP,OIL FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(55593191)",
+    "desc": "--'O'RING (NLS.- USE 55504235)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "90573622",
+    "desc": "-VALVE,NON-RETURN,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "11588731",
+    "desc": "-SCREW,M8 X 65,OIL FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "(55575676)",
+    "desc": "PLUG,HOUSING,OIL PUMP,M18 X 1.5 (NLS.- USE 55491550 20 60 168)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

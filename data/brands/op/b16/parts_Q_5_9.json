@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "13313408",
+    "desc": "HARNESS,ASSY.,TRAILER COUPLING,VOLTAGE PROVIDER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39187023)",
+    "desc": "ADAPTOR,FROM 13 TO 7 PIN (NLS.- USE 1623561780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13324865",
+    "desc": "ADAPTOR,FROM 13 TO 2X7 PIN (12S) (FOR VAUXHALL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "92218771",
+    "desc": "CONNECTOR,WIRING HARNESS (FOR HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

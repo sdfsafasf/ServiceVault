@@ -1,0 +1,335 @@
+[
+  {
+    "call": "12",
+    "part": "(13412211)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (EXCEPT RPO UTJ,THEFT DETERRENT SYSTEM) (NLS.- USE 39088734)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 241,
+        "y": 1943
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13412213)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (EXCEPT RPO UTJ,THEFT DETERRENT SYSTEM) (NLS.- USE 39088736)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39088736",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (EXCEPT RPO UTJ,THEFT DETERRENT SYSTEM)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13412212)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ) (NLS.- USE 39065983)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 535,
+        "y": 1943
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39065983)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ) (NLS.- USE 39085676)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39085676",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39118537)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ) (NLS.- USE 39216601)",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13412212)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 39065983)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39065983)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 39085676)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39085676",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39118537)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 39216601)",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39118537)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,LHD (FOR DUAL FUEL CNG,RPO FHV) (NLS.- USE 39216601)",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13412214)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ) (NLS.- USE 39065984)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39065984)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ) (NLS.- USE 39085675)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39085675",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39118536)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (FOR THEFT DETERRENT SYSTEM,RPO UTJ) (NLS.- USE 39216602)",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13412214)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 39065984)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39065984)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 39085675)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39085675",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39118536)",
+    "desc": "LATCH,ASSY.,BONNET PANEL,RHD (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 39216602)",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(11519383)",
+    "desc": "SCREW,M6 X 20 (NLS.- USE 11570136 20 01 258)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 199,
+        "y": 1409
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13454013)",
+    "desc": "CABLE,BONNET LOCK RELEASE,LHD (NLS.- USE 39056605)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1842,
+        "y": 1703
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39056605",
+    "desc": "CABLE,BONNET LOCK RELEASE,LHD",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39130883",
+    "desc": "CABLE,BONNET LOCK RELEASE,LHD",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13454014)",
+    "desc": "CABLE,BONNET LOCK RELEASE,RHD (NLS.- USE 39056606)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39056606",
+    "desc": "CABLE,BONNET LOCK RELEASE,RHD",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39147092",
+    "desc": "CABLE,BONNET LOCK RELEASE,RHD",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13248780",
+    "desc": "CLIP,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 802,
+        "y": 1706
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

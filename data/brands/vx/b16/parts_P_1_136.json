@@ -1,0 +1,46 @@
+[
+  {
+    "call": "8",
+    "part": "55587172",
+    "desc": "SWITCH,OIL PRESSURE,UPPER",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55494781",
+    "desc": "SWITCH,OIL PRESSURE,UPPER",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55494781",
+    "desc": "SWITCH,OIL PRESSURE,UPPER",
+    "qty": "1",
+    "usage": "D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55488247",
+    "desc": "SWITCH,OIL PRESSURE,LOWER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

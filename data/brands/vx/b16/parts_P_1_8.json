@@ -1,0 +1,90 @@
+[
+  {
+    "call": "1",
+    "part": "(39159021)",
+    "desc": "ALTERNATOR,ASSY.,130 AMP (EXCHANGE - REMAN PART 1680528780) (NLS.- USE 39225154)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1680528780",
+    "desc": "ALTERNATOR,ASSY.,130 AMP,EXCHANGE - REMAN (CORE RETURN NO. 95524437)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39159022)",
+    "desc": "ALTERNATOR,ASSY.,150 AMP (EXCHANGE - REMAN PART 95530272) (NLS.- USE 39218016)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95530272)",
+    "desc": "ALTERNATOR,ASSY.,150 AMP,EXCHANGE - REMAN (CORE RETURN NO. 95524437) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39159019)",
+    "desc": "ALTERNATOR,ASSY.,170AMP (EXCHANGE - REMAN PART 95530271) (NLS.- USE 39218015)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39218015)",
+    "desc": "ALTERNATOR,ASSY.,170AMP (EXCHANGE - REMAN PART 95530271) (NLS.- USE YR00130080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95530271",
+    "desc": "ALTERNATOR,ASSY.,170AMP,EXCHANGE - REMAN (CORE RETURN NO. 95524437)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11611102",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

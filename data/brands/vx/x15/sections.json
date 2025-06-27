@@ -1,0 +1,19 @@
+[
+  { "code": "A", "name": "BODY SHELL AND PANELS" },
+  { "code": "B", "name": "BODY EXTERIOR FITTINGS" },
+  { "code": "C", "name": "BODY INTERIOR FITTINGS" },
+  { "code": "D", "name": "BODY INTERIOR TRIM" },
+  { "code": "E", "name": "ENGINE AND CLUTCH" },
+  { "code": "F", "name": "COOLING" },
+  { "code": "G", "name": "FUEL AND EXHAUST" },
+  { "code": "H", "name": "TRANSMISSION" },
+  { "code": "J", "name": "BRAKES" },
+  { "code": "K", "name": "FRONT AXLE AND SUSPENSION" },
+  { "code": "L", "name": "STEERING" },
+  { "code": "M", "name": "REAR AXLE AND SUSPENSION" },
+  { "code": "N", "name": "ROAD WHEELS AND TOOLS" },
+  { "code": "P", "name": "ELECTRICAL" },
+  { "code": "Q", "name": "ACCESSORIES" },
+  { "code": "R", "name": "SPECIAL OPTIONS / DUAL FUEL" },
+  { "code": "Z", "name": "PAINTS" }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "call": "24",
+    "part": "55511868",
+    "desc": "PIPE,ASSY.,OIL,TURBOCHARGER RETURN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "55491527",
+    "desc": "GASKET,TURBOCHARGER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(55493605)",
+    "desc": "GASKET,CYLINDER BLOCK (NLS.- USE 40009034)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "11548165",
+    "desc": "SCREW,HEX.HD.,M5 X 20",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "55486433",
+    "desc": "NOZZLE,ASSY.,PISTON",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "call": "1",
+    "part": "(13409746)",
+    "desc": "HINGE,ASSY.,TAIL GATE (NLS.- USE 39033176)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 360,
+        "y": 52
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39033176",
+    "desc": "HINGE,ASSY.,TAIL GATE",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11570646)",
+    "desc": "SCREW,TORX,M8 X 30 (NLS.- USE YQ00156980)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 193,
+        "y": 104
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11547090)",
+    "desc": "NUT (NLS.- USE YQ00157080)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 132,
+        "y": 426
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39021480",
+    "desc": "STRUT,GAS PRESSURE,TAILGATE",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 357,
+        "y": 1506
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13497999",
+    "desc": "BRACKET",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 117,
+        "y": 1421
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11570218",
+    "desc": "SCREW,M6 X 14",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 239,
+        "y": 1056
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13191439)",
+    "desc": "PIVOT,BALL (NLS.- USE YQ00158080)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 653,
+        "y": 1537
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13212251)",
+    "desc": "BUMPER,TAILGATE STOP,ADJUSTABLE (NLS.- USE YQ00120480)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 476,
+        "y": 1756
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(24428563)",
+    "desc": "BUMPER,TAILGATE STOP (NLS.- USE YQ00151880)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 421,
+        "y": 1841
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13481535)",
+    "desc": "LOCK,ASSY.,TAIL GATE (NLS.- USE 39021416 1 76 597)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1809,
+        "y": 2325
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39021416",
+    "desc": "LOCK,ASSY.,TAIL GATE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13471770",
+    "desc": "SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2174,
+        "y": 2185
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13344948",
+    "desc": "STRIKER,TAIL GATE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2155,
+        "y": 2346
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11104501",
+    "desc": "SCREW,TORX,M8",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1839,
+        "y": 2410
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "",
+    "desc": "GROMMET,WIRING HARNESS,TAILGATE (NOT SERVICED SEPARATELY) (PART OF HARNESS)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 87,
+        "y": 691
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13270857",
+    "desc": "PLUG,HARNESS HOLE,TAIL GATE HARNESS (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (EXCEPT DAB RADIO SYSTEM)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 71,
+        "y": 524
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39014508",
+    "desc": "PLUG,HARNESS HOLE,TAIL GATE HARNESS (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

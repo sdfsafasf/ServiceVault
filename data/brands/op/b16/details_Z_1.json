@@ -1,0 +1,90 @@
+[
+  {
+    "code": "1",
+    "name": "AEROSOL SPRAY PAINT (SOLID - EXCEPT VAUXHALL)"
+  },
+  {
+    "code": "2",
+    "name": "AEROSOL SPRAY PAINT (SOLID - FOR VAUXHALL)"
+  },
+  {
+    "code": "3",
+    "name": "AEROSOL SPRAY PAINT (SOLID - NOT BRANDED)"
+  },
+  {
+    "code": "4",
+    "name": "AEROSOL SPRAY PAINT (2 COAT - EXCEPT VAUXHALL)"
+  },
+  {
+    "code": "5",
+    "name": "AEROSOL SPRAY PAINT (2 COAT - FOR VAUXHALL)"
+  },
+  {
+    "code": "6",
+    "name": "AEROSOL SPRAY PAINT (2 COAT - NOT BRANDED)"
+  },
+  {
+    "code": "7",
+    "name": "AEROSOL SPRAY PAINT (3 COAT - EXCEPT VAUXHALL)"
+  },
+  {
+    "code": "8",
+    "name": "AEROSOL SPRAY PAINT (3 COAT - FOR VAUXHALL)"
+  },
+  {
+    "code": "9",
+    "name": "AEROSOL SPRAY PAINT (3 COAT - NOT BRANDED)"
+  },
+  {
+    "code": "10",
+    "name": "AEROSOL SPRAY PAINT (1 COMPONENT CLEAR COAT)"
+  },
+  {
+    "code": "11",
+    "name": "TOUCH-UP FOIL(SOLID - FOR OPEL/VAUXHALL)"
+  },
+  {
+    "code": "12",
+    "name": "TOUCH-UP FOIL (2 COAT - FOR OPEL/VAUXHALL)"
+  },
+  {
+    "code": "13",
+    "name": "TOUCH-UP PAINT SOLID (EXCEPT VAUXHALL)"
+  },
+  {
+    "code": "14",
+    "name": "TOUCH-UP PAINT SOLID (FOR VAUXHALL)"
+  },
+  {
+    "code": "15",
+    "name": "TOUCH-UP PAINT SOLID (NOT BRANDED)"
+  },
+  {
+    "code": "16",
+    "name": "TOUCH-UP PAINT 2 COAT (EXCEPT VAUXHALL)"
+  },
+  {
+    "code": "17",
+    "name": "TOUCH-UP PAINT 2 COAT (FOR VAUXHALL)"
+  },
+  {
+    "code": "18",
+    "name": "TOUCH-UP PAINT 2 COAT (NOT BRANDED)"
+  },
+  {
+    "code": "19",
+    "name": "TOUCH-UP PAINT 3 COAT (EXCEPT VAUXHALL)"
+  },
+  {
+    "code": "20",
+    "name": "TOUCH-UP PAINT 3 COAT (FOR VAUXHALL)"
+  },
+  {
+    "code": "21",
+    "name": "TOUCH-UP PAINT 3 COAT (NOT BRANDED)"
+  },
+  {
+    "code": "22",
+    "name": "TOUCH-UP PAINT 1 COMPONENT CLEAR COAT"
+  }
+]

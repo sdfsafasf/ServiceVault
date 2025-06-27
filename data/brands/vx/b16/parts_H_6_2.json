@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "(13356638)",
+    "desc": "OIL COOLER,TRANSMISSION (FOR AUTOMATIC TRANSMISSION,RPO MM1) (NLS.- USE 39021417)",
+    "qty": "1",
+    "usage": "B14XFT[LE2],D14XFT[LE2],B16DTH[LVL],D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39021417",
+    "desc": "OIL COOLER,TRANSMISSION (FOR AUTOMATIC TRANSMISSION,RPO MM1)",
+    "qty": "1",
+    "usage": "B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC],B16DTH[LVL],D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13378470",
+    "desc": "BRACKET,OIL COOLER,PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13412385",
+    "desc": "SCREW,HEX.HD.,OIL COOLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13388807)",
+    "desc": "PIPE,ASSY.,TRANSMISSION OIL COOLER,INLET (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (NLS.- USE 39014808)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8072148\n(C)      -GG080036",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39014808",
+    "desc": "PIPE,ASSY.,TRANSMISSION OIL COOLER,INLET (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8072149-\n(C)  GG080037-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13374063)",
+    "desc": "PIPE,ASSY.,TRANSMISSION OIL COOLER,INLET (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 39014807)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066453\n(C)      -GG080036",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39014807",
+    "desc": "PIPE,ASSY.,TRANSMISSION OIL COOLER,INLET (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066454-\n(C)  GG080037-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11546700",
+    "desc": "-CLIP,OIL COOLER PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "96953677",
+    "desc": "-CLIP,OIL COOLER PIPE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "15052228",
+    "desc": "-CAP,HOSE,OIL COOLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "25874797",
+    "desc": "-SEAL,OIL COOLER PIPES TO TRANSMISSION",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13388809",
+    "desc": "PIPE,ASSY.,TRANSMISSION OIL COOLER,OUTLET (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13374062",
+    "desc": "PIPE,ASSY.,TRANSMISSION OIL COOLER,OUTLET (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "15052228",
+    "desc": "-CAP,HOSE,OIL COOLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "25874797",
+    "desc": "-SEAL,OIL COOLER PIPES TO TRANSMISSION",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11546377)",
+    "desc": "NUT,M8,SUPPORT OIL COOLER PIPE (NLS.- USE YR00004280)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

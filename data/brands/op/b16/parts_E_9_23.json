@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(55599943)",
+    "desc": "COOLER,ASSY.,OIL (NLS.- USE 55494842)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55494842)",
+    "desc": "COOLER,ASSY.,OIL (NLS.- USE 55501530)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55501530",
+    "desc": "COOLER,ASSY.,OIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55576423",
+    "desc": "-GASKET (OVAL)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55576424",
+    "desc": "-GASKET",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11588728)",
+    "desc": "-SCREW,HEX.HD.,M8 X 50 (NLS.- USE YR00829080)",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11588327",
+    "desc": "-SLEEVE,SCREW",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "code": "1",
+    "name": "FRONT SEAT BELT LOCK"
+  },
+  {
+    "code": "2",
+    "name": "FRONT SEAT BELT PRETENSIONER"
+  },
+  {
+    "code": "3",
+    "name": "FRONT SEAT BELTS"
+  },
+  {
+    "code": "4",
+    "name": "REAR SEAT BELT LOCK"
+  },
+  {
+    "code": "5",
+    "name": "REAR SEAT BELTS"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "call": "12",
+    "part": "55515451",
+    "desc": "GASKET,CYLINDER HEAD (IDENT. LESS HOLES)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55515450",
+    "desc": "GASKET,CYLINDER HEAD (IDENT. 1 HOLE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55515449",
+    "desc": "GASKET,CYLINDER HEAD (IDENT. 2 HOLES)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "",
+    "desc": "PIN,STRAIGHT,HEAD TO CYLINDER BLOCK (AWAITING TECHNICAL RELEASE)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55490324",
+    "desc": "SCREW,M13,198MM LONG",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11548180",
+    "desc": "SCREW,M8 X 48",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55512662",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (EXCHANGE - REMAN PART 1686199780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "1686199780",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES,EXCHANGE - REMAN (CORE RETURN NO. 95524441)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "",
+    "desc": "-PLUG,M10 (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "",
+    "desc": "-PLUG (NOT SERVICED SEPARATELY)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "11562127",
+    "desc": "-PLUG,14 MM OD.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11546665",
+    "desc": "-PLUG,M12 X 16",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "12668731",
+    "desc": "-PIN,LOCATING",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(55496212)",
+    "desc": "-GASKET KIT (NLS.- USE 1694331480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "55507084",
+    "desc": "-SCREW,HEX.HD.,CAP BEARING,M6 X 59",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "55510066",
+    "desc": "-SCREW,HEX.HD.,CAP BEARING,M5 X 37",
+    "qty": "16",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "55507182",
+    "desc": "-SCREW,HEX.HD.,M6 X 37",
+    "qty": "13",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

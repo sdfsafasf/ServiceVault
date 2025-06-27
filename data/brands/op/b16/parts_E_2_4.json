@@ -1,0 +1,35 @@
+[
+  {
+    "call": "5",
+    "part": "(12706018)",
+    "desc": "CRANKSHAFT,ASSY. (NLS.- USE 25203539, 25203989)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55488548",
+    "desc": "PULSE GENERATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12672574",
+    "desc": "PIN,LOCATING,CRANKSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,2546 @@
+[
+  {
+    "call": "1",
+    "part": "(13473571)",
+    "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39051245)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 1590,
+    "y": 1191,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13473571)",
+        "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39051245)"
+      },
+      {
+        "part": "(39051245)",
+        "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39140218)"
+      },
+      {
+        "part": "39140218",
+        "desc": "SIDEMEMBER,LH,FRONT"
+      }
+    ]
+  },
+  {
+    "call": "1",
+    "part": "(39051245)",
+    "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39140218)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13473571)",
+        "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39051245)"
+      },
+      {
+        "part": "(39051245)",
+        "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39140218)"
+      },
+      {
+        "part": "39140218",
+        "desc": "SIDEMEMBER,LH,FRONT"
+      }
+    ]
+  },
+  {
+    "call": "1",
+    "part": "39140218",
+    "desc": "SIDEMEMBER,LH,FRONT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13473571)",
+        "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39051245)"
+      },
+      {
+        "part": "(39051245)",
+        "desc": "SIDEMEMBER,LH,FRONT (NLS.- USE 39140218)"
+      },
+      {
+        "part": "39140218",
+        "desc": "SIDEMEMBER,LH,FRONT"
+      }
+    ]
+  },
+  {
+    "call": "2",
+    "part": "11609767",
+    "desc": "-NUT,M6",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 1489,
+    "y": 1332,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : sodium tetraborate decahydrate:CAS-number:1303-96-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : Trichloroethylene:CAS-number:79-01-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate:CAS-number:15571-58-1",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL MONO-4-NONYLPHENYL ETHER:CAS-number:26027-38-3",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : Boric acid:CAS-number:10043-35-3",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Diisobutyl phthalate:CAS-number:84-69-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13469396)",
+    "desc": "-BRACKET,LH (NLS.- USE 13487348)",
+    "usage": "",
+    "range": "-H8999999-HG999999",
+    "qty": "1",
+    "x": 974,
+    "y": 1610,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13469396)",
+        "desc": "BRACKET,LH (NLS.- USE 13487348)"
+      },
+      {
+        "part": "13487348",
+        "desc": "BRACKET,LH"
+      }
+    ]
+  },
+  {
+    "call": "3",
+    "part": "13487348",
+    "desc": "-BRACKET,LH",
+    "usage": "",
+    "range": "J8000001-JG000001-",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13469396)",
+        "desc": "BRACKET,LH (NLS.- USE 13487348)"
+      },
+      {
+        "part": "13487348",
+        "desc": "BRACKET,LH"
+      }
+    ]
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-RAIL,INNER,FRONT,LH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 869,
+    "y": 1176,
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39018048)",
+    "desc": "-SUPPORT,ASSY.,LH (NLS.- USE 39140219)",
+    "usage": "",
+    "range": "-H8999999-HG999999",
+    "qty": "1",
+    "x": 1082,
+    "y": 1806,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39018048)",
+        "desc": "SUPPORT,ASSY.,LH (NLS.- USE 39140219)"
+      },
+      {
+        "part": "39140219",
+        "desc": "SUPPORT,ASSY.,LH"
+      }
+    ]
+  },
+  {
+    "call": "5",
+    "part": "39140219",
+    "desc": "-SUPPORT,ASSY.,LH",
+    "usage": "",
+    "range": "J8000001-JG000001-",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39018048)",
+        "desc": "SUPPORT,ASSY.,LH (NLS.- USE 39140219)"
+      },
+      {
+        "part": "39140219",
+        "desc": "SUPPORT,ASSY.,LH"
+      }
+    ]
+  },
+  {
+    "call": "6",
+    "part": "(13473573)",
+    "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39051248)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 55,
+    "y": 800,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "13473573)",
+        "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39051248)"
+      },
+      {
+        "part": "(39051248)",
+        "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39140224)"
+      },
+      {
+        "part": "39140224",
+        "desc": "SIDEMEMBER,RH,FRONT"
+      }
+    ]
+  },
+  {
+    "call": "6",
+    "part": "(39051248)",
+    "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39140224)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "13473573)",
+        "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39051248)"
+      },
+      {
+        "part": "(39051248)",
+        "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39140224)"
+      },
+      {
+        "part": "39140224",
+        "desc": "SIDEMEMBER,RH,FRONT"
+      }
+    ]
+  },
+  {
+    "call": "6",
+    "part": "39140224",
+    "desc": "SIDEMEMBER,RH,FRONT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "13473573)",
+        "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39051248)"
+      },
+      {
+        "part": "(39051248)",
+        "desc": "SIDEMEMBER,RH,FRONT (NLS.- USE 39140224)"
+      },
+      {
+        "part": "39140224",
+        "desc": "SIDEMEMBER,RH,FRONT"
+      }
+    ]
+  },
+  {
+    "call": "7",
+    "part": "11609767",
+    "desc": "-NUT,M6",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 159,
+    "y": 826,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : sodium tetraborate decahydrate:CAS-number:1303-96-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : Trichloroethylene:CAS-number:79-01-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate:CAS-number:15571-58-1",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL MONO-4-NONYLPHENYL ETHER:CAS-number:26027-38-3",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : Boric acid:CAS-number:10043-35-3",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Diisobutyl phthalate:CAS-number:84-69-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13469399)",
+    "desc": "-BRACKET,RH (NLS.- USE 13487349)",
+    "usage": "",
+    "range": "-H8999999-HG999999",
+    "qty": "1",
+    "x": 418,
+    "y": 1346,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13469399)",
+        "desc": "BRACKET,RH (NLS.- USE 13487349)"
+      },
+      {
+        "part": "13487349",
+        "desc": "BRACKET,RH"
+      }
+    ]
+  },
+  {
+    "call": "8",
+    "part": "13487349",
+    "desc": "-BRACKET,RH",
+    "usage": "",
+    "range": "J8000001-JG000001-",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13469399)",
+        "desc": "BRACKET,RH (NLS.- USE 13487349)"
+      },
+      {
+        "part": "13487349",
+        "desc": "BRACKET,RH"
+      }
+    ]
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "-RAIL,INNER,FRONT,RH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 743,
+    "y": 1264,
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39018049)",
+    "desc": "-SUPPORT,ASSY.,RH (NLS.- USE 39140225)",
+    "usage": "",
+    "range": "-H8999999-HG999999",
+    "qty": "1",
+    "x": 317,
+    "y": 1442,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39018049)",
+        "desc": "SUPPORT,ASSY.,RH (NLS.- USE 39140225)"
+      },
+      {
+        "part": "39140225",
+        "desc": "SUPPORT,ASSY.,RH"
+      }
+    ]
+  },
+  {
+    "call": "10",
+    "part": "39140225",
+    "desc": "-SUPPORT,ASSY.,RH",
+    "usage": "",
+    "range": "J8000001-JG000001-",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39018049)",
+        "desc": "SUPPORT,ASSY.,RH (NLS.- USE 39140225)"
+      },
+      {
+        "part": "39140225",
+        "desc": "SUPPORT,ASSY.,RH"
+      }
+    ]
+  },
+  {
+    "call": "11",
+    "part": "(13373883)",
+    "desc": "RAIL,OUTER,FRONT,LH (NLS.- USE 39052264)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 2092,
+    "y": 1217,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13373883)",
+        "desc": "RAIL,OUTER,FRONT,LH (NLS.- USE 39052264)"
+      },
+      {
+        "part": "39052264",
+        "desc": "RAIL,OUTER,FRONT,LH"
+      }
+    ]
+  },
+  {
+    "call": "11",
+    "part": "39052264",
+    "desc": "RAIL,OUTER,FRONT,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13373883)",
+        "desc": "RAIL,OUTER,FRONT,LH (NLS.- USE 39052264)"
+      },
+      {
+        "part": "39052264",
+        "desc": "RAIL,OUTER,FRONT,LH"
+      }
+    ]
+  },
+  {
+    "call": "12",
+    "part": "(13373884)",
+    "desc": "RAIL,OUTER,FRONT,RH (NLS.- USE 39052265)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 443,
+    "y": 456,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13373884)",
+        "desc": "RAIL,OUTER,FRONT,RH (NLS.- USE 39052265)"
+      },
+      {
+        "part": "39052265",
+        "desc": "RAIL,OUTER,FRONT,RH"
+      }
+    ]
+  },
+  {
+    "call": "12",
+    "part": "39052265",
+    "desc": "RAIL,OUTER,FRONT,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13373884)",
+        "desc": "RAIL,OUTER,FRONT,RH (NLS.- USE 39052265)"
+      },
+      {
+        "part": "39052265",
+        "desc": "RAIL,OUTER,FRONT,RH"
+      }
+    ]
+  },
+  {
+    "call": "13",
+    "part": "(39017360)",
+    "desc": "CROSSMEMBER,ASSY.,FRONT,UPPER (NLS.- USE 39052086)",
+    "usage": "",
+    "range": "-K8999999-KG999999",
+    "qty": "1",
+    "x": 1400,
+    "y": 118,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39017360)",
+        "desc": "CROSSMEMBER,ASSY.,FRONT,UPPER (NLS.- USE 39052086)"
+      },
+      {
+        "part": "39052086",
+        "desc": "CROSSMEMBER,ASSY.,FRONT,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "13",
+    "part": "39052086",
+    "desc": "CROSSMEMBER,ASSY.,FRONT,UPPER",
+    "usage": "",
+    "range": "-K8999999-KG999999",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39017360)",
+        "desc": "CROSSMEMBER,ASSY.,FRONT,UPPER (NLS.- USE 39052086)"
+      },
+      {
+        "part": "39052086",
+        "desc": "CROSSMEMBER,ASSY.,FRONT,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "13",
+    "part": "39229881",
+    "desc": "CROSSMEMBER,ASSY.,FRONT,UPPER",
+    "usage": "",
+    "range": "L8000001-LG000001-",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11609767",
+    "desc": "-NUT,M6",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 1446,
+    "y": 255,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39041025",
+    "desc": "-BRACKET,ASSY.,RADIATOR UPPER SUPPORT,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 1215,
+    "y": 666,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39041026",
+    "desc": "-BRACKET,ASSY.,RADIATOR UPPER SUPPORT,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(39025336)",
+    "desc": "EXTENSION,LH,UPPER (NLS.- USE 39029461)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 1775,
+    "y": 321,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025336)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39029461)"
+      },
+      {
+        "part": "(39029461)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39072523)"
+      },
+      {
+        "part": "(39072523)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39161597)"
+      },
+      {
+        "part": "39161597",
+        "desc": "EXTENSION,LH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "16",
+    "part": "(39029461)",
+    "desc": "EXTENSION,LH,UPPER (NLS.- USE 39072523)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025336)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39029461)"
+      },
+      {
+        "part": "(39029461)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39072523)"
+      },
+      {
+        "part": "(39072523)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39161597)"
+      },
+      {
+        "part": "39161597",
+        "desc": "EXTENSION,LH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "16",
+    "part": "(39072523)",
+    "desc": "EXTENSION,LH,UPPER (NLS.- USE 39161597)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025336)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39029461)"
+      },
+      {
+        "part": "(39029461)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39072523)"
+      },
+      {
+        "part": "(39072523)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39161597)"
+      },
+      {
+        "part": "39161597",
+        "desc": "EXTENSION,LH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "16",
+    "part": "39161597",
+    "desc": "EXTENSION,LH,UPPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025336)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39029461)"
+      },
+      {
+        "part": "(39029461)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39072523)"
+      },
+      {
+        "part": "(39072523)",
+        "desc": "EXTENSION,LH,UPPER (NLS.- USE 39161597)"
+      },
+      {
+        "part": "39161597",
+        "desc": "EXTENSION,LH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "16",
+    "part": "(39025337)",
+    "desc": "EXTENSION,RH,UPPER (NLS.- USE 39029462)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025337)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39029462)"
+      },
+      {
+        "part": "(39029462)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39072522)"
+      },
+      {
+        "part": "(39072522)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39157771)"
+      },
+      {
+        "part": "39157771",
+        "desc": "EXTENSION,RH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "16",
+    "part": "(39029462)",
+    "desc": "EXTENSION,RH,UPPER (NLS.- USE 39072522)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025337)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39029462)"
+      },
+      {
+        "part": "(39029462)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39072522)"
+      },
+      {
+        "part": "(39072522)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39157771)"
+      },
+      {
+        "part": "39157771",
+        "desc": "EXTENSION,RH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "16",
+    "part": "(39072522)",
+    "desc": "EXTENSION,RH,UPPER (NLS.- USE 39157771)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025337)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39029462)"
+      },
+      {
+        "part": "(39029462)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39072522)"
+      },
+      {
+        "part": "(39072522)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39157771)"
+      },
+      {
+        "part": "39157771",
+        "desc": "EXTENSION,RH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "16",
+    "part": "39157771",
+    "desc": "EXTENSION,RH,UPPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39025337)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39029462)"
+      },
+      {
+        "part": "(39029462)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39072522)"
+      },
+      {
+        "part": "(39072522)",
+        "desc": "EXTENSION,RH,UPPER (NLS.- USE 39157771)"
+      },
+      {
+        "part": "39157771",
+        "desc": "EXTENSION,RH,UPPER"
+      }
+    ]
+  },
+  {
+    "call": "17",
+    "part": "11519387",
+    "desc": "BOLT,M8 X 20",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "x": 1651,
+    "y": 104,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters:CAS-number:68515-42-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1-methyl-2-pyrrolidone:CAS-number:872-50-4",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : sodium tetraborate decahydrate:CAS-number:1303-96-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol:CAS-number:25154-52-3",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : disodium tetraborate, anhydrous:CAS-number:1330-43-4",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : Formaldehyde, oligomeric reaction products with aniline:CAS-number:25214-70-4",
+      "Reach information (Article 33 (1)) : Article may contain : Boric acid:CAS-number:10043-35-3",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Diisobutyl phthalate:CAS-number:84-69-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39007657)",
+    "desc": "SUPPORT,ASSY.,FRONT BUMPER (NLS.- USE 39024196)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 612,
+    "y": 182,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39007657)",
+        "desc": "SUPPORT,ASSY.,FRONT BUMPER (NLS.- USE 39024196)"
+      },
+      {
+        "part": "39024196",
+        "desc": "SUPPORT,ASSY.,FRONT BUMPER"
+      }
+    ]
+  },
+  {
+    "call": "18",
+    "part": "39024196",
+    "desc": "SUPPORT,ASSY.,FRONT BUMPER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39007657)",
+        "desc": "SUPPORT,ASSY.,FRONT BUMPER (NLS.- USE 39024196)"
+      },
+      {
+        "part": "39024196",
+        "desc": "SUPPORT,ASSY.,FRONT BUMPER"
+      }
+    ]
+  },
+  {
+    "call": "19",
+    "part": "(11609952)",
+    "desc": "-NUT,M4.2 (NLS.- USE YQ00109480)",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "x": 475,
+    "y": 148,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : sodium tetraborate decahydrate:CAS-number:1303-96-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : Trichloroethylene:CAS-number:79-01-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate:CAS-number:15571-58-1",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL MONO-4-NONYLPHENYL ETHER:CAS-number:26027-38-3",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : Boric acid:CAS-number:10043-35-3",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Diisobutyl phthalate:CAS-number:84-69-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(11609952)",
+        "desc": "NUT,M4.2 (NLS.- USE YQ00109480)"
+      },
+      {
+        "part": "YQ00109480",
+        "desc": "NUT,M4.2"
+      }
+    ]
+  },
+  {
+    "call": "20",
+    "part": "(11519375)",
+    "desc": "SCREW,HEX,HD.,M6 X 19 (NLS.- USE YQ00159180)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "x": 996,
+    "y": 385,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters:CAS-number:68515-42-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1-methyl-2-pyrrolidone:CAS-number:872-50-4",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydro-4-methylphthalic anhydride:CAS-number:19438-60-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : ISONONYLPHENOL-ETHOXYLATE:CAS-number:37205-87-1",
+      "Reach information (Article 33 (1)) : Article may contain : lead titanium trioxide:CAS-number:12060-00-3",
+      "Reach information (Article 33 (1)) : Article may contain : 4-tert-Octylphenol:CAS-number:140-66-9",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : Formaldehyde, oligomeric reaction products with aniline:CAS-number:25214-70-4",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-methoxyethyl) phthalate:CAS-number:117-82-8",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Boric acid:CAS-number:10043-35-3",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(11519375)",
+        "desc": "SCREW,HEX,HD.,M6 X 19 (NLS.- USE YQ00159180)"
+      },
+      {
+        "part": "YQ00159180",
+        "desc": "SCREW,HEX,HD.,M6 X 19"
+      }
+    ]
+  },
+  {
+    "call": "21",
+    "part": "(13423696)",
+    "desc": "BRACKET (NLS.- USE 39027685)",
+    "usage": "",
+    "range": "-K8999999-KG999999",
+    "qty": "1",
+    "x": 697,
+    "y": 691,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13423696)",
+        "desc": "BRACKET (NLS.- USE 39027685)"
+      },
+      {
+        "part": "39027685",
+        "desc": "BRACKET"
+      }
+    ]
+  },
+  {
+    "call": "21",
+    "part": "39027685",
+    "desc": "BRACKET",
+    "usage": "",
+    "range": "-K8999999-KG999999",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Lead chromate:CAS-number:7758-97-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : Benzo(a)pyrene:CAS-number:50-32-8",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters:CAS-number:68648-39-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-benzotriazol-2-yl-4,6-di-tert-butylphenol:CAS-number:3846-71-7",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) acetate:CAS-number:71-48-7",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13423696)",
+        "desc": "BRACKET (NLS.- USE 39027685)"
+      },
+      {
+        "part": "39027685",
+        "desc": "BRACKET"
+      }
+    ]
+  },
+  {
+    "call": "21",
+    "part": "39171003",
+    "desc": "BRACKET",
+    "usage": "",
+    "range": "L8000001-LG000001-",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(13464010)",
+    "desc": "BRACE,LH (NLS.- USE 39086904)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 1165,
+    "y": 730,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Hexabromocyclododecane:CAS-number:25637-99-4",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8"
+    ],
+    "history": [
+      {
+        "part": "(13464010)",
+        "desc": "BRACE,LH (NLS.- USE 39086904)"
+      },
+      {
+        "part": "39086904",
+        "desc": "BRACE,LH"
+      }
+    ]
+  },
+  {
+    "call": "22",
+    "part": "39086904",
+    "desc": "BRACE,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Hexabromocyclododecane:CAS-number:25637-99-4",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8"
+    ],
+    "history": [
+      {
+        "part": "(13464010)",
+        "desc": "BRACE,LH (NLS.- USE 39086904)"
+      },
+      {
+        "part": "39086904",
+        "desc": "BRACE,LH"
+      }
+    ]
+  },
+  {
+    "call": "22",
+    "part": "(13464012)",
+    "desc": "BRACE,RH (NLS.- USE 39086905)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Hexabromocyclododecane:CAS-number:25637-99-4",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8"
+    ],
+    "history": [
+      {
+        "part": "(13464012)",
+        "desc": "BRACE,RH (NLS.- USE 39086905)"
+      },
+      {
+        "part": "39086905",
+        "desc": "BRACE,RH"
+      }
+    ]
+  },
+  {
+    "call": "22",
+    "part": "39086905",
+    "desc": "BRACE,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Hexabromocyclododecane:CAS-number:25637-99-4",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8"
+    ],
+    "history": [
+      {
+        "part": "(13464012)",
+        "desc": "BRACE,RH (NLS.- USE 39086905)"
+      },
+      {
+        "part": "39086905",
+        "desc": "BRACE,RH"
+      }
+    ]
+  },
+  {
+    "call": "23",
+    "part": "(11519375)",
+    "desc": "SCREW,HEX,HD.,M6 X 19 (NLS.- USE YQ00159180)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "x": 966,
+    "y": 703,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters:CAS-number:68515-42-4",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1-methyl-2-pyrrolidone:CAS-number:872-50-4",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydro-4-methylphthalic anhydride:CAS-number:19438-60-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : ISONONYLPHENOL-ETHOXYLATE:CAS-number:37205-87-1",
+      "Reach information (Article 33 (1)) : Article may contain : lead titanium trioxide:CAS-number:12060-00-3",
+      "Reach information (Article 33 (1)) : Article may contain : 4-tert-Octylphenol:CAS-number:140-66-9",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : Formaldehyde, oligomeric reaction products with aniline:CAS-number:25214-70-4",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-methoxyethyl) phthalate:CAS-number:117-82-8",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Boric acid:CAS-number:10043-35-3",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(11519375)",
+        "desc": "SCREW,HEX,HD.,M6 X 19 (NLS.- USE YQ00159180)"
+      },
+      {
+        "part": "YQ00159180",
+        "desc": "SCREW,HEX,HD.,M6 X 19"
+      }
+    ]
+  },
+  {
+    "call": "24",
+    "part": "(39007645)",
+    "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39035155)",
+    "usage": "",
+    "range": "-K8999999-KG999999",
+    "qty": "1",
+    "x": 662,
+    "y": 1836,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39007645)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39035155)"
+      },
+      {
+        "part": "(39035155)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39059726)"
+      },
+      {
+        "part": "(39059726)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39160863)"
+      },
+      {
+        "part": "39160863",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER"
+      }
+    ]
+  },
+  {
+    "call": "24",
+    "part": "(39035155)",
+    "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39059726)",
+    "usage": "",
+    "range": "-K8999999-KG999999",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39007645)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39035155)"
+      },
+      {
+        "part": "(39035155)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39059726)"
+      },
+      {
+        "part": "(39059726)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39160863)"
+      },
+      {
+        "part": "39160863",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER"
+      }
+    ]
+  },
+  {
+    "call": "24",
+    "part": "(39059726)",
+    "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39160863)",
+    "usage": "",
+    "range": "-K8999999-KG999999",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(39007645)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39035155)"
+      },
+      {
+        "part": "(39035155)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39059726)"
+      },
+      {
+        "part": "(39059726)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39160863)"
+      },
+      {
+        "part": "39160863",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER"
+      }
+    ]
+  },
+  {
+    "call": "24",
+    "part": "39160863",
+    "desc": "BAR,LIMITER,IMPACT ABSORBER",
+    "usage": "",
+    "range": "L8000001-LG000001-",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [],
+    "history": [
+      {
+        "part": "(39007645)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39035155)"
+      },
+      {
+        "part": "(39035155)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39059726)"
+      },
+      {
+        "part": "(39059726)",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER (NLS.- USE 39160863)"
+      },
+      {
+        "part": "39160863",
+        "desc": "BAR,LIMITER,IMPACT ABSORBER"
+      }
+    ]
+  },
+  {
+    "call": "25",
+    "part": "11589271",
+    "desc": "SCREW,TORX,M12 X 30",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "x": 569,
+    "y": 1390,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydro-4-methylphthalic anhydride:CAS-number:19438-60-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : ISONONYLPHENOL-ETHOXYLATE:CAS-number:37205-87-1",
+      "Reach information (Article 33 (1)) : Article may contain : 4-tert-Octylphenol:CAS-number:140-66-9",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : Formaldehyde, oligomeric reaction products with aniline:CAS-number:25214-70-4",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Boric acid:CAS-number:10043-35-3",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13423602)",
+    "desc": "STIFFENER (NLS.- USE 39086929)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 646,
+    "y": 2215,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13423602)",
+        "desc": "STIFFENER (NLS.- USE 39086929)"
+      },
+      {
+        "part": "(39086929)",
+        "desc": "STIFFENER (NLS.- USE 39151027)"
+      },
+      {
+        "part": "39151027",
+        "desc": "STIFFENER"
+      }
+    ]
+  },
+  {
+    "call": "26",
+    "part": "(39086929)",
+    "desc": "STIFFENER (NLS.- USE 39151027)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13423602)",
+        "desc": "STIFFENER (NLS.- USE 39086929)"
+      },
+      {
+        "part": "(39086929)",
+        "desc": "STIFFENER (NLS.- USE 39151027)"
+      },
+      {
+        "part": "39151027",
+        "desc": "STIFFENER"
+      }
+    ]
+  },
+  {
+    "call": "26",
+    "part": "39151027",
+    "desc": "STIFFENER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : 1,3,5-Triglycidyl isocyanurate:CAS-number:2451-62-9",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": [
+      {
+        "part": "(13423602)",
+        "desc": "STIFFENER (NLS.- USE 39086929)"
+      },
+      {
+        "part": "(39086929)",
+        "desc": "STIFFENER (NLS.- USE 39151027)"
+      },
+      {
+        "part": "39151027",
+        "desc": "STIFFENER"
+      }
+    ]
+  },
+  {
+    "call": "27",
+    "part": "11519389",
+    "desc": "BOLT,M8 X 30",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "x": 1370,
+    "y": 2331,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : 1-methyl-2-pyrrolidone:CAS-number:872-50-4",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : sodium tetraborate decahydrate:CAS-number:1303-96-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol:CAS-number:25154-52-3",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : disodium tetraborate, anhydrous:CAS-number:1330-43-4",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : Formaldehyde, oligomeric reaction products with aniline:CAS-number:25214-70-4",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "11546438",
+    "desc": "NUT,M8",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "x": 1409,
+    "y": 1169,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethoxyethyl acetate:CAS-number:111-15-9",
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : sodium tetraborate decahydrate:CAS-number:1303-96-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Ethoxyethanol:CAS-number:110-80-5",
+      "Reach information (Article 33 (1)) : Article may contain : Lead sulfochromate yellow:CAS-number:1344-37-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt(II) nitrate:CAS-number:10141-05-6",
+      "Reach information (Article 33 (1)) : Article may contain : Strontium chromate:CAS-number:7789-06-2",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylacetamide:CAS-number:127-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : Trichloroethylene:CAS-number:79-01-6",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-Dimethoxyethane:CAS-number:110-71-4",
+      "Reach information (Article 33 (1)) : Article may contain : 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate:CAS-number:15571-58-1",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL MONO-4-NONYLPHENYL ETHER:CAS-number:26027-38-3",
+      "Reach information (Article 33 (1)) : Article may contain : orange lead:CAS-number:1314-41-6",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : Octamethylcyclotetrasiloxane:CAS-number:556-67-2",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Diisobutyl phthalate:CAS-number:84-69-5",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-Imidazolidinethione:CAS-number:96-45-7",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Decabromodiphenyl ether:CAS-number:1163-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "13438213",
+    "desc": "RIVET,A1 (FOR REPAIR)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "x": 1862,
+    "y": 2363,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : Trilead Dioxide Phosphonate:CAS-number:12141-20-7",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol:CAS-number:25154-52-3",
+      "Reach information (Article 33 (1)) : Article may contain : Cobalt sulfate:CAS-number:10124-43-3",
+      "Reach information (Article 33 (1)) : Article may contain : Sodium tetraborate pentahydrate:CAS-number:12179-04-3",
+      "Reach information (Article 33 (1)) : Article may contain : Propylene oxide:CAS-number:75-56-9",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Benzyl butyl phthalate:CAS-number:85-68-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "39150337",
+    "desc": "EXTENSION,LH,RAIL,SIDE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 1893,
+    "y": 1669,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "39150338",
+    "desc": "EXTENSION,RH,RAIL,SIDE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "39150339",
+    "desc": "EXTENSION,LH,RAIL,SIDE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": 2024,
+    "y": 2112,
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "39150340",
+    "desc": "EXTENSION,RH,RAIL,SIDE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "x": "",
+    "y": "",
+    "reach": [
+      "Reach information (Article 33 (1)) : Article may contain : 4,4'-isopropylidenediphenol:CAS-number:80-05-7",
+      "Reach information (Article 33 (1)) : Article may contain : Hexahydrophthalic anhydride:CAS-number:85-42-7",
+      "Reach information (Article 33 (1)) : Article may contain : POLYETHYLENE GLYCOL TRIMETHYLNONYL ETHER:CAS-number:127087-87-0",
+      "Reach information (Article 33 (1)) : Article may contain : 1,2-benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich:CAS-number:71888-89-6",
+      "Reach information (Article 33 (1)) : Article may contain : Chromic acid:CAS-number:7738-94-5",
+      "Reach information (Article 33 (1)) : Article may contain : 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol:CAS-number:3864-99-1",
+      "Reach information (Article 33 (1)) : Article may contain : N,N-Dimethylformamide:CAS-number:68-12-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenol, branched, ethoxylated:CAS-number:68412-54-4",
+      "Reach information (Article 33 (1)) : Article may contain : Acrylamide:CAS-number:79-06-1",
+      "Reach information (Article 33 (1)) : Article may contain : cobalt dichloride:CAS-number:7646-79-9",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2H-​Benzotriazol-​2-​yl)​-​4,6-​di-tert-pentylphenol:CAS-number:25973-55-1",
+      "Reach information (Article 33 (1)) : Article may contain : Lead Zirconium Titanium Oxide:CAS-number:12626-81-2",
+      "Reach information (Article 33 (1)) : Article may contain : Nonylphenoxypoly(ethyleneoxy)ethanol:CAS-number:9016-45-9",
+      "Reach information (Article 33 (1)) : Article may contain : Refractories, fibers, aluminosilicate:CAS-number:142844-00-6",
+      "Reach information (Article 33 (1)) : Article may contain : 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol:CAS-number:9036-19-5",
+      "Reach information (Article 33 (1)) : Article may contain : Diazene-1,2-dicarboxamide:CAS-number:123-77-3",
+      "Reach information (Article 33 (1)) : Article may contain : Tris(2-chloroethyl) phosphate:CAS-number:115-96-8",
+      "Reach information (Article 33 (1)) : Article may contain : chromium trioxide:CAS-number:1333-82-0",
+      "Reach information (Article 33 (1)) : Article may contain : Lead monoxide:CAS-number:1317-36-8",
+      "Reach information (Article 33 (1)) : Article may contain : Bis(2-ethylhexyl) phthalate:CAS-number:117-81-7"
+    ],
+    "history": []
+  }
+]

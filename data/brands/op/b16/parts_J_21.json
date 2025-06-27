@@ -1,0 +1,233 @@
+[
+  {
+    "call": "1",
+    "part": "(13595389)",
+    "desc": "CALIPER,ASSY.,FRONT DISC,RH (NLS.- USE 13532171)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1684407980",
+    "desc": "CALIPER,ASSY.,FRONT DISC,RH,EXCHANGE - REMAN (CORE RETURN NO. 95524438)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13595388",
+    "desc": "CALIPER,ASSY.,FRONT DISC,LH (EXCHANGE - REMAN PART 95524111)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95524111)",
+    "desc": "CALIPER,ASSY.,FRONT DISC,LH,EXCHANGE - REMAN (CORE RETURN NO. 95524438) (NLS.- USE 1684407880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "88935776",
+    "desc": "-VALVE,BLEEDER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(90576233)",
+    "desc": "-CAP (NLS.- USE 443018)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "13588984",
+    "desc": "-SEAL KIT,FRONT DISC CALIPER PISTON",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13588983",
+    "desc": "CARRIER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "13504030",
+    "desc": "KIT,GUIDE PIN",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "15851358",
+    "desc": "-PIN,SLIDER,BRAKE CALIPER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "15851359",
+    "desc": "-PIN,SLIDER,BRAKE CALIPER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8X",
+    "part": "13507577",
+    "desc": "-SEAL KIT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "(13435687)",
+    "desc": "SET,FRICTION PADS,BRAKE,ASBESTOS FREE (NLS.- USE 42673335)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "(42673335)",
+    "desc": "SET,FRICTION PADS,BRAKE,ASBESTOS FREE (NLS.- USE 42793331)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13589745",
+    "desc": "-SPRING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "11562022",
+    "desc": "SCREW,HEX.HD.,M14 X 42 (SINGLE USE PART)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13515908)",
+    "desc": "DISC,FRONT BRAKE,276MM DIA. (NLS.- USE 13515906)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "1687774880",
+    "desc": "DISC,FRONT BRAKE,276MM DIA. (EUROREPAR)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(11570339)",
+    "desc": "SCREW,TORX,M6 X 20 (NLS.- USE YR00074280)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13362308",
+    "desc": "SHIELD,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13362307",
+    "desc": "SHIELD,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "call": "1",
+    "part": "(55598591)",
+    "desc": "STARTER,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MZ0) (EXCHANGE - REMAN PART 95520340) (NLS.- USE 55492279)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95520340)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MZ0) (CORE RETURN NO. 95524454) (NLS.- USE 95522289)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95522289)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MZ0) (CORE RETURN NO. 95524454) (NLS.- USE 95523577)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55500205)",
+    "desc": "STARTER,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MZ0/MGR) (EXCHANGE - REMAN PART 95524298) (NLS.- USE 55510798)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95524298)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MZ0/MGR) (CORE RETURN NO. 95524454) (NLS.- USE 95528731)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55590329",
+    "desc": "STARTER,ASSY. (EMISSION CODE NE4) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (EXCHANGE - REMAN PART 95523343)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95523343",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (EMISSION CODE NE4) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (CORE RETURN NO. 95524454)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55500205)",
+    "desc": "STARTER,ASSY. (EMISSION CODE NCV) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (EXCHANGE - REMAN PART 95524298) (NLS.- USE 55510798)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95524298)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (EMISSION CODE NCV) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (CORE RETURN NO. 95524454) (NLS.- USE 95528731)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11515758",
+    "desc": "SCREW,HEX.HD.,M8 X 30",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55587834",
+    "desc": "STUD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

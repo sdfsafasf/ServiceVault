@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "(13356650)",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39012567)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39012567",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH MANUAL TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39013322",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH MANUAL TRANSMISSION) (FOR MANUAL AIR CONDITIONING,RPO C67) (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39052896",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH MANUAL TRANSMISSION) (FOR HEATER SYSTEM WITHOUT AIR CONDITIONING,RPO C42)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13356677)",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH AUTOMATIC TRANSMISSION) (NLS.- USE 39012568)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39012568",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH AUTOMATIC TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39013323",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH AUTOMATIC TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13356674",
+    "desc": "-SHIELD,HEAT (USED WITH AUTOMATIC TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13453910)",
+    "desc": "-COWL,RADIATOR (NLS.- USE 39009025)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39009025",
+    "desc": "-COWL,RADIATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13378494",
+    "desc": "-CLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13378495",
+    "desc": "-SCREW,HEX.HD.",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13412385",
+    "desc": "SCREW",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

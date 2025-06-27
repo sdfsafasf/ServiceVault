@@ -1,0 +1,156 @@
+[
+  {
+    "call": "1",
+    "part": "(39028989)",
+    "desc": "SHELL,FRONT DOOR,LH (NLS.- USE 39066397)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066397)",
+    "desc": "SHELL,FRONT DOOR,LH (NLS.- USE 39086247)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39086247)",
+    "desc": "SHELL,FRONT DOOR,LH (NLS.- USE 39094728)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39094728)",
+    "desc": "SHELL,FRONT DOOR,LH (NLS.- USE 39122799)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39122799)",
+    "desc": "SHELL,FRONT DOOR,LH (NLS.- USE 39160867)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39160867",
+    "desc": "SHELL,FRONT DOOR,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13434611)",
+    "desc": "-PANEL,ASSY.,OUTER,FRONT DOOR,LH (NLS.- USE 39094728)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39028990)",
+    "desc": "SHELL,FRONT DOOR,RH (NLS.- USE 39066398)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066398)",
+    "desc": "SHELL,FRONT DOOR,RH (NLS.- USE 39086248)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39086248)",
+    "desc": "SHELL,FRONT DOOR,RH (NLS.- USE 39094729)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39094729)",
+    "desc": "SHELL,FRONT DOOR,RH (NLS.- USE 39122800)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39122800)",
+    "desc": "SHELL,FRONT DOOR,RH (NLS.- USE 39160868)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39160868",
+    "desc": "SHELL,FRONT DOOR,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13434612)",
+    "desc": "-PANEL,ASSY.,OUTER,FRONT DOOR,RH (NLS.- USE 39094729)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

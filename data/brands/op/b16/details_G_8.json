@@ -1,0 +1,58 @@
+[
+  {
+    "code": "1",
+    "name": "AIR CLEANER"
+  },
+  {
+    "code": "2",
+    "name": "AIRFLOW METER"
+  },
+  {
+    "code": "3",
+    "name": "DIESEL EXHAUST FLUID INJECTOR"
+  },
+  {
+    "code": "4",
+    "name": "EXHAUST GAS RECIRCULATION (HIGH PRESSURE)"
+  },
+  {
+    "code": "5",
+    "name": "EXHAUST GAS RECIRCULATION (LOW PRESSURE)"
+  },
+  {
+    "code": "6",
+    "name": "EXHAUST MANIFOLD, CATALYTIC CONVERTER AND FRONT PIPE"
+  },
+  {
+    "code": "7",
+    "name": "EXHAUST PIPE AND SILENCER"
+  },
+  {
+    "code": "8",
+    "name": "FUEL FILTER"
+  },
+  {
+    "code": "9",
+    "name": "FUEL INJECTION DISTRIBUTION"
+  },
+  {
+    "code": "10",
+    "name": "FUEL INJECTION PUMP"
+  },
+  {
+    "code": "11",
+    "name": "FUEL INJECTOR"
+  },
+  {
+    "code": "12",
+    "name": "FUEL PIPES AND FITTINGS"
+  },
+  {
+    "code": "13",
+    "name": "INDUCTION MANIFOLD"
+  },
+  {
+    "code": "14",
+    "name": "TURBOCHARGER"
+  }
+]

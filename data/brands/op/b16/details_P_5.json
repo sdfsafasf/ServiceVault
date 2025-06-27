@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1",
+    "name": "FLASHER SWITCH"
+  },
+  {
+    "code": "2",
+    "name": "FRONT FOGLAMP AND FIXINGS (-K8999999,-KG999999)"
+  },
+  {
+    "code": "3",
+    "name": "FRONT FOGLAMP AND FIXINGS (L8000001-,LG000001-)"
+  },
+  {
+    "code": "4",
+    "name": "HAZARD WARNING SWITCH"
+  },
+  {
+    "code": "5",
+    "name": "HEADLAMP LEVELLING SENSOR (FOR AUTOMATIC HEADLAMP LEVELING,RPO TR7)"
+  },
+  {
+    "code": "6",
+    "name": "HEADLAMPS (FOR HALOGEN HEADLAMPS,RPO T4A)"
+  },
+  {
+    "code": "7",
+    "name": "HEADLAMPS (FOR LED HEADLAMPS,RPO T4L)"
+  },
+  {
+    "code": "8",
+    "name": "LIGHTING SWITCH"
+  },
+  {
+    "code": "9",
+    "name": "REAR LAMPS (HATCH 68)"
+  },
+  {
+    "code": "10",
+    "name": "REAR LAMPS (ESTATE 35)"
+  },
+  {
+    "code": "11",
+    "name": "SIDE REPEATER LAMP AND FIXINGS"
+  },
+  {
+    "code": "12",
+    "name": "TRAILER LAMP CONTROL MODULE"
+  }
+]

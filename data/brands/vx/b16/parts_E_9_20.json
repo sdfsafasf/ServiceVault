@@ -1,0 +1,24 @@
+[
+  {
+    "call": "23",
+    "part": "55491928",
+    "desc": "FLEXPLATE AND RING GEAR,ASSY. (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "B16DTH[LVL],D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "55577807",
+    "desc": "SCREW,M10 X 20.8 (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "8",
+    "usage": "B16DTH[LVL],D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

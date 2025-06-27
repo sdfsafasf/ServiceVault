@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "24263350",
+    "desc": "CONVERTER,TORQUE (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "24281750",
+    "desc": "CONVERTER,TORQUE (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24269540)",
+    "desc": "CONVERTER,TORQUE (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 24281747)",
+    "qty": "1",
+    "usage": "B16DTH[LVL],D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24281747",
+    "desc": "CONVERTER,TORQUE (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "B16DTH[LVL],D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24263356)",
+    "desc": "CONVERTER,TORQUE (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (NLS.- USE 24281753)",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24281753",
+    "desc": "CONVERTER,TORQUE (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588468)",
+    "desc": "SCREW,SPECIAL,M10 X 15,TRANSMISSION,TORQUE CONVERTER (NLS.- USE YR00134580)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24262294",
+    "desc": "SEAL,OIL,TORQUE CONVERTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(90397024)",
+    "desc": "GREASE,LUBRICATING ,MICROLUBE GNY 202,200GRAMS,MAINDRIVE PINION SPLINES,TORQUE CONVERTER (NLS.- USE 95599784) (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

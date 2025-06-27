@@ -1,0 +1,202 @@
+[
+  {
+    "call": "1",
+    "part": "(13424603)",
+    "desc": "HANDLE,TAIL GATE,OPEL (NLS.- USE 39040293)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1601,
+        "y": 458
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39040293)",
+    "desc": "HANDLE,TAIL GATE,OPEL (NLS.- USE 39097128)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39097128)",
+    "desc": "HANDLE,TAIL GATE,OPEL (NLS.- USE 39153550)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39153550",
+    "desc": "HANDLE,TAIL GATE,OPEL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13424604)",
+    "desc": "HANDLE,TAIL GATE,VAUXHALL (NLS.- USE 39040294)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1593,
+        "y": 764
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39040294)",
+    "desc": "HANDLE,TAIL GATE,VAUXHALL (NLS.- USE 39097129)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39097129)",
+    "desc": "HANDLE,TAIL GATE,VAUXHALL (NLS.- USE 39153551)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39153551",
+    "desc": "HANDLE,TAIL GATE,VAUXHALL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39040296)",
+    "desc": "HANDLE,TAIL GATE (HOLDEN) (NLS.- USE 39153552)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1593,
+        "y": 1067
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-SWITCH,ASSY.,TAIL GATE OPENING (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1524,
+        "y": 535
+      },
+      {
+        "x": 1522,
+        "y": 838
+      },
+      {
+        "x": 1516,
+        "y": 1149
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11084773",
+    "desc": "NUT,HEX.,M5",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 501,
+        "y": 688
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "9",
+      "detail": "4",
+      "call": "6"
+    },
+    "positions": [
+      {
+        "x": 1522,
+        "y": 2392
+      }
+    ],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "9",
+      "detail": "4",
+      "call": "7"
+    },
+    "positions": [
+      {
+        "x": 1257,
+        "y": 1646
+      }
+    ],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  }
+]

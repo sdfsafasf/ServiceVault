@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "(24582890)",
+    "desc": "HOUSING,GEARSHIFT CONTROL (EXCEPT STOP/START ENGINE SYSTEM) (NLS.- USE 24587645)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(24587645)",
+    "desc": "HOUSING,GEARSHIFT CONTROL (EXCEPT STOP/START ENGINE SYSTEM) (NLS.- USE 24587802)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(24587802)",
+    "desc": "HOUSING,GEARSHIFT CONTROL (EXCEPT STOP/START ENGINE SYSTEM) (NLS.- USE 24588723)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24582891)",
+    "desc": "HOUSING,GEARSHIFT CONTROL (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 24587646)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24587646)",
+    "desc": "HOUSING,GEARSHIFT CONTROL (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 24587803)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24587803)",
+    "desc": "HOUSING,GEARSHIFT CONTROL (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 24588722)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(24578093)",
+    "desc": "-RING,RETAINING,LEVER,SELECTOR (NLS.- USE 55500280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55500280",
+    "desc": "-RING,RETAINING,LEVER,SELECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24578792",
+    "desc": "-SENSOR,GEAR POSITION (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "24583482",
+    "desc": "-MAGNET (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11571034",
+    "desc": "-SCREW (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "(D)      -02042018",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11601840",
+    "desc": "-SCREW (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "(D)  03042018-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "94500406",
+    "desc": "-SCREW (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11102861",
+    "desc": "SCREW,HEX.HD.,M7 X 27",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(24581346)",
+    "desc": "GASKET,HOUSING (NLS.- USE 24587011)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "95518874",
+    "desc": "PLUG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55354919",
+    "desc": "-CAP,OIL BREATHER PLUG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

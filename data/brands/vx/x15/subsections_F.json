@@ -1,0 +1,22 @@
+[
+  {
+    "code": "1",
+    "name": "B10XFL[LE1],B10XFT[LE1] PETROL ENGINES"
+  },
+  {
+    "code": "2",
+    "name": "B12XEL[LDC],B14XEJ[LDD],B14XEL[LDD] PETROL ENGINES"
+  },
+  {
+    "code": "3",
+    "name": "B14NEH[LUJ],B14NEJ[LUJ] PETROL ENGINES"
+  },
+  {
+    "code": "4",
+    "name": "B16LES[LLU] PETROL ENGINE"
+  },
+  {
+    "code": "5",
+    "name": "B13DTC[LKV],B13DTE[LKU],B13DTR[LKU] DIESEL ENGINES"
+  }
+]

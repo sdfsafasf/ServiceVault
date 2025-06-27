@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "",
+    "desc": "BLOCK,ASSY.,CYLINDER (NS. - USE SHORT MOTOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11588726)",
+    "desc": "SCREW,HEX.HD.,M8 X 40 (NLS.- USE YR00047280)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55570139",
+    "desc": "SCREW,HEX.HD.,M10 X 100",
+    "qty": "10",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11588731",
+    "desc": "SCREW,M8 X 65",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90351708",
+    "desc": "SLEEVE,18.5 OD. X 12",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50 ML,CYLINDER BLOCK PLUGS (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

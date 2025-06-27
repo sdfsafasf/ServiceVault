@@ -1,0 +1,46 @@
+[
+  {
+    "call": "10",
+    "part": "39202441",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "PETROL ENGINES",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "B14XFT[LE2],F14SHL[L3T],F14SHT[L3T]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39202442",
+    "desc": "SPRING,ASSY.,REAR (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],B16SHT[LWC],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

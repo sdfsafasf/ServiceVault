@@ -1,0 +1,156 @@
+[
+  {
+    "call": "19",
+    "part": "(12657648)",
+    "desc": "PUMP,ASSY.,FUEL INJECTION (NLS.- USE 12679977)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(12645181)",
+    "desc": "-'O'RING (NLS.- USE 55597097 20 91 155)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11588724)",
+    "desc": "-SCREW,HEX.HD.,M8 X 30 (NLS.- USE YR00052980)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "11588327",
+    "desc": "-SLEEVE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "12680361",
+    "desc": "INSULATOR,FUEL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(12669216)",
+    "desc": "FUEL RAIL,ASSEMBLY,PETROL (NLS.- USE 12672583)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(12672583)",
+    "desc": "FUEL RAIL,ASSEMBLY,PETROL (NLS.- USE 12684252)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "12684252",
+    "desc": "FUEL RAIL,ASSEMBLY,PETROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "(11588715)",
+    "desc": "-SCREW,HEX.HD.,M6 X 35 (NLS.- USE YR00713780)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "55577403",
+    "desc": "-INJECTOR,ASSY.,FUEL",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27X",
+    "part": "12673056",
+    "desc": "--SET,RING SEALS",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "55570735",
+    "desc": "-SCREW",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "",
+    "desc": "-HARNESS,ASSY.,FUEL INJECTION (PLEASE REFER TO GROUP P) (ENGINE WIRING HARNESS) (SHORTCUT: B16.P514)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "",
+    "desc": "-SENSOR,FUEL PRESSURE (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (FUEL PRESSURE SENSOR) (SHORTCUT: B16.P20)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

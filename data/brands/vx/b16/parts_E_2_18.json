@@ -1,0 +1,35 @@
+[
+  {
+    "call": "11",
+    "part": "95528296",
+    "desc": "FILTER,ASSY.,OIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "1667442580",
+    "desc": "FILTER,ASSY.,OIL (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "12582654",
+    "desc": "CONNECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

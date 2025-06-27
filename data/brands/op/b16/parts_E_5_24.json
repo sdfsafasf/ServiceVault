@@ -1,0 +1,200 @@
+[
+  {
+    "call": "1",
+    "part": "(12674266)",
+    "desc": "PUMP,ASSY.,OIL (NLS.- USE 12686440)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "12686440",
+    "desc": "PUMP,ASSY.,OIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "3525915",
+    "desc": "-PIN",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(12636425)",
+    "desc": "-VALVE,OIL PUMP FLOW CONTROL (NLS.- USE 12686437)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "12664292",
+    "desc": "-RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11588717",
+    "desc": "-SCREW,M6 X 45",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "12637179",
+    "desc": "-GASKET,PIPE,SUCTION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(11588712)",
+    "desc": "-SCREW,HEX.HD.,M6 X 20 (NLS.- USE YR00052080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "12636531",
+    "desc": "-SPROCKET,OIL PUMP,TSUBAKI",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "12656072",
+    "desc": "-SPROCKET,OIL PUMP,BORGWARNER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11588724)",
+    "desc": "-SCREW,HEX.HD.,M8 X 30 (NLS.- USE YR00052980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "12644557",
+    "desc": "-GASKET,SMALL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "12644558",
+    "desc": "-GASKET,LARGE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "12636528",
+    "desc": "CHAIN,DRIVE,OIL PUMP,TSUBAKI",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "12656073",
+    "desc": "CHAIN,DRIVE,OIL PUMP,BORGWARNER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "12636529",
+    "desc": "TENSIONER (TSUBAKI)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(55487342)",
+    "desc": "TENSIONER (BORGWARNER) (NLS.- USE 55593246 6 46 208)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(55593246)",
+    "desc": "TENSIONER (BORGWARNER) (NLS.- USE 12681525)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

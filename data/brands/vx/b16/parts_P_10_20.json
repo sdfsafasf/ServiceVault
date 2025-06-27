@@ -1,0 +1,145 @@
+[
+  {
+    "call": "6",
+    "part": "13408458",
+    "desc": "SWITCH,ASSY.,FRONT DOOR WINDOW,DRIVER SIDE,LHD (FOR ELECTRIC REAR WINDOWS,RPO AER)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13408460",
+    "desc": "SWITCH,ASSY.,FRONT DOOR WINDOW,DRIVER SIDE,RHD (FOR ELECTRIC REAR WINDOWS,RPO AER)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13408456",
+    "desc": "SWITCH,ASSY.,FRONT DOOR WINDOW,DRIVER SIDE,RHD (FOR ELECTRIC REAR WINDOWS,RPO AEQ)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13408462",
+    "desc": "SWITCH,ASSY.,FRONT DOOR WINDOW,DRIVER SIDE (EXCEPT RPO AER,ELECTRIC REAR WINDOWS)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13408448",
+    "desc": "SWITCH,ASSY.,FRONT DOOR WINDOW,PASSENGER SIDE (FOR PASSENGER SIDE ELECTRIC WINDOW,RPO AEF)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13408446",
+    "desc": "SWITCH,ASSY.,FRONT DOOR WINDOW,PASSENGER SIDE (FOR PASSENGER SIDE ELECTRIC WINDOW,RPO AED)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13408452",
+    "desc": "SWITCH,ASSY.,REAR DOOR WINDOW (FOR ELECTRIC REAR WINDOWS,RPO AER)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13408450",
+    "desc": "SWITCH,ASSY.,REAR DOOR WINDOW (FOR ELECTRIC REAR WINDOWS,RPO AEQ)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "22934609",
+    "desc": "SWITCH,ASSY.,DOOR MIRROR ADJUSTMENT (FOR MANUAL FOLDING MIRROR,RPO DWE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "23301469",
+    "desc": "SWITCH,ASSY.,DOOR MIRROR ADJUSTMENT (FOR ELECTRIC FOLDING MIRROR,RPO DWF)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13437277)",
+    "desc": "SWITCH,ASSY.,DOOR LOCKING,RH (NLS.- USE 39187988)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13437276)",
+    "desc": "SWITCH,ASSY.,DOOR LOCKING,LH (NLS.- USE 39187989)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(22939387)",
+    "desc": "SWITCH,POWER OPENING,TAILGATE,BLACK (FOR POWER OPENING TAILGATE,RPO TC2) (NLS.- USE YR004042YX)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

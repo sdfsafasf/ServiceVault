@@ -1,0 +1,198 @@
+[
+  {
+    "code": "1",
+    "name": "AERIAL HARNESS (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "2",
+    "name": "AERIAL HARNESS (ESTATE 35)"
+  },
+  {
+    "code": "3",
+    "name": "BODY WIRING HARNESS"
+  },
+  {
+    "code": "4",
+    "name": "BODY WIRING HARNESS"
+  },
+  {
+    "code": "5",
+    "name": "BUMPER PANEL HARNESS (FRONT)"
+  },
+  {
+    "code": "6",
+    "name": "BUMPER PANEL HARNESS (REAR) (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "7",
+    "name": "BUMPER PANEL HARNESS (REAR) (ESTATE 35)"
+  },
+  {
+    "code": "8",
+    "name": "CONSOLE HARNESS (EXCEPT RPO J71,ELECTRIC PARK BRAKE)"
+  },
+  {
+    "code": "9",
+    "name": "CONSOLE HARNESS (FOR ELECTRIC PARK BRAKE,RPO J71)"
+  },
+  {
+    "code": "10",
+    "name": "ENGINE WIRING HARNESS (B10XFL[LE1],D10XFL[LE1] PETROL ENGINES)"
+  },
+  {
+    "code": "11",
+    "name": "ENGINE WIRING HARNESS (F12SHL[LIH],F12SHT[LIH],F12SHR[LIH] PETROL ENGINES)"
+  },
+  {
+    "code": "12",
+    "name": "ENGINE WIRING HARNESS (B14XE[LV7] PETROL ENGINE)"
+  },
+  {
+    "code": "13",
+    "name": "ENGINE WIRING HARNESS (B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2] PETROL ENGINES)"
+  },
+  {
+    "code": "14",
+    "name": "ENGINE WIRING HARNESS (B14XNT[LFE],D14XNT[LFE] NATURAL GAS ENGINES)"
+  },
+  {
+    "code": "15",
+    "name": "ENGINE WIRING HARNESS (F14SHL[L3T],F14SHT[L3T] PETROL ENGINES)"
+  },
+  {
+    "code": "16",
+    "name": "ENGINE WIRING HARNESS (B16SHT[LWC],D16SHT[LWC] PETROL ENGINES)"
+  },
+  {
+    "code": "17",
+    "name": "ENGINE WIRING HARNESS (D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD] DIESEL ENGINES (ENGINE WIRING HARNESS))"
+  },
+  {
+    "code": "18",
+    "name": "ENGINE WIRING HARNESS (D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD] DIESEL ENGINES (FIXINGS AND FITTINGS))"
+  },
+  {
+    "code": "19",
+    "name": "ENGINE WIRING HARNESS (B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],D16DTI[LXO] DIESEL ENGINES (ENGINE WIRING HARNESS))"
+  },
+  {
+    "code": "20",
+    "name": "ENGINE WIRING HARNESS (B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],D16DTI[LXO] DIESEL ENGINES (FIXINGS AND FITTINGS))"
+  },
+  {
+    "code": "21",
+    "name": "ENGINE WIRING HARNESS (B16DTR[LVK],D16DTR[LVK] DIESEL ENGINES (ENGINE WIRING HARNESS))"
+  },
+  {
+    "code": "22",
+    "name": "ENGINE WIRING HARNESS (B16DTR[LVK],D16DTR[LVK] DIESEL ENGINES (FIXINGS AND FITTINGS))"
+  },
+  {
+    "code": "23",
+    "name": "FRONT DOOR HARNESS (5 DOOR HATCH 68 (LHD))"
+  },
+  {
+    "code": "24",
+    "name": "FRONT DOOR HARNESS (5 DOOR HATCH 68 (RHD))"
+  },
+  {
+    "code": "25",
+    "name": "FRONT DOOR HARNESS (ESTATE 35 (LHD))"
+  },
+  {
+    "code": "26",
+    "name": "FRONT DOOR HARNESS (ESTATE 35 (RHD))"
+  },
+  {
+    "code": "27",
+    "name": "FRONT SEAT WIRING HARNESS (DRIVER SIDE (LHD))"
+  },
+  {
+    "code": "28",
+    "name": "FRONT SEAT WIRING HARNESS (DRIVER SIDE (RHD))"
+  },
+  {
+    "code": "29",
+    "name": "FRONT SEAT WIRING HARNESS (PASSENGER SIDE (LHD))"
+  },
+  {
+    "code": "30",
+    "name": "FRONT SEAT WIRING HARNESS (PASSENGER SIDE (RHD))"
+  },
+  {
+    "code": "31",
+    "name": "FRONT SEAT WIRING HARNESS (FIXINGS AND FITTINGS)"
+  },
+  {
+    "code": "32",
+    "name": "FUEL PUMP HARNESS"
+  },
+  {
+    "code": "33",
+    "name": "HEADLAMP HARNESS"
+  },
+  {
+    "code": "34",
+    "name": "HEATER AND AIR CONDITIONING HARNESSES"
+  },
+  {
+    "code": "35",
+    "name": "INSTRUMENT PANEL WIRING HARNESS"
+  },
+  {
+    "code": "36",
+    "name": "INTERIOR MIRROR HARNESS"
+  },
+  {
+    "code": "37",
+    "name": "REAR BODY WIRING HARNESS (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "38",
+    "name": "REAR BODY WIRING HARNESS (ESTATE 35)"
+  },
+  {
+    "code": "39",
+    "name": "REAR DOOR HARNESS"
+  },
+  {
+    "code": "40",
+    "name": "REAR SEAT WIRING HARNESS"
+  },
+  {
+    "code": "41",
+    "name": "ROOF WIRING HARNESS"
+  },
+  {
+    "code": "42",
+    "name": "STEERING GEAR HARNESS"
+  },
+  {
+    "code": "43",
+    "name": "TAIL GATE HARNESS (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "44",
+    "name": "TAIL GATE HARNESS (ESTATE 35)"
+  },
+  {
+    "code": "45",
+    "name": "TAIL GATE HARNESS (ADDITIONAL BRAKE LAMP (5 DOOR HATCH 68))"
+  },
+  {
+    "code": "46",
+    "name": "TAIL GATE HARNESS (ADDITIONAL BRAKE LAMP (ESTATE 35))"
+  },
+  {
+    "code": "47",
+    "name": "TRANSMISSION HARNESS (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7)"
+  },
+  {
+    "code": "48",
+    "name": "TRANSMISSION HARNESS (FOR 250 CVT TRANSMISSION,RPO MRG)"
+  },
+  {
+    "code": "49",
+    "name": "WIRING HARNESS REPAIR KITS"
+  }
+]

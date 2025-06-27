@@ -1,0 +1,134 @@
+[
+  {
+    "call": "3",
+    "part": "39016240",
+    "desc": "PANEL,ASSY.,REAR END,LOWER",
+    "usage": "",
+    "range": "(C)      -G8015481",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39016799)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39031248)",
+    "usage": "",
+    "range": "(C)  G8015482-G8016964",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39031248)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39059378)",
+    "usage": "",
+    "range": "(C)  G8016965-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39059378)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39066825)",
+    "usage": "",
+    "range": "(C)  G8016965-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066825)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39084138)",
+    "usage": "",
+    "range": "(C)  G8016965-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39084138)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39108806)",
+    "usage": "",
+    "range": "(C)  G8016965-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39108806)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39147219)",
+    "usage": "",
+    "range": "(C)  G8016965-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39147219)",
+    "desc": "PANEL,ASSY.,REAR END,LOWER (NLS.- USE 39187588)",
+    "usage": "",
+    "range": "(C)  G8016965-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39023187)",
+    "desc": "PANEL,REAR LOWER (NLS.- USE 39085653)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39085653",
+    "desc": "PANEL,REAR LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(90242083)",
+    "desc": "PLUG,18.5MM DIA. (NLS.- USE YQ00162680)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(90460880)",
+    "desc": "PLUG,26 MM DIA. (NLS.- USE YQ00158880)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

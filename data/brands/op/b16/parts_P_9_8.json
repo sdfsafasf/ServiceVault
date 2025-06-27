@@ -1,0 +1,112 @@
+[
+  {
+    "call": "1",
+    "part": "(39017359)",
+    "desc": "CONTROL MODULE (NLS.- USE 84363412)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "84365981",
+    "desc": "CONTROL MODULE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "84366673",
+    "desc": "CONTROL MODULE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39021664",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8027243\n(C)      -GG022023",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39046570",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8027244-\n(C)  GG022024-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11561629)",
+    "desc": "NUT,PRESS,M4.2 (NLS.- USE YQ00110380)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "SWITCH,ASSY. (PLEASE REFER TO GROUP P) (BODY) (INTERIOR SWITCHES) (SHORTCUT: B16.P907)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "MICROPHONE,CAR TELEPHONE (PLEASE REFER TO GROUP P) (BODY) (AUDIO, NAVIGATION AND DEVICE CONNECTIVITY) (SHORTCUT: B16.P801)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39150397",
+    "desc": "SPLITTER,RADIO/GPS SIGNAL (INTELLILINK RF900 NAVI)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

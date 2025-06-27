@@ -1,0 +1,308 @@
+[
+  {
+    "call": "1",
+    "part": "(13486200)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,RH-LHD (NLS.- USE YR003893YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1864,
+        "y": 1096
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13486201)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,LH-RHD (NLS.- USE YR003892YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13404442)",
+    "desc": "KNOB,SEAT RECLINER,BLACK (NLS.- USE YR003824YX)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1971,
+        "y": 1153
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13470480)",
+    "desc": "WHEEL,HAND,MECHANISM (NLS.- USE YR003822YX)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2057,
+        "y": 1176
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13470481)",
+    "desc": "COVER,BLACK (NLS.- USE YR003825YX)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2131,
+        "y": 1221
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13442492",
+    "desc": "BRACKET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1323,
+        "y": 1215
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13486206)",
+    "desc": "COVER,ADJUSTER MECHANISM,INNER,BLACK,RH SEAT (NLS.- USE YR003899YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 474,
+        "y": 502
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13486205)",
+    "desc": "COVER,ADJUSTER MECHANISM,INNER,BLACK,LH SEAT (NLS.- USE YR003898YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13404440",
+    "desc": "COVER,OUTER GUIDE RAIL,RH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1537,
+        "y": 1850
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39140173",
+    "desc": "COVER,OUTER GUIDE RAIL,RH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39140173",
+    "desc": "COVER,OUTER GUIDE RAIL,RH",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13443784",
+    "desc": "COVER,OUTER GUIDE RAIL,LH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39140172",
+    "desc": "COVER,OUTER GUIDE RAIL,LH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39140172",
+    "desc": "COVER,OUTER GUIDE RAIL,LH",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(23219472)",
+    "desc": "HANDLE,ASSY.,SEAT ADJUSTMENT,RH,BLACK (NLS.- USE 23505230)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 37,
+        "y": 1218
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(23505230)",
+    "desc": "HANDLE,ASSY.,SEAT ADJUSTMENT,RH,BLACK (NLS.- USE YR003811YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(23219473)",
+    "desc": "HANDLE,ASSY.,SEAT ADJUSTMENT,LH,BLACK (NLS.- USE 23505231)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(23505231)",
+    "desc": "HANDLE,ASSY.,SEAT ADJUSTMENT,LH,BLACK (NLS.- USE YR003810YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13292253",
+    "desc": "SCREW,HANDLE,M6 X 10",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 263,
+        "y": 1500
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13383906)",
+    "desc": "SCREW,TORX (NLS.- USE YR00069880)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 578,
+        "y": 879
+      },
+      {
+        "x": 129,
+        "y": 755
+      },
+      {
+        "x": 1252,
+        "y": 1678
+      },
+      {
+        "x": 1136,
+        "y": 1978
+      },
+      {
+        "x": 1406,
+        "y": 1251
+      },
+      {
+        "x": 1887,
+        "y": 1470
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13513145",
+    "desc": "COVER,FINISHER,SEAT ADJUSTERS",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 536,
+        "y": 1681
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

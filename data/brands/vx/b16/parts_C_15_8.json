@@ -1,0 +1,647 @@
+[
+  {
+    "call": "1",
+    "part": "(13593599)",
+    "desc": "RAIL,GUIDE,LH-LHD (NLS.- USE 13508310)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1378,
+        "y": 2238
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13508310)",
+    "desc": "RAIL,GUIDE,LH-LHD (NLS.- USE 13513082)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13513082",
+    "desc": "RAIL,GUIDE,LH-LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13593600)",
+    "desc": "RAIL,GUIDE,RH-RHD (NLS.- USE 13508311)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13508311)",
+    "desc": "RAIL,GUIDE,RH-RHD (NLS.- USE 13513083)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13513083",
+    "desc": "RAIL,GUIDE,RH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-BRACKET (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 307,
+        "y": 1289
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-SCREW (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 350,
+        "y": 883
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-CLAMP (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 322,
+        "y": 1508
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "",
+    "desc": "-RETAINER (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1021,
+        "y": 1420
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "",
+    "desc": "-SCREW (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 673,
+        "y": 1686
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "-BUSH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 829,
+        "y": 1560
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "-SPRING,SEAT (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1647,
+        "y": 1658
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "-BUSH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1858,
+        "y": 1713
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "",
+    "desc": "-ACTUATOR,VERTICAL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1324,
+        "y": 1942
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-BRACKET,RH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1192,
+        "y": 1392
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-BRACKET,LH (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "",
+    "desc": "-NUT (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 966,
+        "y": 1374
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "",
+    "desc": "-SCREW (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 664,
+        "y": 2424
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13589192)",
+    "desc": "-ACTUATOR,LH,TILT (NLS.- USE 13513123)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 472,
+        "y": 1847
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13589193)",
+    "desc": "-ACTUATOR,RH,TILT (NLS.- USE 13513124)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15X",
+    "part": "13343675",
+    "desc": "-REPAIR KIT",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 334,
+        "y": 1811
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "",
+    "desc": "-SCREW (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 969,
+        "y": 1936
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13597852)",
+    "desc": "-ACTUATOR,FORWARD/BACKWARD MOVEMENT (NLS.- USE 13520199)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 447,
+        "y": 2452
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13520199",
+    "desc": "-ACTUATOR,FORWARD/BACKWARD MOVEMENT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13584203)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,LH-LHD (NLS.- USE 13508822)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1897,
+        "y": 458
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13508822",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,LH-LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13511856)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,LH-LHD (NLS.- USE 13513168)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13584203)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,RH-RHD (NLS.- USE 13508822)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13508822",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,RH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13511856)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,RH-RHD (NLS.- USE 13513168)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "13595014",
+    "desc": "-ACTUATOR,SEAT RECLINER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1586,
+        "y": 522
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13513203",
+    "desc": "-SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1855,
+        "y": 861
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "",
+    "desc": "-SHAFT (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1968,
+        "y": 1002
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(13383814)",
+    "desc": "MAT,WIRE,CUSHION PAD (NLS.- USE YQ00318880)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 862,
+        "y": 971
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(13510008)",
+    "desc": "MAT,WIRE,BACK PAD (NLS.- USE 13510540)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 740,
+        "y": 348
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(13510540)",
+    "desc": "MAT,WIRE,BACK PAD (NLS.- USE 13516004)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(13516004)",
+    "desc": "MAT,WIRE,BACK PAD (NLS.- USE YQ00568080)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(13272975)",
+    "desc": "SCREW,TORX,FRAME (NLS.- USE YQ00567780)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1733,
+        "y": 1341
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "(11547008)",
+    "desc": "SCREW,TORX,RAIL,GUIDE (NLS.- USE YR00162680)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 72,
+        "y": 2030
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "13176314",
+    "desc": "CLAMP,BACK PAD (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVU/AVK)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 145,
+        "y": 333
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "13129725",
+    "desc": "NUT,OUTER",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1696,
+        "y": 2391
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(42686569)",
+    "desc": "DAMPER,VIBRATION (FOR AUTOMATIC TRANSMISSION,RPO MHG/MI7/MRG) (NLS.- USE YR00169880)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2148,
+        "y": 220
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "(42642061)",
+    "desc": "NUT,DAMPER (FOR AUTOMATIC TRANSMISSION,RPO MHG/MI7/MRG) (NLS.- USE YR00169980)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1769,
+        "y": 74
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "(39226995)",
+    "desc": "INSULATION,FRAME (FOR AUTOMATIC TRANSMISSION,RPO MHG/MI7/MRG) (NLS.- USE YR00178080)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1968,
+        "y": 666
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

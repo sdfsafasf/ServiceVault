@@ -1,0 +1,57 @@
+[
+  {
+    "call": "33",
+    "part": "(39157660)",
+    "desc": "LAMP,ASSY.,FRONT FOG,RH (NLS.- USE 39217864)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "(39157659)",
+    "desc": "LAMP,ASSY.,FRONT FOG,LH (NLS.- USE 39217863)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "",
+    "desc": "-BULB,FOG LAMP (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "35",
+    "part": "(11548270)",
+    "desc": "SCREW,TORX (NLS.- USE YQ00155780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "(11516397)",
+    "desc": "NUT,SPRING (NLS.- USE 95530322)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

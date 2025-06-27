@@ -1,0 +1,54 @@
+[
+  {
+    "code": "1",
+    "name": "REAR AXLE (FOR TORSION BEAM REAR AXLE WITHOUT WATT LINKAGE,RPO GNF)"
+  },
+  {
+    "code": "2",
+    "name": "REAR AXLE (FOR TORSION BEAM REAR AXLE WITH WATT LINKAGE,RPO GNG)"
+  },
+  {
+    "code": "3",
+    "name": "REAR HUB"
+  },
+  {
+    "code": "4",
+    "name": "REAR SHOCK ABSORBERS (5 DOOR HATCH 68 (-K8999999,-KG999999))"
+  },
+  {
+    "code": "5",
+    "name": "REAR SHOCK ABSORBERS (5 DOOR HATCH 68 (L8000001-,LG000001-))"
+  },
+  {
+    "code": "6",
+    "name": "REAR SHOCK ABSORBERS (ESTATE 35 (-K8999999,-KG999999))"
+  },
+  {
+    "code": "7",
+    "name": "REAR SHOCK ABSORBERS (ESTATE 35 (L8000001-,LG000001-))"
+  },
+  {
+    "code": "8",
+    "name": "REAR SHOCK ABSORBERS (FIXINGS AND FITTINGS)"
+  },
+  {
+    "code": "9",
+    "name": "REAR SPRINGS (5 DOOR HATCH 68 (-K8999999,-KG999999))"
+  },
+  {
+    "code": "10",
+    "name": "REAR SPRINGS (5 DOOR HATCH 68 (L8000001-,LG000001-))"
+  },
+  {
+    "code": "11",
+    "name": "REAR SPRINGS (ESTATE 35 (-K8999999,-KG999999))"
+  },
+  {
+    "code": "12",
+    "name": "REAR SPRINGS (ESTATE 35 (L8000001-,LG000001-))"
+  },
+  {
+    "code": "13",
+    "name": "REAR SPRINGS (FIXINGS AND FITTINGS)"
+  }
+]

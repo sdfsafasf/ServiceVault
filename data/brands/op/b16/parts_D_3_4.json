@@ -1,0 +1,462 @@
+[
+  {
+    "call": "6",
+    "part": "(39027061)",
+    "desc": "TRIM,ASSY.,REAR QUARTER,RH,BLACK (EXCEPT SPARE WHEEL) (NLS.- USE 39042960)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8099851\n(C)      -GG104249",
+    "positions": [
+      {
+        "x": 1241,
+        "y": 346
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39042960",
+    "desc": "TRIM,ASSY.,REAR QUARTER,RH,BLACK (EXCEPT SPARE WHEEL) (FOR B10 FUEL,RPO FHY) (FOR E10 FUEL,RPO FHO)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8099852-\n(C)  GG104250-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39042960",
+    "desc": "TRIM,ASSY.,REAR QUARTER,RH,BLACK (FOR RPO BF5,EXTENDED CARGO FLOOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8099852-\n(C)  GG104250-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39027060",
+    "desc": "TRIM,ASSY.,REAR QUARTER,LH,BLACK (EXCEPT SPARE WHEEL) (FOR B10 FUEL,RPO FHY) (FOR E10 FUEL,RPO FHO)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39027060",
+    "desc": "TRIM,ASSY.,REAR QUARTER,LH,BLACK (FOR RPO BF5,EXTENDED CARGO FLOOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39027063)",
+    "desc": "TRIM,ASSY.,REAR QUARTER,RH,BLACK (FOR VEHICLES WITH SPARE WHEEL,RPO SJQ) (NLS.- USE 39042961)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8104313\n(C)      -GG104394",
+    "positions": [
+      {
+        "x": 1558,
+        "y": 355
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39042961)",
+    "desc": "TRIM,ASSY.,REAR QUARTER,RH,BLACK (FOR VEHICLES WITH SPARE WHEEL,RPO SJQ) (FOR E10 FUEL,RPO FHO) (FOR B10 FUEL,RPO FHY) (NLS.- USE 39118058)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8104314-\n(C)  GG104395-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39042961)",
+    "desc": "TRIM,ASSY.,REAR QUARTER,RH,BLACK (FOR DUAL FUEL CNG,RPO FHV) (NLS.- USE 39118058)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39118058",
+    "desc": "TRIM,ASSY.,REAR QUARTER,RH,BLACK (FOR BOSE AUDIO SYSTEM,RPO UQA)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39027062)",
+    "desc": "TRIM,ASSY.,REAR QUARTER,LH,BLACK (FOR E10 FUEL,RPO FHO) (FOR B10 FUEL,RPO FHY) (FOR VEHICLES WITH SPARE WHEEL,RPO SJQ) (NLS.- USE 39118056)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39027062)",
+    "desc": "TRIM,ASSY.,REAR QUARTER,LH,BLACK (FOR DUAL FUEL CNG,RPO FHV) (NLS.- USE 39118056)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39146396",
+    "desc": "TRIM,ASSY.,REAR QUARTER,LH,BLACK,FOR BOSE AUDIO SYSTEM,RPO UQA",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13484447)",
+    "desc": "-COVER,ACCESS,RH,BLACK (NLS.- USE 39042962)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 731,
+        "y": 1416
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39042962",
+    "desc": "-COVER,ACCESS,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13484448",
+    "desc": "-COVER,ACCESS,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(24405740)",
+    "desc": "-CLIP (NLS.- USE YQ00149080)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1355,
+        "y": 919
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13417657)",
+    "desc": "COVER,ASSY.,LOAD COMPARTMENT,BLACK (NLS.- USE 39027917)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 591,
+        "y": 83
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39027917)",
+    "desc": "COVER,ASSY.,LOAD COMPARTMENT,BLACK (NLS.- USE 39047416)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "-STRAP (NOT SERVICED SEPARATELY)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 728,
+        "y": 118
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13411764)",
+    "desc": "-BUMPER (NLS.- USE 39047380)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 506,
+        "y": 181
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39047380",
+    "desc": "-BUMPER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "",
+    "desc": "RETAINER,STRAP (PLEASE REFER TO GROUP D) (DOOR TRIM) (TAIL GATE TRIM) (SHORTCUT: B16.D60)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1048,
+        "y": 152
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13417656)",
+    "desc": "TRIM,REAR END,BLACK (EXCEPT RPO FHV,DUAL FUEL CNG) (NLS.- USE 39031930)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 372,
+        "y": 1559
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(39031930)",
+    "desc": "TRIM,REAR END,BLACK (EXCEPT RPO FHV,DUAL FUEL CNG) (NLS.- USE 39054683)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39054683",
+    "desc": "TRIM,REAR END,BLACK (EXCEPT RPO FHV,DUAL FUEL CNG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39076881",
+    "desc": "TRIM,REAR END,BLACK (FOR DUAL FUEL CNG,RPO FHV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 223,
+        "y": 1790
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "39146398",
+    "desc": "TRIM,REAR END,BLACK (FOR BOSE AUDIO SYSTEM,RPO UQA)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [
+      {
+        "x": 52,
+        "y": 1299
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(24405740)",
+    "desc": "-CLIP (NLS.- USE YQ00149080)",
+    "qty": "7",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 55,
+        "y": 1141
+      },
+      {
+        "x": 122,
+        "y": 1942
+      },
+      {
+        "x": 325,
+        "y": 1692
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13439232",
+    "desc": "COVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 306,
+        "y": 1936
+      },
+      {
+        "x": 756,
+        "y": 1549
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39126141",
+    "desc": "SUPPORT,LOAD FLOOR,LH",
+    "qty": "1",
+    "usage": "B14XNT[LFE]",
+    "range": "",
+    "positions": [
+      {
+        "x": 1146,
+        "y": 2455
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39126142",
+    "desc": "SUPPORT,LOAD FLOOR,RH",
+    "qty": "1",
+    "usage": "B14XNT[LFE]",
+    "range": "",
+    "positions": [
+      {
+        "x": 797,
+        "y": 2303
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39114124",
+    "desc": "SUPPORT (FOR BOSE AUDIO SYSTEM,RPO UQA)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [
+      {
+        "x": 2056,
+        "y": 1933
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39129258",
+    "desc": "SUPPORT (FOR BOSE AUDIO SYSTEM,RPO UQA)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [
+      {
+        "x": 1840,
+        "y": 1838
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

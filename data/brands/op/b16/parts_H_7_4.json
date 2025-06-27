@@ -1,0 +1,46 @@
+[
+  {
+    "call": "5",
+    "part": "24226020",
+    "desc": "PLUG,SCREW,TORQUE CONVERTER CASE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11515758",
+    "desc": "SCREW,HEX.HD.,M8 X 30",
+    "qty": "14",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "19258415",
+    "desc": "SEAL,DRIVE SHAFT,RH,WITH INSTALLATION TOOL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "24267848",
+    "desc": "GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

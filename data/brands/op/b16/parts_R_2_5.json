@@ -1,0 +1,123 @@
+[
+  {
+    "call": "1",
+    "part": "9255448",
+    "desc": "SENDER,RADIO CONTROL,T100 HTM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "9271719",
+    "desc": "BATTERY,REMOTE CONTROL,6V",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "9255447",
+    "desc": "RECEIVER,REMOTE CONTROL,T100 HTM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "9271717",
+    "desc": "AERIAL,RECEIVER,T100 HTM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "9271718",
+    "desc": "SENSOR,AIR TEMPERATURE,INSIDE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "9268333",
+    "desc": "CONTROL MODULE,PARKING HEATER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "9268211",
+    "desc": "BRACKET,RECEIVER,REMOTE CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "9268208",
+    "desc": "BRACKET,FUSE BOX",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "9268209",
+    "desc": "HARNESS,ASSY.,EXTENSION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "9268210",
+    "desc": "HARNESS,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "9271688",
+    "desc": "SWITCH,ASSY.,PARKING HEATER,WITH HARNESS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

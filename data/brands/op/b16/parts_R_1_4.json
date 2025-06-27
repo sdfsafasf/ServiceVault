@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "39015047",
+    "desc": "COVER,TANK MODULE,CNG,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39131538)",
+    "desc": "COVER,TANK MODULE,CNG,REAR (NLS.- USE 39152904)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11546440",
+    "desc": "NUT,COVER",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24427164",
+    "desc": "NUT,CLIP,COVER",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "24430143",
+    "desc": "NUT,INSERT,BRACKET,COVER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11519388)",
+    "desc": "SCREW,M8 X 30,COVER (NLS.- USE YR00712980)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13180512",
+    "desc": "RETAINER,COVER",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

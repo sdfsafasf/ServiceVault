@@ -1,0 +1,57 @@
+[
+  {
+    "call": "26",
+    "part": "(55495105)",
+    "desc": "FILTER,ASSY.,OIL (NLS.- USE 95530084)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "1694142580",
+    "desc": "FILTER,ASSY.,OIL (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "55495106",
+    "desc": "VALVE,OIL FILTER BYPASS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "12704459",
+    "desc": "COOLER,ASSY.,OIL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "11548165",
+    "desc": "SCREW,HEX.HD.,M5 X 20",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

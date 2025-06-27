@@ -1,0 +1,226 @@
+[
+  {
+    "call": "5X",
+    "part": "93165025",
+    "desc": "KIT,ADHESIVE,310ML (IDENT GL01)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 431,
+        "y": 65
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39029054)",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (EXCEPT DAB RADIO SYSTEM) (NLS.- USE 39084551)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1636,
+        "y": 725
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39084551",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (EXCEPT DAB RADIO SYSTEM)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13420988)",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39029055)",
+    "usage": "",
+    "range": "(C)      -G8011614\n(C)      -GG003593",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39029055)",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39084552)",
+    "usage": "",
+    "range": "(C)  G8011615-\n(C)  GG003594-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39084552",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q)",
+    "usage": "",
+    "range": "(C)  G8011615-\n(C)  GG003594-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13420988)",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (NLS.- USE 39029055)",
+    "usage": "",
+    "range": "(C)      -G8011614\n(C)      -GG003593",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39029055)",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (NLS.- USE 39084552)",
+    "usage": "",
+    "range": "(C)  G8011615-\n(C)  GG003594-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39084552",
+    "desc": "GLASS,TAILGATE,STANDARD TINT (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3)",
+    "usage": "",
+    "range": "(C)  G8011615-\n(C)  GG003594-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13420989)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (EXCEPT DAB RADIO SYSTEM) (NLS.- USE 39029056)",
+    "usage": "",
+    "range": "(C)      -G8015988\n(C)      -GG010148",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39029056)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (EXCEPT DAB RADIO SYSTEM) (NLS.- USE 39084553)",
+    "usage": "",
+    "range": "(C)  G8015989-\n(C)  GG010149-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39084553",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (EXCEPT DAB RADIO SYSTEM)",
+    "usage": "",
+    "range": "(C)  G8015989-\n(C)  GG010149-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13420990)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39029057)",
+    "usage": "",
+    "range": "(C)      -G8011373\n(C)      -GG005694",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39029057)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39084554)",
+    "usage": "",
+    "range": "(C)  G8011374-\n(C)  GG005695-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39084554",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q)",
+    "usage": "",
+    "range": "(C)  G8011374-\n(C)  GG005695-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13420990)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (NLS.- USE 39029057)",
+    "usage": "",
+    "range": "(C)      -G8011373\n(C)      -GG005694",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39029057)",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (NLS.- USE 39084554)",
+    "usage": "",
+    "range": "(C)  G8011374-\n(C)  GG005695-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39084554",
+    "desc": "GLASS,TAILGATE,PRIVACY TINT [RPO AKO] (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3)",
+    "usage": "",
+    "range": "(C)  G8011374-\n(C)  GG005695-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(90588171)",
+    "desc": "STOP,SELF ADHESIVE (NLS.- USE YR00580180)",
+    "usage": "",
+    "range": "",
+    "qty": "5",
+    "positions": [
+      {
+        "x": 1231,
+        "y": 588
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

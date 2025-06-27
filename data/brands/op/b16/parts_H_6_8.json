@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "24274783",
+    "desc": "PUMP,ASSY.,OIL (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "24289056",
+    "desc": "PUMP,ASSY.,OIL (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24265320)",
+    "desc": "PUMP,ASSY.,OIL (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 24283150)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24283150)",
+    "desc": "PUMP,ASSY.,OIL (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 24287535)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24287535)",
+    "desc": "PUMP,ASSY.,OIL (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 24289058)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24289058",
+    "desc": "PUMP,ASSY.,OIL (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24230707",
+    "desc": "SCREW,HEX.HD.,M8 X 33",
+    "qty": "7",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24262090",
+    "desc": "SEAL,HOUSING,72 MM ID.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "24262272",
+    "desc": "SEAL,SHAFT,41 MM OD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(24263302)",
+    "desc": "FILTER (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU/MQK) (NLS.- USE 24041506)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "24041506",
+    "desc": "FILTER (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU/MQK)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "24274649",
+    "desc": "FILTER (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "24262300",
+    "desc": "SEAL,FILTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "call": "1",
+    "part": "(13489639)",
+    "desc": "AIR CLEANER,ASSY. (NLS.- USE 39030322)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39030322",
+    "desc": "AIR CLEANER,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1689023780",
+    "desc": "AIR CLEANER,ASSY. (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13489640)",
+    "desc": "-ELEMENT,AIR CLEANER (NLS.- USE 39030321)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39030321",
+    "desc": "-ELEMENT,AIR CLEANER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "1689023780",
+    "desc": "-ELEMENT,AIR CLEANER (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "9129705",
+    "desc": "-BUMPER",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13465202",
+    "desc": "-SCREW",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13367300",
+    "desc": "HOSE,DRAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8093998\n(C)      -GG166800",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39030826",
+    "desc": "HOSE,DRAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8093999-\n(C)  GG166801-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13367310",
+    "desc": "DUCT,AIR INTAKE,REAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13367314",
+    "desc": "DUCT,AIR INTAKE,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13412837)",
+    "desc": "RIVET,EXPANDING (NLS.- USE YR00268780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13367285",
+    "desc": "DUCT,AIR OUTLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "24415473",
+    "desc": "-CLAMP,82-92MM,HOSE TO AIRFLOW METER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55353733",
+    "desc": "-CLAMP,50-70MM,AIR OUTLET DUCT,AIR CLEANER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "call": "1",
+    "part": "(55487874)",
+    "desc": "HOUSING,EGR COOLER (NLS.- USE 55492788)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55492788)",
+    "desc": "HOUSING,EGR COOLER (NLS.- USE 55501178, 55493268)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55501178)",
+    "desc": "HOUSING,EGR COOLER (NLS.- USE 55503429)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11588725",
+    "desc": "-SCREW,HEX.HD.,M8 X 35",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588733)",
+    "desc": "-SCREW,HEX.HD.,M8 X 80 (NLS.- USE YR00190780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55571661",
+    "desc": "-HOSE,VACUUM,VALVE,EXHAUST GAS RECIRCULATION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55574896",
+    "desc": "-VALVE,VACUUM REGULATOR,EXHAUST GAS RECIRCULATION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55574010)",
+    "desc": "-GASKET,EGR VALVE (NLS.- USE 55497054)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55497054",
+    "desc": "-GASKET,EGR VALVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11096061",
+    "desc": "-SCREW,VACUUM CONTROL VALVE,M6 X 18",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11588716",
+    "desc": "SCREW,VALVE,M6 X 40",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(55570005)",
+    "desc": "VALVE,ASSY.,EXHAUST GAS RECIRCULATION (EXCHANGE - REMAN PART 95530760) (NLS.- USE 1686754480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "95530760",
+    "desc": "VALVE,ASSY.,EXHAUST GAS RECIRCULATION,EXCHANGE - REMAN (CORE RETURN NO. 95524446)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55574012",
+    "desc": "PIPE,WATER,EGR COOLER,OUTLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55575360",
+    "desc": "-GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11588713",
+    "desc": "-SCREW,HEX.HD.,M6 X 25",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11588713",
+    "desc": "SCREW,HEX.HD.,M6 X 25",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55577389",
+    "desc": "GASKET,EGR VALVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55583122",
+    "desc": "SEAL,EGR COOLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11588712)",
+    "desc": "SCREW,HEX.HD.,M6 X 20 (NLS.- USE YR00052080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11588712)",
+    "desc": "SCREW,HEX.HD.,M6 X 20 (NLS.- USE YR00052080)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

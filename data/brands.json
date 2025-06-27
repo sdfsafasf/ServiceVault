@@ -1,0 +1,15 @@
+[
+  {
+    "code": "VX",
+    "name": "Vauxhall",
+    "logo": "https://upload.wikimedia.org/wikipedia/sco/1/18/Vauxhall_logo_2019.svg"
+  },
+    {
+    "code": "OP",
+    "name": "Opel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Opel_logo_2023.svg",
+        "invertInDark": true 
+  }
+
+  
+]

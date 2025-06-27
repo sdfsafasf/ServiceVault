@@ -1,0 +1,35 @@
+[
+  {
+    "call": "23",
+    "part": "(12639146)",
+    "desc": "ROD,OIL LEVEL INDICATOR (NLS.- USE 12671008)",
+    "qty": "1",
+    "usage": "(E)      -20 B1191509HA9X0505",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "12696720",
+    "desc": "ROD,OIL LEVEL INDICATOR",
+    "qty": "1",
+    "usage": "(E)  20 B1191509HA9X0506-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "24504031",
+    "desc": "-'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

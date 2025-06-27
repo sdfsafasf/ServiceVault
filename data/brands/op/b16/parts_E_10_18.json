@@ -1,0 +1,35 @@
+[
+  {
+    "call": "2",
+    "part": "(55498669)",
+    "desc": "ENGINE,ASSY.,STRIPPED (EMISSION CODE NE4) (NLS.- NO REPLACEMENT PART) (IDENT HVK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55502504)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR M35 MANUAL TRANSMISSION,RPO MOP) (EMISSION CODE NCV) (NLS.- NO REPLACEMENT PART) (IDENT CP4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55512495)",
+    "desc": "ENGINE,ASSY.,STRIPPED (FOR M35 MANUAL TRANSMISSION,RPO MOP) (EMISSION CODE NCV) (NLS.- NO REPLACEMENT PART) (IDENT L9C)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

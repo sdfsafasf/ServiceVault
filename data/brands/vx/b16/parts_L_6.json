@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "(39005380)",
+    "desc": "WHEEL,STEERING,PLASTIC GRIP (EXCEPT RPO UC3,RADIO AND PHONE CONTROLS IN STEERING WHEEL) (NLS.- USE 39070462)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39070462",
+    "desc": "WHEEL,STEERING,PLASTIC GRIP (EXCEPT RPO UC3,RADIO AND PHONE CONTROLS IN STEERING WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39066446",
+    "desc": "WHEEL,STEERING,PLASTIC GRIP (EXCEPT RPO UC3,RADIO AND PHONE CONTROLS IN STEERING WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39005382)",
+    "desc": "WHEEL,STEERING,PLASTIC GRIP (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3) (NLS.- USE 39070463)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39070463",
+    "desc": "WHEEL,STEERING,PLASTIC GRIP (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39108893",
+    "desc": "WHEEL,STEERING,PLASTIC GRIP (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13469057)",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (EXCEPT RPO UC3,RADIO AND PHONE CONTROLS IN STEERING WHEEL) (NLS.- USE 39070033)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39070033",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (EXCEPT RPO UC3,RADIO AND PHONE CONTROLS IN STEERING WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39046501",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (EXCEPT RPO UC3,RADIO AND PHONE CONTROLS IN STEERING WHEEL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13469058)",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3) (NLS.- USE 39070034)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39070034",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39098441",
+    "desc": "-HARNESS,ASSY.,HORN CONTACT (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13439141",
+    "desc": "-COVER,UPPER,RH (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13439142",
+    "desc": "-COVER,UPPER,LH (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13470315",
+    "desc": "-SWITCH,RADIO AND TELEPHONE OPERATION,STEERING WHEEL (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13470319",
+    "desc": "-SWITCH,CRUISE CONTROL (FOR RADIO AND PHONE CONTROLS IN STEERING WHEEL,RPO UC3)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11610164)",
+    "desc": "SCREW,TORX,M15 X 20 (SINGLE USE PART) (NLS.- USE YR00102280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

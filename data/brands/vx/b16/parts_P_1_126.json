@@ -1,0 +1,35 @@
+[
+  {
+    "call": "5",
+    "part": "(55505514)",
+    "desc": "SENSOR,AIR TEMPERATURE AND CHARGE AIR PRESSURE (NLS.- USE 24000470)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "",
+    "desc": "-SEAL (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11548165",
+    "desc": "SCREW,HEX.HD.,M5 X 20",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "call": "17",
+    "part": "55490361",
+    "desc": "INJECTOR,ASSY.,FUEL (EXCHANGE - REMAN PART 95529874)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(95529874)",
+    "desc": "INJECTOR,ASSY.,FUEL,EXCHANGE - REMAN (CORE RETURN NO. 95524226) (NLS - NO REPLACEMENT PART)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(12686813)",
+    "desc": "-'O'RING (NLS.- USE 12647790)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55590468",
+    "desc": "-WASHER,13.7MM DIA. X 2",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "55490570",
+    "desc": "BRACKET",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "55486396",
+    "desc": "SCREW,HEX.HD.,M8 X 78",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

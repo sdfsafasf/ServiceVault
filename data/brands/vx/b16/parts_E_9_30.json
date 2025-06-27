@@ -1,0 +1,24 @@
+[
+  {
+    "call": "32",
+    "part": "(55569932)",
+    "desc": "-ARM,ROCKER (USE IN CONJUNCTION WITH 55499177 AND 55570028) (NLS.- USE 55186463 6 40 259)",
+    "qty": "16",
+    "usage": "(E)      -20 A2180128JCBX0356",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55501414",
+    "desc": "-ARM,ROCKER",
+    "qty": "16",
+    "usage": "(E)  20 A2180128JCBX0357-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

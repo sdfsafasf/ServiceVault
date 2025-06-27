@@ -1,0 +1,120 @@
+[
+  {
+    "call": "1X",
+    "part": "(39026457)",
+    "desc": "SET,FLOOR MAT,RUBBER,LHD (NLS.- USE 39059613)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1107,
+        "y": 155
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "39059613",
+    "desc": "SET,FLOOR MAT,RUBBER,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "(39026458)",
+    "desc": "SET,FLOOR MAT,RUBBER,RHD (NLS.- USE 39059614)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "39059614",
+    "desc": "SET,FLOOR MAT,RUBBER,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "(39026455)",
+    "desc": "SET,CARPET MAT,VELOUR,BLACK,LHD (NLS.- USE 39056505)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1123,
+        "y": 1376
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "39056505",
+    "desc": "SET,CARPET MAT,VELOUR,BLACK,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "39228693",
+    "desc": "SET,CARPET MAT,VELOUR,BLACK/GREY,LHD (FOR SALES PACKAGE \"2020\",RPO BO7)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "39026456",
+    "desc": "SET,CARPET MAT,VELOUR,BLACK,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "13299372",
+    "desc": "-KIT,FASTENER,BLACK",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1015,
+        "y": 1969
+      },
+      {
+        "x": 1009,
+        "y": 723
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

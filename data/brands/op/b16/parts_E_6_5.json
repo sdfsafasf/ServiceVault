@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "12681587",
+    "desc": "DEFLECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11547674",
+    "desc": "SCREW,HEX.HD.,M10 X 92",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "COMPOUND,SEALING (AWAITING TECHNICAL RELEASE)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

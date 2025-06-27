@@ -1,0 +1,46 @@
+[
+  {
+    "call": "12",
+    "part": "(13301682)",
+    "desc": "METER,ASSY.,AIRFLOW,AIR CLEANER (EMISSION CODE NE4) (NLS.- USE 12671616)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "12671616",
+    "desc": "METER,ASSY.,AIRFLOW,AIR CLEANER (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55496973",
+    "desc": "METER,ASSY.,AIRFLOW,AIR CLEANER (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13465201",
+    "desc": "SCREW",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

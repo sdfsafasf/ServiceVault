@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manual Section Adder - ServiceVault</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+        :root { --bg-color: #121212; --card-color: #1e1e1e; --font-color: #e0e0e0; --font-color-muted: #888888; --primary-accent: #007BFF; --success-color: #198754; --border-color: #333333; }
+        body.light-mode { --bg-color: #f4f4f9; --card-color: #ffffff; --font-color: #121212; --font-color-muted: #6c757d; --border-color: #dee2e6; }
+        body { margin: 0; font-family: 'Poppins', sans-serif; background-color: var(--bg-color); color: var(--font-color); }
+        main { padding: 2rem 5%; max-width: 900px; margin: 0 auto; }
+        h1, h2 { text-align: center; }
+        h1 { font-size: 2.5rem; }
+        h2 { font-size: 1.5rem; color: var(--font-color-muted); margin-top: -1rem; margin-bottom: 2rem; font-weight: 400; }
+        .grid-container { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: start; }
+        .form-group { margin-bottom: 1.5rem; }
+        label { display: block; font-weight: 600; margin-bottom: 0.5rem; }
+        input[type="text"], textarea { width: 100%; padding: 0.8rem; font-size: 1rem; background-color: var(--card-color); border: 1px solid var(--border-color); border-radius: 8px; color: var(--font-color); box-sizing: border-box; }
+        textarea { height: 250px; font-family: monospace; resize: vertical; }
+        #html-input { height: 350px; }
+        .btn { padding: 0.75rem 1.5rem; font-size: 1rem; font-weight: 600; border: none; border-radius: 8px; cursor: pointer; width: 100%; }
+        .btn-primary { background-color: var(--primary-accent); color: white; }
+        .btn-success { background-color: var(--success-color); color: white; }
+        #editor-container { display: none; }
+        #action-buttons { display: none; margin-top: 1rem; }
+        #action-btn.upload-mode { background-color: var(--success-color); }
+        #action-btn:disabled { background-color: #555; cursor: not-allowed; }
+        #response-message { margin-top: 1.5rem; padding: 1rem; border-radius: 8px; text-align: center; font-weight: 600; display: none; }
+        #response-message.success { background-color: var(--success-color); color: white; }
+        #response-message.error { background-color: #dc3545; color: white; }
+        @media (max-width: 1000px) { .grid-container { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Manual Section Adder</h1>
+        <h2>Load a manual, paste new HTML, and generate updated JSON files.</h2>
+        
+        <div id="loader-container" class="form-group" style="display:flex; gap: 1rem; align-items: flex-end; border-bottom: 1px solid var(--border-color); padding-bottom: 2rem; margin-bottom: 2rem;">
+            <div style="flex-grow:1;"><label for="brand-code-input">Brand Code</label><input type="text" id="brand-code-input" placeholder="vx"></div>
+            <div style="flex-grow:1;"><label for="model-code-input">Model Code</label><input type="text" id="model-code-input" placeholder="B16"></div>
+            <button id="load-btn" class="btn btn-primary">Load Existing Manual</button>
+        </div>
+
+        <div id="editor-container">
+            <div class="grid-container">
+                <div class="input-panel">
+                    <div class="form-group">
+                        <label for="manifest-preview">Current Manifest (`manifest.json`)</label>
+                        <textarea id="manifest-preview" readonly></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="html-input">Paste HTML for NEW Section(s) Here</label>
+                        <textarea id="html-input" placeholder="<div class="accordion-item">...</div>"></textarea>
+                    </div>
+                    <button id="generate-btn" class="btn btn-primary">Generate & Preview Changes</button>
+                </div>
+                <div class="output-panel">
+                     <div class="form-group">
+                        <label for="updated-manifest-preview">Updated Manifest Preview</label>
+                        <textarea id="updated-manifest-preview" readonly></textarea>
+                    </div>
+                    <div id="new-section-preview-container">
+                         <p>New section previews will appear here...</p>
+                    </div>
+                </div>
+            </div>
+            <div id="action-buttons">
+                <button id="action-btn" class="btn btn-success">Download All New/Updated Files</button>
+            </div>
+            <input type="file" id="file-uploader" multiple style="display: none;">
+            <div id="response-message"></div>
+        </div>
+    </main>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const loadBtn = document.getElementById('load-btn');
+            const editorContainer = document.getElementById('editor-container');
+            const manifestPreview = document.getElementById('manifest-preview');
+            const updatedManifestPreview = document.getElementById('updated-manifest-preview');
+            const htmlInput = document.getElementById('html-input');
+            const newSectionPreviewContainer = document.getElementById('new-section-preview-container');
+            const generateBtn = document.getElementById('generate-btn');
+            const actionButtons = document.getElementById('action-buttons');
+            const actionBtn = document.getElementById('action-btn');
+            const fileUploader = document.getElementById('file-uploader');
+            const responseMessage = document.getElementById('response-message');
+            
+            let currentManifestData = null;
+            let generatedFiles = [];
+
+            // --- THE NEW, CORRECTED RECURSIVE PARSER ---
+            function parseAccordion(element) {
+                const results = [];
+                // Find accordion items that are direct children of the current element
+                const items = Array.from(element.children).filter(child => child.classList.contains('accordion-item'));
+                
+                items.forEach(item => {
+                    const button = item.querySelector(':scope > .accordion-header > .accordion-button');
+                    if (!button) return;
+
+                    const title = button.textContent.trim();
+                    const body = item.querySelector(':scope > .accordion-collapse > .accordion-body');
+                    const entry = { title: title };
+                    
+                    // Find links that are direct children of paragraphs in the current body
+                    const pdfLinks = Array.from(body.children).filter(p => p.tagName === 'P' && p.querySelector('a'));
+                    // Find a nested accordion that is a direct child of the current body
+                    const nestedAccordion = body.querySelector(':scope > .accordion');
+
+                    if (pdfLinks.length > 0) {
+                        entry.subsections = pdfLinks.map(p => {
+                            const a = p.querySelector('a');
+                            return { title: a.textContent.trim(), url: a.getAttribute('href') || '#' };
+                        });
+                    } else if (nestedAccordion) {
+                        // This is the key: if we find another accordion, we recurse into it
+                        const nestedContent = parseAccordion(nestedAccordion);
+                        if (nestedContent.length > 0) {
+                            entry.nestedSections = nestedContent;
+                        }
+                    }
+                    results.push(entry);
+                });
+                return results;
+            }
+
+            generateBtn.addEventListener('click', () => {
+                const htmlString = htmlInput.value;
+                if (!htmlString) { alert('Please paste HTML for the new section(s).'); return; }
+                if (!currentManifestData) { alert('Please load a manifest first.'); return; }
+
+                generatedFiles = [];
+                newSectionPreviewContainer.innerHTML = '';
+                
+                const tempDiv = document.createElement('div');
+                tempDiv.innerHTML = htmlString;
+                
+                const newManifest = JSON.parse(JSON.stringify(currentManifestData));
+
+                const newSections = tempDiv.querySelectorAll(':scope > .accordion-item');
+                if (newSections.length === 0) { alert('No valid top-level accordion items found in the pasted HTML.'); return; }
+                
+                newSections.forEach(topSectionEl => {
+                    const topSectionButton = topSectionEl.querySelector(':scope > .accordion-header > .accordion-button');
+                    if (!topSectionButton) return;
+                    
+                    const topSectionTitle = topSectionButton.textContent.trim();
+                    const topSectionId = topSectionTitle.toLowerCase().replace(/[^a-z0-9]+/g, '');
+                    
+                    // Add this section to the manifest's table of contents
+                    newManifest.sections.push({ id: topSectionId, name: topSectionTitle });
+                    
+                    const topLevelBody = topSectionEl.querySelector(':scope > .accordion-collapse > .accordion-body');
+                    // Start the recursive parsing from the body of the top-level section
+                    const nestedContent = parseAccordion(topLevelBody);
+                    
+                    const sectionJson = {
+                        sectionTitle: topSectionTitle,
+                        isOpen: true,
+                        nestedSections: nestedContent
+                    };
+                    
+                    const newSectionContentString = JSON.stringify(sectionJson, null, 2);
+                    generatedFiles.push({ name: `${topSectionId}.json`, content: newSectionContentString });
+                    createPreviewCard(`${topSectionId}.json`, newSectionContentString);
+                });
+
+                const newManifestContentString = JSON.stringify(newManifest, null, 2);
+                generatedFiles.push({ name: 'manifest.json', content: newManifestContentString });
+                
+                // Update the preview textarea
+                updatedManifestPreview.value = newManifestContentString;
+                
+                actionButtons.style.display = 'block';
+                resetActionButton();
+            });
+
+            // The rest of the functions are unchanged and correct.
+            loadBtn.addEventListener('click', async () => { const brandCode = document.getElementById('brand-code-input').value.trim().toLowerCase(); const modelCode = document.getElementById('model-code-input').value.trim(); if (!brandCode || !modelCode) { alert('Please enter Brand and Model codes.'); return; } const manifestPath = `../data/brands/${brandCode}/${modelCode}/manual/manifest.json`; try { const response = await fetch(`${manifestPath}?t=${new Date().getTime()}`); if (response.ok) { currentManifestData = await response.json(); } else { currentManifestData = { modelTitle: `Manual for ${modelCode}`, sections: [] }; alert('Manifest not found. A new one will be created.'); } manifestPreview.value = JSON.stringify(currentManifestData, null, 2); resetToGenerateState(); editorContainer.style.display = 'block'; } catch (error) { alert(`Error loading manifest: ${error.message}`); } });
+            function handleDownload() { if(generatedFiles.length === 0) { alert("Nothing to download."); return; } generatedFiles.forEach(file => { downloadFile(file.name, file.content); }); actionBtn.textContent = 'Click to Upload Files You Just Downloaded'; actionBtn.className = 'btn btn-primary'; actionBtn.onclick = () => fileUploader.click(); }
+            fileUploader.addEventListener('change', (event) => { const brandCode = document.getElementById('brand-code-input').value.trim(); const modelCode = document.getElementById('model-code-input').value.trim(); if (!brandCode || !modelCode) { alert('Please ensure Brand and Model codes are filled in before uploading.'); return; } const files = event.target.files; if (files.length === 0) return; const formData = new FormData(); formData.append('brand_code', brandCode); formData.append('model_code', modelCode); for (let i = 0; i < files.length; i++) { formData.append('manual_files[]', files[i]); } actionBtn.disabled = true; actionBtn.textContent = 'Uploading...'; responseMessage.style.display = 'none'; fetch('upload.php', { method: 'POST', body: formData }).then(response => response.json()).then(data => { responseMessage.style.display = 'block'; responseMessage.className = data.success ? 'success' : 'error'; responseMessage.textContent = data.message; }).catch(error => { responseMessage.style.display = 'block'; responseMessage.className = 'error'; responseMessage.textContent = 'A critical network error occurred.'; }).finally(() => { actionBtn.disabled = false; resetToGenerateState(); loadBtn.click(); }); });
+            function createPreviewCard(filename, content) { const card = document.createElement('div'); card.className = 'form-group'; card.innerHTML = `<label>New Section Preview: ${filename}</label><textarea readonly>${content}</textarea>`; newSectionPreviewContainer.appendChild(card); }
+            function downloadFile(filename, content) { const blob = new Blob([content], { type: 'application/json' }); const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = filename; document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(a.href); }
+            function resetToGenerateState() { updatedManifestPreview.value = ''; htmlInput.value = ''; newSectionPreviewContainer.innerHTML = '<p>New section previews will appear here...</p>'; actionButtons.style.display = 'none'; }
+            function resetActionButton() { actionBtn.textContent = 'Download All New/Updated Files'; actionBtn.className = 'btn btn-success'; actionBtn.onclick = handleDownload; }
+        });
+    </script>
+</body>
+</html>

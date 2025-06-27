@@ -1,0 +1,34 @@
+[
+  {
+    "call": "2",
+    "part": "13383367",
+    "desc": "WHEEL,ROAD,6.5J X 16 (IDENT AAT8)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1493,
+        "y": 188
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13383365",
+    "desc": "WHEEL,ROAD,SPACE SAVER,4J X 16 (IDENT AAT6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1534,
+        "y": 1285
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

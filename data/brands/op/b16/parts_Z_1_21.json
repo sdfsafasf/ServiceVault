@@ -1,0 +1,51 @@
+[
+  {
+    "call": "2",
+    "part": "95599006",
+    "desc": "PAINT,TOUCH-UP,LITHIUM WHITE (3 COAT) (PAINT CODE US 800J)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1288,
+        "y": 55
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95599216",
+    "desc": "PAINT,TOUCH-UP,SNOWFLAKE WHITE (3 COAT)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95599715",
+    "desc": "PAINT,TOUCH-UP,ABALONE WHITE (3 COAT)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95599836",
+    "desc": "PAINT,TOUCH-UP,GLORY RED (2 COAT) (PAINT CODE WA-434B)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

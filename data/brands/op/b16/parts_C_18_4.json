@@ -1,0 +1,321 @@
+[
+  {
+    "call": "1",
+    "part": "(39046148)",
+    "desc": "VISOR,SUN,LESS MIRROR,LIGHT TITANIUM,LH (NLS.- USE 39078041)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 453,
+        "y": 1064
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39078041",
+    "desc": "VISOR,SUN,LESS MIRROR,LIGHT TITANIUM,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39046146)",
+    "desc": "VISOR,SUN,WITH NON-ILLUMINATED MIRROR,LIGHT TITANIUM,RH (NLS.- USE 39078040)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 426,
+        "y": 2223
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39078040",
+    "desc": "VISOR,SUN,WITH NON-ILLUMINATED MIRROR,LIGHT TITANIUM,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39046141",
+    "desc": "VISOR,SUN,WITH ILLUMINATED MIRROR,LIGHT TITANIUM,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1393,
+        "y": 1201
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39046142)",
+    "desc": "VISOR,SUN,WITH ILLUMINATED MIRROR,BLACK,LH (NLS.- USE 39112694)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39046137",
+    "desc": "VISOR,SUN,WITH ILLUMINATED MIRROR,LIGHT TITANIUM,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1414,
+        "y": 2308
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39046138)",
+    "desc": "VISOR,SUN,WITH ILLUMINATED MIRROR,BLACK,RH (NLS.- USE 39112692)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11570761",
+    "desc": "-SCREW,TORX,M4.2 X 22",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 908,
+        "y": 2071
+      },
+      {
+        "x": 914,
+        "y": 937
+      },
+      {
+        "x": 2002,
+        "y": 1034
+      },
+      {
+        "x": 1996,
+        "y": 2174
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13501348",
+    "desc": "-LENS",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1760,
+        "y": 533
+      },
+      {
+        "x": 1745,
+        "y": 1631
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13582218",
+    "desc": "RETAINER,SUN VISOR,RH (FOR SUNVISOR WITHOUT ILLUMINATED MIRROR)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 965,
+        "y": 309
+      },
+      {
+        "x": 935,
+        "y": 1413
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13582217",
+    "desc": "RETAINER,SUN VISOR,LH (FOR SUNVISOR WITHOUT ILLUMINATED MIRROR)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13593763)",
+    "desc": "RETAINER,SUN VISOR,RH (FOR SUNVISOR WITH ILLUMINATED MIRROR) (NLS.- USE 13502224 1 93 454)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2036,
+        "y": 303
+      },
+      {
+        "x": 2048,
+        "y": 1434
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13593762)",
+    "desc": "RETAINER,SUN VISOR,LH (FOR SUNVISOR WITH ILLUMINATED MIRROR) (NLS.- USE 13502225 1 93 455)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13511759)",
+    "desc": "RETAINER,SUN VISOR,LH (FOR SUNVISOR WITH ILLUMINATED MIRROR) (NLS.- USE YQ00564880)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "20765441",
+    "desc": "COVER,SCREW,LIGHT TITANIUM (FOR SUNVISOR WITH ILLUMINATED MIRROR)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2036,
+        "y": 1176
+      },
+      {
+        "x": 2017,
+        "y": 2305
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "9059843",
+    "desc": "COVER,SCREW,BLACK (FOR SUNVISOR WITH ILLUMINATED MIRROR)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "95994975",
+    "desc": "SUPPORT,VISOR,LIGHT TITANIUM",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 286,
+        "y": 251
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13375741)",
+    "desc": "SUPPORT,VISOR,BLACK (NLS.- USE YR003692YX)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11569965)",
+    "desc": "RETAINER,SUPPORT,SUN VISOR (NLS.- USE YQ00108080)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 241,
+        "y": 164
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11610271",
+    "desc": "SCREW,TORX,M4.2 X 25,SUPPORT",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 259,
+        "y": 409
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

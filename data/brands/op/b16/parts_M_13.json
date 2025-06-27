@@ -1,0 +1,46 @@
+[
+  {
+    "call": "11",
+    "part": "13369945",
+    "desc": "INSULATOR,REAR SPRING,UPPER",
+    "qty": "",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13369945",
+    "desc": "INSULATOR,REAR SPRING,UPPER",
+    "qty": "",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39200323",
+    "desc": "INSULATOR,REAR SPRING,UPPER (EXCEPT HOLDEN)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13369945",
+    "desc": "INSULATOR,REAR SPRING,LOWER",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "1",
+    "name": "DIFFERENTIAL"
+  },
+  {
+    "code": "2",
+    "name": "OIL COOLER PIPES AND HOSES"
+  },
+  {
+    "code": "3",
+    "name": "TORQUE CONVERTER"
+  },
+  {
+    "code": "4",
+    "name": "TORQUE CONVERTER CASE"
+  },
+  {
+    "code": "5",
+    "name": "TRANSMISSION ASSEMBLY"
+  },
+  {
+    "code": "6",
+    "name": "TRANSMISSION ASSEMBLY FIXINGS"
+  },
+  {
+    "code": "7",
+    "name": "TRANSMISSION CASE AND COVERS"
+  },
+  {
+    "code": "8",
+    "name": "TRANSMISSION FLUID PUMP"
+  },
+  {
+    "code": "9",
+    "name": "VALVE BODY"
+  },
+  {
+    "code": "10",
+    "name": "VENTILATION"
+  }
+]

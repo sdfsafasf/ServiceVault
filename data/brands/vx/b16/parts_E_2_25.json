@@ -1,0 +1,134 @@
+[
+  {
+    "call": "1",
+    "part": "55489417",
+    "desc": "BELT,TIMING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55508998)",
+    "desc": "TENSIONER,TIMING BELT (NLS.- USE 25203697)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11548182",
+    "desc": "SCREW,HEX.HD.,TENSIONER,M8 X 58",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(55486826)",
+    "desc": "PULLEY,IDLER (NLS.- USE 25204526)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55494199",
+    "desc": "SPROCKET,CAMSHAFT,WITH ACTUATOR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55487704",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55595279",
+    "desc": "SOLENOID",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11549342",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55512181",
+    "desc": "SPROCKET,CRANKSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -L8999999\n(C)      -LG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55515805",
+    "desc": "SPROCKET,CRANKSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  M8000001-\n(C)  MG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55512745",
+    "desc": "PULLEY,CRANKSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "25194208",
+    "desc": "SCREW,HEX.HD.,M14 X 91",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

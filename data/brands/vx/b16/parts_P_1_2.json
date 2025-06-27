@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(39154505)",
+    "desc": "ALTERNATOR,ASSY.,130 AMP (EXCHANGE - REMAN PART 95530275) (NLS.- USE 39218019)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95530275)",
+    "desc": "ALTERNATOR,ASSY.,130 AMP,EXCHANGE - REMAN (CORE RETURN NO. 95524437) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39154506)",
+    "desc": "ALTERNATOR,ASSY.,150 AMP (EXCHANGE - REMAN PART 95530274) (NLS.- USE 39218018)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95530274)",
+    "desc": "ALTERNATOR,ASSY.,150 AMP,EXCHANGE - REMAN (CORE RETURN NO. 95524437) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39154507)",
+    "desc": "ALTERNATOR,ASSY.,170AMP (EXCHANGE - REMAN PART 95530273) (NLS.- USE 39218017)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95530273)",
+    "desc": "ALTERNATOR,ASSY.,170AMP,EXCHANGE - REMAN (CORE RETURN NO. 95524437) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11611102",
+    "desc": "SCREW,TORX",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

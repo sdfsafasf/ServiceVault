@@ -1,0 +1,123 @@
+[
+  {
+    "call": "16",
+    "part": "55569902",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER,POSITION 1 (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55497417",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER,POSITION 1 (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55485587",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER,POSITION 2 (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55497417",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER,POSITION 1 (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55506441",
+    "desc": "SENSOR,OXYGEN,HEATED,CATALYTIC CONVERTER,POSITION 2 (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(55486990)",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 1 (EMISSION CODE NCV) (NLS.- USE 55505563)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(55505563)",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 1 (EMISSION CODE NCV) (NLS.- USE 55512100)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(55492272)",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 2 (EMISSION CODE NCV) (FOR M32 MANUAL TRANSMISSION,RPO MGR) (NLS.- USE 55505564)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55505564",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 2 (EMISSION CODE NCV) (FOR M32 MANUAL TRANSMISSION,RPO MGR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(55498165)",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 2 (EMISSION CODE NCV) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (NLS.- USE 55505565)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55505565",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 2 (EMISSION CODE NCV) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

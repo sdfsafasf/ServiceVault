@@ -1,0 +1,58 @@
+[
+  {
+    "code": "1",
+    "name": "AIR CLEANER"
+  },
+  {
+    "code": "2",
+    "name": "AIRFLOW METER"
+  },
+  {
+    "code": "3",
+    "name": "EXHAUST MANIFOLD, CATALYTIC CONVERTER AND FRONT PIPE"
+  },
+  {
+    "code": "4",
+    "name": "EXHAUST PIPE AND SILENCER"
+  },
+  {
+    "code": "5",
+    "name": "FUEL EVAPORATION TANK"
+  },
+  {
+    "code": "6",
+    "name": "FUEL INJECTION DISTRIBUTION (EMISSION CODE NE4)"
+  },
+  {
+    "code": "7",
+    "name": "FUEL INJECTION DISTRIBUTION (EMISSION CODE NCV)"
+  },
+  {
+    "code": "8",
+    "name": "FUEL INJECTION PUMP (EMISSION CODE NE4)"
+  },
+  {
+    "code": "9",
+    "name": "FUEL INJECTION PUMP (EMISSION CODE NCV)"
+  },
+  {
+    "code": "10",
+    "name": "FUEL PIPES AND FITTINGS"
+  },
+  {
+    "code": "11",
+    "name": "INDUCTION MANIFOLD"
+  },
+  {
+    "code": "12",
+    "name": "THROTTLE VALVE BODY"
+  },
+  {
+    "code": "13",
+    "name": "TURBOCHARGER"
+  },
+  {
+    "code": "14",
+    "name": "TURBOCHARGER VACUUM SYSTEM"
+  }
+]

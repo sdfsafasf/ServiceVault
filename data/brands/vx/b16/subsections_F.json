@@ -1,0 +1,42 @@
+[
+  {
+    "code": "1",
+    "name": "B10XFL[LE1],D10XFL[LE1] PETROL ENGINES"
+  },
+  {
+    "code": "2",
+    "name": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH] PETROL ENGINES"
+  },
+  {
+    "code": "3",
+    "name": "B14XE[LV7] PETROL ENGINE"
+  },
+  {
+    "code": "4",
+    "name": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2] PETROL ENGINES"
+  },
+  {
+    "code": "5",
+    "name": "B14XNT[LFE],D14XNT[LFE] NATURAL GAS ENGINES"
+  },
+  {
+    "code": "6",
+    "name": "F14SHL[L3T],F14SHT[L3T] PETROL ENGINES"
+  },
+  {
+    "code": "7",
+    "name": "B16SHT[LWC],D16SHT[LWC] PETROL ENGINES"
+  },
+  {
+    "code": "8",
+    "name": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD] DIESEL ENGINES"
+  },
+  {
+    "code": "9",
+    "name": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],B16DTU[LWV],D16DTI[LXO] DIESEL ENGINES"
+  },
+  {
+    "code": "10",
+    "name": "B16DTR[LVK],D16DTR[LVK] DIESEL ENGINES"
+  }
+]

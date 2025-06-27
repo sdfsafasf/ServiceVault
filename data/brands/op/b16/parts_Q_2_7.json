@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(13432540)",
+    "desc": "CARRIER,LUGGAGE,ROOF RAILS,LOCKABLE (EXCEPT HOLDEN) (NLS.- USE 39130718)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8016238\n(C)      -HG055703",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39125894)",
+    "desc": "CARRIER,LUGGAGE,ROOF RAILS,LOCKABLE (EXCEPT HOLDEN) (NLS.- USE 39130718)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8016239-\n(C)  HG055704-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39130718",
+    "desc": "CARRIER,LUGGAGE,ROOF RAILS,LOCKABLE (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8016239-\n(C)  HG055704-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39018279)",
+    "desc": "CARRIER,LUGGAGE,ROOF RAILS,LOCKABLE (HOLDEN) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8016238\n(C)      -HG055703",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39125896)",
+    "desc": "CARRIER,LUGGAGE,ROOF RAILS,LOCKABLE (HOLDEN) (NLS.- USE 39130721)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8016239-\n(C)  HG055704-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39130721",
+    "desc": "CARRIER,LUGGAGE,ROOF RAILS,LOCKABLE (HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8016239-\n(C)  HG055704-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

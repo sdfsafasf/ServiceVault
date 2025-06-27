@@ -1,0 +1,67 @@
+[
+  {
+    "call": "1",
+    "part": "(13369985)",
+    "desc": "NUT,WING (NLS.- USE 39084220)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -L8000122\n(C)      -LG005641",
+    "positions": [
+      {
+        "x": 445,
+        "y": 227
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39084220",
+    "desc": "NUT,WING",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -L8000122\n(C)      -LG005641",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "90126755",
+    "desc": "NUT,WING",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000123-\n(C)  LG005642-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39009515",
+    "desc": "SCREW",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 494,
+        "y": 1956
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39009517",
+    "desc": "SCREW",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

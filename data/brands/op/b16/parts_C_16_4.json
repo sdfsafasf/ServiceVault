@@ -1,0 +1,56 @@
+[
+  {
+    "call": "1",
+    "part": "(39026787)",
+    "desc": "PAD,SQUAB,LH (NLS.- USE 39083391)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 962,
+        "y": 1223
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39083391",
+    "desc": "PAD,SQUAB,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39026786)",
+    "desc": "PAD,SQUAB,RH (NLS.- USE 39083390)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 215,
+        "y": 902
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39083390",
+    "desc": "PAD,SQUAB,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

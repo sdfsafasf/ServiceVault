@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "13596428",
+    "desc": "LIGHTER,ASSY.,CIGARETTE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13502522",
+    "desc": "HOUSING,CIGARETTE LIGHTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13502516",
+    "desc": "RETAINER,HOUSING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

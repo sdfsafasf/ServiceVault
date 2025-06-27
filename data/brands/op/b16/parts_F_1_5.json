@@ -1,0 +1,222 @@
+[
+  {
+    "call": "1",
+    "part": "13306606",
+    "desc": "BUMPER,UPPER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13466590",
+    "desc": "BRACKET,RADIATOR,LOWER,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13379026",
+    "desc": "-BUMPER,LOWER,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13466591)",
+    "desc": "BRACKET,RADIATOR,LOWER,RH (NLS.- USE 39162457)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39162457",
+    "desc": "BRACKET,RADIATOR,LOWER,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13379022",
+    "desc": "-BUMPER,LOWER,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11588723)",
+    "desc": "SCREW,HEX.HD.,M8 X 25 (NLS.- USE YR00058780)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7X",
+    "part": "55702491",
+    "desc": "STUD,KIT,MOUNTING,RADIATOR (FOR REPAIR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39002486)",
+    "desc": "PANEL,RADIATOR AIR GUIDE,UPPER,LH (NLS.- USE 39179271)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(39002485)",
+    "desc": "PANEL,RADIATOR AIR GUIDE,UPPER,RH (NLS.- USE 39035983)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(39035983)",
+    "desc": "PANEL,RADIATOR AIR GUIDE,UPPER,RH (NLS.- USE 39179270)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13412837)",
+    "desc": "RIVET,EXPANDING (NLS.- USE YR00268780)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13487731)",
+    "desc": "PANEL,RADIATOR AIR GUIDE,UPPER (NLS.- USE 39179263)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13412837)",
+    "desc": "RIVET,EXPANDING (NLS.- USE YR00268780)",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(39002316)",
+    "desc": "PANEL,RADIATOR AIR GUIDE,SIDE,LH (NLS.- USE 39179268)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(39002315)",
+    "desc": "PANEL,RADIATOR AIR GUIDE,SIDE,RH (NLS.- USE 39031940)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(39031940)",
+    "desc": "PANEL,RADIATOR AIR GUIDE,SIDE,RH (NLS.- USE 39179269)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13462186",
+    "desc": "PROTECTOR,SIDE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13469540",
+    "desc": "SEAL,RADIATOR,UPPER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13356636",
+    "desc": "SEAL,RADIATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

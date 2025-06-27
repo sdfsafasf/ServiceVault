@@ -1,0 +1,46 @@
+[
+  {
+    "call": "15",
+    "part": "(13311236)",
+    "desc": "SWITCH,FOLDING SEAT BACK,ONE-TOUCH,RH,BLACK (IDENT PH) (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U) (NLS.- USE YR00083280) (PRODUCTION NO. 13308895)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13311235)",
+    "desc": "SWITCH,FOLDING SEAT BACK,ONE-TOUCH,LH,BLACK (IDENT PG) (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U) (NLS.- USE YR00083180) (PRODUCTION NO. 12843598)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13338045)",
+    "desc": "BEZEL,SWITCH,BLACK (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U) (NLS.- USE YR003986YX) (PRODUCTION NO. 13333631)",
+    "qty": "2",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(22966290)",
+    "desc": "SWITCH,TAIL GATE CLOSE,BLACK (FOR POWER OPENING TAILGATE,RPO TC2) (NLS.- USE YR004043YX) (PRODUCTION NO. 12776205)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

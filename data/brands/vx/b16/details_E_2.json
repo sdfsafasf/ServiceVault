@@ -1,0 +1,102 @@
+[
+  {
+    "code": "1",
+    "name": "CLUTCH"
+  },
+  {
+    "code": "2",
+    "name": "CONNECTING ROD"
+  },
+  {
+    "code": "3",
+    "name": "CONNECTING ROD BEARINGS"
+  },
+  {
+    "code": "4",
+    "name": "CRANKSHAFT"
+  },
+  {
+    "code": "5",
+    "name": "CRANKSHAFT BEARINGS AND SEALS"
+  },
+  {
+    "code": "6",
+    "name": "CYLINDER BLOCK"
+  },
+  {
+    "code": "7",
+    "name": "CYLINDER BLOCK PLUGS"
+  },
+  {
+    "code": "8",
+    "name": "CYLINDER HEAD AND VALVE TRAIN"
+  },
+  {
+    "code": "9",
+    "name": "CYLINDER HEAD COVER"
+  },
+  {
+    "code": "10",
+    "name": "ENGINE ASSEMBLY"
+  },
+  {
+    "code": "11",
+    "name": "ENGINE COVER"
+  },
+  {
+    "code": "12",
+    "name": "ENGINE COVER"
+  },
+  {
+    "code": "13",
+    "name": "ENGINE MOUNTINGS (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)"
+  },
+  {
+    "code": "14",
+    "name": "ENGINE VENTILATION"
+  },
+  {
+    "code": "15",
+    "name": "ENGINE,STRIPPED"
+  },
+  {
+    "code": "16",
+    "name": "FLYWHEEL AND FITTINGS"
+  },
+  {
+    "code": "17",
+    "name": "OIL FILLER"
+  },
+  {
+    "code": "18",
+    "name": "OIL FILTER"
+  },
+  {
+    "code": "19",
+    "name": "OIL LEVEL INDICATOR"
+  },
+  {
+    "code": "20",
+    "name": "OIL PAN AND FITTINGS"
+  },
+  {
+    "code": "21",
+    "name": "OIL PIPES,VALVES AND FITTINGS"
+  },
+  {
+    "code": "22",
+    "name": "OIL PRESSURE SWITCH"
+  },
+  {
+    "code": "23",
+    "name": "OIL PUMP AND BALANCE SHAFT"
+  },
+  {
+    "code": "24",
+    "name": "PISTON AND RINGS"
+  },
+  {
+    "code": "25",
+    "name": "TIMING BELT,GEAR AND PULLEYS"
+  }
+]

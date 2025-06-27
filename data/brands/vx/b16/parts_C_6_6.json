@@ -1,0 +1,145 @@
+[
+  {
+    "call": "2",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 484,
+        "y": 2280
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1566,
+        "y": 1660
+      },
+      {
+        "x": 1517,
+        "y": 1446
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39222052",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95530290)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 542,
+        "y": 437
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "95530290",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11X",
+    "part": "39222055",
+    "desc": "-CLUTCH KIT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 81,
+        "y": 1003
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11611102",
+    "desc": "SCREW,HEX.HD.",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1328,
+        "y": 1128
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11561936",
+    "desc": "STUD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1905,
+        "y": 324
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(11546377)",
+    "desc": "NUT,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2061,
+        "y": 361
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "",
+    "desc": "OIL,AIR CONDITIONING COMPRESSOR (AWAITING TECHNICAL RELEASE)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 521,
+        "y": 83
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

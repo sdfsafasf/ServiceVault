@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "(12703776)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 12711695)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(12711695)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 12719250)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "BRACKET (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588724)",
+    "desc": "SCREW,HEX,HD.,M8 X 30,BRACKET (NLS.- USE YR00052980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

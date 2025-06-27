@@ -1,0 +1,42 @@
+[
+  {
+    "code": "1",
+    "name": "BONNET INSULATOR"
+  },
+  {
+    "code": "2",
+    "name": "DASH PANEL INSULATOR"
+  },
+  {
+    "code": "3",
+    "name": "DOOR INSULATOR"
+  },
+  {
+    "code": "4",
+    "name": "FLOOR INSULATOR"
+  },
+  {
+    "code": "5",
+    "name": "FRONT WING INSULATOR"
+  },
+  {
+    "code": "6",
+    "name": "LOAD COMPARTMENT INSULATOR"
+  },
+  {
+    "code": "7",
+    "name": "REAR END PANEL INSULATOR"
+  },
+  {
+    "code": "8",
+    "name": "REAR QUARTER INSULATOR (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "9",
+    "name": "REAR QUARTER INSULATOR (ESTATE 35)"
+  },
+  {
+    "code": "10",
+    "name": "ROOF INSULATOR"
+  }
+]

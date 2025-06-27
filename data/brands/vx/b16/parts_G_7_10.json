@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "(55569458)",
+    "desc": "VALVE,EVAPORATION CONTROL (NLS.- USE 55509571)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13493747)",
+    "desc": "PIPE,FUEL EVAPORATION,FRONT (NLS.- USE 39046821)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13452451)",
+    "desc": "PIPE,FUEL EVAPORATION CANISTER PURGE (NLS.- USE 39098782)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13432666",
+    "desc": "PIPE,ASSY.,FUEL FEED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13408645)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 39097328)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39097328)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 39104717)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39104717)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 42703035)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13493746",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55569457",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55573059",
+    "desc": "SCREW,TORX,M6 X 22",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13432670",
+    "desc": "CLIP,FUEL PIPE,2 WAY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13346824",
+    "desc": "CLIP,PIPE,FUEL EVAPORATION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13258228",
+    "desc": "INSULATOR,PIPE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

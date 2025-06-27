@@ -1,0 +1,90 @@
+[
+  {
+    "call": "1",
+    "part": "(13356648)",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39009027)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39009027",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH MANUAL TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39013321",
+    "desc": "FAN AND MOTOR,ASSY.,RADIATOR COOLING (USED WITH MANUAL TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13356658)",
+    "desc": "-COWL,RADIATOR (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39009026)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39009026",
+    "desc": "-COWL,RADIATOR (USED WITH MANUAL TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13378494",
+    "desc": "-CLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13378495",
+    "desc": "-SCREW,HEX.HD.",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13412385",
+    "desc": "SCREW",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

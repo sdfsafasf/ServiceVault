@@ -1,0 +1,57 @@
+[
+  {
+    "call": "7",
+    "part": "11546405",
+    "desc": "SCREW,HEX.HD.,M10 X 45",
+    "qty": "7",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "90343317",
+    "desc": "PIN,LOCATING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,TRANSMISSION (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,SCREW (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(90397024)",
+    "desc": "GREASE,LUBRICATING ,MICROLUBE GNY 202,200GRAMS,MAINDRIVE PINION SPLINES (NLS.- USE 95599784) (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

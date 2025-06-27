@@ -1,0 +1,233 @@
+[
+  {
+    "call": "1",
+    "part": "",
+    "desc": "PIPE,BRAKE,RH (NOT SERVICED - USE BUNDY TUBING 93178453 55 62 265)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "",
+    "desc": "PIPE,BRAKE,LH (NOT SERVICED - USE BUNDY TUBING 93178453 55 62 265)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "93178453",
+    "desc": "TUBING,BUNDY,5.14MM OD. X 6M,PLASTIC COATED (6 METRE ROLL) (SOLD BY THE METRE)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95530597",
+    "desc": "TUBING,BUNDY,5.14MM OD. X 6M,PLASTIC COATED (6 METRE ROLL)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13496463",
+    "desc": "PIPE,ASSY.,BRAKE,MAIN CYLINDER TO ABS UNIT (PRIMARY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13496462",
+    "desc": "PIPE,ASSY.,BRAKE,MAIN CYLINDER TO ABS UNIT (SECONDARY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-NUT,UNION (NOT SERVICED SEPARATELY)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11569751",
+    "desc": "NUT,UNION,M10",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11569750",
+    "desc": "NUT,UNION,M12",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13468086",
+    "desc": "HOSE,ASSY.,FRONT BRAKE,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13468085",
+    "desc": "HOSE,ASSY.,FRONT BRAKE,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11518683",
+    "desc": "-SCREW,HOLLOW,M10 X 23",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "21012386",
+    "desc": "-SEAL,RING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13406267",
+    "desc": "RETAINER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13235986",
+    "desc": "CLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13441957",
+    "desc": "CLIP,4-WAY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13336196",
+    "desc": "CLIP,3-WAY",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13287828",
+    "desc": "CLIP,3-WAY",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11546812",
+    "desc": "CLIP,4-WAY",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13432669)",
+    "desc": "CLIP,4-WAY (NLS.- USE 39080890)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "39080890",
+    "desc": "CLIP,4-WAY",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

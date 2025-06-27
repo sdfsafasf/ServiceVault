@@ -1,0 +1,35 @@
+[
+  {
+    "call": "20",
+    "part": "55570175",
+    "desc": "FLYWHEEL,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO M60/MGW) (EXCHANGE - REMAN PART 95530653)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "95530653",
+    "desc": "FLYWHEEL,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO M60/MGW) (CORE RETURN NO. 1656310980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "11546513",
+    "desc": "SCREW,HEX.SOCKET HD.,M9 X 24.5 (FOR M32 MANUAL TRANSMISSION,RPO M60/MGW)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

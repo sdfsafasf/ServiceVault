@@ -1,0 +1,35 @@
+[
+  {
+    "call": "9",
+    "part": "12701729",
+    "desc": "CRANKSHAFT,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55488548",
+    "desc": "PULSE GENERATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "12672574",
+    "desc": "PIN,LOCATING,CRANKSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

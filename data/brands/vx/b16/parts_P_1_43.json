@@ -1,0 +1,57 @@
+[
+  {
+    "call": "27",
+    "part": "55592376",
+    "desc": "-SENSOR,MINIMUM OIL LEVEL,OIL PAN",
+    "qty": "1",
+    "usage": "(E)      -20 B1171737HRYX0130",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "55501111",
+    "desc": "-SENSOR,MINIMUM OIL LEVEL,OIL PAN",
+    "qty": "1",
+    "usage": "(E)  20 B1171737HRYX0131-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "12644711",
+    "desc": "--CLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "55599112",
+    "desc": "--CLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "11588713",
+    "desc": "-SCREW,HEX.HD.,M6 X 25",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

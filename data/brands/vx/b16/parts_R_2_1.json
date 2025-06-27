@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "9268296",
+    "desc": "PARKING HEATER",
+    "qty": "1",
+    "usage": "DIESEL ENGINES\nNote : COMPONENTS NOT SERVICED",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "9268297",
+    "desc": "PARKING HEATER",
+    "qty": "1",
+    "usage": "PETROL ENGINES\nNote : COMPONENTS NOT SERVICED",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "9269924",
+    "desc": "INSULATOR,PARKING HEATER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "9269946",
+    "desc": "PLATE,INSULATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "9269947",
+    "desc": "PLATE,INSULATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "9272611",
+    "desc": "PLATE,INSULATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "9268233",
+    "desc": "BRACKET,WATER PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

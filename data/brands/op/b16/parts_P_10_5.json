@@ -1,0 +1,35 @@
+[
+  {
+    "call": "7",
+    "part": "(13509518)",
+    "desc": "RECEIVER,REMOTE CONTROL (NLS.- USE 13595511 12 32 510)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13595511)",
+    "desc": "RECEIVER,REMOTE CONTROL (NLS.- USE 13523281)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13523281)",
+    "desc": "RECEIVER,REMOTE CONTROL (NLS.- USE YR00200280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

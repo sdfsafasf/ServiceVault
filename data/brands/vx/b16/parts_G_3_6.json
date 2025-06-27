@@ -1,0 +1,134 @@
+[
+  {
+    "call": "1",
+    "part": "12632174",
+    "desc": "VALVE,ASSY.,EVAPORATOR CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13493690",
+    "desc": "PIPE,FUEL EVAPORATION,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12654018",
+    "desc": "TUBE,FUEL EVAPORATION CANISTER PURGE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13452451)",
+    "desc": "PIPE,FUEL EVAPORATION CANISTER PURGE (NLS.- USE 39098782)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13493689)",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT (NLS.- USE 39037060)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39037060)",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT (NLS.- USE 39050139)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39050139)",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT (NLS.- USE 39095019)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13432666",
+    "desc": "PIPE,ASSY.,FUEL FEED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13444225)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 39098780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13432670",
+    "desc": "CLIP,FUEL PIPE,2 WAY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13432669)",
+    "desc": "CLIP,FUEL PIPE,4-WAY (NLS.- USE 39080890)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39080890",
+    "desc": "CLIP,FUEL PIPE,4-WAY",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

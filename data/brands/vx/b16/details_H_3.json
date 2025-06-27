@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1",
+    "name": "DIFFERENTIAL"
+  },
+  {
+    "code": "2",
+    "name": "INPUT SHAFT"
+  },
+  {
+    "code": "3",
+    "name": "MAINSHAFT (UPPER)"
+  },
+  {
+    "code": "4",
+    "name": "MAINSHAFT (LOWER)"
+  },
+  {
+    "code": "5",
+    "name": "SELECTOR SHAFT AND FORK"
+  },
+  {
+    "code": "6",
+    "name": "TRANSMISSION ASSEMBLY"
+  },
+  {
+    "code": "7",
+    "name": "TRANSMISSION ASSEMBLY FIXINGS"
+  },
+  {
+    "code": "8",
+    "name": "TRANSMISSION CASE AND COVERS"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "call": "14",
+    "part": "55569362",
+    "desc": "-ADAPTOR,THROTTLE VALVE BODY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(55491534)",
+    "desc": "-BODY,ASSY.,THROTTLE VALVE (NLS.- USE 55496266)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55496266",
+    "desc": "-BODY,ASSY.,THROTTLE VALVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55572935",
+    "desc": "-SEAL,THROTTLE VALVE BODY",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55573206",
+    "desc": "-SCREW,HEX.HD.,M6 X 92,ADAPTOR",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55573205",
+    "desc": "-SCREW,HEX.HD.,M6 X 127,ADAPTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "call": "1",
+    "part": "(39023896)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (NLS.- USE 39080695)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 924,
+        "y": 227
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39080695)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (NLS.- USE 39094154)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39094154)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP) (NLS.- USE 39177868)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39177868)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP) (NLS.- USE 39222112)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39215859",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39222122)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MGP) (NLS.- USE 39215869)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39023898)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (NLS.- USE 39080697)",
+    "usage": "B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTU[LWV],B16DTR[LVK]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39080697)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (NLS.- USE 39094156)",
+    "usage": "B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTU[LWV],B16DTR[LVK]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39094156",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR M32/M35 MANUAL TRANSMISSION,RPO MGR/MGW/MOP) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE],B16SHT[LWC],D16SHT[LWC],B16DTR[LVK],D16DTR[LVK],B16DTU[LWV]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39215861",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR M32/M35 MANUAL TRANSMISSION,RPO MGR/MGW/MOP) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE],B16SHT[LWC],D16SHT[LWC],B16DTR[LVK],D16DTR[LVK],B16DTU[LWV]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39023897)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 39080696)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1794,
+        "y": 218
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39080696)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 39094155)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39094155)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 39177869)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39177869)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 39222114)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39222114)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 39215860)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39215860",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39222124)",
+    "desc": "PEDAL,ASSY.,BRAKE,CLUTCH AND ACCELERATOR,COMPLETE WITH CLUTCH MASTER CYLINDER (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 39215873)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39009722",
+    "desc": "-PAD,CLUTCH PEDAL (EXCEPT RPO JF5,SPORT ALLOY PEDAL)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1468,
+        "y": 2239
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39009726",
+    "desc": "-PAD,BRAKE PEDAL (EXCEPT RPO JF5,SPORT ALLOY PEDAL)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1886,
+        "y": 2330
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13285340)",
+    "desc": "-CLAMP,LOCKING,PISTON ROD TO BRAKE PEDAL (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM) (NLS.- USE 39081933)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1287,
+        "y": 1759
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39081933",
+    "desc": "-CLAMP,LOCKING,PISTON ROD TO BRAKE PEDAL (EXCEPT RPO JE0,ELECTRIC BOOST BRAKE APPLY SYSTEM)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39159520",
+    "desc": "-CLAMP,LOCKING,PISTON ROD TO BRAKE PEDAL (FOR ELECTRICAL BOOST BRAKE APPLY SYSTEM,RPO JE0)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13597428",
+    "desc": "-SENSOR,POSITION,BRAKE PEDAL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1330,
+        "y": 1271
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13597418",
+    "desc": "-SENSOR,POSITION,CLUTCH PEDAL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 936,
+        "y": 1323
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13281351",
+    "desc": "-SCREW,SENSOR,M6 X 12",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1590,
+        "y": 657
+      },
+      {
+        "x": 1290,
+        "y": 1543
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39009731",
+    "desc": "-SPRING,RETURN,CLUTCH PEDAL,UPPER (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1611,
+        "y": 80
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39009733",
+    "desc": "-BUSH,CLUTCH PEDAL,UPPER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1196,
+        "y": 1613
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39009734",
+    "desc": "-BUSH,CLUTCH PEDAL,LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 551,
+        "y": 1762
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39009735",
+    "desc": "-BUSH,CLUTCH PEDAL,LOWER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 585,
+        "y": 2074
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39009728",
+    "desc": "-SPRING,ASSIST,CLUTCH PEDAL (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 725,
+        "y": 2117
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39009728",
+    "desc": "-SPRING,ASSIST,CLUTCH PEDAL (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39009729",
+    "desc": "-SPRING,ASSIST,CLUTCH PEDAL (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39009729",
+    "desc": "-SPRING,ASSIST,CLUTCH PEDAL (FOR M32 MANUAL TRANSMISSION,RPO MGP)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39009730",
+    "desc": "-SPRING,ASSIST,CLUTCH PEDAL (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR M32/M35 MANUAL TRANSMISSION,RPO MGR/MGW/MOP) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE],B16SHT[LWC],D16SHT[LWC],B16DTR[LVK],D16DTR[LVK],B16DTU[LWV]",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39009736",
+    "desc": "-BUMPER,CLUTCH PEDAL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 582,
+        "y": 1588
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13373777",
+    "desc": "-PEDAL,ASSY.,ACCELERATOR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2005,
+        "y": 1448
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13281365",
+    "desc": "-SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2137,
+        "y": 1723
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13281369",
+    "desc": "PAD,ACCELERATOR PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 396,
+        "y": 111
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13454307",
+    "desc": "PAD,BRAKE PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 283,
+        "y": 209
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13454306)",
+    "desc": "PAD,CLUTCH PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5) (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 39042383)",
+    "usage": "B10XFL[LE1],B14XE[LV7],B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -G8038702\n(C)      -GG040469",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 121,
+        "y": 294
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39042383",
+    "desc": "PAD,CLUTCH PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5) (FOR F17 MANUAL TRANSMISSION,RPO M26) (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX)",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  G8038703-\n(C)  GG040470-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13454306)",
+    "desc": "PAD,CLUTCH PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5) (FOR M32 MANUAL TRANSMISSION,RPO M60,MZ4,MZ0) (NLS.- USE 39042383)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)      -G8038380\n(C)      -GG040668",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39042383",
+    "desc": "PAD,CLUTCH PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5) (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP)",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)  G8038381-\n(C)  GG040669-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13454306)",
+    "desc": "PAD,CLUTCH PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ) (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (NLS.- USE 39042383)",
+    "usage": "B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTU[LWV],B16DTR[LVK]",
+    "range": "(C)      -G8038487\n(C)      -GG040098",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39042383",
+    "desc": "PAD,CLUTCH PEDAL (FOR SPORT ALLOY PEDAL,RPO JF5) (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60) (FOR M32/M35 MANUAL TRANSMISSION,RPO MGR/MGW/MOP) (FOR F40 MANUAL TRANSMISSION,RPO MR6/MYJ)",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC],B16DTE[LWQ],B16DTU[LWV],B16DTR[LVK],D16DTR[LVK]",
+    "range": "(C)  G8038488-\n(C)  GG040099-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(11588722)",
+    "desc": "SCREW,HEX.HD.,M8 X 20 (NLS.- USE YQ00526080)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1862,
+        "y": 508
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11546459)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00000480)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 820,
+        "y": 325
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39077091",
+    "desc": "BRACKET,STOP,CLUTCH PEDAL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2075,
+        "y": 624
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(11588723)",
+    "desc": "SCREW,HEX.HD.,M8 X 25,BRACKET (NLS.- USE YR00058780)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2155,
+        "y": 651
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

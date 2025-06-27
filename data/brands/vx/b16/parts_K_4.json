@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "39129236",
+    "desc": "SHAFT,ASSY.,DRIVE,RH (EXCHANGE - REMAN PART 95529088)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95529088",
+    "desc": "SHAFT,ASSY.,DRIVE,RH,EXCHANGE - REMAN (CORE RETURN NO. 95524444)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39129235",
+    "desc": "SHAFT,ASSY.,DRIVE,LH (EXCHANGE - REMAN PART 95529087)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95529087",
+    "desc": "SHAFT,ASSY.,DRIVE,LH,EXCHANGE - REMAN (CORE RETURN NO. 95524444)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "",
+    "desc": "-JOINT,ASSY.,SHAFT,INNER,WITH BOOT KIT (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "",
+    "desc": "--BOOT,WITH CLAMPS,DRIVE SHAFT,INNER (KIT) (NOT SERVICED SEPARATELY)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13296471",
+    "desc": "---CIRCLIP",
+    "qty": "1",
+    "usage": "- \t39198733 \tSHIELD,HEAT,DRIVE SHAFT\n- \t11588711 \tSCREW,HEX.HD.,M6 X 16",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

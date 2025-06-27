@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR M32 MANUAL TRANSMISSION,RPO MGP) (NOT SERVICED) (EXCHANGE - REMAN PART 1686199380) (IDENT JBD)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (NOT SERVICED) (EXCHANGE - REMAN PART 1686199380) (IDENT JBF)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(1686199380)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (CORE RETURN NO. 95524448) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "call": "9",
+    "part": "(13345214)",
+    "desc": "NAMEPLATE,SILL COVER,'OPEL' (NLS.- USE 9829497680)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 879,
+        "y": 923
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13345215)",
+    "desc": "NAMEPLATE,SILL COVER,'VAUXHALL' (NLS.- USE 9830398080)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 975,
+        "y": 923
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

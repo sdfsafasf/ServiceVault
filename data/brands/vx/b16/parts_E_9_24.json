@@ -1,0 +1,46 @@
+[
+  {
+    "call": "10",
+    "part": "(55494241)",
+    "desc": "-CAP,ASSY.,OIL FILLER (NLS.- USE 55570033 6 50 168)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55570033",
+    "desc": "-CAP,ASSY.,OIL FILLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55570035",
+    "desc": "--GASKET,OIL FILLER CAP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55580018",
+    "desc": "-GASKET,TUBE,OIL FILLER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "call": "12",
+    "part": "(84182900)",
+    "desc": "FILTER,ASSY.,FUEL (NLS.- USE 13539110)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(23304096)",
+    "desc": "-ELEMENT,FUEL FILTER (NLS.- USE 13539108)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "1694147380",
+    "desc": "-ELEMENT,FUEL FILTER (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "22937280",
+    "desc": "-PLUG,DRAIN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(23217900)",
+    "desc": "-RESERVOIR (NLS.- USE 13539472)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

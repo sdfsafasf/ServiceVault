@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "13436971",
+    "desc": "PROTECTOR,REAR BUMPER (EXCEPT HOLDEN)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(92145973)",
+    "desc": "PROTECTOR,REAR BUMPER (HOLDEN) (NLS.- NO REPLACEMENT PART)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13480763",
+    "desc": "PROTECTOR,REAR BUMPER",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

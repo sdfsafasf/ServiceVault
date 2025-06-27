@@ -1,0 +1,323 @@
+{
+  "sectionTitle": "General Information",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "General Information",
+      "nestedSections": [
+        {
+          "title": "Introduction",
+          "subsections": [
+            {
+              "title": "Arrows and Symbols",
+              "url": "astra-k/4666126.pdf"
+            },
+            {
+              "title": "Acronyms and Units",
+              "url": "astra-k/3272204.pdf"
+            },
+            {
+              "title": "Graphic Colors and Graphic Symbols",
+              "url": "astra-k/3979346.pdf"
+            },
+            {
+              "title": "Vehicle, Engine and Transmission ID and VIN Location, Derivative and Usage",
+              "url": "astra-k/4540388.pdf"
+            },
+            {
+              "title": "Vehicle Certification, Tire Placard, Anti-Theft, and Service Parts ID Label",
+              "url": "astra-k/4222995.pdf"
+            },
+            {
+              "title": "RPO Code List",
+              "url": "astra-k/4540855.pdf"
+            },
+            {
+              "title": "Fasteners",
+              "url": "astra-k/5026166.pdf"
+            },
+            {
+              "title": "Thread Inserts",
+              "url": "astra-k/2065147.pdf"
+            },
+            {
+              "title": "Registered and Non-Registered Trademarks",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "BO-51843 Cutting Tool Description and Operation",
+              "url": "astra-k/4110569.pdf"
+            },
+            {
+              "title": "Lifting and Jacking the Vehicle",
+              "url": "astra-k/4090153.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Volatile Memory Programming",
+              "url": "astra-k/2323252.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Air/Wind Noise",
+      "nestedSections": [
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Air/Wind Noise",
+              "url": "astra-k/2276706.pdf"
+            },
+            {
+              "title": "Tracing Powder or Chalk Test",
+              "url": "astra-k/487222.pdf"
+            },
+            {
+              "title": "Air Pressure Test",
+              "url": "astra-k/487226.pdf"
+            },
+            {
+              "title": "Soap Suds or Bubble Test",
+              "url": "astra-k/487227.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Exterior Windnoise",
+              "url": "astra-k/2065312.pdf"
+            },
+            {
+              "title": "Interior Windnoise",
+              "url": "astra-k/2065313.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Maintenance and Lubrication",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Maintenance",
+          "subsections": [
+            {
+              "title": "GM Oil Life System Resetting (Manual Reset)",
+              "url": "astra-k/2276187.pdf"
+            },
+            {
+              "title": "GM Oil Life System Resetting (Optional Scan Tool Method)",
+              "url": "astra-k/4551999.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Safety Regulations",
+      "subsections": [
+        {
+          "title": "Safety Regulations for Restraint Systems",
+          "url": "astra-k/2828809.pdf"
+        },
+        {
+          "title": "Safety Regulations for Paint and Coating",
+          "url": "astra-k/2830712.pdf"
+        },
+        {
+          "title": "Safety Regulations for Engine, Fuel, and Exhaust Systems",
+          "url": "astra-k/2828804.pdf"
+        },
+        {
+          "title": "General Warnings and Safety Regulations",
+          "url": "astra-k/2826709.pdf"
+        },
+        {
+          "title": "Safety Regulations for Air Conditioning Systems",
+          "url": "astra-k/2828774.pdf"
+        },
+        {
+          "title": "Safety Regulations for Steering Systems",
+          "url": "astra-k/2828782.pdf"
+        },
+        {
+          "title": "Safety Regulations for Suspension, Tires, and Wheels",
+          "url": "astra-k/2828789.pdf"
+        },
+        {
+          "title": "Safety Regulations for Brake Systems",
+          "url": "astra-k/2828796.pdf"
+        },
+        {
+          "title": "Safety Regulations for Compressed Natural Gas and Liquefied Petroleum Gas Powered Vehicles",
+          "url": "Document.pdf"
+        },
+        {
+          "title": "Safety Regulations for Clutch and Transmission",
+          "url": "astra-k/2830710.pdf"
+        },
+        {
+          "title": "Safety Regulations for Electrical/Electronic Systems",
+          "url": "astra-k/2828807.pdf"
+        },
+        {
+          "title": "Safety Regulations for Body",
+          "url": "astra-k/2830711.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Vibration Diagnosis and Correction",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Tire and Wheel Runout Specifications",
+              "url": "astra-k/2171789.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Vibration Analysis - Road Testing",
+              "url": "astra-k/2324721.pdf"
+            },
+            {
+              "title": "Component Rotational Speed Calculation",
+              "url": "astra-k/2155531.pdf"
+            },
+            {
+              "title": "Vibration Analysis - Tire and Wheel",
+              "url": "astra-k/2156923.pdf"
+            },
+            {
+              "title": "Vibration Analysis - Hub and/or Axle Input",
+              "url": "astra-k/2084482.pdf"
+            },
+            {
+              "title": "Vibration Analysis - Engine",
+              "url": "astra-k/2179429.pdf"
+            },
+            {
+              "title": "Engine Order Classification",
+              "url": "astra-k/2276711.pdf"
+            },
+            {
+              "title": "Vibration Analysis - Engine/Accessory Isolation",
+              "url": "astra-k/2155601.pdf"
+            },
+            {
+              "title": "Vibration Analysis - Engine Balance",
+              "url": "astra-k/2156790.pdf"
+            },
+            {
+              "title": "Vibration Diagnostic Aids",
+              "url": "astra-k/2179432.pdf"
+            },
+            {
+              "title": "Vibration Diagnostic Aids - Vibration Intermittent or Not Duplicated",
+              "url": "astra-k/2084488.pdf"
+            },
+            {
+              "title": "Vibration Diagnostic Aids - Vibration Duplicated, Component Not Identified",
+              "url": "astra-k/2084490.pdf"
+            },
+            {
+              "title": "Vibration Diagnostic Aids - Vibration Duplicated, Difficult to Isolate/Balance Component",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Vibration Diagnostic Aids - Vibration Duplicated, Appears to Be Potential Operating Characteristic",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Symptoms - Vibration Diagnosis and Correction",
+              "url": "astra-k/2179437.pdf"
+            },
+            {
+              "title": "Vehicle-to-Vehicle Diagnostic Comparison",
+              "url": "astra-k/1578908.pdf"
+            },
+            {
+              "title": "Tire and Wheel Inspection",
+              "url": "astra-k/2277214.pdf"
+            },
+            {
+              "title": "Brake Rotor/Drum Balance Inspection",
+              "url": "astra-k/2084541.pdf"
+            },
+            {
+              "title": "Tire and Wheel Assembly Isolation Test",
+              "url": "astra-k/1579461.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Tire and Wheel Assembly Balancing - Off Vehicle",
+              "url": "astra-k/2277212.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Vibration Theory and Terminology",
+              "url": "astra-k/2144591.pdf"
+            },
+            {
+              "title": "Electronic Vibration Analyzer (EVA) Description and Operation",
+              "url": "astra-k/2084553.pdf"
+            },
+            {
+              "title": "Vibrate Software Description and Operation",
+              "url": "astra-k/2086914.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools and Equipment",
+              "url": "astra-k/2274860.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

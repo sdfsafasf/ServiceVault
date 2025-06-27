@@ -1,0 +1,156 @@
+[
+  {
+    "call": "1",
+    "part": "55598090",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER (FOR M32 MANUAL TRANSMISSION,RPO MGW) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55598091",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER,WITH REVERSE LAMP SWITCH (FOR M32 MANUAL TRANSMISSION,RPO MGP/MGR) (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55496026",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER (FOR M32 MANUAL TRANSMISSION,RPO MGP)",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55494556",
+    "desc": "-SEAL,RING,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55500280",
+    "desc": "-RING,RETAINING,LOCK,GEARSHIFT LEVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55561154",
+    "desc": "BEARING,NEEDLE,SHAFT,GEARSHIFT CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11097431",
+    "desc": "SCREW,TORX,M8 X 30,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55491476",
+    "desc": "FORK,SELECTOR,REVERSE GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55491475",
+    "desc": "FORK,SELECTOR,THIRD AND FOURTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55599030",
+    "desc": "FORK,SELECTOR,FIRST AND SECOND GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55491474",
+    "desc": "FORK,SELECTOR,FIFTH AND SIXTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55350411",
+    "desc": "SHAFT,ASSY.,GEAR SELECTOR,FIRST,SECOND,FIFTH AND SIXTH GEARS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55350411",
+    "desc": "SHAFT,ASSY.,GEAR SELECTOR,THIRD,FOURTH AND REVERSE GEARS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13106275",
+    "desc": "CAP,TRANSMISSION CASE VENTILATION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

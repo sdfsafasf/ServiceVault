@@ -1,0 +1,178 @@
+[
+  {
+    "call": "1",
+    "part": "55489542",
+    "desc": "LEVER,ASSY.,GEARSHIFT",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55491498)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR F17 MANUAL TRANSMISSION,RPO M26) (NLS.- USE 55497889)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55497889)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR F17 MANUAL TRANSMISSION,RPO M26) (NLS.- USE 55509624)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55504008)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR F17 MANUAL TRANSMISSION,RPO M26) (NLS.- USE 55506447)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55506447)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR F17 MANUAL TRANSMISSION,RPO M26) (NLS.- USE 55497889)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55497889)",
+    "desc": "LEVER,ASSY.,GEARSHIFT (FOR F17 MANUAL TRANSMISSION,RPO M26) (NLS.- USE 55509624)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55593385",
+    "desc": "-ADJUSTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55593384",
+    "desc": "-ADJUSTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55489536",
+    "desc": "-PAWL,LEVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55583342",
+    "desc": "-'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55492326)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55496611) (IDENT BBR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55496611)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55501642) (IDENT BD5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55501642)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55503242) (IDENT BKY)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55503242)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55504705) (IDENT BLX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55504705)",
+    "desc": "KNOB,GEARSHIFT LEVER,WITH BOOT (NLS.- USE 55510369) (IDENT BMX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55492569",
+    "desc": "-RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

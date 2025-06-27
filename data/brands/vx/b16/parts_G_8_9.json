@@ -1,0 +1,211 @@
+[
+  {
+    "call": "5",
+    "part": "(55510687)",
+    "desc": "FUEL RAIL (NLS.- USE 55516918)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -L8999999\n(C)      -LG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "55484763",
+    "desc": "-SENSOR,FUEL PRESSURE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55516918",
+    "desc": "FUEL RAIL",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  M8000001-\n(C)  MG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55564171",
+    "desc": "-VALVE,PRESSURE RELIEF",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(55514311)",
+    "desc": "PIPE,FUEL FEED,PUMP TO DISTRIBUTOR (NLS.- USE 55515908)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55515908",
+    "desc": "PIPE,FUEL FEED,PUMP TO DISTRIBUTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(55514308)",
+    "desc": "PIPE,FUEL FEED,FUEL INJECTOR,NO.1 (NLS.- USE 55515905)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55515905",
+    "desc": "PIPE,FUEL FEED,FUEL INJECTOR,NO.1",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(55514309)",
+    "desc": "PIPE,FUEL FEED,FUEL INJECTOR,NO.2 (NLS.- USE 55515906)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55515906",
+    "desc": "PIPE,FUEL FEED,FUEL INJECTOR,NO.2",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(55514310)",
+    "desc": "PIPE,FUEL FEED,FUEL INJECTOR,NO.3 (NLS.- USE 55515907)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55515907",
+    "desc": "PIPE,FUEL FEED,FUEL INJECTOR,NO.3",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55490851",
+    "desc": "SCREW,HEX.HD.,M6 X 68",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55512936",
+    "desc": "HOSE,FUEL RETURN,FUEL INJECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -M8999999\n(C)      -MG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "YR55517000",
+    "desc": "HOSE,FUEL RETURN,FUEL INJECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  N8000001-\n(C)  NG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55499116",
+    "desc": "CLAMP",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(55512934)",
+    "desc": "PIPE,ASSY.,FUEL FEED AND RETURN (NLS.- USE 55515408)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55515408",
+    "desc": "PIPE,ASSY.,FUEL FEED AND RETURN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11548002",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

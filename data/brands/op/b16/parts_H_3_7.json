@@ -1,0 +1,211 @@
+[
+  {
+    "call": "5",
+    "part": "55583266",
+    "desc": "SCREW,HEX.HD.,M10 X 55 (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11097631",
+    "desc": "SCREW,TORX,M10 X 50,TRANSMISSION TO ENGINE (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11546378",
+    "desc": "NUT,HEX.,M10 (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11588742",
+    "desc": "SCREW,HEX.HD.,M10 X 50 (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8058530\n(C)      -GG070314",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11546405",
+    "desc": "SCREW,HEX.HD.,M10 X 45 (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  G8058531-\n(C)  GG070315-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "11589274",
+    "desc": "SCREW,HEX.HD.,M12 X 40 (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8058530\n(C)      -GG070314",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "11610904",
+    "desc": "SCREW,HEX.HD.,M12 X 45 (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8058531-\n(C)  GG070315-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "90351708",
+    "desc": "SLEEVE (FOR M32 MANUAL TRANSMISSION,RPO MZ0/M60)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55597286",
+    "desc": "COVER (FOR M32 MANUAL TRANSMISSION,RPO M60)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55583267",
+    "desc": "SCREW,HEX.HD.,M10 X 70 (FOR M32 MANUAL TRANSMISSION,RPO MZ4)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11094031",
+    "desc": "SCREW,TORX,M10 X 60 (FOR M32 MANUAL TRANSMISSION,RPO MZ4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11546378",
+    "desc": "NUT,HEX.,M10 (FOR M32 MANUAL TRANSMISSION,RPO MZ4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11588741",
+    "desc": "SCREW,HEX.HD.,M10 X 45 (FOR M32 MANUAL TRANSMISSION,RPO MZ4)",
+    "qty": "3",
+    "usage": "",
+    "range": "(C)      -G8058530\n(C)      -GG070314",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11546404",
+    "desc": "SCREW,HEX.HD.,M10 X 40 (FOR M32 MANUAL TRANSMISSION,RPO MZ4)",
+    "qty": "3",
+    "usage": "",
+    "range": "(C)  G8058531-\n(C)  GG070315-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(11589276)",
+    "desc": "SCREW,HEX.HD.,M12 X 55 (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (NLS.- USE YR00146980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "90351708",
+    "desc": "SLEEVE (FOR M32 MANUAL TRANSMISSION,RPO MZ4)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,THREEBOND 1227,80ML,TRANSMISSION (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,SCREW (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(90397024)",
+    "desc": "GREASE,LUBRICATING ,MICROLUBE GNY 202,200GRAMS,MAINDRIVE PINION SPLINES (NLS.- USE 95599784) (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "13479547",
+    "desc": "HARNESS,ASSY.,MAIN WIRING,BODY (CUSTOMISED WIRING HARNESS, PLEASE SUPPLY PA NUMBER)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39149762",
+    "desc": "-COVER,FUSE BOX",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13472609",
+    "desc": "INSULATOR,BODY WIRING HARNESS",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11546389)",
+    "desc": "NUT,M6 (NLS.- USE YR00713080)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11601919",
+    "desc": "SCREW,BODY WIRING HARNESS,EARTH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39219127",
+    "desc": "HARNESS,ASSY.,WINDSCREEN,HEATED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

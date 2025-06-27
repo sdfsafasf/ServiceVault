@@ -1,0 +1,24 @@
+[
+  {
+    "call": "10",
+    "part": "(39018054)",
+    "desc": "SENSOR, SEATBELT, PASSENGER PRESENCE (NLS.- USE 39126102)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39126102",
+    "desc": "SENSOR, SEATBELT, PASSENGER PRESENCE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "1",
+    "name": "BODY SIDE FRAME (HATCH 68)"
+  },
+  {
+    "code": "2",
+    "name": "BODY SIDE FRAME (ESTATE 35)"
+  },
+  {
+    "code": "3",
+    "name": "BODY SIDE PANELS (HATCH 68)"
+  },
+  {
+    "code": "4",
+    "name": "BODY SIDE PANELS (ESTATE 35)"
+  },
+  {
+    "code": "5",
+    "name": "FRONT DOOR SHELL"
+  },
+  {
+    "code": "6",
+    "name": "REAR DOOR SHELL"
+  },
+  {
+    "code": "7",
+    "name": "REAR WHEELHOUSE PANEL"
+  }
+]

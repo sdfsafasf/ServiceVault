@@ -1,0 +1,178 @@
+[
+  {
+    "call": "14",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13408283",
+    "desc": "BRACKET (RHD) (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (FOR RF700 TOUCH INTELLILINK SYSTEM,RPO IO5) (FOR RF900 NAVI INTELLILINK SYSTEM,RPO IO6)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8012372\n(C)      -GG007134",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(39046169)",
+    "desc": "BRACKET (RHD) (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (FOR RF700 TOUCH INTELLILINK SYSTEM,RPO IO5) (FOR RF900 NAVI INTELLILINK SYSTEM,RPO IO6) (NLS.- USE 39079553)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8012373-\n(C)  GG007135-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39079553",
+    "desc": "BRACKET (RHD) (FOR RADIO INFOTAINMENT SYSTEM,RPO IO5/IO6) (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB/IOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8012373-\n(C)  GG007135-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13413779",
+    "desc": "BRACKET (LHD) (FOR RF700 TOUCH INTELLILINK SYSTEM,RPO IO5) (FOR RF900 NAVI INTELLILINK SYSTEM,RPO IO6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13413781)",
+    "desc": "BRACKET (LHD) (FOR R300BT RADIO,RPO IP1) (FOR RPO UL5) (RADIO,DELETE) (NLS.- USE 39027411)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "39047240",
+    "desc": "BRACKET (LHD) (FOR R300BT RADIO,RPO IP1) (FOR RPO UL5) (RADIO,DELETE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39026781)",
+    "desc": "BRACKET (LHD) (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (NLS.- USE 39044713)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39044713)",
+    "desc": "BRACKET (LHD) (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (NLS.- USE 39068834)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8088094\n(C)      -GG126410",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39068834",
+    "desc": "BRACKET (LHD) (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB/IOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8088095-\n(C)  GG126411-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(11609952)",
+    "desc": "NUT (LHD) (FOR RF700 TOUCH INTELLILINK SYSTEM,RPO IO5) (FOR RF900 NAVI INTELLILINK SYSTEM,RPO IO6) (NLS.- USE YQ00109480)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(11546449)",
+    "desc": "NUT (RHD) (FOR RF700 TOUCH INTELLILINK SYSTEM,RPO IO5) (FOR RF900 NAVI INTELLILINK SYSTEM,RPO IO6) (NLS.- USE YQ00112780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11561629)",
+    "desc": "NUT (FOR RADIO INFOTAINMENT SYSTEM,RPO IP0/IP1) (NLS.- USE YQ00110380)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(11561629)",
+    "desc": "NUT (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB/IOR) (NLS.- USE YQ00110380)",
+    "qty": "",
+    "usage": "@",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB/IOR) (NLS.- USE YQ00133880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "39026780",
+    "desc": "BRACKET,TRANSCEIVER,DIGITAL AUDIO BROADCAST (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB/IOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

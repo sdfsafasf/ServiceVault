@@ -1,0 +1,46 @@
+[
+  {
+    "call": "22",
+    "part": "(12654904)",
+    "desc": "SENSOR,MINIMUM OIL LEVEL,OIL PAN (NLS.- USE 12675423)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(12675423)",
+    "desc": "SENSOR,MINIMUM OIL LEVEL,OIL PAN (NLS.- USE 12686791)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "12686791",
+    "desc": "SENSOR,MINIMUM OIL LEVEL,OIL PAN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(11588714)",
+    "desc": "SCREW,HEX.HD.,M6 X 30 (NLS.- USE YR00047880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

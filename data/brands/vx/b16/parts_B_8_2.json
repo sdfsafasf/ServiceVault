@@ -1,0 +1,61 @@
+[
+  {
+    "call": "6",
+    "part": "",
+    "desc": "GLASS,FRONT DOOR,FIXED (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP C) (FRONT DOOR FITTINGS) (SHORTCUT: B16.C130)",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "positions": [
+      {
+        "x": 1002,
+        "y": 1730
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13412496",
+    "desc": "GLASS,FRONT DOOR,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1307,
+        "y": 1605
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13412495",
+    "desc": "GLASS,FRONT DOOR,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39023308",
+    "desc": "LABEL,WIFI HOTSPOT (FOR ON-STAR COMMUNICATION SYSTEM,RPO UE1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1881,
+        "y": 1666
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

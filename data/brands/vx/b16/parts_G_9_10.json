@@ -1,0 +1,90 @@
+[
+  {
+    "call": "26",
+    "part": "55570012",
+    "desc": "INJECTOR,ASSY.,FUEL (EXCHANGE - REMAN PART 95521531)",
+    "qty": "4",
+    "usage": "B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(95521531)",
+    "desc": "INJECTOR,ASSY.,FUEL,EXCHANGE - REMAN (CORE RETURN NO. 95524226) (NLS - NO REPLACEMENT PART)",
+    "qty": "4",
+    "usage": "B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "55578075",
+    "desc": "INJECTOR,ASSY.,FUEL (EXCHANGE - REMAN PART 95521533)",
+    "qty": "4",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "95521533",
+    "desc": "INJECTOR,ASSY.,FUEL,EXCHANGE - REMAN (CORE RETURN NO. 95524226)",
+    "qty": "4",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "55590468",
+    "desc": "-WASHER",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(55488423)",
+    "desc": "INSULATOR,FUEL INJECTOR (NLS.- USE 55512766)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "55485152",
+    "desc": "BRACKET",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "55577569",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

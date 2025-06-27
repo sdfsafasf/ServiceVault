@@ -1,0 +1,79 @@
+[
+  {
+    "call": "19",
+    "part": "(55496755)",
+    "desc": "FILTER,ASSY.,OIL (NLS.- USE 55499629)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "1667442580",
+    "desc": "FILTER,ASSY.,OIL (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(12674698)",
+    "desc": "FILTER,ASSY.,OIL (NLS.- USE 55499629)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "1667442580",
+    "desc": "FILTER,ASSY.,OIL (EUROREPAR) (NLS.- USE 55499629)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(55499629)",
+    "desc": "FILTER,ASSY.,OIL (NLS.- USE 95528296)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "1667442580",
+    "desc": "FILTER,ASSY.,OIL (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "12582654",
+    "desc": "CONNECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

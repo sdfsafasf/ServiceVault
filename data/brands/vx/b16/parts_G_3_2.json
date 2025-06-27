@@ -1,0 +1,35 @@
+[
+  {
+    "call": "12",
+    "part": "(13432261)",
+    "desc": "METER,ASSY.,AIRFLOW,AIR CLEANER (NLS.- USE 12671625)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "12671625",
+    "desc": "METER,ASSY.,AIRFLOW,AIR CLEANER (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13465201",
+    "desc": "SCREW",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "call": "17",
+    "part": "13487412",
+    "desc": "TRANSFORMER,TELEPHONE AND NAVIGATION POWER SUPPLY",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13514308",
+    "desc": "TRANSFORMER,TELEPHONE AND NAVIGATION POWER SUPPLY",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13513595)",
+    "desc": "TRANSFORMER,TELEPHONE AND NAVIGATION POWER SUPPLY (NLS.- USE YR00142880)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13513595)",
+    "desc": "TRANSFORMER,TELEPHONE AND NAVIGATION POWER SUPPLY (NLS.- USE YR00142880)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13306648",
+    "desc": "TRANSFORMER,TELEPHONE AND NAVIGATION POWER SUPPLY (FOR STOP/START ENGINE SYSTEM,RPO KL9) (IDENT BB)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

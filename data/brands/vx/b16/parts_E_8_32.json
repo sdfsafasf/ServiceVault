@@ -1,0 +1,68 @@
+[
+  {
+    "call": "26",
+    "part": "55505205",
+    "desc": "-VALVE,INLET",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "55505204",
+    "desc": "-VALVE,EXHAUST",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "55484799",
+    "desc": "-SEAL,VALVE STEM",
+    "qty": "12",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "55506882",
+    "desc": "-SPRING,EXHAUST AND INLET VALVE",
+    "qty": "12",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "55484797",
+    "desc": "-CUP,EXHAUST AND INLET VALVE SPRING",
+    "qty": "12",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "55591403",
+    "desc": "-KEY,VALVE STEM",
+    "qty": "24",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "13",
+    "part": "(22943126)",
+    "desc": "MICROPHONE,CAR TELEPHONE (NLS.- USE 84366725)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13524213",
+    "desc": "MICROPHONE,CAR TELEPHONE,WITH BLACK CONNECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13524212",
+    "desc": "MICROPHONE,WITH GREEN CONNECTOR",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

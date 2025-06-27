@@ -1,0 +1,443 @@
+[
+  {
+    "call": "1",
+    "part": "(13434703)",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (OPEL) (NLS.- USE 39042463)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 276,
+        "y": 2282
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39042463",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (OPEL)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118076)",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (OPEL) (NLS.- USE 39153608)",
+    "usage": "",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39177112",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (OPEL)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13434704)",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (VAUXHALL) (NLS.- USE 39042464)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39042464",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (VAUXHALL)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118077)",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (VAUXHALL) (NLS.- USE 39153609)",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39153609",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (VAUXHALL)",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39042465",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (HOLDEN)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118078)",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (HOLDEN) (NLS.- USE 39153610)",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39153610",
+    "desc": "AIRBAG ASSY.,DRIVERS SIDE (HOLDEN)",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39030033)",
+    "desc": "AIRBAG ASSY.,PASSENGER SIDE (NLS.- USE 39049458)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 105,
+        "y": 473
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39049458)",
+    "desc": "AIRBAG ASSY.,PASSENGER SIDE (NLS.- USE 13499663)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13499663)",
+    "desc": "AIRBAG ASSY.,PASSENGER SIDE (NLS.- USE 39132816)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11609268",
+    "desc": "SCREW,TORX,M6 X 25,PASSENGER SIDE",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 295,
+        "y": 715
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13369899)",
+    "desc": "AIRBAG ASSY.,SIDE,FRONT SEAT,RH (NLS.- USE 39023002)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1987,
+        "y": 2267
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39023002",
+    "desc": "AIRBAG ASSY.,SIDE,FRONT SEAT,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13369898)",
+    "desc": "AIRBAG ASSY.,SIDE,FRONT SEAT,LH (NLS.- USE 39023001)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39023001",
+    "desc": "AIRBAG ASSY.,SIDE,FRONT SEAT,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(11098671)",
+    "desc": "NUT,M5 (NLS.- USE YQ00165080)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 2161,
+        "y": 2120
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39008398)",
+    "desc": "AIRBAG ASSY.,ROOF,RH (NLS.- USE 39058590)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1801,
+        "y": 538
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39058590",
+    "desc": "AIRBAG ASSY.,ROOF,RH",
+    "usage": "5 DOOR HATCH 68",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39090772)",
+    "desc": "AIRBAG ASSY.,ROOF,RH (NLS.- USE 39163257)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39008397)",
+    "desc": "AIRBAG ASSY.,ROOF,LH (NLS.- USE 39058589)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39058589",
+    "desc": "AIRBAG ASSY.,ROOF,LH",
+    "usage": "5 DOOR HATCH 68",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39090771)",
+    "desc": "AIRBAG ASSY.,ROOF,LH (NLS.- USE 39163256)",
+    "usage": "5 DOOR HATCH 68",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39163256",
+    "desc": "AIRBAG ASSY.,ROOF,LH",
+    "usage": "5 DOOR HATCH 68",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39008396)",
+    "desc": "AIRBAG ASSY.,ROOF,RH (NLS.- USE 39058588)",
+    "usage": "ESTATE 35",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39058588",
+    "desc": "AIRBAG ASSY.,ROOF,RH",
+    "usage": "ESTATE 35",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39090774)",
+    "desc": "AIRBAG ASSY.,ROOF,RH (NLS.- USE 39163259)",
+    "usage": "ESTATE 35",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39008395)",
+    "desc": "AIRBAG ASSY.,ROOF,LH (NLS.- USE 39058587)",
+    "usage": "ESTATE 35",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39058587",
+    "desc": "AIRBAG ASSY.,ROOF,LH",
+    "usage": "ESTATE 35",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39090773)",
+    "desc": "AIRBAG ASSY.,ROOF,LH (NLS.- USE 39163258)",
+    "usage": "ESTATE 35",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(25640395)",
+    "desc": "NUT,M6,ROOF (NLS.- USE YQ00113980)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1587,
+        "y": 483
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11609585",
+    "desc": "SCREW,TORX,M6 X 20,ROOF",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 2146,
+        "y": 480
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13484146",
+    "desc": "LABEL,WARNING,CHILD SEAT,INSTRUMENT PANEL (FOR PASSENGER AIRBAG DISABLE SWITCH,RPO C99) (FOR TURKEY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1312,
+        "y": 2120
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

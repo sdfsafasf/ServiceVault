@@ -1,0 +1,200 @@
+[
+  {
+    "call": "9",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,PLUG (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55598160",
+    "desc": "GASKET,CYLINDER HEAD,1.45MM THICK (IDENT 0,35)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55598158",
+    "desc": "GASKET,CYLINDER HEAD,1.35MM THICK (IDENT 0,25)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55598159",
+    "desc": "GASKET,CYLINDER HEAD,1.25MM THICK (IDENT 0,15)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55598493",
+    "desc": "SCREW,M12,196.9MM LONG",
+    "qty": "10",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11588727",
+    "desc": "SCREW,M8 X 45",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "12570326",
+    "desc": "PIN,STRAIGHT,HEAD TO CYLINDER BLOCK",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(55489310)",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (EXCHANGE - REMAN PART 95519588) (NLS.- USE 55497848)",
+    "qty": "1",
+    "usage": "(E)      -20 A3160785GW6X1016",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(55497848)",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (NLS.- USE 55500311)",
+    "qty": "1",
+    "usage": "(E)  20 A3160785GW6X1017-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(55500311)",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (NLS.- USE 55501671)",
+    "qty": "1",
+    "usage": "(E)  20 A3160785GW6X1017-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(55501671)",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "(E)  20 A3160785GW6X1017-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "95519588",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES,EXCHANGE - REMAN (CORE RETURN NO. 95524441)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11561583",
+    "desc": "-PLUG,M14 X 1.5 X 16",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "11546665",
+    "desc": "-PLUG,M12 X 16",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11562125",
+    "desc": "-PLUG,22.59MM DIA. X 6.6",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "11562127",
+    "desc": "-PLUG,14 MM OD.",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "11588732",
+    "desc": "-SCREW,HEX.HD.,M8 X 70,BEARING CAP,CAMSHAFT,REAR",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "11518856",
+    "desc": "-SCREW,M6 X 43,CAP BEARING,CAMSHAFT",
+    "qty": "16",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

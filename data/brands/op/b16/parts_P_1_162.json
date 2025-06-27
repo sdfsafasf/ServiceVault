@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "12697399",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95530281)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95530281",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11588744)",
+    "desc": "SCREW,HEX.HD.,M10 X 61 (NLS.- USE YR00067280)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(90351710)",
+    "desc": "SLEEVE (NLS.- USE YQ00690080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

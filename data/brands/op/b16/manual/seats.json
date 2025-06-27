@@ -1,0 +1,536 @@
+{
+  "sectionTitle": "Seats",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Power Seats",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Driver Seat Schematics",
+              "url": "astra-k/4446234.pdf"
+            },
+            {
+              "title": "Passenger Seat Schematics",
+              "url": "astra-k/4446237.pdf"
+            },
+            {
+              "title": "Rear Seat Schematics",
+              "url": "astra-k/4446240.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B1405, B1825, B2355, B2365, or B2375",
+              "url": "astra-k/4259409.pdf"
+            },
+            {
+              "title": "DTC B1735, B1740, B1745, B1750, B1755, B1760, B1815, or B1820 (LHD)",
+              "url": "astra-k/4161862.pdf"
+            },
+            {
+              "title": "DTC B1735, B1740, B1745, B1750, B1755, B1760, B1815, or B1820 (RHD)",
+              "url": "astra-k/4161864.pdf"
+            },
+            {
+              "title": "DTC B392B",
+              "url": "astra-k/4165399.pdf"
+            },
+            {
+              "title": "DTC B392C",
+              "url": "astra-k/3817196.pdf"
+            },
+            {
+              "title": "Symptoms - Power Seats",
+              "url": "astra-k/2395035.pdf"
+            },
+            {
+              "title": "Lumbar Support Malfunction (With A74)",
+              "url": "astra-k/4165683.pdf"
+            },
+            {
+              "title": "Lumbar Support Malfunction (Without A74)",
+              "url": "astra-k/4166102.pdf"
+            },
+            {
+              "title": "Memory Seat Feature Malfunction",
+              "url": "astra-k/4363595.pdf"
+            },
+            {
+              "title": "Power Folding Seat Malfunction",
+              "url": "astra-k/3560192.pdf"
+            },
+            {
+              "title": "Power Seat Malfunction (LHD with Memory A74)",
+              "url": "astra-k/4161866.pdf"
+            },
+            {
+              "title": "Power Seat Malfunction (RHD with Memory A74)",
+              "url": "astra-k/4161867.pdf"
+            },
+            {
+              "title": "Power Seat Malfunction (2-Way Seat)",
+              "url": "astra-k/4166295.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Wire to Wire Repair - Seats",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - Seats",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Driver Seat Adjuster Switch Replacement (8-Way Power Seat)",
+              "url": "astra-k/4228272.pdf"
+            },
+            {
+              "title": "Driver Seat Adjuster Switch Replacement (Eletrical Tilt Adjuster)",
+              "url": "astra-k/4228278.pdf"
+            },
+            {
+              "title": "Driver Seat Adjuster Memory Switch Replacement",
+              "url": "astra-k/4228268.pdf"
+            },
+            {
+              "title": "Driver Seat Adjuster Memory Module Replacement",
+              "url": "astra-k/4228284.pdf"
+            },
+            {
+              "title": "Front Seat Tilt Adjuster Actuator Replacement",
+              "url": "astra-k/4328890.pdf"
+            },
+            {
+              "title": "Front Seat Vertical Adjuster Actuator Replacement",
+              "url": "astra-k/5121781.pdf"
+            },
+            {
+              "title": "Front Seat Adjuster Actuator Replacement",
+              "url": "astra-k/4339560.pdf"
+            },
+            {
+              "title": "Front Seat Recliner Actuator Motor Replacement",
+              "url": "astra-k/3825637.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Lumbar Support Description and Operation (With Seat Bolster Memory Control Module and A45)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Lumbar Support Description and Operation (Without A45)",
+              "url": "astra-k/4168699.pdf"
+            },
+            {
+              "title": "Memory Seats Description and Operation",
+              "url": "astra-k/3996171.pdf"
+            },
+            {
+              "title": "Power Seats System Description and Operation (Folding Rear Seat)",
+              "url": "astra-k/3560194.pdf"
+            },
+            {
+              "title": "Power Seats System Description and Operation (Front Seat)",
+              "url": "astra-k/4166470.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seat Hardware, Trim, and Upholstery",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Front Seat Removal and Installation",
+              "url": "astra-k/4339566.pdf"
+            },
+            {
+              "title": "Front Seat Outer Adjuster Front Finish Cover Replacement (AG1)",
+              "url": "astra-k/4228487.pdf"
+            },
+            {
+              "title": "Front Seat Outer Adjuster Front Finish Cover Replacement (AVK)",
+              "url": "astra-k/4228505.pdf"
+            },
+            {
+              "title": "Driver or Passenger Seat Wiring Harness Replacement",
+              "url": "astra-k/4228534.pdf"
+            },
+            {
+              "title": "Front Seat Adjuster Knob Replacement",
+              "url": "astra-k/3702322.pdf"
+            },
+            {
+              "title": "Front Seat Vertical Actuator Handle Replacement",
+              "url": "astra-k/4228525.pdf"
+            },
+            {
+              "title": "Front Seat Vertical Actuator Lever Replacement",
+              "url": "astra-k/4228537.pdf"
+            },
+            {
+              "title": "Front Seat Adjuster Handle Replacement",
+              "url": "astra-k/4278895.pdf"
+            },
+            {
+              "title": "Front Seat Tilt Adjuster Lever Bolt Cap Replacement",
+              "url": "astra-k/3687875.pdf"
+            },
+            {
+              "title": "Front Seat Adjuster Track Finish Cover Replacement",
+              "url": "astra-k/3701834.pdf"
+            },
+            {
+              "title": "Front Seat Head Restraint Replacement",
+              "url": "astra-k/2915882.pdf"
+            },
+            {
+              "title": "Driver or Passenger Seat Head Restraint Guide Replacement",
+              "url": "astra-k/2165110.pdf"
+            },
+            {
+              "title": "Front Seat Head Restraint Guide Bezel Replacement",
+              "url": "astra-k/3702315.pdf"
+            },
+            {
+              "title": "Front Seat Belt Anchor Plate Tensioner Cover Replacement",
+              "url": "astra-k/3702323.pdf"
+            },
+            {
+              "title": "Front Seat Adjuster Finish Cover Replacement",
+              "url": "astra-k/4228510.pdf"
+            },
+            {
+              "title": "Front Seat Outer Recliner Finish Cover Bracket Replacement",
+              "url": "astra-k/4328892.pdf"
+            },
+            {
+              "title": "Front Seat Inner Recliner Finish Cover Replacement",
+              "url": "astra-k/4228460.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Frame Replacement (Base)",
+              "url": "astra-k/4228438.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Frame Replacement (Power Seats)",
+              "url": "astra-k/4228443.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Pad Support Replacement",
+              "url": "astra-k/3702352.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Cover and Pad Replacement (except 8-Way Power Seat)",
+              "url": "astra-k/4228447.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Cover and Pad Replacement (8-Way Power Seat)",
+              "url": "astra-k/4290400.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Front Extension Pad and Cover Replacement",
+              "url": "astra-k/4228536.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Front Extension Frame Replacement",
+              "url": "astra-k/4228529.pdf"
+            },
+            {
+              "title": "Front Seat Back Pad Support Replacement",
+              "url": "astra-k/3702301.pdf"
+            },
+            {
+              "title": "Front Seat Back Cover and Pad Replacement (Base)",
+              "url": "astra-k/4228423.pdf"
+            },
+            {
+              "title": "Front Seat Back Frame Replacement (Base)",
+              "url": "astra-k/4228445.pdf"
+            },
+            {
+              "title": "Front Seat Back Frame Replacement (Power Seats)",
+              "url": "astra-k/4228446.pdf"
+            },
+            {
+              "title": "Front Seat Recliner Handle Replacement",
+              "url": "astra-k/4228539.pdf"
+            },
+            {
+              "title": "Front Seat Back Recliner Knob Replacement",
+              "url": "astra-k/3702283.pdf"
+            },
+            {
+              "title": "Front Seat Back Lumbar Replacement",
+              "url": "astra-k/4228514.pdf"
+            },
+            {
+              "title": "Front Seat Lumbar Switch Replacement (Seat Outer Adjuster Front Finish Cover)",
+              "url": "astra-k/4228255.pdf"
+            },
+            {
+              "title": "Front Seat Lumbar Switch Replacement (Vertical Actuator Handle)",
+              "url": "astra-k/4228258.pdf"
+            },
+            {
+              "title": "Rear Seat Armrest Replacement",
+              "url": "astra-k/3688502.pdf"
+            },
+            {
+              "title": "Rear Seat Armrest Bracket Replacement",
+              "url": "astra-k/3702324.pdf"
+            },
+            {
+              "title": "Rear Seat Armrest Support Finish Cover Replacement",
+              "url": "astra-k/4430680.pdf"
+            },
+            {
+              "title": "Rear Seat Head Restraint Guide Replacement",
+              "url": "astra-k/4328916.pdf"
+            },
+            {
+              "title": "Rear Seat Back Pivot Support Replacement",
+              "url": "astra-k/2857706.pdf"
+            },
+            {
+              "title": "Rear Seat Cushion Retainer Replacement",
+              "url": "astra-k/3709410.pdf"
+            },
+            {
+              "title": "Rear Seat Cushion Cover and Pad Replacement",
+              "url": "astra-k/3687876.pdf"
+            },
+            {
+              "title": "Rear Seat Cushion Removal and Installation",
+              "url": "astra-k/4432394.pdf"
+            },
+            {
+              "title": "Rear Seat Back Latch Replacement (40 Percent Seat)",
+              "url": "astra-k/3688514.pdf"
+            },
+            {
+              "title": "Rear Seat Back Latch Replacement (60 Percent Seat)",
+              "url": "astra-k/3701832.pdf"
+            },
+            {
+              "title": "Rear Seat Back Cushion Removal and Installation (Center Seat)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Rear Seat Belt Opening Cover Replacement",
+              "url": "astra-k/3702317.pdf"
+            },
+            {
+              "title": "Rear Seat Back Folding Switch Replacement",
+              "url": "astra-k/3806913.pdf"
+            },
+            {
+              "title": "Rear Seat Back Carpet Replacement",
+              "url": "astra-k/3702306.pdf"
+            },
+            {
+              "title": "Rear Seat Back Cover and Pad Replacement (40 Percent Seat)",
+              "url": "astra-k/4228753.pdf"
+            },
+            {
+              "title": "Rear Seat Back Cover and Pad Replacement (60 Percent Seat)",
+              "url": "astra-k/4228754.pdf"
+            },
+            {
+              "title": "Rear Seat Back Cushion Removal and Installation - Right Side (40 Percent Seat)",
+              "url": "astra-k/4433237.pdf"
+            },
+            {
+              "title": "Rear Seat Back Cushion Removal and Installation - Right Side (60 Percent Seat)",
+              "url": "astra-k/4433242.pdf"
+            },
+            {
+              "title": "Rear Seat Back Cushion Removal and Installation - Left Side",
+              "url": "astra-k/4433245.pdf"
+            },
+            {
+              "title": "Rear Seat Back Frame Replacement (Center Seat)",
+              "url": "astra-k/4228431.pdf"
+            },
+            {
+              "title": "Rear Seat Back Frame Replacement - Left Side",
+              "url": "astra-k/4228448.pdf"
+            },
+            {
+              "title": "Rear Seat Back Frame Replacement - Right Side (40 Percent Seat)",
+              "url": "astra-k/4228450.pdf"
+            },
+            {
+              "title": "Rear Seat Back Frame Replacement - Right Side (60 Percent Seat)",
+              "url": "astra-k/4228452.pdf"
+            },
+            {
+              "title": "Rear Seat Back Hinge Replacement",
+              "url": "astra-k/4092775.pdf"
+            },
+            {
+              "title": "Rear Seat Back Latch Release Handle Bezel Replacement",
+              "url": "astra-k/3979421.pdf"
+            },
+            {
+              "title": "Folding Rear Seat Back Actuator Replacement",
+              "url": "astra-k/4328931.pdf"
+            },
+            {
+              "title": "Rear Seat Recliner Outer Finish Cover Replacement",
+              "url": "astra-k/4433214.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seat Heating and Cooling",
+      "nestedSections": [
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Heated/Cooled Seat Schematics",
+              "url": "astra-k/4446242.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B059E or B059F",
+              "url": "astra-k/4210840.pdf"
+            },
+            {
+              "title": "DTC B191A or B191B",
+              "url": "astra-k/2788705.pdf"
+            },
+            {
+              "title": "Symptoms - Seat Heating and Cooling",
+              "url": "astra-k/1971235.pdf"
+            },
+            {
+              "title": "Front Heated Seat Malfunction",
+              "url": "astra-k/4171266.pdf"
+            },
+            {
+              "title": "Rear Heated Seat Malfunction",
+              "url": "astra-k/4210834.pdf"
+            },
+            {
+              "title": "Vented Seat Malfunction",
+              "url": "astra-k/4182399.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Wire to Wire Repair - Seats",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - Seats",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Front Seat Heater Control Module Replacement",
+              "url": "astra-k/4244580.pdf"
+            },
+            {
+              "title": "Front Seat Back Heater Replacement",
+              "url": "astra-k/4567647.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Heater Replacement",
+              "url": "astra-k/4567653.pdf"
+            },
+            {
+              "title": "Rear Seat Heater Switch Replacement",
+              "url": "astra-k/4228320.pdf"
+            },
+            {
+              "title": "Rear Seat Heater Control Module Replacement",
+              "url": "astra-k/4244584.pdf"
+            },
+            {
+              "title": "Rear Seat Back Heater Replacement",
+              "url": "astra-k/4228313.pdf"
+            },
+            {
+              "title": "Rear Seat Cushion Heater Replacement",
+              "url": "astra-k/4228305.pdf"
+            },
+            {
+              "title": "Front Seat Cushion Vent Fan Replacement",
+              "url": "astra-k/4228331.pdf"
+            },
+            {
+              "title": "Front Seat Vent Fan Mat Replacement",
+              "url": "astra-k/4567658.pdf"
+            },
+            {
+              "title": "Front Seat Back Vent Fan Replacement",
+              "url": "astra-k/4228297.pdf"
+            },
+            {
+              "title": "Front Seat Back Vent Fan Mat Replacement",
+              "url": "astra-k/4567661.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Heated/Vented Seat Description and Operation",
+              "url": "astra-k/4171269.pdf"
+            },
+            {
+              "title": "Rear Heated Seats Description and Operation",
+              "url": "astra-k/4079039.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "call": "6",
+    "part": "(13498084)",
+    "desc": "ROD,BONNET STAY (NLS.- USE 39201535)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 928,
+        "y": 1265
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39201535",
+    "desc": "ROD,BONNET STAY",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13482904",
+    "desc": "PIVOT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 217,
+        "y": 1226
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11589010",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 13",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 526,
+        "y": 1013
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13249044",
+    "desc": "CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1102,
+        "y": 1532
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13187423",
+    "desc": "HOUSING,BONNET STAY",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 127,
+        "y": 1037
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "call": "21X",
+    "part": "(12664829)",
+    "desc": "BEARING,CONNECTING ROD (NLS.- USE 12674806)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21X",
+    "part": "12674806",
+    "desc": "BEARING,CONNECTING ROD,KIT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

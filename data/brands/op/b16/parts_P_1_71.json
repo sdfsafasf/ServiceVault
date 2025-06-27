@@ -1,0 +1,35 @@
+[
+  {
+    "call": "12",
+    "part": "",
+    "desc": "SENSOR,TEMPERATURE,ENGINE COOLANT (PLEASE REFER TO GROUP F) (RADIATOR) (SHORTCUT: B16.F200)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "12641073",
+    "desc": "SENSOR,TEMPERATURE,ENGINE COOLANT,WATER OUTLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55575090",
+    "desc": "RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

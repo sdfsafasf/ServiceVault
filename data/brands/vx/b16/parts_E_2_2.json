@@ -1,0 +1,35 @@
+[
+  {
+    "call": "17X",
+    "part": "55512648",
+    "desc": "KIT,ROD AND CAP,ASSY.,CONNECTING",
+    "qty": "3",
+    "usage": "(E)      -A1212491MLKX0080",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17X",
+    "part": "55512354",
+    "desc": "KIT,ROD AND CAP,ASSY.,CONNECTING",
+    "qty": "3",
+    "usage": "(E)  A1212491MLKX0081-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11549038",
+    "desc": "-SCREW",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

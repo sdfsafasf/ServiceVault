@@ -1,0 +1,24 @@
+[
+  {
+    "call": "2",
+    "part": "(13363696)",
+    "desc": "INSULATOR,LOWER (NLS.- USE 39008492)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39008492",
+    "desc": "INSULATOR,LOWER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

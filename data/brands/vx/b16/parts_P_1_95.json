@@ -1,0 +1,57 @@
+[
+  {
+    "call": "11",
+    "part": "55489870",
+    "desc": "SENSOR,TEMPERATURE,ENGINE COOLANT",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "",
+    "desc": "-'O'RING (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55575090",
+    "desc": "RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55488246",
+    "desc": "SENSOR,TEMPERATURE,ENGINE COOLANT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "",
+    "desc": "SENSOR,TEMPERATURE,ENGINE COOLANT (PLEASE REFER TO GROUP F) (RADIATOR) (SHORTCUT: B16.F290)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

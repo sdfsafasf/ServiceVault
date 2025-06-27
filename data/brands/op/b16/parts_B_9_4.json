@@ -1,0 +1,157 @@
+[
+  {
+    "call": "1",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "9",
+      "detail": "3",
+      "call": "1"
+    },
+    "positions": [
+      {
+        "x": 1601,
+        "y": 453
+      }
+    ],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "9",
+      "detail": "3",
+      "call": "2"
+    },
+    "positions": [
+      {
+        "x": 1593,
+        "y": 761
+      }
+    ],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "9",
+      "detail": "3",
+      "call": "3"
+    },
+    "positions": [
+      {
+        "x": 1593,
+        "y": 1070
+      }
+    ],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "9",
+      "detail": "3",
+      "call": "4"
+    },
+    "positions": [
+      {
+        "x": 1516,
+        "y": 1146
+      },
+      {
+        "x": 1519,
+        "y": 835
+      },
+      {
+        "x": 1524,
+        "y": 532
+      }
+    ],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "hidden": true,
+    "link": {
+      "section": "B",
+      "subsection": "9",
+      "detail": "3",
+      "call": "5"
+    },
+    "positions": [
+      {
+        "x": 501,
+        "y": 688
+      }
+    ],
+    "part": "",
+    "desc": "",
+    "usage": "",
+    "range": "",
+    "qty": "",
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(23477578)",
+    "desc": "HANDLE,TAIL GATE (NLS.- USE YQ00461580)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1527,
+        "y": 2394
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11546446",
+    "desc": "NUT,HEX.",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1260,
+        "y": 1643
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "call": "10",
+    "part": "(13366699)",
+    "desc": "SPRING,ASSY.,REAR (FOR LOWERED CHASSIS,RPO XJ6) (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (FOR STANDARD CHASSIS) (NLS.- USE 13366695) (IDENT AAVL)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366699)",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (NLS.- USE 13366695) (IDENT AAVL)",
+    "qty": "2",
+    "usage": "B10XFL[LE1],B14XE[LV7],B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],B16DTR[LVK]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (FOR LOWERED CHASSIS,RPO XJ6) (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (IDENT AA7W)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AA7W)",
+    "qty": "2",
+    "usage": "B10XFL[LE1],B14XE[LV7],B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],B16DTR[LVK]",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366699)",
+    "desc": "SPRING,ASSY.,REAR (HOLDEN) (FOR STANDARD CHASSIS) (NLS.- USE 13366695) (IDENT AA7W)",
+    "qty": "2",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (FOR STANDARD CHASSIS) (EXCEPT HOLDEN) (IDENT AA7W)",
+    "qty": "2",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (IDENT AA7W)",
+    "qty": "2",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B16DTE[LWQ]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (EMISSION CODE NE4) (IDENT AA7W)",
+    "qty": "2",
+    "usage": "B16DTH[LVL],B16DTR[LVK]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (FOR REMOVABLE TRAILER COUPLING,RPO VQ9) (IDENT AA7W)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112565",
+    "desc": "SPRING,ASSY.,REAR (EMISSION CODE NCV) (IDENT AA7X)",
+    "qty": "2",
+    "usage": "B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO],B16DTR[LVK],D16DTR[LVK]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366696)",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (NLS.- USE 39112567) (IDENT AAVB)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112567",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AA73)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366702)",
+    "desc": "SPRING,ASSY.,REAR (NLS.- USE 39112571) (IDENT AA0P)",
+    "qty": "2",
+    "usage": "B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112571",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (IDENT AA77)",
+    "qty": "2",
+    "usage": "B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13366704",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (IDENT AAVD)",
+    "qty": "2",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112568",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (EXCEPT HOLDEN) (IDENT AA74)",
+    "qty": "2",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112564",
+    "desc": "SPRING,ASSY.,REAR (FOR RAISED CHASSIS,RPO ZQF) (HOLDEN) (IDENT AA74)",
+    "qty": "2",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13366706)",
+    "desc": "SPRING,ASSY.,REAR (FOR LOWERED CHASSIS,RPO XJ6) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (NLS.- USE 39112566) (IDENT AA17)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112566",
+    "desc": "SPRING,ASSY.,REAR (FOR LOWERED CHASSIS,RPO XJ6) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AA7Y)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39112566",
+    "desc": "SPRING,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING) (IDENT AA7Y)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "call": "25",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER (M4.2 X 20) (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB/IOR) (NLS.- USE YQ00133880)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "42342511",
+    "desc": "UNIT,DISPLAY (7 INCH) (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (IDENT AHMX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "42578321",
+    "desc": "UNIT,DISPLAY (7 INCH) (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (IDENT AL85)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "42578318",
+    "desc": "UNIT,DISPLAY (7 INCH) (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (IDENT AL8Y)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(39217909)",
+    "desc": "UNIT,DISPLAY (FOR R4.0 INTELLILINK SYSTEM,RPO IOB) (FOR NAVIGATION SYSTEM,RPO UY4) (NLS.- USE YR00254480)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "84695515",
+    "desc": "UNIT,DISPLAY (FOR RADIO INFOTAINMENT SYSTEM,RPO IOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(84582815)",
+    "desc": "UNIT,DISPLAY (FOR RADIO INFOTAINMENT SYSTEM,RPO IOU) (NLS.- USE 39222591)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "(11561629)",
+    "desc": "NUT,PRESS,M4.2,DISPLAY UNIT (FOR FORWARD COLLISION SENSOR,RPO UEU) (NLS.- USE YQ00110380)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

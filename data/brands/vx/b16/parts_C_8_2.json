@@ -1,0 +1,144 @@
+[
+  {
+    "call": "4",
+    "part": "39023617",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,INNER,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1059,
+        "y": 1404
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39023618",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,INNER,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13406190)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39042819)",
+    "usage": "",
+    "range": "(C)      -G8056729\n(C)      -GG064181",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2008,
+        "y": 815
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39042819)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39079237)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39079237)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39102979)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39102979)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 39133183)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39133183)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,RH (NLS.- USE 42707835)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13406189)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 39042818)",
+    "usage": "",
+    "range": "(C)      -G8056729\n(C)      -GG064181",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39042818)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 39079236)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39079236)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 39102978)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39102978)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 39133182)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39133182)",
+    "desc": "WEATHERSTRIP,FRONT DOOR WINDOW RECESS,OUTER,LH (NLS.- USE 42707834)",
+    "usage": "",
+    "range": "(C)  G8056730-\n(C)  GG064182-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

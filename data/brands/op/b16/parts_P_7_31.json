@@ -1,0 +1,24 @@
+[
+  {
+    "call": "11",
+    "part": "13142312",
+    "desc": "STRAP,RETAINING,150MM LONG",
+    "qty": "4",
+    "usage": "B16DTR[LVK],D16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13300763",
+    "desc": "BRACKET,FRONT SEAT WIRING HARNESS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "18",
+    "part": "55513321",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 1",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "12702905",
+    "desc": "SENSOR,EXHAUST TEMPERATURE,POSITION 2",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "55354925",
+    "desc": "CLIP",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

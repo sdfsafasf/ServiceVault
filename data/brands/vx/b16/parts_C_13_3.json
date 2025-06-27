@@ -1,0 +1,417 @@
+[
+  {
+    "call": "1",
+    "part": "(39014501)",
+    "desc": "HINGE,ASSY.,TAIL GATE,RH (NLS.- USE 39039656)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 537,
+        "y": 216
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39039656",
+    "desc": "HINGE,ASSY.,TAIL GATE,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39014500)",
+    "desc": "HINGE,ASSY.,TAIL GATE,LH (NLS.- USE 39039655)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39039655",
+    "desc": "HINGE,ASSY.,TAIL GATE,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11570646)",
+    "desc": "SCREW,TORX,M8 X 30 (NLS.- USE YQ00156980)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 531,
+        "y": 103
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11546441)",
+    "desc": "NUT (NLS.- USE 9826216780)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 233,
+        "y": 569
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39023118)",
+    "desc": "STRUT,GAS PRESSURE,TAILGATE,RH (NLS.- USE 39040433)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1885,
+        "y": 526
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39040433)",
+    "desc": "STRUT,GAS PRESSURE,TAILGATE,RH (NLS.- USE 39116888)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39023117)",
+    "desc": "ACTUATOR,LH (NLS.- USE 39078579)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 233,
+        "y": 986
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39078579)",
+    "desc": "ACTUATOR,LH (NLS.- USE 39089337)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39089337",
+    "desc": "ACTUATOR,LH",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13442091)",
+    "desc": "BRACKET,RH (NLS.- USE 39029973)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1364,
+        "y": 122
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39029973",
+    "desc": "BRACKET,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13442090)",
+    "desc": "BRACKET,LH (NLS.- USE 39029972)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 53,
+        "y": 572
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39029972",
+    "desc": "BRACKET,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11609813",
+    "desc": "SCREW,M8 X 25",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 111,
+        "y": 1004
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11546846)",
+    "desc": "PIVOT,BALL (NLS.- USE YR00236880)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 543,
+        "y": 1004
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(22904917)",
+    "desc": "BUMPER,ADJUSTABLE (NLS.- USE YR00226880)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 546,
+        "y": 1369
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(24428563)",
+    "desc": "BUMPER,TAILGATE STOP (NLS.- USE YQ00151880)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 382,
+        "y": 1345
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "",
+    "desc": "MODULE (PLEASE REFER TO GROUP P) (BODY) (SHORTCUT: B16.P941)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1781,
+        "y": 2164
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13592746)",
+    "desc": "LOCK,ASSY.,TAIL GATE (NLS.- USE 13509598)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1653,
+        "y": 1616
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13509598)",
+    "desc": "LOCK,ASSY.,TAIL GATE (NLS.- USE 13519125)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13519125)",
+    "desc": "LOCK,ASSY.,TAIL GATE (NLS.- USE 13527320)",
+    "usage": "",
+    "range": "(C)  H8000001-L8999999\n(C)  HG000001-LG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13527320)",
+    "desc": "LOCK,ASSY.,TAIL GATE (NLS.- USE 13537955)",
+    "usage": "",
+    "range": "(C)  H8000001-L8999999\n(C)  HG000001-LG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13537955)",
+    "desc": "LOCK,ASSY.,TAIL GATE (NLS.- USE YR00237180)",
+    "usage": "",
+    "range": "(C)  M8000001-\n(C)  MG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(11610966)",
+    "desc": "SCREW,TORX,M8 X 25 (NLS.- USE YR00237380)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1523,
+        "y": 1832
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13581431)",
+    "desc": "STRIKER,TAIL GATE (NLS.- USE YR00237580)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1173,
+        "y": 1661
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11518445",
+    "desc": "SCREW,SPECIAL,M8 X 25",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1167,
+        "y": 1601
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11571162",
+    "desc": "SCREW,SPECIAL,M8 X 25",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13500937)",
+    "desc": "PLUG (NLS.- USE YR00244280)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 890,
+        "y": 767
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "55513149",
+    "desc": "PUMP,ASSY.,FUEL INJECTION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55506778",
+    "desc": "-'O'RING,FUEL INJECTION PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11547059",
+    "desc": "SCREW,M8 X 41,FUEL INJECTION PUMP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55515409",
+    "desc": "PLUNGER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

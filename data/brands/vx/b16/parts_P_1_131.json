@@ -1,0 +1,24 @@
+[
+  {
+    "call": "10",
+    "part": "",
+    "desc": "SENSOR,COOLANT TEMPERATURE,RADIATOR (PLEASE REFER TO GROUP F) (RADIATOR) (SHORTCUT: B16.F400)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "25186240",
+    "desc": "SENSOR,COOLANT TEMPERATURE,CYLINDER BLOCK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

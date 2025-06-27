@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "55498116",
+    "desc": "CYLINDER,ASSY.,CLUTCH SLAVE (USE IN CONJUNCTION WITH 13105589 AND 90522036)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "90092679",
+    "desc": "'O'RING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11098452",
+    "desc": "SCREW,FILL.HD.,M6 X 21,CLUTCH SLAVE CYLINDER",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

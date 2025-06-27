@@ -1,0 +1,139 @@
+[
+  {
+    "call": "5",
+    "part": "13250935",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,5 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 324,
+        "y": 867
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13250936",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,10 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13250937",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,15 GRAMS (PRODUCTION NO. 13158043)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13250938",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,20 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13250939",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,25 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13250940)",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,30 GRAMS (NLS.- USE YQ00296480)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13250941",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,35 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13244878",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,40 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13244879",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,45 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13244880)",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,50 GRAMS (NLS.- USE YQ00301180)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13244881",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,55 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13244882",
+    "desc": "WEIGHT,ASSY.,WHEEL BALANCE,60 GRAMS",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

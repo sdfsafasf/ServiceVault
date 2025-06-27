@@ -1,0 +1,222 @@
+[
+  {
+    "call": "4",
+    "part": "(13476870)",
+    "desc": "CABLE,GEAR SELECTOR CONTROL (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (NLS.- USE 39021792)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39021792)",
+    "desc": "CABLE,GEAR SELECTOR CONTROL (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (NLS.- USE 42747016)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "42747016",
+    "desc": "CABLE,GEAR SELECTOR CONTROL (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39000059)",
+    "desc": "CABLE,GEAR SELECTOR CONTROL (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 39021791)",
+    "qty": "",
+    "usage": "",
+    "range": "(C)      -G8047933\n(C)      -GG052770",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39179557",
+    "desc": "CABLE,GEAR SELECTOR CONTROL (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "",
+    "usage": "",
+    "range": "(C)  G8047934-\n(C)  GG052771-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39220074)",
+    "desc": "CABLE,GEAR SELECTOR CONTROL (FOR 250 CVT TRANSMISSION,RPO MRG) (NLS.- USE 39238347)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39126552",
+    "desc": "CABLE,GEAR SELECTOR CONTROL (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13468741",
+    "desc": "-ADJUSTER,CABLE,GEAR SELECTOR CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55593382",
+    "desc": "GUIDE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13413360",
+    "desc": "LEVER (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13436931",
+    "desc": "LEVER (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "",
+    "desc": "LEVER (FOR 250 CVT TRANSMISSION,RPO MRG) (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "",
+    "desc": "LEVER (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11546378",
+    "desc": "NUT,HEX.,M10,GEAR SELECTOR LEVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13413359",
+    "desc": "BRACKET,GEARSHIFT CONTROL CABLE (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13436932",
+    "desc": "BRACKET,GEARSHIFT CONTROL CABLE (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "",
+    "desc": "BRACKET,GEARSHIFT CONTROL CABLE (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(11546389)",
+    "desc": "NUT,FLANGED,M6 (NLS.- USE YR00713080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "11547176",
+    "desc": "SCREW,BRACKET (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11588713",
+    "desc": "SCREW,HEX.HD.,BRACKET,M6 X 25 (FOR 250 CVT TRANSMISSION,RPO MRG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

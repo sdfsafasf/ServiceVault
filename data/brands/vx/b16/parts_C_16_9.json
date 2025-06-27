@@ -1,0 +1,287 @@
+[
+  {
+    "call": "18",
+    "part": "(39012720)",
+    "desc": "LATCH,RELEASE,REAR SEAT,RH (NLS.- USE 39047257)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2155,
+        "y": 1490
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39047257)",
+    "desc": "LATCH,RELEASE,REAR SEAT,RH (NLS.- USE 39103262)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39103262)",
+    "desc": "LATCH,RELEASE,REAR SEAT,RH (NLS.- USE YR003948YX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39012719)",
+    "desc": "LATCH,RELEASE,REAR SEAT,LH (NLS.- USE 39047258)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39047258)",
+    "desc": "LATCH,RELEASE,REAR SEAT,LH (NLS.- USE 39103263)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39103263)",
+    "desc": "LATCH,RELEASE,REAR SEAT,LH (NLS.- USE YR003947YX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13516141)",
+    "desc": "SCREW (NLS.- USE YR00082680)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2170,
+        "y": 1899
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39002412)",
+    "desc": "LATCH,RELEASE,REAR SEAT,CENTRE (NLS.- USE 39047256)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 808,
+        "y": 1303
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39047256)",
+    "desc": "LATCH,RELEASE,REAR SEAT,CENTRE (NLS.- USE 39102969)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(13599210)",
+    "desc": "SCREW (NLS.- USE YR00083780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 786,
+        "y": 1437
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "13439582",
+    "desc": "COVER,LATCH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 652,
+        "y": 1281
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "13479732",
+    "desc": "SCREW,COVER FIXING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 505,
+        "y": 1602
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "13431465",
+    "desc": "CABLE,BACK RELEASE (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1961,
+        "y": 1777
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "(13346128)",
+    "desc": "ACTUATOR,ASSY.,LATCH (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U) (NLS.- USE YR00080580)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2049,
+        "y": 2274
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "13396434",
+    "desc": "WASHER,STARLOCK,ACTUATOR (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1886,
+        "y": 2274
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "(22760914)",
+    "desc": "RIVET (FOR ONE TOUCH FOLDING SEAT BACK,RPO A9U) (NLS.- USE YR00073980)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2105,
+        "y": 1974
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(13453287)",
+    "desc": "BEZEL,LATCH,OUTER,BLACK (NLS.- USE 39041657)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2102,
+        "y": 409
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(39041657)",
+    "desc": "BEZEL,LATCH,OUTER,BLACK (NLS.- USE YR003992YX)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "",
+    "desc": "BEZEL (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP D) (REAR SEAT TRIM) (SHORTCUT: B16.D100)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1286,
+        "y": 147
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "",
+    "desc": "COVER,ACCESS (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP D) (REAR SEAT TRIM) (SHORTCUT: B16.D100)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1289,
+        "y": 69
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

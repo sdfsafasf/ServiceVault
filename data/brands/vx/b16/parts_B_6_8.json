@@ -1,0 +1,94 @@
+[
+  {
+    "call": "1",
+    "part": "(39028714)",
+    "desc": "MOULDING,WINDSCREEN,SIDE,RH,ANTHRACITE (NLS.- USE 39041884)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 411,
+        "y": 1629
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39041884",
+    "desc": "MOULDING,WINDSCREEN,SIDE,RH,ANTHRACITE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39028713)",
+    "desc": "MOULDING,WINDSCREEN,SIDE,LH,ANTHRACITE (NLS.- USE 39041883)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39041883",
+    "desc": "MOULDING,WINDSCREEN,SIDE,LH,ANTHRACITE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13426519",
+    "desc": "RETAINER,WINDSCREEN MOULDING,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 539,
+        "y": 1635
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13426518",
+    "desc": "RETAINER,WINDSCREEN MOULDING,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24443824",
+    "desc": "RIVET,REPAIR,WINDSCREEN SIDE MOULDING",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 2095,
+        "y": 2192
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

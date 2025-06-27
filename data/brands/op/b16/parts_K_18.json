@@ -1,0 +1,211 @@
+[
+  {
+    "call": "1",
+    "part": "13453207",
+    "desc": "SHAFT,ASSY.,DRIVE,RH (EXCHANGE - REMAN PART 95522381)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95522381",
+    "desc": "SHAFT,ASSY.,DRIVE,RH,EXCHANGE - REMAN (CORE RETURN NO. 95524444)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13453206",
+    "desc": "SHAFT,ASSY.,DRIVE,LH (EXCHANGE - REMAN PART 95522379)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95522379",
+    "desc": "SHAFT,ASSY.,DRIVE,LH,EXCHANGE - REMAN (CORE RETURN NO. 95524444)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "39005052",
+    "desc": "-JOINT,ASSY.,SHAFT,OUTER,WITH BOOT KIT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "39005046",
+    "desc": "--BOOT,WITH CLAMPS,DRIVE SHAFT,OUTER (KIT)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "",
+    "desc": "---COMPONENT (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "",
+    "desc": "---COMPONENT (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "---COMPONENT (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8X",
+    "part": "39005066",
+    "desc": "-JOINT,ASSY.,SHAFT,INNER,WITH BOOT KIT,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8X",
+    "part": "39005067",
+    "desc": "-JOINT,ASSY.,SHAFT,INNER,WITH BOOT KIT,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39005049",
+    "desc": "--BOOT,WITH CLAMPS,DRIVE SHAFT,INNER (KIT)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "",
+    "desc": "---COMPONENT (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "",
+    "desc": "---COMPONENT (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "",
+    "desc": "---COMPONENT (NOT SERVICED SEPARATELY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13296470",
+    "desc": "---CIRCLIP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13329239",
+    "desc": "GREASE,SPECIAL,GKY H-15,150GRAMS,DRIVE SHAFT JOINT (IDENT GR18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13329240",
+    "desc": "GREASE,SPECIAL,ONE LUBER C,160GRAMS,DRIVE SHAFT JOINT (IDENT GR19)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "9121965",
+    "desc": "OIL,CIRCLIP,SHAFT RETAINING,1 LITRE",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

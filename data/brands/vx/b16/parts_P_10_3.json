@@ -1,0 +1,90 @@
+[
+  {
+    "call": "4",
+    "part": "39119104",
+    "desc": "SIREN,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13408279",
+    "desc": "BRACKET,SIREN,ANTI-THEFT WARNING SYSTEM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11546364)",
+    "desc": "NUT,M6 (NLS.- USE YQ00161880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "20911484",
+    "desc": "MODULE,WARNING CHIME",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39023807",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(11561629)",
+    "desc": "NUT (NLS.- USE YQ00110380)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11514519)",
+    "desc": "NUT,M8 (NLS.- USE YQ00156180)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13578460)",
+    "desc": "LAMP,VEHICLE SECURITY (EXCEPT RPO T83, HEADLAMPS,AUTOMATIC ON-OFF) (NLS.- USE 13525288)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

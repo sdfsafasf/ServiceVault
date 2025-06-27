@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "(24296229)",
+    "desc": "CONVERTER,TORQUE (NLS.- USE 24293112)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11588468)",
+    "desc": "SCREW,SPECIAL,M10 X 15,TRANSMISSION,TORQUE CONVERTER (NLS.- USE YR00134580)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "SEAL,OIL,TORQUE CONVERTER (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "GREASE,LUBRICATING,TORQUE CONVERTER",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

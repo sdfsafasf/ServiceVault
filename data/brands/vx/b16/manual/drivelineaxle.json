@@ -1,0 +1,92 @@
+{
+  "sectionTitle": "Driveline/Axle",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Wheel Drive Shafts",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Symptoms - Wheel Drive Shafts",
+              "url": "astra-k/2521432.pdf"
+            },
+            {
+              "title": "Click Noise In Turns",
+              "url": "astra-k/1566621.pdf"
+            },
+            {
+              "title": "Clunk When Accelerating from Coast",
+              "url": "astra-k/1566622.pdf"
+            },
+            {
+              "title": "Clunk Noise When Accelerating During Turns",
+              "url": "astra-k/1566623.pdf"
+            },
+            {
+              "title": "Shudder or Vibration During Acceleration",
+              "url": "astra-k/2199632.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Front Wheel Drive Shaft Replacement",
+              "url": "astra-k/4509020.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Inner Joint and Boot Replacement (CV Joint)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Inner Joint and Boot Replacement (Tripod Joint)",
+              "url": "astra-k/4319215.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Outer Joint and Boot Replacement",
+              "url": "astra-k/4329456.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Wheel Drive Shafts Description and Operation",
+              "url": "astra-k/1566579.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

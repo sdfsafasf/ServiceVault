@@ -1,0 +1,200 @@
+[
+  {
+    "call": "1",
+    "part": "(13408648)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 39098779)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39098779)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 39104718)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39104718)",
+    "desc": "PIPE,ASSY.,FUEL FEED (EMISSION CODE NCV) (NLS.- USE 42703317)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13452443)",
+    "desc": "PIPE,ASSY.,FUEL FEED (EMISSION CODE NE4) (NLS.- USE 39096953)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39096953",
+    "desc": "PIPE,ASSY.,FUEL FEED (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13432666",
+    "desc": "PIPE,ASSY.,FUEL FEED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13368228)",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT (NLS.- USE 39093337)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39093337",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13408638",
+    "desc": "PIPE,ASSY.,FUEL FEED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13437315)",
+    "desc": "PIPE,ASSY.,FUEL RETURN (NLS.- USE 39157099)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39157099",
+    "desc": "PIPE,ASSY.,FUEL RETURN",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13368230)",
+    "desc": "PIPE,ASSY.,FUEL RETURN,FRONT (NLS.- USE 39093338)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13408661",
+    "desc": "PIPE,ASSY.,FUEL RETURN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13363586",
+    "desc": "CLIP,PIPE,FEED AND RETURN FLOW",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13432670",
+    "desc": "CLIP,FUEL PIPE,2 WAY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13432669)",
+    "desc": "CLIP,FUEL PIPE,4-WAY (NLS.- USE 39080890)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39080890",
+    "desc": "CLIP,FUEL PIPE,4-WAY",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39007320",
+    "desc": "CLIP,FUEL PIPE,5-WAY",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

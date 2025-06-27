@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "(55570060)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR F40 MANUAL TRANSMISSION,RPO MR6) (EXCHANGE - REMAN PART 95523651) (NLS.- NO REPLACEMENT PART) (IDENT AM4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95523651",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN,WITH SWITCHABLE WATER PUMP (CORE RETURN NO. 95523652)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95529209",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN,WITH NON-SWITCHABLE WATER PUMP (CORE RETURN NO. 95523652)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

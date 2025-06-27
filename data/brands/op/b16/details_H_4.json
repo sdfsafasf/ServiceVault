@@ -1,0 +1,42 @@
+[
+  {
+    "code": "1",
+    "name": "DIFFERENTIAL"
+  },
+  {
+    "code": "2",
+    "name": "INPUT SHAFT"
+  },
+  {
+    "code": "3",
+    "name": "MAINSHAFT (UPPER)"
+  },
+  {
+    "code": "4",
+    "name": "MAINSHAFT (LOWER)"
+  },
+  {
+    "code": "5",
+    "name": "SELECTOR SHAFT AND FORK"
+  },
+  {
+    "code": "6",
+    "name": "TRANSMISSION ASSEMBLY"
+  },
+  {
+    "code": "7",
+    "name": "TRANSMISSION ASSEMBLY FIXINGS (FOR M32 MANUAL TRANSMISSION,RPO MGR/MGW)"
+  },
+  {
+    "code": "8",
+    "name": "TRANSMISSION ASSEMBLY FIXINGS (FOR M32/M35 MANUAL TRANSMISSION,RPO MGP/MOP (-K8999999,-KG999999))"
+  },
+  {
+    "code": "9",
+    "name": "TRANSMISSION ASSEMBLY FIXINGS (FOR M32 MANUAL TRANSMISSION,RPO MGP (L8000001-,LG000001-))"
+  },
+  {
+    "code": "10",
+    "name": "TRANSMISSION CASE AND COVERS"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(39055162)",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39109109)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39109109)",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39185893)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39185893",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (USED WITH MANUAL OR EASYTRONIC TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1699537580",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (USED WITH MANUAL OR EASYTRONIC TRANSMISSION) (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "22790134",
+    "desc": "-COCK,DRAIN,WATER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39109101",
+    "desc": "-SEAL,RADIATOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13378477",
+    "desc": "-VALVE,VENT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

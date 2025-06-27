@@ -1,0 +1,123 @@
+[
+  {
+    "call": "5",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,CRANKSHAFT,BEARING CAP,THREEBOND 1227,80ML (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(12657719)",
+    "desc": "BEARING KIT (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 12668199 6 18 435)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(12668199)",
+    "desc": "BEARING KIT (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 12693093)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "25204450",
+    "desc": "BEARING KIT (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "12661527",
+    "desc": "SEAL,OIL,CRANKSHAFT,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "12653685",
+    "desc": "SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55493651",
+    "desc": "DEFLECTOR,CRANKSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11588724)",
+    "desc": "-SCREW,HEX.HD.,M8 X 30 (NLS.- USE YR00052980)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11588713",
+    "desc": "-SCREW,HEX.HD.,M6 X 25",
+    "qty": "3",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55596896",
+    "desc": "-SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11588327",
+    "desc": "-SLEEVE",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Service Manual - ServiceVault</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath fill='%23fff' opacity='1' d='M430.5 284.4l-31.82-79.54C383.7 177.6 357.7 160 328.4 160H183.6C154.3 160 128.3 177.6 117.4 204.8l-31.82 79.56C62.88 301.1 48 329.2 48 360V480c0 17.67 14.33 32 32 32H96c17.67 0 32-14.33 32-32v-32h288v32c0 17.67 14.33 32 32 32s32-14.33 32-32v-120C464 329.2 449.1 301.1 426.4 284.4zM161.9 222.7C165.5 213.8 174 208 183.6 208h144.8c9.598 0 18.1 5.76 21.66 14.66L366.6 264H145.4L161.9 222.7zM416 400H96v-40c0-26.47 21.53-48 48-48h224c26.47 0 48 21.53 48 48V400zM505.9 111.1H447.8l-21.37-31.1l21.37-31.1h58.14c4.619 0 7.619-5.048 5.246-9.001C497.2 15.66 471.7 0 442.4 0c-32.79 0-60.59 19.86-73.01 48H142.8C131.9 23.19 108.6 4.574 80.9 .7793c-33.87-4.641-64.28 11.89-80.05 38.19c-2.381 3.955 .6094 9.034 5.24 9.034H64.22l21.37 31.1L64.22 112H6.078c-4.619 0-7.619 5.047-5.246 9.002C14.82 144.3 40.33 160 69.57 160c32.79 0 60.59-19.86 73.01-47.1h226.6c10.97 24.81 34.23 43.43 61.94 47.22c33.87 4.641 64.28-11.89 80.05-38.19C513.5 117.1 510.5 111.1 505.9 111.1zM160 336c-13.25 0-24 10.74-24 24C136 373.3 146.7 384 160 384s24-10.75 24-24C184 346.7 173.3 336 160 336zM352 336c-13.25 0-24 10.74-24 24c0 13.25 10.75 24 24 24s24-10.75 24-24C376 346.7 365.3 336 352 336z'/%3E%3Cpath fill='white' opacity='0.4' d='M511.2 121c-15.77 26.3-46.18 42.83-80.05 38.19c-27.7-3.795-50.96-22.41-61.94-47.22H142.6C130.2 140.1 102.4 160 69.57 160C40.33 160 14.82 144.3 .832 121C-1.541 117 1.459 112 6.078 112H64.22l21.37-31.1L64.22 48H6.09c-4.631 0-7.621-5.068-5.24-9.034c15.77-26.3 46.18-42.83 80.05-38.19c27.7 3.795 50.96 22.41 61.94 47.22h226.6C381.8 19.86 409.6 0 442.4 0c29.23 0 54.75 15.66 68.73 38.1c2.373 3.955-.627 9.001-5.246 9.001H447.8l-21.37 31.1l21.37 31.1h58.13C510.5 111.1 513.5 117.1 511.2 121z'/%3E%3C/svg%3E">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+    /* --- START: UNIFIED STYLESHEET (MANUAL.HTML BASE) --- */
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+html {
+  scrollbar-gutter: stable;
+}
+    /* 1. CORRECT CORE VARIABLES (From index.html) */
+    :root {
+      --bs-body-bg: #181c1f;
+      --sv-card-color: #23272b;
+      --bs-body-color: #f1f1f1;
+      --sv-font-color-muted: #b0b8be;
+      --primary-accent: #007BFF;
+      --bs-border-color: #2d3338;
+    }
+    [data-bs-theme="light"] {
+      --bs-body-bg: #f4f4f9;
+      --sv-card-color: #fff;
+      --bs-body-color: #181c1f;
+      --sv-font-color-muted: #5c6b7a;
+      --bs-border-color: #dee2e6;
+    }
+
+    /* 2. CORRECT GLOBAL LAYOUT (Full Page Scroll) */
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: var(--bs-body-bg);
+      color: var(--bs-body-color);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      margin: 0;
+    }
+    main {
+      flex-grow: 1; /* Allows footer to be pushed down */
+    }
+    .logo {
+      font-size: 1.6rem; font-weight: 700; text-decoration: none;
+      color: var(--bs-body-color); letter-spacing: 0.01em;
+    }
+
+    /* 3. ALL COMPONENT STYLES (Unified) */
+
+    /* -- From index.html: Page Titles, Grids, Cards -- */
+    .page-title { font-size: 2.1rem; font-weight: 600; text-align: center; margin-bottom: 2.2rem; }
+    .selection-grid { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; margin-bottom: 3rem; }
+    .brand-card { background: var(--sv-card-color); border: 1px solid var(--bs-border-color); border-radius: 12px; padding: 2rem 2.2rem; text-align: center; cursor: pointer; min-width: 170px; max-width: 220px; transition: box-shadow 0.15s, transform 0.15s; box-shadow: 0 1px 8px rgba(0,0,0,0.10); }
+    .brand-card:hover { transform: translateY(-5px) scale(1.03); box-shadow: 0 4px 16px rgba(0,0,0,0.18); }
+    .brand-card img { max-width: 90px; max-height: 90px; margin-bottom: 1.1rem; transition: filter 0.2s; }
+    body:not(.light-mode) .invert-in-dark { filter: invert(1) brightness(1.08) !important; }
+    body.light-mode .invert-in-dark { filter: none !important; }
+    .brand-card h3 { font-size: 1.2rem; font-weight: 600; margin: 0; }
+    .model-list { width: 100%; max-width: 450px; margin: 0 auto; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 1rem; }
+    main .model-list li a { display: block; background: var(--sv-card-color); border: 1px solid var(--bs-border-color); color: var(--bs-body-color); text-decoration: none; font-size: 1.13rem; padding: 0.85rem 1.2rem; border-radius: 7px; transition: background 0.18s, color 0.18s, border-color 0.18s; }
+    
+	
+	#model-selection-container .model-list li a:hover, 
+#model-selection-container .model-list li.selected a {
+  background-color: var(--primary-accent);
+  color: #fff;
+  border-color: var(--primary-accent);
+}
+    #modal-vehicle-list-container a:hover {
+  color: var(--primary-accent);
+}
+	
+	
+	#back-to-brands, .manual-back-btn { display: inline-block; background: var(--sv-card-color); color: var(--sv-font-color-muted); border: 1px solid var(--bs-border-color); text-decoration: none; padding: 0.7rem 1.6rem; border-radius: 8px; font-weight: 600; font-size: 1.07rem; transition: color 0.2s, border-color 0.2s, background 0.2s; margin-bottom: 2.1rem; }
+    #back-to-brands:hover, .manual-back-btn:hover { color: var(--primary-accent); border-color: var(--primary-accent); background: var(--bs-body-bg); }
+
+    /* -- From manual.html: Accordions, Search -- */
+    .accordion-item { background-color: transparent; border: none; border-bottom: 1px solid var(--bs-border-color); border-radius: 0 !important; }
+    .accordion-item .accordion-item { border-left: 1px solid var(--bs-border-color); margin-left: 1rem; }
+    .accordion-button { background-color: transparent !important; color: var(--bs-body-color) !important; font-weight: 600; box-shadow: none !important; font-size: 1.2rem; padding: 1.25rem 1.5rem; }
+    .accordion-button:not(.collapsed) { background-color: var(--primary-accent) !important; color: white !important; }
+    .icon-open { display: none; }
+    .accordion-button:not(.collapsed) .icon-open { display: inline-block; }
+    .accordion-button:not(.collapsed) .icon-closed { display: none; }
+    .accordion-body { padding: 0.5rem 1.25rem; }
+    .accordion-body a { color: var(--sv-font-color-muted); text-decoration: none; display: block; padding: 0.75rem 0.5rem; font-size: 1.1rem; }
+    .accordion-body a:hover { color: var(--primary-accent); background-color: var(--sv-card-color); border-radius: 6px; }
+    .accordion-body .bi { font-size: 1.2rem; vertical-align: middle; }
+    .accordion-body .bi-file-earmark-pdf-fill { color: #dc3545; }
+    #manual-search { background-color: var(--sv-card-color); border: 1px solid var(--bs-border-color); color: var(--bs-body-color); padding: 0.75rem; font-size: 1.1rem; }
+    #manual-search::placeholder { color: var(--sv-font-color-muted); }
+    .search-bar-wrapper { position: relative; max-width: 600px; margin: 0 auto 2rem auto; }
+    #clear-search-btn { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); border: none; background: none; color: var(--sv-font-color-muted); font-size: 1.7rem; display: none; z-index: 10; padding: 0 6px; line-height: 1; }
+
+    /* -- Correct Modal Styles -- */
+    #modal-vehicle-list-container ul { list-style-type: none; padding-left: 0; column-count: 3; column-gap: 1.5rem; }
+    @media (max-width: 992px) { #modal-vehicle-list-container ul { column-count: 2; } }
+    @media (max-width: 768px) { #modal-vehicle-list-container ul { column-count: 1; } }
+    #modal-vehicle-list-container li { break-inside: avoid; padding: 0.15rem 0; }
+    #modal-vehicle-list-container a { color: var(--bs-body-color); text-decoration: none; transition: color 0.15s ease-in-out; display: inline-block; padding: 2px 0; }
+    #modal-vehicle-list-container a:hover { color: var(--primary-accent); }
+    #modal-vehicle-list-container h4 { font-size: 1.25rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.75rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--bs-border-color); }
+    #modal-vehicle-list-container .brand-container:first-child h4 { margin-top: 0; }
+    #modal-vehicle-list-container a span { margin-left: 6px; }
+    #modal-vehicle-list-container a svg { width: 1em; height: 1em; vertical-align: -0.15em; }
+
+    /* 4. FINAL OVERRIDES & THEME-SPECIFIC TWEAKS */
+    .logo:hover { color: inherit !important; background: none !important; text-decoration: none !important; }
+    body[data-bs-theme="light"] main .model-list li a:hover,
+    body[data-bs-theme="light"] #back-to-brands:hover,
+    body[data-bs-theme="light"] .manual-back-btn:hover {
+      color: var(--primary-accent) !important;
+      background: var(--sv-card-color) !important;
+      border-color: var(--primary-accent) !important;
+    }
+	    body[data-bs-theme="light"] header a:not(.logo):hover,
+    body[data-bs-theme="light"] footer a:not(.logo):hover {
+        color: var(--primary-accent) !important;
+    }
+	/* --- START: Custom Dark Scrollbar Styles --- */
+/* This ensures the scrollbar matches the dark theme */
+
+/* For modern browsers like Firefox */
+html[data-bs-theme="dark"] {
+  scrollbar-color: #555 var(--sv-card-color); /* thumb-color track-color */
+  scrollbar-width: thin;
+}
+
+/* For WebKit browsers (Chrome, Safari, Edge, etc.) */
+body[data-bs-theme="dark"]::-webkit-scrollbar {
+  width: 12px; /* width of the entire scrollbar */
+}
+
+body[data-bs-theme="dark"]::-webkit-scrollbar-track {
+  background: var(--sv-card-color); /* color of the tracking area */
+}
+
+body[data-bs-theme="dark"]::-webkit-scrollbar-thumb {
+  background-color: #555;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid var(--sv-card-color); /* creates padding around thumb */
+}
+
+body[data-bs-theme="dark"]::-webkit-scrollbar-thumb:hover {
+    background-color: #777; /* make it lighter on hover */
+}
+/* --- END: Custom Dark Scrollbar Styles --- */
+#modal-vehicle-list-container a:hover {
+  color: var(--primary-accent);
+}
+</style>
+</head>
+<body data-bs-theme="dark">
+  <header id="common-header"></header>
+  <main class="container py-5">
+    <a href="index.html" id="manual-back-btn" class="manual-back-btn">‹ Back to Model Selection</a>
+    <h1 id="main-heading" class="text-center mb-4">Loading Manual...</h1>
+    <div class="search-bar-wrapper">
+      <input type="search" class="form-control" id="manual-search" placeholder="Search all manual content..." disabled>
+      <button id="clear-search-btn" type="button">×</button>
+    </div>
+    <div class="accordion" id="manual-content-container">
+      <p class="text-center">Loading sections...</p>
+    </div>
+  </main>
+  <footer id="common-footer"></footer>
+
+  <!-- Vehicle List Modal (EXACT COPY FROM index.html) -->
+  <div class="modal fade" id="vehicleListModal" tabindex="-1" aria-labelledby="vehicleListModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width:98vw;">
+      <div class="modal-content" style="background:var(--bs-body-bg);color:var(--bs-body-color);">
+        <div class="modal-header" style="border-bottom:1px solid var(--bs-border-color);">
+          <h2 class="modal-title" id="vehicleListModalLabel" style="font-size:1.8rem;">Supported Vehicles</h2>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" style="padding:2.5rem 1.5rem;">
+          <div class="icon-key" style="margin-bottom:1.5rem;display:flex;gap:2.2rem;justify-content:center;align-items:center;font-size:1.08rem;">
+            <span>
+              <span style="font-weight:100;">Parts Catalog:</span>
+              <span title="Parts Catalog" style="display:inline-block;vertical-align:middle;">
+                <svg style="width:1em;height:1em;fill:#007bff;vertical-align:middle;" viewBox="0 0 24 24"><path d="M10.67,3.16a1,1,0,0,1,1.09-.09l8.38,5A1,1,0,0,1,21,8.91V19a3,3,0,0,1-3,3H6A3,3,0,0,1,3,19V8.91A1,1,0,0,1,4,8.07l8.38-5A1,1,0,0,1,10.67,3.16ZM12,5.13,5,9.09V19a1,1,0,0,0,1,1H18a1,1,0,0,0,1-1V9.09Z"/></svg>
+              </span>
+            </span>
+            <span>
+              <span style="font-weight:100;">Manuals:</span>
+              <span title="Service Manual" style="display:inline-block;vertical-align:middle;">
+                <svg style="width:1em;height:1em;fill:#198754;vertical-align:middle;" viewBox="0 0 24 24"><path d="M22.7 19.3c-.4.4-1 .4-1.4 0l-3-3-2.3 2.3c-.4-.4-1 .4-1.4 0l-7.3-7.3c-.4-.4-.4-1 0-1.4l2.3-2.3-3-3c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l3 3 2.3-2.3c.4-.4 1-.4 1.4 0l7.3 7.3c.4.4.4 1 0 1.4l-2.3 2.3 3 3c.4.4.4 1 0 1.4z"/></svg>
+              </span>
+            </span>
+          </div>
+          <div class="controls-container" style="gap:1.3rem;margin-bottom:2.2rem;">
+            <input type="text" id="modal-search-input" placeholder="Search for Opel or Vauxhall..." style="width:100%;padding:1rem;font-size:1.09rem;background-color:var(--sv-card-color);border:1px solid var(--bs-border-color);border-radius:8px;color:var(--bs-body-color);box-sizing:border-box;">
+            <nav class="modal-az-nav" style="margin-top:-0.5rem;"></nav>
+          </div>
+          <div id="modal-vehicle-list-container" style="width:100%"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="../vehiclelist.js"></script>
+ <script>
+document.addEventListener('DOMContentLoaded', () => {
+
+  // --- START: UNIFIED SCRIPT FOR MANUAL.HTML ---
+
+  // --- Part 1: Modal Setup and Control ---
+  let vehicleModalInstance = null;
+  const vehicleModalEl = document.getElementById('vehicleListModal');
+  if (vehicleModalEl) {
+    vehicleModalInstance = new bootstrap.Modal(vehicleModalEl);
+  }
+
+  // Listeners for inside the modal
+  document.getElementById('modal-search-input').addEventListener('input', function(e) {
+    renderVehicleList('#modal-vehicle-list-container', e.target.value.trim().toLowerCase());
+  });
+
+  document.querySelector('.modal-az-nav').addEventListener('click', function(e) {
+    if (e.target.tagName === 'A') {
+      e.preventDefault();
+      const id = e.target.getAttribute('href').slice(1);
+      const el = document.getElementById(id);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+
+  // --- Part 2: Page Helpers & Theme Logic ---
+  function isElectron() { return navigator.userAgent.toLowerCase().indexOf(' electron/') > -1; }
+  function getRootPath() { return window.location.pathname.includes('/servicemanuals/') ? '../' : './'; }
+  function getIncludePath(filename) { return getRootPath() + filename; }
+
+  function setTheme(theme) {
+    document.body.setAttribute('data-bs-theme', theme);
+    localStorage.setItem('theme', theme);
+    updateThemeIcon();
+  }
+  function updateThemeIcon() {
+    document.querySelectorAll('#theme-toggle').forEach(btn => {
+      const moon = btn.querySelector('.moon-icon');
+      const sun = btn.querySelector('.sun-icon');
+      if (!moon || !sun) return;
+      if (document.body.getAttribute('data-bs-theme') === 'dark') {
+        sun.style.display = 'none'; moon.style.display = '';
+      } else {
+        sun.style.display = ''; moon.style.display = 'none';
+      }
+    });
+  }
+
+  // --- Part 3: Master Click Handler for the whole page ---
+  document.body.addEventListener('click', function(e) {
+    const logoLink = e.target.closest('#servicevault-logo');
+    const vehicleListLink = e.target.closest('#open-vehicle-list');
+    const themeToggleButton = e.target.closest('#theme-toggle');
+
+    if (logoLink) {
+      e.preventDefault();
+      window.location.href = isElectron() ? (getRootPath() + 'app-home.html') : (getRootPath() + 'index.html');
+    }
+
+    if (vehicleListLink) {
+      e.preventDefault();
+      if (isElectron() && vehicleModalInstance) {
+        renderVehicleList('#modal-vehicle-list-container');
+        document.getElementById('modal-search-input').value = '';
+        vehicleModalInstance.show();
+      } else {
+        window.location.href = getRootPath() + 'vehiclelist.html';
+      }
+    }
+
+    if (themeToggleButton) {
+      const current = document.body.getAttribute('data-bs-theme');
+      setTheme(current === 'dark' ? 'light' : 'dark');
+    }
+  });
+
+  // --- Part 4: Manual-Specific Logic & Initialization ---
+  function initializeManual() {
+    // All of your original initializeManual() code goes here, unchanged.
+    const searchInput = document.getElementById('manual-search');
+    const clearBtn = document.getElementById('clear-search-btn');
+    const heading = document.getElementById('main-heading');
+    const contentContainer = document.getElementById('manual-content-container');
+    const params = new URLSearchParams(window.location.search);
+    const brandCode = params.get('brand');
+    const modelCode = params.get('model');
+    let manifest = null;
+    let sectionMap = {};
+    let allSectionsLoaded = false;
+    let lastSearchTerm = '';
+
+    if (!brandCode || !modelCode) {
+        heading.textContent = 'Error: Brand or Model not specified.';
+        return;
+    }
+
+    searchInput.addEventListener('input', () => {
+      clearBtn.style.display = searchInput.value ? 'block' : 'none';
+    });
+
+    clearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      clearBtn.style.display = 'none';
+      searchInput.dispatchEvent(new Event('input'));
+    });
+
+    function filterTree(node, term) {
+        let found = false;
+        let result = { ...node };
+        if (result.subsections) {
+            let matchingPDFs = result.subsections.filter(sub => sub.title.toLowerCase().includes(term));
+            if (matchingPDFs.length > 0) found = true;
+            result.subsections = matchingPDFs;
+        }
+        if (result.nestedSections) {
+            let filteredChildren = [];
+            for (let child of result.nestedSections) {
+                let filteredChild = filterTree(child, term);
+                if (filteredChild) {
+                    found = true;
+                    filteredChildren.push(filteredChild);
+                }
+            }
+            result.nestedSections = filteredChildren;
+        }
+        if (found) return result;
+        return null;
+    }
+
+    function buildAccordionHtml(items, parentId, forceExpandAll = false) {
+        if (!items || items.length === 0) return '';
+        const accordionId = `accordion-${parentId}`;
+        const itemsHtml = items.map((item, index) => {
+            const collapseId = `${parentId}-item-${index}`;
+            let bodyContent = '';
+            if (item.subsections && item.subsections.length > 0) {
+                bodyContent = item.subsections.map(sub => `<p><a href="${getRootPath()}${sub.url}"><i class="bi bi-file-earmark-pdf-fill me-2"></i>${sub.title}</a></p>`).join('');
+            }
+            if (item.nestedSections && item.nestedSections.length > 0) {
+                bodyContent += buildAccordionHtml(item.nestedSections, collapseId, forceExpandAll);
+            }
+            let showClass = (forceExpandAll || lastSearchTerm) ? 'show' : '';
+            let btnCollapsed = (forceExpandAll || lastSearchTerm) ? '' : 'collapsed';
+            return `
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button ${btnCollapsed}" type="button" data-bs-toggle="collapse" data-bs-target="#${collapseId}">
+                            <i class="bi bi-folder me-2 icon-closed"></i><i class="bi bi-folder2-open me-2 icon-open"></i>${item.title}
+                        </button>
+                    </h2>
+                    <div id="${collapseId}" class="accordion-collapse collapse ${showClass}" data-bs-parent="#${accordionId}">
+                        <div class="accordion-body">${bodyContent}</div>
+                    </div>
+                </div>`;
+        }).join('');
+        return `<div class="accordion" id="${accordionId}">${itemsHtml}</div>`;
+    }
+
+    async function loadAndRenderSection(sectionId, targetElement) {
+        targetElement.innerHTML = `<p class="m-3 text-center">Loading...</p>`;
+        const jsonPath = `../data/brands/${brandCode}/${modelCode.toLowerCase()}/manual/${sectionId}.json`;
+        try {
+            let data = sectionMap[sectionId];
+            if (!data) {
+                const response = await fetch(jsonPath);
+                if (!response.ok) throw new Error(`Content file not found`);
+                data = await response.json();
+                sectionMap[sectionId] = data;
+            }
+            targetElement.innerHTML = buildAccordionHtml(data.nestedSections, sectionId);
+        } catch (error) {
+            targetElement.innerHTML = `<p class="m-3 text-center text-danger">Could not load section content.</p>`;
+        }
+    }
+    
+    async function loadAllContentForSearch() {
+        if (allSectionsLoaded) return;
+        const fetchPromises = manifest.sections
+          .filter(section => !sectionMap[section.id])
+          .map(section => {
+              const jsonPath = `../data/brands/${brandCode}/${modelCode.toLowerCase()}/manual/${section.id}.json`;
+              return fetch(jsonPath).then(res => res.json()).then(json => { sectionMap[section.id] = json; });
+          });
+        await Promise.all(fetchPromises);
+        allSectionsLoaded = true;
+        searchInput.placeholder = "Search all manual content...";
+    }
+
+    async function doInitialLoad() {
+        const manifestPath = `../data/brands/${brandCode}/${modelCode.toLowerCase()}/manual/manifest.json`;
+        try {
+            const response = await fetch(manifestPath);
+            if (!response.ok) throw new Error(`Manifest file not found: ${manifestPath}`);
+            manifest = await response.json();
+            heading.textContent = manifest.modelTitle;
+            document.title = `${manifest.modelTitle} - ServiceVault`;
+
+            const topLevelAccordionHtml = manifest.sections.map((section, index) => {
+                const collapseId = `top-level-${index}`;
+                return `<div class="accordion-item top-level-item" data-section-id="${section.id}">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${collapseId}">
+                            <i class="bi bi-folder-fill me-2 icon-closed"></i><i class="bi bi-folder2-open me-2 icon-open"></i>${section.name}
+                        </button>
+                    </h2>
+                    <div id="${collapseId}" class="accordion-collapse collapse" data-bs-parent="#manual-content-container">
+                        <div class="accordion-body"></div>
+                    </div>
+                </div>`;
+            }).join('');
+            contentContainer.innerHTML = topLevelAccordionHtml;
+
+            contentContainer.querySelectorAll('.accordion-button').forEach(button => {
+                const parentItem = button.closest('.top-level-item');
+                if (parentItem) {
+                    button.addEventListener('click', () => {
+                        if (lastSearchTerm) return;
+                        const sectionId = parentItem.dataset.sectionId;
+                        const body = parentItem.querySelector('.accordion-body');
+                        if (sectionId && !body.dataset.loaded) {
+                            loadAndRenderSection(sectionId, body);
+                            body.dataset.loaded = 'true';
+                        }
+                    });
+                }
+            });
+            
+            searchInput.disabled = false;
+            searchInput.placeholder = "Loading content for search...";
+            loadAllContentForSearch();
+
+        } catch (error) {
+            heading.textContent = 'Error Loading Manual';
+            contentContainer.innerHTML = `<p class="text-center text-danger">${error.message}</p>`;
+        }
+    }
+
+    searchInput.addEventListener('input', (e) => {
+        lastSearchTerm = e.target.value.trim().toLowerCase();
+        if (!lastSearchTerm) {
+            doInitialLoad();
+            return;
+        }
+        if (!allSectionsLoaded) return;
+
+        const filteredSections = [];
+        for (const sectionData of Object.values(sectionMap)) {
+            const root = { title: sectionData.sectionTitle, nestedSections: sectionData.nestedSections };
+            const filtered = filterTree(root, lastSearchTerm);
+            if (filtered) {
+              filtered.title = sectionData.sectionTitle;
+              filteredSections.push(filtered);
+            }
+        }
+        contentContainer.innerHTML = buildAccordionHtml(filteredSections, "searchroot", true);
+    });
+
+    doInitialLoad();
+  }
+
+  // --- Part 5: Page Initialization ---
+  function initializePage() {
+    Promise.all([
+      fetch(getIncludePath('header.html')).then(r => r.text()).then(data => { document.getElementById('common-header').outerHTML = data; }),
+      fetch(getIncludePath('footer.html')).then(r => r.text()).then(data => {
+        document.getElementById('common-footer').innerHTML = data;
+        document.querySelectorAll('.footer-year').forEach(span => { span.textContent = new Date().getFullYear(); });
+      })
+    ]).then(() => {
+      setTheme(localStorage.getItem('theme') || 'dark');
+      initializeManual();
+    });
+  }
+
+  initializePage();
+  
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,357 @@
+[
+  {
+    "call": "1",
+    "part": "(39028383)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH (change together with self tapping bolt of position 3) (NLS.- USE 39045683)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [
+      {
+        "x": 412,
+        "y": 571
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39045683)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH (change together with self tapping bolt of position 3) (NLS.- USE 39065888)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39065888",
+    "desc": "BELT,FRONT SEAT,BLACK,RH (change together with self tapping bolt of position 3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39127573",
+    "desc": "BELT,FRONT SEAT,BLACK,RH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141264)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH,RHD (FOR 16-WAY POWER SEAT,RPO AG1) (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3) (NLS.- USE 39201591)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141266)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH,RHD (FOR 6-WAY MANUAL SEAT,RPO AH3) (FOR 8-WAY MANUAL SEAT,RPO AH4) (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3) (NLS.- USE 39201593)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141266)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH,LHD (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3) (NLS.- USE 39201593)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141264)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH,RHD (FOR 16-WAY POWER SEAT,RPO AG1) (change together with self tapping bolt of position 3) (NLS.- USE 39201591)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39201591)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH,RHD (FOR 16-WAY POWER SEAT,RPO AG1) (change together with self tapping bolt of position 3) (NLS.- USE 39217203)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141266)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH,RHD (FOR 6-WAY MANUAL SEAT,RPO AH3) (FOR 8-WAY MANUAL SEAT,RPO AH4) (change together with self tapping bolt of position 3) (NLS.- USE 39201593)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141266)",
+    "desc": "BELT,FRONT SEAT,BLACK,RH,LHD (change together with self tapping bolt of position 3) (NLS.- USE 39201593)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39028382)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH (change together with self tapping bolt of position 3) (NLS.- USE 39045684)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39045684)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH (change together with self tapping bolt of position 3) (NLS.- USE 39065887)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39065887",
+    "desc": "BELT,FRONT SEAT,BLACK,LH (change together with self tapping bolt of position 3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39127574",
+    "desc": "BELT,FRONT SEAT,BLACK,LH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141263)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH,LHD (FOR 16-WAY POWER SEAT,RPO AG1) (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3) (NLS.- USE 39201590)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141265)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH,LHD (FOR 6-WAY MANUAL SEAT,RPO AH3) (FOR 8-WAY MANUAL SEAT,RPO AH4) (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3) (NLS.- USE 39201592)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141265)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH,RHD (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (change together with self tapping bolt of position 3) (NLS.- USE 39201592)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141263)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH,LHD (FOR 16-WAY POWER SEAT,RPO AG1) (change together with self tapping bolt of position 3) (NLS.- USE 39201590)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141265)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH,LHD (FOR 6-WAY MANUAL SEAT,RPO AH3) (FOR 8-WAY MANUAL SEAT,RPO AH4) (change together with self tapping bolt of position 3) (NLS.- USE 39201592)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39201592)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH,LHD (FOR 6-WAY MANUAL SEAT,RPO AH3) (FOR 8-WAY MANUAL SEAT,RPO AH4) (change together with self tapping bolt of position 3) (NLS.- USE 39217204)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39141265)",
+    "desc": "BELT,FRONT SEAT,BLACK,LH,RHD (change together with self tapping bolt of position 3) (NLS.- USE 39201592)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "93195521",
+    "desc": "-KIT,STOP,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 513,
+        "y": 731
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11611776)",
+    "desc": "SCREW,TORX,7/16\" X 28MM,SEAT BELT RETRACTOR TO BODY (NLS.- USE YR00218780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 717,
+        "y": 1575
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11546396",
+    "desc": "SCREW (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [
+      {
+        "x": 528,
+        "y": 1206
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11546396",
+    "desc": "SCREW (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (FOR 16-WAY POWER SEAT,RPO AG1)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11546396",
+    "desc": "SCREW (FOR 16-WAY POWER SEAT,RPO AG1)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11569695",
+    "desc": "SCREW (FOR RPO AEG,BREAKPOINT CONTROL MY18.5) (EXCEPT RPO AG1,16-WAY POWER SEAT)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11569695",
+    "desc": "SCREW (EXCEPT RPO AG1,16-WAY POWER SEAT)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13409385",
+    "desc": "COVER,SEAT BELT ANCHOR,BLACK",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 588,
+        "y": 1103
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

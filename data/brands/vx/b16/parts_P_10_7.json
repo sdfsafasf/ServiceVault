@@ -1,0 +1,112 @@
+[
+  {
+    "call": "3",
+    "part": "(13461617)",
+    "desc": "SENSOR,AXLE SPEED,REAR (EXCEPT RPO J71,ELECTRIC PARK BRAKE) (EXCEPT RPO UFQ,PARK PILOT WITH STEERING ASSIST) (NLS.- USE 39002173)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39002173)",
+    "desc": "SENSOR,AXLE SPEED,REAR (EXCEPT RPO J71,ELECTRIC PARK BRAKE) (EXCEPT RPO UFQ,PARK PILOT WITH STEERING ASSIST) (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST) (NLS.- USE 42703446)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13461618)",
+    "desc": "SENSOR,AXLE SPEED,REAR (FOR PARK PILOT WITH STEERING ASSIST,RPO UFQ) (EXCEPT RPO J71,ELECTRIC PARK BRAKE) (NLS.- USE 39002174)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39002174",
+    "desc": "SENSOR,AXLE SPEED,REAR (FOR PARK PILOT WITH STEERING ASSIST,RPO UFQ) (EXCEPT RPO J71,ELECTRIC PARK BRAKE)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13379166)",
+    "desc": "SENSOR,AXLE SPEED,REAR (FOR ELECTRIC PARK BRAKE,RPO J71) (EXCEPT RPO UFQ,PARK PILOT WITH STEERING ASSIST) (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST) (NLS.- USE 42703445)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13379167)",
+    "desc": "SENSOR,AXLE SPEED,REAR (FOR ELECTRIC PARK BRAKE,RPO J71) (FOR PARK PILOT WITH STEERING ASSIST,RPO UFQ) (NLS.- USE 39002170)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39002170)",
+    "desc": "SENSOR,AXLE SPEED,REAR (FOR ELECTRIC PARK BRAKE,RPO J71) (FOR PARK PILOT WITH STEERING ASSIST,RPO UFQ) (NLS.- USE 39124495)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11609650",
+    "desc": "SCREW,TORX,M6 X 20",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11588712)",
+    "desc": "SCREW,TORX,M6 X 20 (NLS.- USE YR00052080)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90095094",
+    "desc": "CLAMP",
+    "qty": "2",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

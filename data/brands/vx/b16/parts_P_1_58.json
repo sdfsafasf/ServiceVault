@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "12672780",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (IDENT E84B)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(12676940)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 12686366) (IDENT E84B)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "12686366",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (IDENT E84B)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "12686280",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (IDENT E84B)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13462557",
+    "desc": "BRACKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13408288",
+    "desc": "BRACKET,ENGINE CONTROL MODULE,MODULE,ELECTRONIC BRAKE CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11588723)",
+    "desc": "SCREW,HEX,HD.,M8 X 25,BRACKET (NLS.- USE YR00058780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

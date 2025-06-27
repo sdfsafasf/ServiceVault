@@ -1,0 +1,30 @@
+[
+  {
+    "code": "1",
+    "name": "INSTRUMENT PANEL AND CONSOLE TRIM"
+  },
+  {
+    "code": "2",
+    "name": "FLOOR MATS AND CARPETS"
+  },
+  {
+    "code": "3",
+    "name": "BODY SIDE AND LOAD COMPARTMENT TRIM"
+  },
+  {
+    "code": "4",
+    "name": "DOOR TRIM"
+  },
+  {
+    "code": "5",
+    "name": "ROOF TRIM"
+  },
+  {
+    "code": "6",
+    "name": "FRONT SEAT TRIM"
+  },
+  {
+    "code": "7",
+    "name": "REAR SEAT TRIM"
+  }
+]

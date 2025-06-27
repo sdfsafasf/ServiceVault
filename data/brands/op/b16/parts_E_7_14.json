@@ -1,0 +1,57 @@
+[
+  {
+    "call": "33",
+    "part": "55590828",
+    "desc": "SHACKLE (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "55496972",
+    "desc": "SHACKLE (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "55590829",
+    "desc": "SHACKLE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "35",
+    "part": "55590830",
+    "desc": "SHACKLE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "(11588724)",
+    "desc": "SCREW,HEX.HD.,M8 X 30 (NLS.- USE YR00052980)",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

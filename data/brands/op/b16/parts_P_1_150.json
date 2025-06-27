@@ -1,0 +1,35 @@
+[
+  {
+    "call": "5",
+    "part": "(12656517)",
+    "desc": "PLUG,ASSY.,SPARK (NLS.- USE 12673528)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(12673528)",
+    "desc": "PLUG,ASSY.,SPARK (NLS.- USE 55490097 12 14 128)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55490097",
+    "desc": "PLUG,ASSY.,SPARK,REPLACE AS SET",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

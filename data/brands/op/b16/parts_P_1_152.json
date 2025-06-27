@@ -1,0 +1,24 @@
+[
+  {
+    "call": "3",
+    "part": "(12637197)",
+    "desc": "PLUG,ASSY.,SPARK (NLS.- USE 12659684)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12659684",
+    "desc": "PLUG,ASSY.,SPARK",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

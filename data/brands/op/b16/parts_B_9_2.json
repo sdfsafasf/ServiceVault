@@ -1,0 +1,224 @@
+[
+  {
+    "call": "1",
+    "part": "(13462006)",
+    "desc": "HANDLE,OUTER,REAR DOOR,PRIMED (EXCEPT RPO ATH,KEYLESS ENTRY AND START SYSTEM) (NLS.- USE 13506795)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1350,
+        "y": 677
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13506795",
+    "desc": "HANDLE,OUTER,REAR DOOR,PRIMED (EXCEPT RPO ATH/AVJ,KEYLESS ENTRY AND START SYSTEM)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39007178)",
+    "desc": "HANDLE,OUTER,REAR DOOR,PRIMED,WITH PRIMED BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH) (NLS.- USE 13506792)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1350,
+        "y": 1153
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13506792)",
+    "desc": "HANDLE,OUTER,REAR DOOR,PRIMED,WITH PRIMED BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH) (NLS.- USE 13531202)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13509607)",
+    "desc": "HANDLE,OUTER,REAR DOOR,PRIMED,WITH CHROME BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH/AVJ) (NLS.- USE 13531201)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13531201)",
+    "desc": "HANDLE,OUTER,REAR DOOR,PRIMED,WITH CHROME BUTTON (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH/AVJ) (NLS.- USE 13531201)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13590084",
+    "desc": "SCREW (FOR KEYLESS ENTRY AND START SYSTEM,RPO ATH/AVJ)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1748,
+        "y": 1636
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13462005)",
+    "desc": "COVER,HANDLE,PRIMED (NLS.- USE 13597112)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1643,
+        "y": 538
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13597112",
+    "desc": "COVER,HANDLE,PRIMED",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13597656)",
+    "desc": "BRACKET,OUTER HANDLE,RH (NLS.- USE 13506037)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 44,
+        "y": 1209
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506037)",
+    "desc": "BRACKET,OUTER HANDLE,RH (NLS.- USE 13515510)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515510",
+    "desc": "BRACKET,OUTER HANDLE,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13597651)",
+    "desc": "BRACKET,OUTER HANDLE,LH (NLS.- USE 13506032)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13506032)",
+    "desc": "BRACKET,OUTER HANDLE,LH (NLS.- USE 13515505)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13515505",
+    "desc": "BRACKET,OUTER HANDLE,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11547361",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 257,
+        "y": 1161
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13596806)",
+    "desc": "INSULATOR,DOOR HANDLE (NLS.- USE YR00251180)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1737,
+        "y": 928
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

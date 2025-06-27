@@ -1,0 +1,392 @@
+[
+  {
+    "call": "1",
+    "part": "(13597808)",
+    "desc": "RAIL,GUIDE,RH-LHD (NLS.- USE 13506736)",
+    "usage": "",
+    "range": "(C)      -J8013115\n(C)      -JG014979",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1557,
+        "y": 1975
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13506736)",
+    "desc": "RAIL,GUIDE,RH-LHD (NLS.- USE 13513073)",
+    "usage": "",
+    "range": "(C)      -J8013115\n(C)      -JG014979",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13513073",
+    "desc": "RAIL,GUIDE,RH-LHD (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8013116-J8999999\n(C)  JG014980-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13522613",
+    "desc": "RAIL,GUIDE,RH-LHD (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13522613",
+    "desc": "RAIL,GUIDE,RH-LHD",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13593583)",
+    "desc": "RAIL,GUIDE,LH-RHD (NLS.- USE 13506735)",
+    "usage": "",
+    "range": "(C)      -J8013115\n(C)      -JG014979",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13506735)",
+    "desc": "RAIL,GUIDE,LH-RHD (NLS.- USE 13513072)",
+    "usage": "",
+    "range": "(C)      -J8013115\n(C)      -JG014979",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13513072",
+    "desc": "RAIL,GUIDE,LH-RHD (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8013116-J8999999\n(C)  JG014980-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13522612",
+    "desc": "RAIL,GUIDE,LH-RHD (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13522612",
+    "desc": "RAIL,GUIDE,LH-RHD",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-SCREW (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1199,
+        "y": 1745
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-SCREW (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1274,
+        "y": 1803
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13584197)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,RH (NLS.- USE 13508818)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1695,
+        "y": 751
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13508818)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,RH (NLS.- USE 13513160)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13513160)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,RH (NLS.- USE 13522450)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13522450",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13584196)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,LH (NLS.- USE 13508817)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13508817)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,LH (NLS.- USE 13513159)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13513159)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,LH (NLS.- USE 13522449)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13522449)",
+    "desc": "FRAME,ASSY.,FRONT SEAT BACK,LH (NLS.- USE YR00171880)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13383814)",
+    "desc": "MAT,WIRE,CUSHION PAD (NLS.- USE YQ00318880)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 718,
+        "y": 1012
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13510008)",
+    "desc": "MAT,WIRE,BACK PAD (NLS.- USE 13510540)",
+    "usage": "",
+    "range": "(C)      -G8080850\n(C)      -GG114184",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 586,
+        "y": 373
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13510540)",
+    "desc": "MAT,WIRE,BACK PAD (NLS.- USE 13516004)",
+    "usage": "",
+    "range": "(C)  G8080851-\n(C)  GG114185-",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13516004)",
+    "desc": "MAT,WIRE,BACK PAD (NLS.- USE YQ00568080)",
+    "usage": "",
+    "range": "(C)  G8080851-\n(C)  GG114185-",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13272975)",
+    "desc": "SCREW,TORX,FRAME (NLS.- USE YQ00567780)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1818,
+        "y": 1089
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(11547008)",
+    "desc": "SCREW,TORX,RAIL,GUIDE (NLS.- USE YR00162680)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 47,
+        "y": 1891
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13129725",
+    "desc": "NUT,OUTER",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1729,
+        "y": 2376
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(42686569)",
+    "desc": "DAMPER,VIBRATION (FOR AUTOMATIC TRANSMISSION,RPO MHG/MI7/MRG) (NLS.- USE YR00169880)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1967,
+        "y": 487
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(42642061)",
+    "desc": "NUT,DAMPER (FOR AUTOMATIC TRANSMISSION,RPO MHG/MI7/MRG) (NLS.- USE YR00169980)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1675,
+        "y": 112
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(39226995)",
+    "desc": "INSULATION,FRAME (FOR AUTOMATIC TRANSMISSION,RPO MHG/MI7/MRG) (NLS.- USE YR00178080)",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1858,
+        "y": 731
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

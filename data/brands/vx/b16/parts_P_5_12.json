@@ -1,0 +1,57 @@
+[
+  {
+    "call": "24",
+    "part": "13586468",
+    "desc": "CONTROL MODULE,TRAILER LIGHTS",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(13597659)",
+    "desc": "CONTROL MODULE,TRAILER LIGHTS (NLS.- USE 39203534)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(39203534)",
+    "desc": "CONTROL MODULE,TRAILER LIGHTS (NLS.- USE YR00148480)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "13408276",
+    "desc": "BRACKET,CONTROL MODULE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8099732\n(C)      -GG152596",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "39070163",
+    "desc": "BRACKET,CONTROL MODULE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8099733-\n(C)  GG152597-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "call": "6",
+    "part": "55582313",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8111033\n(C)      -GG092401",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55598094",
+    "desc": "HOUSING,GEARSHIFT CONTROL,WITH LEVER (FOR STOP/START ENGINE SYSTEM,RPO KL9)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8111034-\n(C)  GG092402-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "93182244",
+    "desc": "-SEAL,RING,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8111033\n(C)      -GG092401",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55494556",
+    "desc": "-SEAL,RING,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8111034-\n(C)  GG092402-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55500280",
+    "desc": "-RING,RETAINING,LOCK,GEARSHIFT LEVER",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8111034-\n(C)  GG092402-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11097431",
+    "desc": "SCREW,TORX,M8 X 30,GEARSHIFT CONTROL HOUSING TO CLUTCH HOUSING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13106275",
+    "desc": "CAP,TRANSMISSION CASE VENTILATION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

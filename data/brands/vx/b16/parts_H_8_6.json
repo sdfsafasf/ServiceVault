@@ -1,0 +1,46 @@
+[
+  {
+    "call": "2",
+    "part": "(11588468)",
+    "desc": "SCREW,HEX.HD.,M10 X 15 (NLS.- USE YR00134580)",
+    "qty": "1",
+    "usage": "F14SHL[L3T],F14SHT[L3T]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11546405",
+    "desc": "SCREW,HEX.HD.,M10 X 45 (FOR 250 CVT TRANSMISSION,RPO MRG)",
+    "qty": "7",
+    "usage": "F14SHL[L3T],F14SHT[L3T]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24286850",
+    "desc": "COVER",
+    "qty": "1",
+    "usage": "F14SHL[L3T],F14SHT[L3T]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90343317",
+    "desc": "PIN,LOCATING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

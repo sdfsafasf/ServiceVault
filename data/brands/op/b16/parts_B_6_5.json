@@ -1,0 +1,238 @@
+[
+  {
+    "call": "5",
+    "part": "",
+    "desc": "@",
+    "usage": "",
+    "range": "",
+    "qty": "5",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(39024585)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (EXCEPT RPO TL2,REAR WINDOW DEFLECTOR) (NLS.- USE 39088577)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 346,
+        "y": 424
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(39088577)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (EXCEPT RPO TL2,REAR WINDOW DEFLECTOR) (NLS.- USE 39094236)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39094236",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (EXCEPT RPO TL2,REAR WINDOW DEFLECTOR)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(39024569)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (FOR REAR WINDOW DEFLECTOR,RPO TL2) (NLS.- USE 39088578)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 938,
+        "y": 134
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(39088578)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (FOR REAR WINDOW DEFLECTOR,RPO TL2) (NLS.- USE 39094237)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(39024549)",
+    "desc": "-BRACKET,LH (FOR REAR WINDOW DEFLECTOR,RPO TL2) (NLS.- USE 39075152)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2174,
+        "y": 464
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(39075152)",
+    "desc": "-BRACKET,LH (FOR REAR WINDOW DEFLECTOR,RPO TL2) (NLS.- USE 39114877)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(39024552)",
+    "desc": "-BRACKET,RH (FOR REAR WINDOW DEFLECTOR,RPO TL2) (NLS.- USE 39075154)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(39075154)",
+    "desc": "-BRACKET,RH (FOR REAR WINDOW DEFLECTOR,RPO TL2) (NLS.- USE 39114878)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11610926",
+    "desc": "-RETAINER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1634,
+        "y": 268
+      },
+      {
+        "x": 1045,
+        "y": 616
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39023771)",
+    "desc": "-STUD (NLS.- USE 39114689)",
+    "usage": "",
+    "range": "",
+    "qty": "5",
+    "positions": [
+      {
+        "x": 1060,
+        "y": 104
+      },
+      {
+        "x": 478,
+        "y": 458
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39023772",
+    "desc": "-NUT,RETAINING",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 777,
+        "y": 537
+      },
+      {
+        "x": 1360,
+        "y": 198
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11519375)",
+    "desc": "SCREW,HEX.HD.,M6 X 19 (NLS.- USE YQ00159180)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1051,
+        "y": 381
+      },
+      {
+        "x": 716,
+        "y": 717
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39023773",
+    "desc": "NUT",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "5",
+    "positions": [
+      {
+        "x": 420,
+        "y": 629
+      },
+      {
+        "x": 1009,
+        "y": 296
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(11549262)",
+    "desc": "NUT (NLS.- USE YQ00188080)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

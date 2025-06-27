@@ -1,0 +1,68 @@
+[
+  {
+    "call": "26",
+    "part": "55585167",
+    "desc": "INJECTOR,ASSY.,FUEL (EXCHANGE - REMAN PART 95522282)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "95522282",
+    "desc": "INJECTOR,ASSY.,FUEL,EXCHANGE - REMAN (CORE RETURN NO. 95524226)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "55590468",
+    "desc": "-WASHER",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "(55488423)",
+    "desc": "INSULATOR (NLS.- USE 55512766)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "55485152",
+    "desc": "BRACKET",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "55577569",
+    "desc": "SCREW,HEX.HD.",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

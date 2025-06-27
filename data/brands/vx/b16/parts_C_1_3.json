@@ -1,0 +1,34 @@
+[
+  {
+    "call": "13",
+    "part": "90020095",
+    "desc": "INSULATOR,550 X 250 X 2 (PACK OF 6)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 315,
+        "y": 1367
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "90020095",
+    "desc": "INSULATOR,550 X 250 X 2 (PACK OF 6)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 2099,
+        "y": 1611
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

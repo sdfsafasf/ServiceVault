@@ -1,0 +1,123 @@
+[
+  {
+    "call": "35",
+    "part": "24581166",
+    "desc": "GEAR,REVERSE,27 TEETH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "24579242",
+    "desc": "GEAR,REVERSE,25 TEETH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "37",
+    "part": "24579277",
+    "desc": "DOG GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "38",
+    "part": "24579275",
+    "desc": "-RING,RETAINING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "39",
+    "part": "24579278",
+    "desc": "-SPRING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "40",
+    "part": "24579216",
+    "desc": "BEARING,THRUST",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "41",
+    "part": "24579220",
+    "desc": "RING,RETAINING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "42",
+    "part": "24579186",
+    "desc": "SHAFT,REVERSE GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "43",
+    "part": "24579217",
+    "desc": "WASHER,THRUST,REVERSE GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "44",
+    "part": "24584648",
+    "desc": "WASHER,THRUST",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "45",
+    "part": "11013311",
+    "desc": "BALL,4 MM DIA.,REVERSE GEAR SHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

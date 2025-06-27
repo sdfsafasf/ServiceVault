@@ -1,0 +1,57 @@
+[
+  {
+    "call": "1",
+    "part": "(12650822)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (EXCHANGE - REMAN PART 95523654) (EMISSION CODE NE4) (NLS.- NO REPLACEMENT PART) (IDENT DGS)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(12660165)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR M32 MANUAL TRANSMISSION,RPO M60) (EXCHANGE - REMAN PART 95523654) (EMISSION CODE NE4) (NLS.- NO REPLACEMENT PART) (IDENT FZ6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(12650830)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (EXCHANGE - REMAN PART 95523654) (EMISSION CODE NE4) (NLS.- NO REPLACEMENT PART) (IDENT DH2)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95523654",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 95523655)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95529213",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (EMISSION CODE NCV) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

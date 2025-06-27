@@ -1,0 +1,50 @@
+[
+  {
+    "call": "23",
+    "part": "(13456270)",
+    "desc": "LINK,CHECK,REAR DOOR (NLS.- USE YQ00232680)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1925,
+        "y": 2118
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(11570007)",
+    "desc": "SCREW,HEX. HD.,M8 X 23,CHECK LINK TO BODY (NLS.- USE YR00713680)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1643,
+        "y": 2064
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "(11546364)",
+    "desc": "NUT,M6,DOOR CHECK LINK,DOOR SIDE (NLS.- USE YQ00161880)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1813,
+        "y": 1293
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

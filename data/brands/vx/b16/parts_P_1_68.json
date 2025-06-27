@@ -1,0 +1,35 @@
+[
+  {
+    "call": "5",
+    "part": "(12636736)",
+    "desc": "SENSOR,KNOCKING LIMIT,CYLINDER BLOCK (NLS.- USE 12692505)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(12636736)",
+    "desc": "SENSOR,KNOCKING LIMIT,CYLINDER BLOCK (NLS.- USE 12692505)",
+    "qty": "2",
+    "usage": "D14XFL[LE2],D14XFT[LE2]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11589313",
+    "desc": "SCREW,HEX.HD.,M8 X 35",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

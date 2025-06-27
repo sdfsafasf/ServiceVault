@@ -1,0 +1,82 @@
+[
+  {
+    "call": "1X",
+    "part": "13139868",
+    "desc": "SET,MOUNTING PARTS,FRONT AND REAR",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 334,
+        "y": 213
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13139869",
+    "desc": "-SCREW,FRONT AND REAR",
+    "usage": "5 DOOR HATCH 68",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 540,
+        "y": 561
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "39081465",
+    "desc": "SET,MOUNTING PARTS,FRONT AND REAR (NLS.- USE YQ00283080)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1081,
+        "y": 218
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11611290",
+    "desc": "NUT,INSERT,REAR,NUMBER PLATE FIXING (NLS.- USE YQ00155480)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 710,
+        "y": 957
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39139523",
+    "desc": "SET,MOUNTING PARTS,REAR (HOLDEN)",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 723,
+        "y": 1523
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

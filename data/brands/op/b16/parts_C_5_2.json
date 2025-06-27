@@ -1,0 +1,313 @@
+[
+  {
+    "call": "1",
+    "part": "39117385",
+    "desc": "GRILLE,AIR INLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1814,
+        "y": 707
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39117391",
+    "desc": "-SEAL,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1640,
+        "y": 731
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39117390",
+    "desc": "-SEAL,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "PLUG (AWAITING TECHNICAL RELEASE)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1406,
+        "y": 442
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "RIVET,EXPANDING (AWAITING TECHNICAL RELEASE)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1104,
+        "y": 289
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39217193)",
+    "desc": "COVER,LHD (NLS.- USE 39226989)",
+    "usage": "",
+    "range": "(C)      -L8006338\n(C)      -LG013343",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1744,
+        "y": 1155
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39226989",
+    "desc": "COVER,LHD",
+    "usage": "",
+    "range": "(C)  L8006339-\n(C)  LG013344-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39217195)",
+    "desc": "COVER,RHD (NLS.- USE 39226991)",
+    "usage": "",
+    "range": "(C)      -L8006338\n(C)      -LG013343",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39226991",
+    "desc": "COVER,RHD",
+    "usage": "",
+    "range": "(C)  L8006339-\n(C)  LG013344-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39019105",
+    "desc": "-PLUG",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1378,
+        "y": 1039
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "90184910",
+    "desc": "-INSULATOR",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1583,
+        "y": 1197
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11900378",
+    "desc": "-SCREW,TORX,M5 X 12",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1573,
+        "y": 1133
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39117387",
+    "desc": "-WEATHERSTRIP,BONNET,REAR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 900,
+        "y": 1374
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39117395)",
+    "desc": "DEFLECTOR,WATER,RH-LHD (NLS.- USE 39221944)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 227,
+        "y": 475
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39117396",
+    "desc": "DEFLECTOR,WATER,LH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39019106",
+    "desc": "PLUG",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1586,
+        "y": 945
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11547421)",
+    "desc": "SCREW (NLS.- USE YR00125980)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1902,
+        "y": 1298
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "",
+    "desc": "SCREW,HEX.HD. (PLEASE REFER TO GROUP K) (SHORTCUT: B16.K401)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1135,
+        "y": 920
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39146906",
+    "desc": "TUBE,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 477,
+        "y": 2035
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39146907",
+    "desc": "TUBE,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1199,
+        "y": 2255
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "39117392",
+    "desc": "VALVE,DRAIN,PLENUM",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2174,
+        "y": 1980
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

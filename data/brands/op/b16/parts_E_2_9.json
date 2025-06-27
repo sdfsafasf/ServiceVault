@@ -1,0 +1,57 @@
+[
+  {
+    "call": "3",
+    "part": "(55512061)",
+    "desc": "COVER,WITH GASKET,CYLINDER HEAD (NLS.- USE 55514967)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55487546",
+    "desc": "-GASKET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55487484",
+    "desc": "-SHIELD,CAMSHAFT COVER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11611223",
+    "desc": "-BOLT,M5 X 12",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "11548166",
+    "desc": "SCREW,HEX.HD.,M5 X 30",
+    "qty": "17",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

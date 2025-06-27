@@ -1,0 +1,123 @@
+[
+  {
+    "call": "6",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,CRANKSHAFT,BEARING CAP,THREEBOND 1227,80ML (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "55584592",
+    "desc": "BEARING,CRANKSHAFT,STD. (KIT)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14X",
+    "part": "55584593",
+    "desc": "BEARING,CRANKSHAFT,0.50 MM U/S (KIT)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15X",
+    "part": "55584594",
+    "desc": "GUIDE,CRANKSHAFT BEARING,STD. (KIT)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15X",
+    "part": "55584595",
+    "desc": "GUIDE,CRANKSHAFT BEARING,0.5 MM U/S (KIT)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55578979",
+    "desc": "HOUSING,CRANKSHAFT OIL SEAL,REAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55576715",
+    "desc": "-SEAL,OIL,CRANKSHAFT,REAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11589299",
+    "desc": "-SCREW,HEX.HD.,M6 X 16",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "90351709",
+    "desc": "-SLEEVE,HOUSING,SEAL,REAR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11589301",
+    "desc": "-SCREW,HEX.HD.,M6 X 25",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "",
+    "desc": "SEAL,OIL,CRANKSHAFT,FRONT (PLEASE REFER TO GROUP E) (FRONT COVER) (SHORTCUT: B16.E106)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

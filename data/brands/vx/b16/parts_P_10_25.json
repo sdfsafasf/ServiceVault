@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "",
+    "desc": "MOTOR,WINDOW REGULATOR,FRONT DOOR (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP C) (FRONT DOOR FITTINGS) (FRONT DOOR WINDOW OPENING MECHANISM) (SHORTCUT: B16.C130)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "MOTOR,WINDOW REGULATOR,REAR DOOR (NOT SERVICED SEPARATELY) (PLEASE REFER TO GROUP C) (REAR DOOR FITTINGS) (REAR DOOR WINDOW OPENING MECHANISM) (SHORTCUT: B16.C150)",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

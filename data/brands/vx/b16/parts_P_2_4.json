@@ -1,0 +1,35 @@
+[
+  {
+    "call": "0",
+    "part": "(24290056)",
+    "desc": "SENSOR,PRESSURE (NLS.- USE 24295253)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "0",
+    "part": "24295253",
+    "desc": "SENSOR,PRESSURE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "0",
+    "part": "24285336",
+    "desc": "'O'RING,TEMPERATURE SENSOR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

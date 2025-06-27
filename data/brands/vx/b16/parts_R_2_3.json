@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "(9269941)",
+    "desc": "PUMP,ASSY.,FUEL (NLS.- USE 9256497)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(9268263)",
+    "desc": "INSULATOR,FUEL PUMP (NLS.- USE 13454017 8 22 022)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13454017",
+    "desc": "INSULATOR,FUEL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "9271293",
+    "desc": "MOUNTING,RUBBER,PARKING HEATER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11588713",
+    "desc": "SCREW,HEX,HD.,M6 X 25,FUEL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "9269963",
+    "desc": "FITTING,FUEL TANK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "9255048",
+    "desc": "PROTECTOR,HOSE,2.5M LONG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "9268984",
+    "desc": "CONNECTOR,FUEL PIPE,90 DEGREES",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "9269967",
+    "desc": "CONNECTOR,FUEL PIPE,180 DEGREES",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

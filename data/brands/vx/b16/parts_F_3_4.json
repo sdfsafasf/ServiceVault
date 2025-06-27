@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(13453905)",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION) (NLS.- USE 39095604)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39095604",
+    "desc": "RADIATOR,ASSY. (USED WITH MANUAL TRANSMISSION)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "22790134",
+    "desc": "-COCK,DRAIN,WATER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "12641073",
+    "desc": "-SENSOR,TEMPERATURE,ENGINE COOLANT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55575090",
+    "desc": "-RETAINER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13378477",
+    "desc": "-VALVE,VENT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

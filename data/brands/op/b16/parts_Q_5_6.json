@@ -1,0 +1,68 @@
+[
+  {
+    "call": "8",
+    "part": "(13471399)",
+    "desc": "CABLE,USB DATA,APPLE I-PHONE 3G/3GS/4/4S (NLS.- USE 39033815)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39033815)",
+    "desc": "CABLE,USB DATA,APPLE I-PHONE 3G/3GS/4/4S (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13471398)",
+    "desc": "CABLE,USB DATA,APPLE I-PHONE 5 (NLS.- USE 39033816)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(39033816)",
+    "desc": "CABLE,USB DATA,APPLE I-PHONE 5 (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39033817",
+    "desc": "CABLE,USB DATA,Micro USB",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11X",
+    "part": "88965274",
+    "desc": "KIT,CABLE,MP3 PLAYER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

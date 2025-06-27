@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "(55487860)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (EMISSION CODE NE4) (NLS.- USE 12721349)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55498848)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (EMISSION CODE NE4) (NLS.- USE 12721348)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55501366)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (EMISSION CODE NCV) (NLS.- USE 12721351)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55487860)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 12721349)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55498848)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 12721348)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ]",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55498848)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 12721348)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39025864",
+    "desc": "BRACKET,ENGINE CONTROL MODULE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13408288",
+    "desc": "BRACKET,ENGINE CONTROL MODULE,MODULE,ELECTRONIC BRAKE CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(11588723)",
+    "desc": "SCREW,HEX,HD.,M8 X 25,BRACKET (NLS.- USE YR00058780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

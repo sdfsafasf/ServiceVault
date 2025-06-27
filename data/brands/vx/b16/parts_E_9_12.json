@@ -1,0 +1,123 @@
+[
+  {
+    "call": "1",
+    "part": "(55490810)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (EMISSION CODE NE4) (EXCHANGE - REMAN PART 95519584) (NLS.- NO REPLACEMENT PART) (IDENT GZG)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55596009)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (EXCHANGE - REMAN PART 95519585) (NLS.- NO REPLACEMENT PART) (IDENT FP8)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (NOT SERVICED) (EXCHANGE - REMAN PART 95528295)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(55490809)",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP) (EMISSION CODE NE4) (EXCHANGE - REMAN PART 95519584) (NLS.- NO REPLACEMENT PART) (IDENT GZF)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95528295",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95519585",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95519584",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95529205",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN,WITH SWITCHABLE WATER PUMP (EMISSION CODE NCV) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95529207",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN,WITH NON-SWITCHABLE WATER PUMP (EMISSION CODE NCV) (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95529206",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN,WITH SWITCHABLE WATER PUMP (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "95529208",
+    "desc": "ENGINE,ASSY.,LESS ALTERNATOR,EXCHANGE - REMAN,WITH NON-SWITCHABLE WATER PUMP (CORE RETURN NO. 95524448)",
+    "qty": "1",
+    "usage": "D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

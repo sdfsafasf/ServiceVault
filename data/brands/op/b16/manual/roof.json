@@ -1,0 +1,157 @@
+{
+  "sectionTitle": "Roof",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Sunroof",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Sunroof Schematics",
+              "url": "astra-k/4446088.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Sunroof Component Views",
+              "url": "astra-k/2169599.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B3664",
+              "url": "astra-k/4223158.pdf"
+            },
+            {
+              "title": "DTC B3697",
+              "url": "astra-k/2172067.pdf"
+            },
+            {
+              "title": "DTC B369C",
+              "url": "astra-k/4223176.pdf"
+            },
+            {
+              "title": "DTC B369D",
+              "url": "astra-k/2466089.pdf"
+            },
+            {
+              "title": "Symptoms - Roof",
+              "url": "astra-k/2164521.pdf"
+            },
+            {
+              "title": "Power Sunroof Malfunction",
+              "url": "astra-k/4223136.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Sunroof Air Deflector Replacement",
+              "url": "astra-k/3625594.pdf"
+            },
+            {
+              "title": "Sunroof Air Deflector Cover Replacement",
+              "url": "astra-k/2165298.pdf"
+            },
+            {
+              "title": "Sunroof Panel/Window Guide Replacement",
+              "url": "astra-k/3701823.pdf"
+            },
+            {
+              "title": "Sunroof Housing Drain Gutter Replacement",
+              "url": "astra-k/2169432.pdf"
+            },
+            {
+              "title": "Sunroof Housing Replacement",
+              "url": "astra-k/3701826.pdf"
+            },
+            {
+              "title": "Sunroof Housing Rear Support Replacement",
+              "url": "astra-k/3701824.pdf"
+            },
+            {
+              "title": "Sunroof Housing Front Drain Hose Replacement",
+              "url": "astra-k/4328788.pdf"
+            },
+            {
+              "title": "Sunroof Housing Rear Drain Hose Replacement",
+              "url": "astra-k/4256641.pdf"
+            },
+            {
+              "title": "Sunroof Module Assembly Replacement",
+              "url": "astra-k/2165295.pdf"
+            },
+            {
+              "title": "Sunroof Window Motor Replacement",
+              "url": "astra-k/4091859.pdf"
+            },
+            {
+              "title": "Sunroof/Sunshade Motor Initialization",
+              "url": "astra-k/2727000.pdf"
+            },
+            {
+              "title": "Sunroof Sunshade Replacement",
+              "url": "astra-k/2165291.pdf"
+            },
+            {
+              "title": "Sunroof Window Seal Replacement",
+              "url": "astra-k/2165296.pdf"
+            },
+            {
+              "title": "Sunroof Window Seal Replacement - Front",
+              "url": "astra-k/2170191.pdf"
+            },
+            {
+              "title": "Sunroof Tilt Position Switch Replacement",
+              "url": "astra-k/3686568.pdf"
+            },
+            {
+              "title": "Sunroof Switch Replacement",
+              "url": "astra-k/3686566.pdf"
+            },
+            {
+              "title": "Sunroof Window Height and Opening Fit Adjustment",
+              "url": "astra-k/3406128.pdf"
+            },
+            {
+              "title": "Sunroof Window Replacement",
+              "url": "astra-k/3406129.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Sunroof Description and Operation",
+              "url": "astra-k/3634662.pdf"
+            },
+            {
+              "title": "Water Management Description and Operation",
+              "url": "astra-k/2171610.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

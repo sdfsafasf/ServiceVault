@@ -1,0 +1,57 @@
+[
+  {
+    "call": "29X",
+    "part": "(55588337)",
+    "desc": "ROD,ASSY.,CONNECTING,KIT (NLS.- USE 55501494)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29X",
+    "part": "55501494",
+    "desc": "ROD,ASSY.,CONNECTING,KIT",
+    "qty": "1",
+    "usage": "B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29X",
+    "part": "(55596544)",
+    "desc": "ROD,ASSY.,CONNECTING,KIT (NLS.- USE 55501529)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29X",
+    "part": "55501529",
+    "desc": "ROD,ASSY.,CONNECTING,KIT",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "(11610588)",
+    "desc": "-SCREW (NLS.- USE 11548927)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

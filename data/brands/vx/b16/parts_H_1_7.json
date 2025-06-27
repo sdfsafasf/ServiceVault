@@ -1,0 +1,233 @@
+[
+  {
+    "call": "19",
+    "part": "24579210",
+    "desc": "GEAR,THIRD SPEED,41 TEETH",
+    "qty": "1",
+    "usage": "(T)      -A16359940",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "24584085",
+    "desc": "GEAR,THIRD SPEED,41 TEETH",
+    "qty": "1",
+    "usage": "(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "55564062",
+    "desc": "BEARING,NEEDLE 37 X 41 X 31,MAINSHAFT,THIRD GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21X",
+    "part": "98500543",
+    "desc": "KIT,SYNCHRONIZER CONE,THIRD AND FOURTH GEAR",
+    "qty": "2",
+    "usage": "(T)      -A16359940",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "24584979",
+    "desc": "CONE,SYNCHRONIZER,THIRD AND FOURTH GEAR,INNER",
+    "qty": "2",
+    "usage": "(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "24584077",
+    "desc": "CONE,SYNCHRONIZER,THIRD AND FOURTH GEAR,OUTER",
+    "qty": "2",
+    "usage": "(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "24579261",
+    "desc": "CLUTCH AND HUB,ASSY.,THIRD AND FOURTH GEAR",
+    "qty": "1",
+    "usage": "(T)      -A16359940",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "24584079",
+    "desc": "CLUTCH AND HUB,ASSY.,THIRD AND FOURTH GEAR",
+    "qty": "1",
+    "usage": "(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "55558717",
+    "desc": "-KEY,SYNCHRONIZER CONE,THIRD AND FOURTH GEARS",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "24579212",
+    "desc": "GEAR,FOURTH SPEED,35 TEETH (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "(T)      -A16359940",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "24584096",
+    "desc": "GEAR,FOURTH SPEED,35 TEETH (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "24579695",
+    "desc": "GEAR,FOURTH SPEED,33 TEETH (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA)",
+    "qty": "1",
+    "usage": "(T)      -A16359940",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "24584097",
+    "desc": "GEAR,FOURTH SPEED,33 TEETH (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA)",
+    "qty": "1",
+    "usage": "(T)  A16359941-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "55564062",
+    "desc": "BEARING,NEEDLE 37 X 41 X 31,MAINSHAFT,FOURTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "55350123",
+    "desc": "GEAR,FIFTH SPEED,31 TEETH (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "55350124",
+    "desc": "GEAR,FIFTH SPEED,29 TEETH (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "55564061",
+    "desc": "BEARING,NEEDLE,FIFTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31",
+    "part": "90446140",
+    "desc": "RING,INNER,NEEDLE BEARING,FIFTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55350140",
+    "desc": "CONE,SYNCHRONIZER,FIFTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "24579270",
+    "desc": "CLUTCH AND HUB,ASSY.,FIFTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "55558717",
+    "desc": "-KEY,SYNCHRONIZER CONE,FIFTH GEAR",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

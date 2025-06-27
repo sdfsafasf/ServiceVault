@@ -1,0 +1,35 @@
+[
+  {
+    "call": "8",
+    "part": "(55583108)",
+    "desc": "CYLINDER,ASSY.,CLUTCH MASTER (NLS.- USE 55500102)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(55500102)",
+    "desc": "CYLINDER,ASSY.,CLUTCH MASTER (NLS.- USE 55508640)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(55508640)",
+    "desc": "CYLINDER,ASSY.,CLUTCH MASTER (NLS.- USE 55512791)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

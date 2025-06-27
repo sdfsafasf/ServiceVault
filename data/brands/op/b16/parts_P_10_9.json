@@ -1,0 +1,156 @@
+[
+  {
+    "call": "26",
+    "part": "(39011424)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (NLS.- USE 39019605)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8064799\n(C)      -GG077650",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(39019605)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (NLS.- USE 23417075)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8064799\n(C)      -GG077650",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(23417075)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (NLS.- USE 39059573)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8064800-G8999999\n(C)  GG077651-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "39059573",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8064800-G8999999\n(C)  GG077651-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(39059574)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST) (NLS.- USE 39108254)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "39108254",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(84852556)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST) (NLS.- USE 84984640)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-L8999999\n(C)  LG000001-LG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(84984640)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST) (NLS.- USE 86778066)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-L8999999\n(C)  LG000001-LG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(84978410)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (EXCEPT RPO UGN,COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST) (NLS.- USE 87814476)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  M8000001-\n(C)  MG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(39059575)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (FOR COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST,RPO UGN) (NLS.- USE 39108256)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "39108256",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (FOR COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST,RPO UGN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-K8999999\n(C)  HG000001-KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "84871922",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (FOR COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST,RPO UGN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-L8999999\n(C)  LG000001-LG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(84978408)",
+    "desc": "CAMERA,FRONT (FOR FRONT CAMERA,RPO UHX) (FOR COLLISION AVOIDANCE SENSOR WITH BRAKE ASSIST,RPO UGN) (NLS.- USE 87814478)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  M8000001-\n(C)  MG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "",
+    "desc": "BRACKET (FOR FRONT CAMERA,RPO UHX) (PLEASE REFER TO GROUP P) (BODY) (INTERIOR SENSORS) (SHORTCUT: B16.P911)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

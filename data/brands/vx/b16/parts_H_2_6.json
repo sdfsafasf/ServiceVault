@@ -1,0 +1,112 @@
+[
+  {
+    "call": "1",
+    "part": "(55590843)",
+    "desc": "TRANSMISSION,ASSY. (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FINAL DRIVE RATIO 3.56,RPO FRB) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95522914) (NLS.- USE 55490142) (IDENT A7R)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -H8037368\n(C)      -HG065938",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95522914",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FINAL DRIVE RATIO 3.56,RPO FRB) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT A7R)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -H8037368\n(C)      -HG065938",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55490142)",
+    "desc": "TRANSMISSION,ASSY. (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FINAL DRIVE RATIO 3.56,RPO FRB) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95522920) (NLS.- USE 55497422) (IDENT AG6)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -H8037368\n(C)      -HG065938",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95522920",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FINAL DRIVE RATIO 3.56,RPO FRB) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT AG6)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -H8037368\n(C)      -HG065938",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55497422)",
+    "desc": "TRANSMISSION,ASSY. (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FINAL DRIVE RATIO 3.56,RPO FRB) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95525205) (NLS.- USE 55493090) (IDENT B3F)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)  H8037369-H8087174\n(C)  HG065939-HG161934",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55493090)",
+    "desc": "TRANSMISSION,ASSY. (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FINAL DRIVE RATIO 3.56,RPO FRB) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95525205) (NLS.- NO REPLACEMENT PART) (IDENT BXH)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  H8087175-\n(C)  HG161935-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95525205",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FINAL DRIVE RATIO 3.56,RPO FRB) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT B3F)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  H8037369-\n(C)  HG065939-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55510720)",
+    "desc": "TRANSMISSION,ASSY. (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FOR STOP/START ENGINE SYSTEM,RPO KL5) (FINAL DRIVE RATIO 3.37, RPO FJB) (EXCHANGE - REMAN PART 95529172) (NLS.- USE 55514973) (IDENT DD4)",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55514973)",
+    "desc": "TRANSMISSION,ASSY. (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FOR STOP/START ENGINE SYSTEM,RPO KL5) (FINAL DRIVE RATIO 3.37, RPO FJB) (EXCHANGE - REMAN PART 95529172) (NLS - NO REPLACEMENT PART) (IDENT DHR)",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95529172",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (FOR STOP/START ENGINE SYSTEM,RPO KL5) (FINAL DRIVE RATIO 3.37, RPO FJB) (CORE RETURN NO. 95524458) (IDENT DD4)",
+    "qty": "1",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

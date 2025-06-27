@@ -1,0 +1,799 @@
+{
+  "sectionTitle": "Brakes",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Antilock Brake System",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Antilock Brake System Schematics",
+              "url": "astra-k/4445845.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B2745",
+              "url": "astra-k/4214741.pdf"
+            },
+            {
+              "title": "DTC C0035-C0051",
+              "url": "astra-k/3718605.pdf"
+            },
+            {
+              "title": "DTC C0035-C0051 (RPO J71)",
+              "url": "astra-k/4203432.pdf"
+            },
+            {
+              "title": "DTC C0055",
+              "url": "astra-k/3712966.pdf"
+            },
+            {
+              "title": "DTC C005A",
+              "url": "astra-k/3771739.pdf"
+            },
+            {
+              "title": "DTC C0110",
+              "url": "astra-k/3720360.pdf"
+            },
+            {
+              "title": "DTC C0110 (J71)",
+              "url": "astra-k/4214753.pdf"
+            },
+            {
+              "title": "DTC C0115",
+              "url": "astra-k/4565342.pdf"
+            },
+            {
+              "title": "DTC C0116",
+              "url": "astra-k/3819050.pdf"
+            },
+            {
+              "title": "DTC C0121",
+              "url": "astra-k/3716504.pdf"
+            },
+            {
+              "title": "DTC C0121 (RPO J71)",
+              "url": "astra-k/4203430.pdf"
+            },
+            {
+              "title": "DTC C012A",
+              "url": "astra-k/3819048.pdf"
+            },
+            {
+              "title": "DTC C0131",
+              "url": "astra-k/4731339.pdf"
+            },
+            {
+              "title": "DTC C0161",
+              "url": "astra-k/2436383.pdf"
+            },
+            {
+              "title": "DTC C0179",
+              "url": "astra-k/3712184.pdf"
+            },
+            {
+              "title": "DTC C0186, C0196, or C0287",
+              "url": "astra-k/3291832.pdf"
+            },
+            {
+              "title": "DTC C0242",
+              "url": "astra-k/3268540.pdf"
+            },
+            {
+              "title": "DTC C0245",
+              "url": "astra-k/3712877.pdf"
+            },
+            {
+              "title": "DTC C0274",
+              "url": "astra-k/3771935.pdf"
+            },
+            {
+              "title": "DTC C0280",
+              "url": "astra-k/3782912.pdf"
+            },
+            {
+              "title": "DTC C0561",
+              "url": "astra-k/3709117.pdf"
+            },
+            {
+              "title": "DTC C0569",
+              "url": "astra-k/3713422.pdf"
+            },
+            {
+              "title": "DTC C0710",
+              "url": "astra-k/3771675.pdf"
+            },
+            {
+              "title": "DTC C1207, C1208, C1221, C1222, C1225, C1226, C1232, or C1233",
+              "url": "astra-k/3998288.pdf"
+            },
+            {
+              "title": "DTC C1252-C1254",
+              "url": "astra-k/3976907.pdf"
+            },
+            {
+              "title": "DTC P0856",
+              "url": "astra-k/2161971.pdf"
+            },
+            {
+              "title": "DTC P15F8",
+              "url": "astra-k/2899926.pdf"
+            },
+            {
+              "title": "DTC P15FD",
+              "url": "astra-k/4122640.pdf"
+            },
+            {
+              "title": "DTC P1B12",
+              "url": "astra-k/3372217.pdf"
+            },
+            {
+              "title": "Symptoms - Antilock Brake System",
+              "url": "astra-k/2242989.pdf"
+            },
+            {
+              "title": "ABS Indicator Malfunction",
+              "url": "astra-k/2161625.pdf"
+            },
+            {
+              "title": "Traction Control/Stability Control Indicator Malfunction",
+              "url": "astra-k/4214871.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Steering Wheel Angle Sensor Centering",
+              "url": "astra-k/2917729.pdf"
+            },
+            {
+              "title": "Electronic Brake Control Module Replacement",
+              "url": "astra-k/3693491.pdf"
+            },
+            {
+              "title": "Electronic Brake and Traction Control Module with Brake Pressure Modulator Valve Replacement (Left Hand Drive)",
+              "url": "astra-k/3695650.pdf"
+            },
+            {
+              "title": "Electronic Brake and Traction Control Module with Brake Pressure Modulator Valve Replacement (Right Hand Drive)",
+              "url": "astra-k/4213424.pdf"
+            },
+            {
+              "title": "Brake Pressure Modulator Valve Pressure Sensor Calibration",
+              "url": "astra-k/2172759.pdf"
+            },
+            {
+              "title": "Brake Pressure Modulator Valve Bracket Replacement",
+              "url": "astra-k/3694667.pdf"
+            },
+            {
+              "title": "Front Wheel Speed Sensor Replacement",
+              "url": "astra-k/3696587.pdf"
+            },
+            {
+              "title": "Rear Wheel Speed Sensor Replacement",
+              "url": "astra-k/3689128.pdf"
+            },
+            {
+              "title": "Vehicle Yaw Sensor Learn (with UGN)",
+              "url": "astra-k/4845284.pdf"
+            },
+            {
+              "title": "Vehicle Yaw Sensor Learn (without UGN)",
+              "url": "astra-k/4845317.pdf"
+            },
+            {
+              "title": "Vehicle Dynamics Sensor Replacement",
+              "url": "astra-k/4109716.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "ABS Description and Operation",
+              "url": "astra-k/3715872.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Disc Brakes",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Disc Brake Component Specifications",
+              "url": "astra-k/4218311.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Brake Rotor Thickness Measurement",
+              "url": "astra-k/4283318.pdf"
+            },
+            {
+              "title": "Brake Rotor Thickness Variation Measurement",
+              "url": "astra-k/4816769.pdf"
+            },
+            {
+              "title": "Brake Rotor Surface and Wear Inspection",
+              "url": "astra-k/4283327.pdf"
+            },
+            {
+              "title": "Brake Rotor Assembled Lateral Runout Measurement",
+              "url": "astra-k/3222181.pdf"
+            },
+            {
+              "title": "Brake Pad Inspection",
+              "url": "astra-k/2164621.pdf"
+            },
+            {
+              "title": "Brake Caliper Inspection",
+              "url": "astra-k/2164575.pdf"
+            },
+            {
+              "title": "Front Disc Brake Mounting and Hardware Inspection",
+              "url": "astra-k/4215490.pdf"
+            },
+            {
+              "title": "Rear Disc Brake Mounting and Hardware Inspection",
+              "url": "astra-k/4113335.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Front Disc Brake Pads Replacement",
+              "url": "astra-k/4215477.pdf"
+            },
+            {
+              "title": "Rear Disc Brake Pads Replacement (with Electrical Parking Brake - J71)",
+              "url": "astra-k/4090556.pdf"
+            },
+            {
+              "title": "Rear Disc Brake Pads Replacement (with Mechanical Parking Brake - J69)",
+              "url": "astra-k/3698427.pdf"
+            },
+            {
+              "title": "Brake Pad and Rotor Burnishing",
+              "url": "astra-k/2082996.pdf"
+            },
+            {
+              "title": "Front Brake Caliper Replacement",
+              "url": "astra-k/4215484.pdf"
+            },
+            {
+              "title": "Front Brake Caliper Guide Pin Replacement",
+              "url": "astra-k/4215500.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Replacement (with Electrical Parking Brake - J71)",
+              "url": "astra-k/4071010.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Replacement (with Mechanical Parking Brake - J69)",
+              "url": "astra-k/3699829.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Housing Replacement (with Electrical Parking Brake - J71)",
+              "url": "astra-k/4084669.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Housing Replacement (with Mechanical Parking Brake - J69)",
+              "url": "astra-k/3828499.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Guide Pin Replacement (with Electrical Parking Brake - J71)",
+              "url": "astra-k/4071044.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Guide Pin Replacement (with Mechanical Parking Brake - J69)",
+              "url": "astra-k/3716435.pdf"
+            },
+            {
+              "title": "Front Brake Caliper Overhaul",
+              "url": "astra-k/2164982.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Mount Plate Replacement",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Front Brake Caliper Bracket Replacement",
+              "url": "astra-k/4215487.pdf"
+            },
+            {
+              "title": "Front Brake Caliper Housing Replacement",
+              "url": "astra-k/3828496.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Bracket Replacement (Regular Bracket with Mechanical Parking Brake - J69)",
+              "url": "astra-k/3703283.pdf"
+            },
+            {
+              "title": "Rear Brake Caliper Bracket Replacement (Regular Bracket with Electrical Parking Brake - J71)",
+              "url": "astra-k/4286370.pdf"
+            },
+            {
+              "title": "Front Brake Rotor Replacement",
+              "url": "astra-k/3699840.pdf"
+            },
+            {
+              "title": "Rear Brake Rotor Replacement",
+              "url": "astra-k/3700082.pdf"
+            },
+            {
+              "title": "Front Brake Shield Replacement",
+              "url": "astra-k/4319124.pdf"
+            },
+            {
+              "title": "Rear Brake Shield Replacement",
+              "url": "astra-k/3703897.pdf"
+            },
+            {
+              "title": "Brake Rotor Refinishing",
+              "url": "astra-k/3827123.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Disc Brake System Description and Operation",
+              "url": "astra-k/2169787.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hydraulic Brakes",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Brake Component Specifications",
+              "url": "astra-k/2166554.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Hydraulic Brake Schematics",
+              "url": "astra-k/4445848.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC C0126",
+              "url": "astra-k/4223665.pdf"
+            },
+            {
+              "title": "DTC C025E",
+              "url": "astra-k/4121776.pdf"
+            },
+            {
+              "title": "DTC C0267",
+              "url": "astra-k/4213805.pdf"
+            },
+            {
+              "title": "DTC C0299",
+              "url": "astra-k/4072008.pdf"
+            },
+            {
+              "title": "DTC P050F",
+              "url": "astra-k/3265799.pdf"
+            },
+            {
+              "title": "DTC P0556, P0557, or P0558",
+              "url": "astra-k/4009374.pdf"
+            },
+            {
+              "title": "Symptoms - Hydraulic Brakes",
+              "url": "astra-k/3785430.pdf"
+            },
+            {
+              "title": "Brake Warning Indicator Malfunction",
+              "url": "astra-k/4065824.pdf"
+            },
+            {
+              "title": "Brake Pulsation",
+              "url": "astra-k/2169792.pdf"
+            },
+            {
+              "title": "Brake System Noise",
+              "url": "astra-k/2272305.pdf"
+            },
+            {
+              "title": "Braking Action Uneven - Pulls to One Side",
+              "url": "astra-k/2208567.pdf"
+            },
+            {
+              "title": "Braking Action Uneven - Front to Rear",
+              "url": "astra-k/2272304.pdf"
+            },
+            {
+              "title": "Brake Pedal Excessive Travel",
+              "url": "astra-k/2327793.pdf"
+            },
+            {
+              "title": "Brake Pedal Excessive Effort",
+              "url": "astra-k/2272302.pdf"
+            },
+            {
+              "title": "Brakes Drag",
+              "url": "astra-k/2272299.pdf"
+            },
+            {
+              "title": "Brake System Slow Release",
+              "url": "astra-k/2272303.pdf"
+            },
+            {
+              "title": "Brake Fluid Loss",
+              "url": "astra-k/2179410.pdf"
+            },
+            {
+              "title": "Disc Brake System Diagnosis",
+              "url": "astra-k/2245806.pdf"
+            },
+            {
+              "title": "Hydraulic Brake System Diagnosis",
+              "url": "astra-k/3712648.pdf"
+            },
+            {
+              "title": "Brake Assist System Diagnosis",
+              "url": "astra-k/2173288.pdf"
+            },
+            {
+              "title": "Brake System Vehicle Road Test",
+              "url": "astra-k/2108003.pdf"
+            },
+            {
+              "title": "Brake Pedal Travel Measurement and Inspection",
+              "url": "astra-k/3827124.pdf"
+            },
+            {
+              "title": "Brake System Vacuum Source Test",
+              "url": "astra-k/2169607.pdf"
+            },
+            {
+              "title": "Brake System External Leak Inspection",
+              "url": "astra-k/2066461.pdf"
+            },
+            {
+              "title": "Brake System Internal Leak Test",
+              "url": "astra-k/2066462.pdf"
+            },
+            {
+              "title": "Hydraulic Brake Component Operation Visual Inspection",
+              "url": "astra-k/2066463.pdf"
+            },
+            {
+              "title": "Brake Pipe and Hose Inspection",
+              "url": "astra-k/2066465.pdf"
+            },
+            {
+              "title": "Brake Pedal Pushrod Inspection",
+              "url": "astra-k/2164126.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Brake Master Cylinder Reservoir Filling",
+              "url": "astra-k/2169606.pdf"
+            },
+            {
+              "title": "Brake Master Cylinder Reservoir Replacement",
+              "url": "astra-k/3698367.pdf"
+            },
+            {
+              "title": "Brake Master Cylinder Replacement (Right Hand Drive)",
+              "url": "astra-k/4213429.pdf"
+            },
+            {
+              "title": "Brake Master Cylinder Replacement (Left Hand Drive)",
+              "url": "astra-k/3698380.pdf"
+            },
+            {
+              "title": "Brake Fluid Level Indicator Switch Replacement",
+              "url": "astra-k/4213428.pdf"
+            },
+            {
+              "title": "Brake, Accelerator, and Clutch Pedal Replacement (Right Hand Drive)",
+              "url": "astra-k/4213430.pdf"
+            },
+            {
+              "title": "Brake, Accelerator, and Clutch Pedal Replacement (Left Hand Drive)",
+              "url": "astra-k/3703785.pdf"
+            },
+            {
+              "title": "Brake and Accelerator Pedal Assembly Replacement (Left Hand Drive)",
+              "url": "astra-k/4585916.pdf"
+            },
+            {
+              "title": "Brake and Accelerator Pedal Assembly Replacement (Right Hand Drive)",
+              "url": "astra-k/4213431.pdf"
+            },
+            {
+              "title": "Brake Pressure Modulator Valve Primary Pipe Replacement",
+              "url": "astra-k/3698399.pdf"
+            },
+            {
+              "title": "Brake Pressure Modulator Valve Secondary Pipe Replacement",
+              "url": "astra-k/3698403.pdf"
+            },
+            {
+              "title": "Brake Pipe Replacement",
+              "url": "astra-k/2169605.pdf"
+            },
+            {
+              "title": "Front Brake Pipe Replacement - Right Side",
+              "url": "astra-k/3788197.pdf"
+            },
+            {
+              "title": "Front Brake Pipe Replacement - Left Side",
+              "url": "astra-k/3792199.pdf"
+            },
+            {
+              "title": "Front Brake Hose Replacement",
+              "url": "astra-k/4213425.pdf"
+            },
+            {
+              "title": "Rear Brake Intermediate Pipe Replacement",
+              "url": "astra-k/3787329.pdf"
+            },
+            {
+              "title": "Rear Brake Pipe Replacement - Left Side",
+              "url": "astra-k/3794577.pdf"
+            },
+            {
+              "title": "Rear Brake Pipe Replacement - Right Side",
+              "url": "astra-k/3792156.pdf"
+            },
+            {
+              "title": "Rear Brake Front Pipe Replacement",
+              "url": "astra-k/3787966.pdf"
+            },
+            {
+              "title": "Rear Brake Hose Replacement",
+              "url": "astra-k/4168948.pdf"
+            },
+            {
+              "title": "Hydraulic Brake System Bleeding",
+              "url": "astra-k/4280822.pdf"
+            },
+            {
+              "title": "Hydraulic Brake System Flushing",
+              "url": "astra-k/3712741.pdf"
+            },
+            {
+              "title": "Power Brake Booster Vacuum Sensor Replacement",
+              "url": "astra-k/3698397.pdf"
+            },
+            {
+              "title": "Power Brake Booster Vacuum Pipe Replacement",
+              "url": "astra-k/3698419.pdf"
+            },
+            {
+              "title": "Power Brake Booster Replacement (Left Hand Drive)",
+              "url": "astra-k/4213426.pdf"
+            },
+            {
+              "title": "Power Brake Booster Replacement (Right Hand Drive)",
+              "url": "astra-k/4213427.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Brake Assist System Description and Operation",
+              "url": "astra-k/3716404.pdf"
+            },
+            {
+              "title": "Brake Booster Vacuum Assist Description and Operation",
+              "url": "astra-k/3716411.pdf"
+            },
+            {
+              "title": "Brake Fluid and Brake Fluid Handling",
+              "url": "astra-k/2178323.pdf"
+            },
+            {
+              "title": "Brake Warning System Description and Operation",
+              "url": "astra-k/2671236.pdf"
+            },
+            {
+              "title": "Hydraulic Brake System Description and Operation",
+              "url": "astra-k/697379.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Park Brake",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Park Brake System Schematics",
+              "url": "astra-k/4445995.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC C028F",
+              "url": "astra-k/4103778.pdf"
+            },
+            {
+              "title": "DTC C0293",
+              "url": "astra-k/4103780.pdf"
+            },
+            {
+              "title": "DTC C1586",
+              "url": "astra-k/4103783.pdf"
+            },
+            {
+              "title": "DTC C1587",
+              "url": "astra-k/4103785.pdf"
+            },
+            {
+              "title": "DTC C1588",
+              "url": "astra-k/4103786.pdf"
+            },
+            {
+              "title": "Symptoms - Park Brake",
+              "url": "astra-k/4215512.pdf"
+            },
+            {
+              "title": "Park Brake System Diagnosis",
+              "url": "astra-k/4090561.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Park Brake Calibration",
+              "url": "astra-k/3961296.pdf"
+            },
+            {
+              "title": "Parking Brake Lever Replacement",
+              "url": "astra-k/3701315.pdf"
+            },
+            {
+              "title": "Parking Brake Lever Boot Replacement",
+              "url": "astra-k/3701313.pdf"
+            },
+            {
+              "title": "Parking Brake Indicator Switch Replacement",
+              "url": "astra-k/3716437.pdf"
+            },
+            {
+              "title": "Parking Brake Cable Replacement",
+              "url": "astra-k/3701316.pdf"
+            },
+            {
+              "title": "Parking Brake Actuator Switch Replacement",
+              "url": "astra-k/4215518.pdf"
+            },
+            {
+              "title": "Parking Brake Actuator Replacement",
+              "url": "astra-k/4090557.pdf"
+            },
+            {
+              "title": "Parking Brake Adjustment",
+              "url": "astra-k/2917611.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Electronic Parking Brake Description",
+              "url": "astra-k/3961302.pdf"
+            },
+            {
+              "title": "Park Brake System Description and Operation",
+              "url": "astra-k/4090560.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

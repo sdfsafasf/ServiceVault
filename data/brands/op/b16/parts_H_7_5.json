@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "",
+    "desc": "TRANSMISSION,ASSY. (FINAL DRIVE RATIO 2.89) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 1681482180) (IDENT 0NCB)",
+    "qty": "1",
+    "usage": "Note : NO NEW PART AVAILABLE PLEASE ORDER EXCHANGE PART",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1681482180",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FINAL DRIVE RATIO 2.89) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524460) (IDENT 0NCB)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

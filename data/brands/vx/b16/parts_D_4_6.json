@@ -1,0 +1,318 @@
+[
+  {
+    "call": "1",
+    "part": "(39013527)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (EXCEPT RPO BS1,SOUND ACOUSTIC PACKAGE) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (NLS.- USE 13460564)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1831,
+        "y": 974
+      },
+      {
+        "x": 753,
+        "y": 1743
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39013528)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (EXCEPT RPO BS1,SOUND ACOUSTIC PACKAGE) (FOR POWER OPENING TAILGATE,RPO TC2) (NLS.- USE 13483013)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13460564",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (FOR SOUND ACOUSTIC PACKAGE,RPO BS1) (EXCEPT RPO TC2,POWER OPENING TAILGATE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13483013",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (FOR SOUND ACOUSTIC PACKAGE,RPO BS1) (FOR POWER OPENING TAILGATE,RPO TC2)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13460563",
+    "desc": "-COVER,ACCESS,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 542,
+        "y": 1508
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13460562",
+    "desc": "-COVER,ACCESS,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13272632",
+    "desc": "-PLUG,BLANKING,20MM,LATCH RELEASE ADAPTER HOLE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 939,
+        "y": 1728
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13435002)",
+    "desc": "-CLIP (NLS.- USE YQ00108180)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1367,
+        "y": 263
+      },
+      {
+        "x": 1947,
+        "y": 1099
+      },
+      {
+        "x": 218,
+        "y": 285
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13435002)",
+    "desc": "-CLIP (NLS.- USE YQ00108180)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13435002)",
+    "desc": "-CLIP (NLS.- USE YQ00108180)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2054,
+        "y": 1319
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11609952)",
+    "desc": "NUT,INSERT,M4.2 (NLS.- USE YQ00109480)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2048,
+        "y": 2125
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13459962)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,LIGHT TITANIUM (NLS.- USE 39052570)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [
+      {
+        "x": 371,
+        "y": 260
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39052570",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,LIGHT TITANIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39008465)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,BLACK (NLS.- USE 39052571)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39052571)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,BLACK (NLS.- USE 39097985)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39097985",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13459961)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,LIGHT TITANIUM (NLS.- USE 39052568)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39052568",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,LIGHT TITANIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39008464)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,BLACK (NLS.- USE 39052569)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39052569)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,BLACK (NLS.- USE 39097987)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39097987",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13452503",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,CENTRE,LIGHT TITANIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1508,
+        "y": 260
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39008466",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,CENTRE,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "call": "1",
+    "part": "55564903",
+    "desc": "MAINSHAFT,18 TEETH (IDENT. 1 GROOVE) (FINAL DRIVE RATIO 3.94) (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "94730761",
+    "desc": "MAINSHAFT,16 TEETH (FINAL DRIVE RATIO 4.63) (FOR F17 MANUAL TRANSMISSION,RPO M26)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55564902",
+    "desc": "MAINSHAFT,16 TEETH (IDENT. LESS GROOVE) (FINAL DRIVE RATIO 4.19) (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55565098",
+    "desc": "BEARING,ROLLER,MAINSHAFT,27 X 47 X 19.5MM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24466959",
+    "desc": "BEARING,MAINSHAFT,REAR,25 X 60 X 17MM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24466960",
+    "desc": "RING,SNAP,BEARING TO EXTENSION CASE",
+    "qty": "",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90217444",
+    "desc": "RING,SNAP,1.75 MM THICK,MAINSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90446131",
+    "desc": "RING,SNAP,1.82MM,DARK BLUE,MAINSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90446132",
+    "desc": "RING,SNAP,1.89MM,BROWN,MAINSHAFT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

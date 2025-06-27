@@ -1,0 +1,141 @@
+[
+  {
+    "call": "-",
+    "part": "98450924DX",
+    "desc": "NAMEPLATE,'DESIGN AND TECH'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13290276",
+    "desc": "NAMEPLATE,'SE'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1640,
+        "y": 269
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13310766",
+    "desc": "NAMEPLATE,'SXI'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1643,
+        "y": 367
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13278695",
+    "desc": "NAMEPLATE,'SRI'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1646,
+        "y": 448
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13278697",
+    "desc": "NAMEPLATE,'ELITE'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1643,
+        "y": 537
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "42565937",
+    "desc": "NAMEPLATE,'EXCITE'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1640,
+        "y": 645
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39059631",
+    "desc": "NAMEPLATE,'ACTIVE'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1640,
+        "y": 764
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39200621",
+    "desc": "NAMEPLATE,'120'",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1640,
+        "y": 857
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39227513)",
+    "desc": "NAMEPLATE,'2020' (NLS.- USE 39229758)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1643,
+        "y": 967
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

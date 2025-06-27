@@ -1,0 +1,35 @@
+[
+  {
+    "call": "16",
+    "part": "12671379",
+    "desc": "-BODY,ASSY.,THROTTLE VALVE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "11588717",
+    "desc": "-SCREW,M6 X 45",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "12637017",
+    "desc": "-SEAL,RING,THROTTLE VALVE BODY TO INDUCTION MANIFOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

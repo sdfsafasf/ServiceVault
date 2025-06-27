@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "(13580386)",
+    "desc": "HUB,REAR WHEEL,WITH BEARINGS (NLS.- USE 13507454)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13507454)",
+    "desc": "HUB,REAR WHEEL,WITH BEARINGS (NLS.- USE 13517460)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(9599370)",
+    "desc": "-STUD,M12 (NLS.- USE 9599489)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588743)",
+    "desc": "SCREW,HEX.HD.,M10 X 55 (SINGLE USE PART) (NLS.- USE YR00123080)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

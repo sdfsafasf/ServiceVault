@@ -1,0 +1,35 @@
+[
+  {
+    "call": "18",
+    "part": "(12669763)",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (STD.) (NLS.- USE 25202072)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55565720",
+    "desc": "-RING,SNAP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20X",
+    "part": "(12663616)",
+    "desc": "RING SET,PISTON,STD. (NLS.- USE 12689005)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

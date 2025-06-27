@@ -1,0 +1,81 @@
+{
+  "modelTitle": "Astra K B16",
+  "sections": [
+    {
+      "id": "viewallbulletins",
+      "name": "View All Bulletins"
+    },
+    {
+      "id": "preface",
+      "name": "Preface"
+    },
+    {
+      "id": "generalinformation",
+      "name": "General Information"
+    },
+    {
+      "id": "bodyhardwareandtrim",
+      "name": "Body Hardware and Trim"
+    },
+    {
+      "id": "bodyrepair",
+      "name": "Body Repair"
+    },
+    {
+      "id": "bodysystems",
+      "name": "Body Systems"
+    },
+    {
+      "id": "brakes",
+      "name": "Brakes"
+    },
+    {
+      "id": "diagnosticoverviewstartingpointandprogramming",
+      "name": "Diagnostic Overview, Starting Point, and Programming"
+    },
+    {
+      "id": "drivelineaxle",
+      "name": "Driveline/Axle"
+    },
+    {
+      "id": "driverinformationandentertainment",
+      "name": "Driver Information and Entertainment"
+    },
+    {
+      "id": "enginepropulsion",
+      "name": "Engine/Propulsion"
+    },
+    {
+      "id": "hvac",
+      "name": "HVAC"
+    },
+    {
+      "id": "powerandsignaldistribution",
+      "name": "Power and Signal Distribution"
+    },
+    {
+      "id": "roof",
+      "name": "Roof"
+    },
+    {
+      "id": "safetyandsecurity",
+      "name": "Safety and Security"
+    },
+    {
+      "id": "seats",
+      "name": "Seats"
+    },
+    {
+      "id": "steering",
+      "name": "Steering"
+    },
+    {
+      "id": "suspension",
+      "name": "Suspension"
+    },
+    {
+      "id": "transmission",
+      "name": "Transmission"
+    }
+  ]
+}

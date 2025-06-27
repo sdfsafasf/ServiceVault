@@ -1,0 +1,81 @@
+[
+  {
+    "call": "1",
+    "part": "13373163",
+    "desc": "HOSE,HEATER,WATER INLET (IDENT UW6)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1263,
+        "y": 288
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13373174)",
+    "desc": "HOSE,HEATER,WATER OUTLET (NLS.- USE 39041880) (IDENT UU6)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1402,
+        "y": 1032
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39041880)",
+    "desc": "HOSE,HEATER,WATER OUTLET (NLS.- USE 39107989) (IDENT AAHL)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13465222",
+    "desc": "-CLIP,HEATER HOSE,INLET AND OUTLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1248,
+        "y": 1229
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "90572594",
+    "desc": "-CLAMP,HOSE,27MM",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1638,
+        "y": 2048
+      },
+      {
+        "x": 2002,
+        "y": 1471
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

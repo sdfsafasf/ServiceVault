@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1X",
+    "part": "95527406",
+    "desc": "SERVICE KIT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55490097",
+    "desc": "-PLUG,ASSY.,SPARK,REPLACE AS SET",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13367308)",
+    "desc": "-ELEMENT,AIR CLEANER (NLS.- USE 39030321)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "1689023980",
+    "desc": "-ELEMENT,AIR CLEANER (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39030321",
+    "desc": "-ELEMENT,AIR CLEANER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "1689023780",
+    "desc": "-ELEMENT,AIR CLEANER (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13356914)",
+    "desc": "-FILTER,ACTIVATED CARBON,INTERIOR VENTILATION (NLS.- USE 1684471080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "1689027280",
+    "desc": "-FILTER,ACTIVATED CARBON,INTERIOR VENTILATION (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "1684471080",
+    "desc": "-FILTER,ACTIVATED CARBON,INTERIOR VENTILATION",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "1689027280",
+    "desc": "-FILTER,ACTIVATED CARBON,INTERIOR VENTILATION (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(55499629)",
+    "desc": "-FILTER,ASSY.,OIL (NLS.- USE 95528296)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "1667442580",
+    "desc": "-FILTER,ASSY.,OIL (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "12616850",
+    "desc": "-SEAL,RING (FOR 11562588 06 52 884 ASSY.)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

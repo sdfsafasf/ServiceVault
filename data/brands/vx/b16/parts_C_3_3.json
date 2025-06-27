@@ -1,0 +1,335 @@
+[
+  {
+    "call": "1",
+    "part": "(39030127)",
+    "desc": "ARMREST,ASSY.,BLACK (NLS.- USE 39108523)",
+    "usage": "",
+    "range": "(C)      -H8083282\n(C)      -HG146983",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1435,
+        "y": 500
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39108523",
+    "desc": "ARMREST,ASSY.,BLACK",
+    "usage": "",
+    "range": "(C)  H8083283-\n(C)  HG146984-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-TRAY,STORAGE,BLACK (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1164,
+        "y": 802
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39030128)",
+    "desc": "-PAD,CENTRE ARMREST,BLACK (NLS.- USE 39108524)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 825,
+        "y": 851
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39108524",
+    "desc": "-PAD,CENTRE ARMREST,BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39019314",
+    "desc": "--BUMPER",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 828,
+        "y": 729
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(11546970)",
+    "desc": "-SCREW,TORX,M4 X 14 (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1069,
+        "y": 699
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13424401",
+    "desc": "-PIN,HINGE",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1264,
+        "y": 802
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13473772",
+    "desc": "-SPRING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1090,
+        "y": 796
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13454133",
+    "desc": "BRACKET (FOR ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 676,
+        "y": 1739
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13459361",
+    "desc": "-SEAL (FOR ELECTRIC PARK BRAKE)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 843,
+        "y": 1700
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11561629)",
+    "desc": "-NUT,RETAINING (FOR ELECTRIC PARK BRAKE) (NLS.- USE YQ00110380)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 767,
+        "y": 1611
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11570142)",
+    "desc": "NUT,RETAINING (FOR ELECTRIC PARK BRAKE) (NLS.- USE YQ00108280)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1139,
+        "y": 1239
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11546970)",
+    "desc": "SCREW,TORX,M4 X 14 (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 584,
+        "y": 1355
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(11570498)",
+    "desc": "SCREW,HEX.HD.,M4.2 X 20 (NLS.- USE YQ00155980)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 328,
+        "y": 1257
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13460084",
+    "desc": "PANEL,ARMREST,BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 642,
+        "y": 409
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 636,
+        "y": 543
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13412443",
+    "desc": "PANEL,ARMREST,BLACK (EXCEPT USB PORT) (EXCEPT RPO KA6,HEATED REAR SEAT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1752,
+        "y": 812
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13412444",
+    "desc": "PANEL,ARMREST,BLACK (FOR USB PORT) (EXCEPT RPO KA6,HEATED REAR SEAT)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1746,
+        "y": 1340
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39035733",
+    "desc": "PANEL,ARMREST,BLACK (FOR USB PORT) (FOR HEATED REAR SEAT,RPO KA6)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1746,
+        "y": 1877
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 1859,
+        "y": 1752
+        
+      },
+      {
+          "x": 1862, "y": 688
+      },
+      {
+          "x": 1860, "y": 1212
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

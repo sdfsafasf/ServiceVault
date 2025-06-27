@@ -1,0 +1,359 @@
+[
+  {
+    "call": "3",
+    "part": "13418808",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 325,
+        "y": 1975
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13418809",
+    "desc": "-SEAL,RING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 322,
+        "y": 1876
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(13427936)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95522240) (NLS.- USE 39069800)",
+    "usage": "B14XE[LV7],B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -G8089840\n(C)      -GG128583",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 581,
+        "y": 274
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(39076799)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95525472) (NLS.- USE 39157292)",
+    "usage": "B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "(C)  G8089841-K8012009\n(C)  GG128584-KG311099",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "39157292",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95529062)",
+    "usage": "B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "(C)  K8012010-\n(C)  KG311100-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(95522240)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS.- USE 95525471)",
+    "usage": "B14XE[LV7],B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -G8089840\n(C)      -GG128583",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(95525472)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS.- USE 95529062)",
+    "usage": "B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "(C)  G8089841-K8012009\n(C)  GG128584-KG311099",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(95529062)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS - NO REPLACEMENT PART)",
+    "usage": "B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "(C)  K8012010-\n(C)  KG311100-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(39068832)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95526024) (NLS.- USE 39069802)",
+    "usage": "B16SHT[LWC]",
+    "range": "(C)      -G8090296\n(C)      -GG129514",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(39069802)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95525469) (NLS.- USE 39076801)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  G8090297-K8010495\n(C)  GG129515-KG311099",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(39076801)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95525470) (NLS.- USE 39157293)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  G8090297-K8010495\n(C)  GG129515-KG311099",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "39157293",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING (EXCHANGE - REMAN PART 95529063)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  K8010496-\n(C)  KG311100-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(95526024)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS.- USE 95525469)",
+    "usage": "B16SHT[LWC]",
+    "range": "(C)      -G8090296\n(C)      -GG129514",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(95525469)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS.- USE 95525470)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  G8090297-K8010495\n(C)  GG129515-KG311099",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(95525470)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS.- USE 95529063)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  G8090297-K8010495\n(C)  GG129515-KG311099",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13X",
+    "part": "(95529063)",
+    "desc": "COMPRESSOR,ASSY.,AIR CONDITIONING,EXCHANGE - REMAN (CORE RETURN NO. 95524436) (NLS - NO REPLACEMENT PART)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  K8010496-\n(C)  KG311100-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "93182417",
+    "desc": "-SCREW,WITH 'O'RING,OIL DRAIN",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 528,
+        "y": 385
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "90543274",
+    "desc": "--'O'RING,OIL DRAIN SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 439,
+        "y": 453
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16X",
+    "part": "13397898",
+    "desc": "-VALVE,RELIEF,COMPRESSOR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 661,
+        "y": 407
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55590876",
+    "desc": "SUPPORT,AIR CONDITIONING COMPRESSOR",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 442,
+        "y": 117
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(11588726)",
+    "desc": "SCREW,HEX.HD.,M8 X 40 (NLS.- USE YR00047280)",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 236,
+        "y": 536
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "11611102",
+    "desc": "SCREW,HEX.HD.",
+    "usage": "B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 633,
+        "y": 1303
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "11588734",
+    "desc": "SCREW,HEX.HD.,M8 X 90",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "11561936",
+    "desc": "STUD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 769,
+        "y": 1097
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(11546377)",
+    "desc": "NUT,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 907,
+        "y": 1205
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(95599703)",
+    "desc": "OIL,AIR CONDITIONING COMPRESSOR,250 ML (NLS.- USE 95599714) (IDENT AC04)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1237,
+        "y": 62
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "95599714",
+    "desc": "OIL,AIR CONDITIONING COMPRESSOR,250 ML (IDENT AC09)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

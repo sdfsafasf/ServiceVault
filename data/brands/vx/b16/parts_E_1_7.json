@@ -1,0 +1,68 @@
+[
+  {
+    "call": "5",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,PLUG (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90542114",
+    "desc": "SEALING COMPOUND,50 GRAMS,PLUG (IDENT SC10)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(55575676)",
+    "desc": "PLUG,M18 (NLS.- USE 55491550 20 60 168)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(24502262)",
+    "desc": "PLUG (NLS.- NO REPLACEMENT PART)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "11611351",
+    "desc": "PLUG,M28 X 13",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "11548315",
+    "desc": "PLUG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

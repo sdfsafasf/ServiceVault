@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "12632174",
+    "desc": "VALVE,ASSY.,EVAPORATOR CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(12665907)",
+    "desc": "TUBE,FUEL EVAPORATION CANISTER PURGE (NLS.- USE 12683612)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13481992",
+    "desc": "PIPE,FUEL EVAPORATION,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13452451)",
+    "desc": "PIPE,FUEL EVAPORATION CANISTER PURGE (NLS.- USE 39098782)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13484916)",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT (EMISSION CODE NE4) (NLS.- USE 39093346)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39096181",
+    "desc": "PIPE,ASSY.,FUEL FEED,FRONT (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13432666",
+    "desc": "PIPE,ASSY.,FUEL FEED",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(12643067)",
+    "desc": "PIPE,ASSY.,FUEL FEED (EMISSION CODE NE4) (NLS.- USE 12684046)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12684046",
+    "desc": "PIPE,ASSY.,FUEL FEED (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "12669049",
+    "desc": "PIPE,ASSY.,FUEL FEED (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13408645)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 39097328)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39097328)",
+    "desc": "PIPE,ASSY.,FUEL FEED (NLS.- USE 39104717)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "90335472",
+    "desc": "BRACKET,PIPE,ASSY.,FUEL FEED AND RETURN",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11588712)",
+    "desc": "SCREW,HEX.HD. (NLS.- USE YR00052080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13432670",
+    "desc": "CLIP,FUEL PIPE,2 WAY",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13432669)",
+    "desc": "CLIP,FUEL PIPE,4-WAY (NLS.- USE 39080890)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "39080890",
+    "desc": "CLIP,FUEL PIPE,4-WAY",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

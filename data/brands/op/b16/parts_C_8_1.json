@@ -1,0 +1,83 @@
+[
+  {
+    "call": "1",
+    "part": "(39071819)",
+    "desc": "WEATHERSTRIP,FRONT DOOR (BODY SIDE) (NLS.- USE 39179849)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1381,
+        "y": 1807
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13406085)",
+    "desc": "WEATHERSTRIP,FRONT DOOR,RH (DOOR SIDE) (NLS.- USE 39034142)",
+    "usage": "",
+    "range": "(C)      -G8036440\n(C)      -GG034714",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2069,
+        "y": 2080
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39034142",
+    "desc": "WEATHERSTRIP,FRONT DOOR,RH (DOOR SIDE)",
+    "usage": "",
+    "range": "(C)  G8036441-\n(C)  GG034715-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13406084)",
+    "desc": "WEATHERSTRIP,FRONT DOOR,LH (DOOR SIDE) (NLS.- USE 39034141)",
+    "usage": "",
+    "range": "(C)      -G8036147\n(C)      -GG034388",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39034141",
+    "desc": "WEATHERSTRIP,FRONT DOOR,LH (DOOR SIDE)",
+    "usage": "",
+    "range": "(C)  G8036148-\n(C)  GG034389-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11611342)",
+    "desc": "-RETAINER,FRONT DOOR WEATHERSTRIP,0.7MM THICKNESS FIXING (NLS.- USE YQ00110980)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1951,
+        "y": 2026
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

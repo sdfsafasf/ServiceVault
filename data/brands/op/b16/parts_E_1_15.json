@@ -1,0 +1,46 @@
+[
+  {
+    "call": "27",
+    "part": "(12654118)",
+    "desc": "FLYWHEEL,ASSY. (NLS.- USE 12672782)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "(12672782)",
+    "desc": "FLYWHEEL,ASSY. (NLS.- USE 12679185)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27",
+    "part": "12679185",
+    "desc": "FLYWHEEL,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28",
+    "part": "11611632",
+    "desc": "-SCREW,HEX.SOCKET HD.,M9 X 20",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

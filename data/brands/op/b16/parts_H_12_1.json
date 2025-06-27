@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(13381368)",
+    "desc": "LEVER,ASSY.,GEAR SELECTOR (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (NLS.- USE 39224968)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39224968",
+    "desc": "LEVER,ASSY.,GEAR SELECTOR (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (FOR 250 CVT TRANSMISSION,RPO MRG)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13381370)",
+    "desc": "LEVER,ASSY.,GEAR SELECTOR (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 39224969)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13426987)",
+    "desc": "KNOB,GEAR SELECTOR LEVER,LHD (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 39137904)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39137904",
+    "desc": "KNOB,GEAR SELECTOR LEVER,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13426990)",
+    "desc": "KNOB,GEAR SELECTOR LEVER,RHD (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP/MHG) (NLS.- USE 39137905)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39137905",
+    "desc": "KNOB,GEAR SELECTOR LEVER,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "10",
+    "part": "13599456",
+    "desc": "SOCKET,LINE-IN,USB,BLACK (FOR USB PORT,RPO USR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39087528",
+    "desc": "SOCKET,LINE-IN,USB,BLACK (FOR USB CHARGE PORT,RPO MCY)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "84789791",
+    "desc": "SOCKET,LINE-IN,USB (FOR SD CARD PORT,RPO MCR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

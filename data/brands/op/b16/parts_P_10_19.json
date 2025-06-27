@@ -1,0 +1,57 @@
+[
+  {
+    "call": "1",
+    "part": "22887984",
+    "desc": "SWITCH,DISABLE,PASSENGER COMPARTMENT SENSOR (FOR INTERIOR MOVEMENT SENSOR,RPO UTV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13471616",
+    "desc": "COVER,BLANKING (EXCEPT RPO UE1,ON-STAR COMMUNICATION SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13496811)",
+    "desc": "SWITCH,ASSY. (FOR ON-STAR COMMUNICATION SYSTEM,RPO UE1) (NLS.- USE YQ000179YX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "22886705",
+    "desc": "SWITCH,SUN ROOF,SLIDE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "22894231",
+    "desc": "SWITCH,SUN ROOF,TILT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

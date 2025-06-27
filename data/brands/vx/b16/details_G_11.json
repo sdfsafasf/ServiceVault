@@ -1,0 +1,22 @@
+[
+  {
+    "code": "1",
+    "name": "FUEL FILLER FLAP"
+  },
+  {
+    "code": "2",
+    "name": "FUEL PUMP AND TANK GAUGE UNIT (PETROL ENGINES)"
+  },
+  {
+    "code": "3",
+    "name": "FUEL PUMP AND TANK GAUGE UNIT (DIESEL ENGINES)"
+  },
+  {
+    "code": "4",
+    "name": "FUEL TANK"
+  },
+  {
+    "code": "5",
+    "name": "FUEL TANK FILLING"
+  }
+]

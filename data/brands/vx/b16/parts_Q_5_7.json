@@ -1,0 +1,57 @@
+[
+  {
+    "call": "1",
+    "part": "(39063094)",
+    "desc": "REAR VIEW CAMERA (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB) (NLS.- USE 39065109)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39065109",
+    "desc": "REAR VIEW CAMERA (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39063097)",
+    "desc": "REAR VIEW CAMERA (FOR RADIO INFOTAINMENT SYSTEM,RPO IO5/IO6) (NLS.- USE 39065110)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39065110",
+    "desc": "REAR VIEW CAMERA (FOR RADIO INFOTAINMENT SYSTEM,RPO IO5/IO6)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-HARNESS,ASSY. (NOT SERVICED)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

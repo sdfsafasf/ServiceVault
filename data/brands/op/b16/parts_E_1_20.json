@@ -1,0 +1,233 @@
+[
+  {
+    "call": "1",
+    "part": "(55486023)",
+    "desc": "PAN,ASSY.,OIL,UPPER (NLS.- USE 55491548)",
+    "qty": "1",
+    "usage": "(E)      -20 B1160486HG3X0372",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55491548",
+    "desc": "PAN,ASSY.,OIL,UPPER",
+    "qty": "1",
+    "usage": "(E)  20 B1160486HG3X0373-20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11588714)",
+    "desc": "-SCREW,HEX.HD.,M6 X 30 (NLS.- USE YR00047880)",
+    "qty": "11",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11562025",
+    "desc": "-SCREW,HEX.HD.,M6 X 110",
+    "qty": "2",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "3525915",
+    "desc": "-PIN",
+    "qty": "4",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "",
+    "desc": "-SCREW,HEX.HD.,M6 X 25 (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P5)",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "",
+    "desc": "-SENSOR,MINIMUM OIL LEVEL,OIL PAN (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P5)",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "--SEAL (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P5)",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "--CLIP (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P5)",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "--CLIP (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P5)",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(55578978)",
+    "desc": "PAN,ASSY.,OIL,LOWER (NLS.- USE 11588713 20 00 369, 1690616980, 55577568 65 22 540, 55597721 65 23 460)",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55577568",
+    "desc": "-PLUG,OIL DRAIN",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "3536966",
+    "desc": "--'O'RING",
+    "qty": "1",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11588713",
+    "desc": "-SCREW,HEX.HD.,M6 X 25",
+    "qty": "11",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11518792",
+    "desc": "-SLEEVE",
+    "qty": "11",
+    "usage": "(E)      -20 B1163497HRXX0001",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "55499614",
+    "desc": "PAN,ASSY.,OIL",
+    "qty": "1",
+    "usage": "(E)  20 B1163497HRXX0002-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11588714)",
+    "desc": "-SCREW,HEX.HD.,M6 X 30 (NLS.- USE YR00047880)",
+    "qty": "7",
+    "usage": "(E)  20 B1163497HRXX0002-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "11562025",
+    "desc": "-SCREW,HEX.HD.,M6 X 110",
+    "qty": "4",
+    "usage": "(E)  20 B1163497HRXX0002-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "3525915",
+    "desc": "-PIN",
+    "qty": "2",
+    "usage": "(E)  20 B1163497HRXX0002-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "55577568",
+    "desc": "-PLUG,OIL DRAIN",
+    "qty": "1",
+    "usage": "(E)  20 B1163497HRXX0002-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "12616850",
+    "desc": "--SEAL,RING (FOR 11562588 06 52 884 ASSY.)",
+    "qty": "1",
+    "usage": "(E)  20 B1163497HRXX0002-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,2869 @@
+{
+  "sectionTitle": "Transmission",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Automatic Transmission - 6T35 (MNU) or 6T45 (MHG MNP)",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications (On Vehicle)",
+              "url": "astra-k/4248700.pdf"
+            },
+            {
+              "title": "Fastener Specifications (Off Vehicle)",
+              "url": "astra-k/4315942.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            },
+            {
+              "title": "Transmission General Specifications",
+              "url": "astra-k/3710968.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers",
+              "url": "astra-k/4878222.pdf"
+            },
+            {
+              "title": "Range Reference",
+              "url": "astra-k/1905755.pdf"
+            },
+            {
+              "title": "Shift Solenoid Valve State and Gear Ratio",
+              "url": "astra-k/1905756.pdf"
+            },
+            {
+              "title": "Transmission Internal Mode Switch Logic",
+              "url": "astra-k/1905758.pdf"
+            },
+            {
+              "title": "Solenoid Valve Pressure (Gen 3)",
+              "url": "astra-k/3958542.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Automatic Transmission Controls Schematics",
+              "url": "astra-k/4446256.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Disassembled Views",
+              "url": "astra-k/4580512.pdf"
+            },
+            {
+              "title": "Component Location",
+              "url": "astra-k/3975903.pdf"
+            },
+            {
+              "title": "Bushing, Bearing, and Washer Locations",
+              "url": "astra-k/2637382.pdf"
+            },
+            {
+              "title": "Seal Locations",
+              "url": "astra-k/2637386.pdf"
+            },
+            {
+              "title": "Ball Check Valve Locations (Gen 3)",
+              "url": "astra-k/4066401.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC P0601, P0603, P0604, or P062F",
+              "url": "astra-k/2907943.pdf"
+            },
+            {
+              "title": "DTC P0634",
+              "url": "astra-k/3981695.pdf"
+            },
+            {
+              "title": "DTC P0658 or P0659",
+              "url": "astra-k/2858560.pdf"
+            },
+            {
+              "title": "DTC P0667, P0668, or P0669",
+              "url": "astra-k/2633116.pdf"
+            },
+            {
+              "title": "DTC P06AC, P06AD, or P06AE",
+              "url": "astra-k/2633093.pdf"
+            },
+            {
+              "title": "DTC P0711-P0713",
+              "url": "astra-k/2633119.pdf"
+            },
+            {
+              "title": "DTC P0716, P0717, P07BF, or P07C0",
+              "url": "astra-k/2858721.pdf"
+            },
+            {
+              "title": "DTC P0722, P0723, P077C, or P077D",
+              "url": "astra-k/2859447.pdf"
+            },
+            {
+              "title": "DTC P0741 or P0742",
+              "url": "astra-k/2859469.pdf"
+            },
+            {
+              "title": "DTC P0751 or P0752",
+              "url": "astra-k/2676572.pdf"
+            },
+            {
+              "title": "DTC P0776 or P0777",
+              "url": "astra-k/2562457.pdf"
+            },
+            {
+              "title": "DTC P0796 or P0797",
+              "url": "astra-k/2562458.pdf"
+            },
+            {
+              "title": "DTC P0815, P0816, or P0826",
+              "url": "astra-k/4510533.pdf"
+            },
+            {
+              "title": "DTC P0850-P0852",
+              "url": "astra-k/2633183.pdf"
+            },
+            {
+              "title": "DTC P0961-P0963",
+              "url": "astra-k/2633425.pdf"
+            },
+            {
+              "title": "DTC P0965-P0967",
+              "url": "astra-k/2633428.pdf"
+            },
+            {
+              "title": "DTC P0969-P0971",
+              "url": "astra-k/2633193.pdf"
+            },
+            {
+              "title": "DTC P0973 or P0974",
+              "url": "astra-k/2633357.pdf"
+            },
+            {
+              "title": "DTC P171A-P171C",
+              "url": "astra-k/4522041.pdf"
+            },
+            {
+              "title": "DTC P171D",
+              "url": "astra-k/4204558.pdf"
+            },
+            {
+              "title": "DTC P1761",
+              "url": "astra-k/2694250.pdf"
+            },
+            {
+              "title": "DTC P182E or P1915",
+              "url": "astra-k/2633103.pdf"
+            },
+            {
+              "title": "DTC P1876",
+              "url": "astra-k/4510802.pdf"
+            },
+            {
+              "title": "DTC P2714 or P2715",
+              "url": "astra-k/2562504.pdf"
+            },
+            {
+              "title": "DTC P2719-P2721",
+              "url": "astra-k/2633395.pdf"
+            },
+            {
+              "title": "DTC P2723 or P2724",
+              "url": "astra-k/2562510.pdf"
+            },
+            {
+              "title": "DTC P2728-P2730",
+              "url": "astra-k/2633408.pdf"
+            },
+            {
+              "title": "DTC P2762, P2763, or P2764",
+              "url": "astra-k/2633412.pdf"
+            },
+            {
+              "title": "Symptoms - Automatic Transmission",
+              "url": "astra-k/2782295.pdf"
+            },
+            {
+              "title": "Control Solenoid Valve and Transmission Control Module Assembly Inspection",
+              "url": "astra-k/2810812.pdf"
+            },
+            {
+              "title": "Control Solenoid Valve and Transmission Control Module Assembly Input Shaft Speed/Output Shaft Speed Input Test",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Control Solenoid Valve and Transmission Control Module Assembly Solenoid Performance Test",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Transmission Adaptive Values Learn",
+              "url": "astra-k/2280246.pdf"
+            },
+            {
+              "title": "Manual Mode or Tap Up/Down Diagnosis",
+              "url": "astra-k/2701781.pdf"
+            },
+            {
+              "title": "Transmission Fluid Level and Condition Check",
+              "url": "astra-k/2084511.pdf"
+            },
+            {
+              "title": "Line Pressure Check",
+              "url": "astra-k/2086374.pdf"
+            },
+            {
+              "title": "Road Test",
+              "url": "astra-k/2361323.pdf"
+            },
+            {
+              "title": "Torque Converter Diagnosis",
+              "url": "astra-k/4868072.pdf"
+            },
+            {
+              "title": "Clutch Plate Diagnosis",
+              "url": "astra-k/1905779.pdf"
+            },
+            {
+              "title": "Engine Coolant/Water in Transmission",
+              "url": "astra-k/3283520.pdf"
+            },
+            {
+              "title": "Fluid Leak Diagnosis",
+              "url": "astra-k/2679592.pdf"
+            },
+            {
+              "title": "Case Porosity Repair",
+              "url": "astra-k/2084523.pdf"
+            },
+            {
+              "title": "Bushing and Mating Shaft Inspection",
+              "url": "astra-k/2084526.pdf"
+            },
+            {
+              "title": "Noise and Vibration Analysis",
+              "url": "astra-k/2220061.pdf"
+            },
+            {
+              "title": "Whine/Growl Noise",
+              "url": "astra-k/1905787.pdf"
+            },
+            {
+              "title": "Automatic Transmission Fluid Leaks",
+              "url": "astra-k/1905789.pdf"
+            },
+            {
+              "title": "Shift Indicator Indicates Wrong Gear Selection",
+              "url": "astra-k/2334555.pdf"
+            },
+            {
+              "title": "No Park",
+              "url": "astra-k/1905790.pdf"
+            },
+            {
+              "title": "Harsh Garage Shift",
+              "url": "astra-k/1905792.pdf"
+            },
+            {
+              "title": "No Drive in All Ranges",
+              "url": "astra-k/1905815.pdf"
+            },
+            {
+              "title": "No First and Reverse Gears",
+              "url": "astra-k/1905797.pdf"
+            },
+            {
+              "title": "No First, Second, Third, and Fourth Gear",
+              "url": "astra-k/1905798.pdf"
+            },
+            {
+              "title": "No Second and Sixth Gear",
+              "url": "astra-k/1905799.pdf"
+            },
+            {
+              "title": "Harsh or Late First, Second, Third, and Fourth Shift",
+              "url": "astra-k/1905800.pdf"
+            },
+            {
+              "title": "Harsh First and Reverse Shift",
+              "url": "astra-k/1905801.pdf"
+            },
+            {
+              "title": "No Third, Fifth, and Reverse Gear",
+              "url": "astra-k/1905802.pdf"
+            },
+            {
+              "title": "Harsh or Late Second and Sixth Shift",
+              "url": "astra-k/1905803.pdf"
+            },
+            {
+              "title": "No Fourth, Fifth, and Sixth Gear",
+              "url": "astra-k/1905804.pdf"
+            },
+            {
+              "title": "Harsh or Late Third, Fifth, and Reverse Shift",
+              "url": "astra-k/1905805.pdf"
+            },
+            {
+              "title": "Harsh Fourth, Fifth, and Sixth Shift",
+              "url": "astra-k/1905806.pdf"
+            },
+            {
+              "title": "Harsh Downshift",
+              "url": "astra-k/4544561.pdf"
+            },
+            {
+              "title": "No Torque Converter Clutch Apply",
+              "url": "astra-k/1905807.pdf"
+            },
+            {
+              "title": "No Torque Converter Clutch Release",
+              "url": "astra-k/1905809.pdf"
+            },
+            {
+              "title": "No Reverse Gear",
+              "url": "astra-k/1905811.pdf"
+            },
+            {
+              "title": "Fluid Pressure High or Low",
+              "url": "astra-k/1905812.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - On Vehicle",
+          "subsections": [
+            {
+              "title": "Connector Reconnection - Automatic Transmission",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Manual Shift Detent Lever with Shaft Position Switch Assembly Replacement",
+              "url": "astra-k/2346671.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Replacement",
+              "url": "astra-k/4855291.pdf"
+            },
+            {
+              "title": "Transmission Control Replacement",
+              "url": "astra-k/4327980.pdf"
+            },
+            {
+              "title": "Range Selector Lever Cable Replacement",
+              "url": "astra-k/4541230.pdf"
+            },
+            {
+              "title": "Range Selector Lever Cable Adjustment",
+              "url": "astra-k/4541228.pdf"
+            },
+            {
+              "title": "Automatic Transmission Range Selector Lever Cable Adjuster Replacement",
+              "url": "astra-k/3704921.pdf"
+            },
+            {
+              "title": "Range Selector Lever Cable Bracket Replacement (1.4L LE2)",
+              "url": "astra-k/3701929.pdf"
+            },
+            {
+              "title": "Range Selector Lever Cable Bracket Replacement (1.6L Diesel LVL)",
+              "url": "astra-k/4228674.pdf"
+            },
+            {
+              "title": "Range Selector Lever Cable Bracket Replacement (1.6L LWC)",
+              "url": "astra-k/4541232.pdf"
+            },
+            {
+              "title": "Range Selector Lever Cable Lever Replacement",
+              "url": "astra-k/3701956.pdf"
+            },
+            {
+              "title": "Transmission Fluid Filler Cap Replacement",
+              "url": "astra-k/3701951.pdf"
+            },
+            {
+              "title": "Transmission Fluid Drain and Fill",
+              "url": "astra-k/4284333.pdf"
+            },
+            {
+              "title": "Transmission Fluid Pump Replacement",
+              "url": "astra-k/4455622.pdf"
+            },
+            {
+              "title": "Auxiliary Fluid Accumulator Replacement",
+              "url": "astra-k/4581963.pdf"
+            },
+            {
+              "title": "Transmission Fluid Accumulator Pipe Replacement",
+              "url": "astra-k/5118727.pdf"
+            },
+            {
+              "title": "Automatic Transmission Fluid Filter and Seal Replacement",
+              "url": "astra-k/5135321.pdf"
+            },
+            {
+              "title": "Transmission Fluid Pressure Test Hole Plug Replacement",
+              "url": "astra-k/3701946.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Left Side",
+              "url": "astra-k/4335574.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Right Side",
+              "url": "astra-k/4335573.pdf"
+            },
+            {
+              "title": "Manual Shift Shaft and Seal Replacement",
+              "url": "astra-k/2165098.pdf"
+            },
+            {
+              "title": "Control Solenoid Valve and Transmission Control Module Assembly Replacement",
+              "url": "astra-k/2165128.pdf"
+            },
+            {
+              "title": "Vent Hose Replacement",
+              "url": "astra-k/3701950.pdf"
+            },
+            {
+              "title": "Control Valve Body Cover Replacement (1.6L Diesel LVL)",
+              "url": "astra-k/4228676.pdf"
+            },
+            {
+              "title": "Control Valve Body Cover Replacement (1.4L LE2)",
+              "url": "astra-k/4328742.pdf"
+            },
+            {
+              "title": "Control Valve Body Cover Replacement (1.6L LWC)",
+              "url": "astra-k/4541240.pdf"
+            },
+            {
+              "title": "Control Valve Body Replacement",
+              "url": "astra-k/2165579.pdf"
+            },
+            {
+              "title": "Torque Converter Fluid Seal Replacement",
+              "url": "astra-k/3792643.pdf"
+            },
+            {
+              "title": "Output Speed Sensor Replacement",
+              "url": "astra-k/2346674.pdf"
+            },
+            {
+              "title": "Input Speed Sensor Replacement",
+              "url": "astra-k/4255726.pdf"
+            },
+            {
+              "title": "Transmission Mount Replacement (1.6L Diesel LVL)",
+              "url": "astra-k/4228677.pdf"
+            },
+            {
+              "title": "Transmission Mount Replacement (1.4L LE2)",
+              "url": "astra-k/4290449.pdf"
+            },
+            {
+              "title": "Transmission Mount Replacement (1.6L LWC)",
+              "url": "astra-k/4541243.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Replacement",
+              "url": "astra-k/4288768.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Bracket Replacement (1.6L Diesel LVL, and LWC)",
+              "url": "astra-k/4228680.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Bracket Replacement (1.4L LE2)",
+              "url": "astra-k/5081656.pdf"
+            },
+            {
+              "title": "Transmission Rear Mount Replacement",
+              "url": "astra-k/4290780.pdf"
+            },
+            {
+              "title": "Torque Converter Replacement",
+              "url": "astra-k/4455619.pdf"
+            },
+            {
+              "title": "Transmission Converter Cover Replacement (1.6L Diesel LVL)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Transmission Converter Cover Replacement (1.4L LE2)",
+              "url": "astra-k/4090612.pdf"
+            },
+            {
+              "title": "Transmission Converter Cover Replacement (1.6L LWC)",
+              "url": "astra-k/4542610.pdf"
+            },
+            {
+              "title": "Transmission Replacement (1.6L Diesel LVL)",
+              "url": "astra-k/4228675.pdf"
+            },
+            {
+              "title": "Transmission Replacement (1.4L LE2)",
+              "url": "astra-k/4290448.pdf"
+            },
+            {
+              "title": "Transmission Replacement (1.6L LWC)",
+              "url": "astra-k/4541239.pdf"
+            },
+            {
+              "title": "Differential and Final Drive Assembly Replacement",
+              "url": "astra-k/4455621.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - Off Vehicle",
+          "subsections": [
+            {
+              "title": "Lift Plate and Holding Fixture Installation",
+              "url": "astra-k/2086376.pdf"
+            },
+            {
+              "title": "Torque Converter Removal",
+              "url": "astra-k/2086377.pdf"
+            },
+            {
+              "title": "Auxiliary Fluid Accumulator Removal (MHG)",
+              "url": "astra-k/3683548.pdf"
+            },
+            {
+              "title": "Control Valve Body Assembly Removal",
+              "url": "astra-k/2084530.pdf"
+            },
+            {
+              "title": "Input and Output Speed Sensor Removal",
+              "url": "astra-k/1913056.pdf"
+            },
+            {
+              "title": "Torque Converter Housing with Fluid Pump Assembly Removal",
+              "url": "astra-k/2552829.pdf"
+            },
+            {
+              "title": "Differential Carrier Removal",
+              "url": "astra-k/1913062.pdf"
+            },
+            {
+              "title": "Drive and Driven Sprocket, Drive Link, and Park Pawl Removal",
+              "url": "astra-k/1995987.pdf"
+            },
+            {
+              "title": "Internal Components Removal",
+              "url": "astra-k/2086388.pdf"
+            },
+            {
+              "title": "2-6 Clutch Piston Removal",
+              "url": "astra-k/2086392.pdf"
+            },
+            {
+              "title": "Manual Shift Detent Lever with Shaft Position Switch Assembly and Park Pawl Actuator Removal",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Manual Shift Shaft Seal Removal",
+              "url": "astra-k/2086394.pdf"
+            },
+            {
+              "title": "Input Shaft Support Replacement",
+              "url": "astra-k/2553299.pdf"
+            },
+            {
+              "title": "3-5-Reverse and 4-5-6 Clutch Fluid Seal Ring Replacement",
+              "url": "astra-k/2553300.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Case Side",
+              "url": "astra-k/2086409.pdf"
+            },
+            {
+              "title": "Transmission Case Cleaning and Inspection",
+              "url": "astra-k/2084561.pdf"
+            },
+            {
+              "title": "Manual Shift Detent Lever with Shaft Position Switch Assembly and Park Pawl Actuator Installation",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Manual Shift Shaft Seal Installation",
+              "url": "astra-k/2086411.pdf"
+            },
+            {
+              "title": "2-6 Clutch Piston Installation",
+              "url": "astra-k/2086412.pdf"
+            },
+            {
+              "title": "Low and Reverse and 1-2-3-4 Clutch Housing, Low and Reverse Clutch Assembly, Output Sun Gear, and 2-6 Clutch Plate Disassemble",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Input, Reaction, and Output Carrier Disassemble",
+              "url": "astra-k/1913090.pdf"
+            },
+            {
+              "title": "3-5-Reverse and 4-5-6 Clutch Housing Disassemble",
+              "url": "astra-k/2553302.pdf"
+            },
+            {
+              "title": "3-5-Reverse and 4-5-6 Clutch Housing Assemble",
+              "url": "astra-k/2553303.pdf"
+            },
+            {
+              "title": "Input, Reaction, and Output Carrier Assemble",
+              "url": "astra-k/2553306.pdf"
+            },
+            {
+              "title": "3-5-Reverse and 4-5-6 Clutch Housing, and Input, Reaction, and Output Carrier Installation",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Low and Reverse Clutch Assembly and Low and Reverse Clutch Plate Installation",
+              "url": "astra-k/1913102.pdf"
+            },
+            {
+              "title": "Low and Reverse and 1-2-3-4 Clutch Housing Disassemble",
+              "url": "astra-k/2086416.pdf"
+            },
+            {
+              "title": "Low and Reverse and 1-2-3-4 Clutch Housing Cleaning and Inspection",
+              "url": "astra-k/2084598.pdf"
+            },
+            {
+              "title": "Low and Reverse and 1-2-3-4 Clutch Housing Assemble (6T40)",
+              "url": "astra-k/2084601.pdf"
+            },
+            {
+              "title": "Low and Reverse and 1-2-3-4 Clutch Housing Assemble (6T35)",
+              "url": "astra-k/2204288.pdf"
+            },
+            {
+              "title": "Low and Reverse and 1-2-3-4 Clutch Housing, and 1-2-3-4 Clutch Plate Installation",
+              "url": "astra-k/2086418.pdf"
+            },
+            {
+              "title": "Drive Sprocket, Driven Sprocket, and Drive Link Cleaning and Inspection",
+              "url": "astra-k/1913107.pdf"
+            },
+            {
+              "title": "Drive and Driven Sprocket, Drive Link, and Park Pawl Installation",
+              "url": "astra-k/2084610.pdf"
+            },
+            {
+              "title": "Front Differential Carrier Cleaning and Inspection",
+              "url": "astra-k/2084614.pdf"
+            },
+            {
+              "title": "Front Differential Carrier Installation",
+              "url": "astra-k/1913110.pdf"
+            },
+            {
+              "title": "Transmission Fluid Pump, Front Differential Carrier Baffle, and Front Differential Ring Gear Removal (Gen 3)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Torque Converter Housing Side",
+              "url": "astra-k/2086419.pdf"
+            },
+            {
+              "title": "Torque Converter Housing Cleaning and Inspection",
+              "url": "astra-k/2084621.pdf"
+            },
+            {
+              "title": "Transmission Fluid Pump Disassemble (Gen 3)",
+              "url": "astra-k/3286688.pdf"
+            },
+            {
+              "title": "Transmission Fluid Pump Assemble (Gen 3)",
+              "url": "astra-k/3286689.pdf"
+            },
+            {
+              "title": "Transmission Fluid Pump, Front Differential Carrier Baffle, and Front Differential Ring Gear Installation (Gen 3)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Torque Converter Housing with Fluid Pump Assembly Installation",
+              "url": "astra-k/2552840.pdf"
+            },
+            {
+              "title": "Input and Output Speed Sensor Installation",
+              "url": "astra-k/2084636.pdf"
+            },
+            {
+              "title": "Control Valve Body Assembly Disassemble (Gen 3)",
+              "url": "astra-k/4066465.pdf"
+            },
+            {
+              "title": "Control Valve Body Cleaning and Inspection",
+              "url": "astra-k/2553309.pdf"
+            },
+            {
+              "title": "Control Valve Channel Plate Cleaning and Inspection",
+              "url": "astra-k/2553310.pdf"
+            },
+            {
+              "title": "Control Valve Body Assembly Assemble (Gen 3)",
+              "url": "astra-k/4066471.pdf"
+            },
+            {
+              "title": "Control Valve Body Assembly Installation",
+              "url": "astra-k/2084643.pdf"
+            },
+            {
+              "title": "Control Solenoid Valve and Transmission Control Module Assembly Installation",
+              "url": "astra-k/2084645.pdf"
+            },
+            {
+              "title": "Control Valve Body Cover Installation",
+              "url": "astra-k/2084651.pdf"
+            },
+            {
+              "title": "Auxiliary Fluid Accumulator Installation (MHG)",
+              "url": "astra-k/3683549.pdf"
+            },
+            {
+              "title": "Torque Converter Fluid Seal Replacement",
+              "url": "astra-k/3792643.pdf"
+            },
+            {
+              "title": "Torque Converter Installation",
+              "url": "astra-k/2086428.pdf"
+            },
+            {
+              "title": "Lift Plate and Holding Fixture Removal",
+              "url": "astra-k/2086429.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Definitions and Abbreviations",
+              "url": "astra-k/1905955.pdf"
+            },
+            {
+              "title": "Transmission Identification Information",
+              "url": "astra-k/6370051.pdf"
+            },
+            {
+              "title": "Transmission General Description (Gen 3)",
+              "url": "astra-k/3286691.pdf"
+            },
+            {
+              "title": "Transmission Component and System Description (Gen 3)",
+              "url": "astra-k/3286692.pdf"
+            },
+            {
+              "title": "Transmission Adaptive Functions",
+              "url": "astra-k/2204349.pdf"
+            },
+            {
+              "title": "Transmission Indicators and Messages",
+              "url": "astra-k/1628984.pdf"
+            },
+            {
+              "title": "Electronic Component Description",
+              "url": "astra-k/3982892.pdf"
+            },
+            {
+              "title": "Non-Shifting Clutch Function Verification Description",
+              "url": "astra-k/2775792.pdf"
+            },
+            {
+              "title": "Park - Engine Running (Gen 3)",
+              "url": "astra-k/4066407.pdf"
+            },
+            {
+              "title": "Reverse (Gen 3)",
+              "url": "astra-k/4066419.pdf"
+            },
+            {
+              "title": "Neutral - Engine Running (Gen 3)",
+              "url": "astra-k/4066425.pdf"
+            },
+            {
+              "title": "Drive Range, First Gear Engine Braking (Gen 3)",
+              "url": "astra-k/4066430.pdf"
+            },
+            {
+              "title": "Drive Range, First Gear (Gen 3)",
+              "url": "astra-k/4066435.pdf"
+            },
+            {
+              "title": "Drive Range, Second Gear (Gen 3)",
+              "url": "astra-k/4066440.pdf"
+            },
+            {
+              "title": "Drive Range, Third Gear (Gen 3)",
+              "url": "astra-k/4066445.pdf"
+            },
+            {
+              "title": "Drive Range, Fourth Gear (Gen 3)",
+              "url": "astra-k/4066449.pdf"
+            },
+            {
+              "title": "Drive Range, Fourth Gear Default (Gen 3)",
+              "url": "astra-k/4066453.pdf"
+            },
+            {
+              "title": "Drive Range, Fifth Gear (Gen 3)",
+              "url": "astra-k/4066458.pdf"
+            },
+            {
+              "title": "Drive Range, Sixth Gear (Gen 3)",
+              "url": "astra-k/4066460.pdf"
+            },
+            {
+              "title": "Fluid Passages (Gen 3)",
+              "url": "astra-k/3962322.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Clutch",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/ Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            },
+            {
+              "title": "General Specifications",
+              "url": "astra-k/4581979.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Clutch Component Locator View (Left Hand Drive)",
+              "url": "astra-k/4224014.pdf"
+            },
+            {
+              "title": "Clutch Component Locator View (Right Hand Drive)",
+              "url": "astra-k/4224023.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "Symptoms - Clutch",
+              "url": "astra-k/2299644.pdf"
+            },
+            {
+              "title": "Clutch Does Not Disengage",
+              "url": "astra-k/4703323.pdf"
+            },
+            {
+              "title": "Clutch Drag Hard Shifting",
+              "url": "astra-k/4228777.pdf"
+            },
+            {
+              "title": "Clutch Slipping",
+              "url": "astra-k/4581977.pdf"
+            },
+            {
+              "title": "Clutch Grabbing",
+              "url": "astra-k/4581978.pdf"
+            },
+            {
+              "title": "Clutch Rattle",
+              "url": "astra-k/4228773.pdf"
+            },
+            {
+              "title": "Release Bearing Noisy with Clutch Engaged",
+              "url": "astra-k/2170347.pdf"
+            },
+            {
+              "title": "Clutch Noisy",
+              "url": "astra-k/2170348.pdf"
+            },
+            {
+              "title": "Clutch Pedal Spongy Low Pedal Effort",
+              "url": "astra-k/4228778.pdf"
+            },
+            {
+              "title": "Clutch Pedal Hard to Push",
+              "url": "astra-k/4228775.pdf"
+            },
+            {
+              "title": "Clutch Vibration",
+              "url": "astra-k/4228779.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Brake, Accelerator, and Clutch Pedal Replacement",
+              "url": "astra-k/3977264.pdf"
+            },
+            {
+              "title": "Clutch Pedal Return Spring Replacement (Coil Spring)",
+              "url": "astra-k/3704940.pdf"
+            },
+            {
+              "title": "Clutch Pedal Return Spring Replacement (Return Spring)",
+              "url": "astra-k/3704943.pdf"
+            },
+            {
+              "title": "Clutch Master Cylinder Reservoir Hose Replacement (Left Hand Drive)",
+              "url": "astra-k/3710158.pdf"
+            },
+            {
+              "title": "Clutch Master Cylinder Reservoir Hose Replacement (Right Hand Drive)",
+              "url": "astra-k/4228795.pdf"
+            },
+            {
+              "title": "Clutch Master Cylinder Replacement",
+              "url": "astra-k/3704935.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Replacement (M1x)",
+              "url": "astra-k/3710143.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Replacement (F17)",
+              "url": "astra-k/4228787.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Replacement (F17 MTA)",
+              "url": "astra-k/4228790.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Replacement (Master Cylinder to Transmission)",
+              "url": "astra-k/3710152.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Replacement (F40)",
+              "url": "astra-k/4290777.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Rear Pipe Replacement",
+              "url": "astra-k/4228808.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Elbow Replacement (F17)",
+              "url": "astra-k/4228800.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Elbow Replacement (M1x)",
+              "url": "astra-k/4228803.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Elbow Replacement (M32)",
+              "url": "astra-k/4228806.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Elbow Replacement (F40)",
+              "url": "astra-k/4290778.pdf"
+            },
+            {
+              "title": "Hydraulic Clutch System Bleeding",
+              "url": "astra-k/4228784.pdf"
+            },
+            {
+              "title": "Clutch Pedal Position Sensor Replacement (Left Hand Drive)",
+              "url": "astra-k/5034323.pdf"
+            },
+            {
+              "title": "Clutch Pedal Position Sensor Replacement (Right Hand Drive)",
+              "url": "astra-k/5034324.pdf"
+            },
+            {
+              "title": "Clutch Pressure and Driven Plate Replacement (1.6L LWC)",
+              "url": "astra-k/2969528.pdf"
+            },
+            {
+              "title": "Clutch Pressure and Driven Plate Replacement (1.0L LE1, and 1.4L LV7)",
+              "url": "astra-k/4228763.pdf"
+            },
+            {
+              "title": "Clutch Pressure and Driven Plate Replacement (1.4L LE2 with M1x)",
+              "url": "astra-k/3943132.pdf"
+            },
+            {
+              "title": "Clutch Pressure and Driven Plate Replacement (1.4L LE2 or LFE with M32)",
+              "url": "astra-k/4737031.pdf"
+            },
+            {
+              "title": "Clutch Pressure and Driven Plate Replacement (1.6L Diesel LVL, and LWQ)",
+              "url": "astra-k/3606070.pdf"
+            },
+            {
+              "title": "Clutch Pressure and Driven Plate Replacement (1.6L Diesel LVK, and LWV)",
+              "url": "astra-k/2969710.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Replacement (F17 MTA)",
+              "url": "astra-k/3981128.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Replacement (M1x)",
+              "url": "astra-k/4228765.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Replacement (M32)",
+              "url": "astra-k/4228766.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Replacement (F17)",
+              "url": "astra-k/4228767.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Replacement (F40)",
+              "url": "astra-k/4444333.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Clutch System Description and Operation",
+              "url": "astra-k/2170270.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Manual Transmission - F17-5 (M26 MJA)",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            },
+            {
+              "title": "Manual Transmission Specifications",
+              "url": "astra-k/4581980.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers",
+              "url": "astra-k/4878222.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Manual Transmission Schematics (M26)",
+              "url": "astra-k/4446263.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Disassembled Views",
+              "url": "astra-k/4580512.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC P0806-P0808",
+              "url": "astra-k/4197300.pdf"
+            },
+            {
+              "title": "DTC P080A",
+              "url": "astra-k/5457081.pdf"
+            },
+            {
+              "title": "DTC P0812",
+              "url": "astra-k/2845845.pdf"
+            },
+            {
+              "title": "DTC P086B-P086D",
+              "url": "astra-k/4522452.pdf"
+            },
+            {
+              "title": "DTC P17A2",
+              "url": "astra-k/5598528.pdf"
+            },
+            {
+              "title": "Clutch Pedal Position Learn",
+              "url": "astra-k/3767705.pdf"
+            },
+            {
+              "title": "Symptoms - Manual Transmission",
+              "url": "astra-k/1790074.pdf"
+            },
+            {
+              "title": "Gear Selector -N- Position Learn",
+              "url": "astra-k/3345316.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - On Vehicle",
+          "subsections": [
+            {
+              "title": "Shift Control Housing Replacement (with Stop/Start System)",
+              "url": "astra-k/4228853.pdf"
+            },
+            {
+              "title": "Shift Control Housing Replacement (without Stop/Start System)",
+              "url": "astra-k/4284331.pdf"
+            },
+            {
+              "title": "Shift Control Housing Gasket Replacement (with Stop/Start System)",
+              "url": "astra-k/4284329.pdf"
+            },
+            {
+              "title": "Shift Control Housing Gasket Replacement (without Stop/Start System)",
+              "url": "astra-k/4284330.pdf"
+            },
+            {
+              "title": "Gear Position Sensor Replacement",
+              "url": "astra-k/4228851.pdf"
+            },
+            {
+              "title": "Gear Position Sensor Magnet Replacement",
+              "url": "astra-k/4284332.pdf"
+            },
+            {
+              "title": "Transmission Rear Mount Replacement",
+              "url": "astra-k/4290780.pdf"
+            },
+            {
+              "title": "Transmission Mount Replacement",
+              "url": "astra-k/4291076.pdf"
+            },
+            {
+              "title": "Transmission Mount Transmission-Side Bracket Replacement",
+              "url": "astra-k/4291077.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Replacement",
+              "url": "astra-k/4288768.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Bracket Replacement",
+              "url": "astra-k/4288766.pdf"
+            },
+            {
+              "title": "Transmission Fluid Drain and Fill (F17)",
+              "url": "astra-k/4228829.pdf"
+            },
+            {
+              "title": "Transmission Fluid Drain and Fill (F17 MTA)",
+              "url": "astra-k/4228830.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Adjustment",
+              "url": "astra-k/4288758.pdf"
+            },
+            {
+              "title": "Transmission Shift Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327981.pdf"
+            },
+            {
+              "title": "Transmission Selector Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327983.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Replacement",
+              "url": "astra-k/4327967.pdf"
+            },
+            {
+              "title": "Selector and Shift Lever Cable Bracket Replacement",
+              "url": "astra-k/4288761.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Left Side",
+              "url": "astra-k/4335574.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Right Side",
+              "url": "astra-k/4335573.pdf"
+            },
+            {
+              "title": "Transmission Control Replacement",
+              "url": "astra-k/4327980.pdf"
+            },
+            {
+              "title": "Manual Transmission Control Lever Release Pawl Replacement",
+              "url": "astra-k/4228855.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Replacement",
+              "url": "astra-k/4855291.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Retainer Replacement",
+              "url": "astra-k/4230721.pdf"
+            },
+            {
+              "title": "Backup Lamp Switch Replacement",
+              "url": "astra-k/4228868.pdf"
+            },
+            {
+              "title": "Transmission Spacer Replacement",
+              "url": "astra-k/4228858.pdf"
+            },
+            {
+              "title": "Transmission Replacement (F17)",
+              "url": "astra-k/4228833.pdf"
+            },
+            {
+              "title": "Transmission Replacement (F17 MTA)",
+              "url": "astra-k/4228834.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - Off Vehicle",
+          "subsections": [
+            {
+              "title": "Backup Lamp Switch Removal",
+              "url": "astra-k/2370033.pdf"
+            },
+            {
+              "title": "Selector and Shift Lever Cable Bracket Removal",
+              "url": "astra-k/2370037.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Removal",
+              "url": "astra-k/2372085.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Removal",
+              "url": "astra-k/3708239.pdf"
+            },
+            {
+              "title": "Shift Control Housing Removal",
+              "url": "astra-k/3708233.pdf"
+            },
+            {
+              "title": "Transmission Cover Removal",
+              "url": "astra-k/2370051.pdf"
+            },
+            {
+              "title": "Transmission Case Removal",
+              "url": "astra-k/2370839.pdf"
+            },
+            {
+              "title": "Holding Fixture Installation",
+              "url": "astra-k/2370840.pdf"
+            },
+            {
+              "title": "5th Shift Fork Removal",
+              "url": "astra-k/2370067.pdf"
+            },
+            {
+              "title": "5th Gear Synchronizer Removal",
+              "url": "astra-k/2371169.pdf"
+            },
+            {
+              "title": "5th Driven Gear Removal",
+              "url": "astra-k/2370073.pdf"
+            },
+            {
+              "title": "5th Gear Removal",
+              "url": "astra-k/2372470.pdf"
+            },
+            {
+              "title": "5th Shift Blocking Lever Removal",
+              "url": "astra-k/2370078.pdf"
+            },
+            {
+              "title": "Shift Shaft Detent Removal",
+              "url": "astra-k/2370841.pdf"
+            },
+            {
+              "title": "Shift Shaft and Fork Assemblies Removal",
+              "url": "astra-k/2371170.pdf"
+            },
+            {
+              "title": "Input Shaft and Main Shaft Removal",
+              "url": "astra-k/2371174.pdf"
+            },
+            {
+              "title": "Input Shaft Rear Bearing and Main Shaft Front Bearing Removal - Transmission Case",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Input Shaft Rear Bearing and Main Shaft Front Bearing Removal - Transmission Housing",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Transmission Magnet Removal",
+              "url": "astra-k/3708230.pdf"
+            },
+            {
+              "title": "Main Shaft Disassemble",
+              "url": "astra-k/3710270.pdf"
+            },
+            {
+              "title": "Clutch and Differential Housing Cover Removal",
+              "url": "astra-k/2370086.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Removal",
+              "url": "astra-k/3708231.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Disassemble",
+              "url": "astra-k/3708227.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Assemble",
+              "url": "astra-k/3708245.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Installation",
+              "url": "astra-k/3708236.pdf"
+            },
+            {
+              "title": "Clutch and Differential Housing Cover Installation",
+              "url": "astra-k/2370102.pdf"
+            },
+            {
+              "title": "Gears Cleaning and Inspection",
+              "url": "astra-k/2748677.pdf"
+            },
+            {
+              "title": "Shift Fork Cleaning and Inspection",
+              "url": "astra-k/2748678.pdf"
+            },
+            {
+              "title": "Main Shaft Assemble",
+              "url": "astra-k/3710398.pdf"
+            },
+            {
+              "title": "Transmission Magnet Installation",
+              "url": "astra-k/3708234.pdf"
+            },
+            {
+              "title": "Input Shaft Rear Bearing and Main Shaft Front Bearing Installation - Transmission Housing",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Input Shaft Rear Bearing and Main Shaft Front Bearing Installation - Transmission Case",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Input Shaft and Main Shaft Installation",
+              "url": "astra-k/2372055.pdf"
+            },
+            {
+              "title": "Shift Shaft and Fork Assemblies Installation",
+              "url": "astra-k/2372016.pdf"
+            },
+            {
+              "title": "Shift Shaft Detent Installation",
+              "url": "astra-k/2370131.pdf"
+            },
+            {
+              "title": "5th Shift Blocking Lever Installation",
+              "url": "astra-k/2371176.pdf"
+            },
+            {
+              "title": "5th Gear Installation",
+              "url": "astra-k/2371177.pdf"
+            },
+            {
+              "title": "5th Driven Gear Installation",
+              "url": "astra-k/2370138.pdf"
+            },
+            {
+              "title": "5th Gear Synchronizer Installation",
+              "url": "astra-k/2371178.pdf"
+            },
+            {
+              "title": "5th Shift Fork Removal",
+              "url": "astra-k/2370142.pdf"
+            },
+            {
+              "title": "Holding Fixture Removal",
+              "url": "astra-k/2371179.pdf"
+            },
+            {
+              "title": "Transmission Case Installation",
+              "url": "astra-k/2371180.pdf"
+            },
+            {
+              "title": "Transmission Cover Installation",
+              "url": "astra-k/2370152.pdf"
+            },
+            {
+              "title": "Shift Control Housing Installation",
+              "url": "astra-k/3708244.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Installation",
+              "url": "astra-k/3708241.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Pipe Installation",
+              "url": "astra-k/2372076.pdf"
+            },
+            {
+              "title": "Selector and Shift Lever Cable Bracket Installation",
+              "url": "astra-k/2370163.pdf"
+            },
+            {
+              "title": "Backup Lamp Switch Installation",
+              "url": "astra-k/2370167.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Transmission Identification Information",
+              "url": "astra-k/6370051.pdf"
+            },
+            {
+              "title": "Transmission System Description and Operation",
+              "url": "astra-k/3711393.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Manual Transmission - F40-6 (MR6)",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            },
+            {
+              "title": "Manual Transmission Specifications",
+              "url": "astra-k/4581980.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/ Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Manual Transmission Schematics (MR6 or MYJ)",
+              "url": "astra-k/4446270.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC P0807 or P0808",
+              "url": "astra-k/4321452.pdf"
+            },
+            {
+              "title": "DTC P080A",
+              "url": "astra-k/5457081.pdf"
+            },
+            {
+              "title": "DTC P086B-P086D",
+              "url": "astra-k/4522452.pdf"
+            },
+            {
+              "title": "DTC P086F",
+              "url": "astra-k/4515534.pdf"
+            },
+            {
+              "title": "DTC P17A2",
+              "url": "astra-k/5598528.pdf"
+            },
+            {
+              "title": "Clutch Pedal Position Learn",
+              "url": "astra-k/3767705.pdf"
+            },
+            {
+              "title": "Symptoms - Manual Transmission",
+              "url": "astra-k/1790074.pdf"
+            },
+            {
+              "title": "Neutral Position Sensor Learn",
+              "url": "astra-k/3285712.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - On Vehicle",
+          "subsections": [
+            {
+              "title": "Transmission Fluid Drain and Fill",
+              "url": "astra-k/4284333.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Replacement",
+              "url": "astra-k/4855291.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Retainer Replacement",
+              "url": "astra-k/4230721.pdf"
+            },
+            {
+              "title": "Manual Transmission Control Lever Release Pawl Replacement",
+              "url": "astra-k/4228855.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Adjustment",
+              "url": "astra-k/4288758.pdf"
+            },
+            {
+              "title": "Selector and Shift Lever Cable Bracket Replacement",
+              "url": "astra-k/4288761.pdf"
+            },
+            {
+              "title": "Transmission Control Replacement",
+              "url": "astra-k/4327980.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Replacement",
+              "url": "astra-k/4327967.pdf"
+            },
+            {
+              "title": "Transmission Shift Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327981.pdf"
+            },
+            {
+              "title": "Transmission Selector Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327983.pdf"
+            },
+            {
+              "title": "Shift Control Housing Replacement",
+              "url": "astra-k/4284334.pdf"
+            },
+            {
+              "title": "Shift Control Housing Seal Replacement",
+              "url": "astra-k/4288756.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Bracket Replacement",
+              "url": "astra-k/4288766.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Replacement",
+              "url": "astra-k/4288768.pdf"
+            },
+            {
+              "title": "Transmission Mount Replacement",
+              "url": "astra-k/4291076.pdf"
+            },
+            {
+              "title": "Transmission Mount Transmission-Side Bracket Replacement",
+              "url": "astra-k/4291077.pdf"
+            },
+            {
+              "title": "Transmission Rear Mount Replacement",
+              "url": "astra-k/4290780.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Left Side",
+              "url": "astra-k/4335574.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Right Side",
+              "url": "astra-k/4335573.pdf"
+            },
+            {
+              "title": "Transmission Replacement",
+              "url": "astra-k/4284336.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Transmission System Description and Operation",
+              "url": "astra-k/3711393.pdf"
+            },
+            {
+              "title": "Transmission Identification Information",
+              "url": "astra-k/6370051.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Manual Transmission - M1x/M22 (MFX)",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            },
+            {
+              "title": "Manual Transmission Specifications",
+              "url": "astra-k/4581980.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/ Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Manual Transmission Schematics (MFX)",
+              "url": "astra-k/4446272.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Manual Transmission Component Views",
+              "url": "astra-k/4228966.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC P0806-P0808",
+              "url": "astra-k/4197300.pdf"
+            },
+            {
+              "title": "DTC P080A",
+              "url": "astra-k/5457081.pdf"
+            },
+            {
+              "title": "DTC P086B-P086D",
+              "url": "astra-k/4522452.pdf"
+            },
+            {
+              "title": "DTC P17A2",
+              "url": "astra-k/5598528.pdf"
+            },
+            {
+              "title": "Clutch Pedal Position Learn",
+              "url": "astra-k/3767705.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - On Vehicle",
+          "subsections": [
+            {
+              "title": "Transmission Rear Mount Replacement",
+              "url": "astra-k/4290780.pdf"
+            },
+            {
+              "title": "Transmission Fluid Drain and Fill",
+              "url": "astra-k/4284333.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Replacement",
+              "url": "astra-k/4855291.pdf"
+            },
+            {
+              "title": "Manual Transmission Control Lever Release Pawl Replacement",
+              "url": "astra-k/4228855.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Retainer Replacement",
+              "url": "astra-k/4230721.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Replacement",
+              "url": "astra-k/4327967.pdf"
+            },
+            {
+              "title": "Transmission Selector Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327983.pdf"
+            },
+            {
+              "title": "Transmission Shift Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327981.pdf"
+            },
+            {
+              "title": "Selector and Shift Lever Cable Bracket Replacement",
+              "url": "astra-k/4288761.pdf"
+            },
+            {
+              "title": "Transmission Control Replacement",
+              "url": "astra-k/4327980.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Adjustment",
+              "url": "astra-k/4288758.pdf"
+            },
+            {
+              "title": "Shift Control Housing Replacement",
+              "url": "astra-k/4284334.pdf"
+            },
+            {
+              "title": "Shift Control Housing Seal Replacement",
+              "url": "astra-k/4288756.pdf"
+            },
+            {
+              "title": "Transmission Mount Replacement",
+              "url": "astra-k/4291076.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Replacement",
+              "url": "astra-k/4288768.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Bracket Replacement",
+              "url": "astra-k/4288766.pdf"
+            },
+            {
+              "title": "Transmission Mount Transmission-Side Bracket Replacement",
+              "url": "astra-k/4291077.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Left Side",
+              "url": "astra-k/4335574.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Right Side",
+              "url": "astra-k/4335573.pdf"
+            },
+            {
+              "title": "Transmission Converter Cover Replacement",
+              "url": "astra-k/4228968.pdf"
+            },
+            {
+              "title": "Transmission Replacement",
+              "url": "astra-k/4284336.pdf"
+            },
+            {
+              "title": "1st and 2nd Shift Fork Replacement",
+              "url": "astra-k/4604373.pdf"
+            },
+            {
+              "title": "3rd and 4th Shift Fork Replacement",
+              "url": "astra-k/4604374.pdf"
+            },
+            {
+              "title": "5th and 6th Shift Fork Replacement",
+              "url": "astra-k/4604376.pdf"
+            },
+            {
+              "title": "Reverse Shift Fork Replacement",
+              "url": "astra-k/4604378.pdf"
+            },
+            {
+              "title": "1st and 2nd Gear Synchronizer Replacement",
+              "url": "astra-k/4604379.pdf"
+            },
+            {
+              "title": "3rd and 4th Gear Synchronizer Replacement",
+              "url": "astra-k/4604380.pdf"
+            },
+            {
+              "title": "5th and 6th Gear Synchronizer Replacement",
+              "url": "astra-k/4604384.pdf"
+            },
+            {
+              "title": "Reverse Gear Synchronizer Replacement",
+              "url": "astra-k/4604385.pdf"
+            },
+            {
+              "title": "Differential Ring Gear Replacement",
+              "url": "astra-k/4604387.pdf"
+            },
+            {
+              "title": "Front Differential Case Replacement",
+              "url": "astra-k/4604389.pdf"
+            },
+            {
+              "title": "Input and Main Shaft Bearing Replacement",
+              "url": "astra-k/4604390.pdf"
+            },
+            {
+              "title": "Input Shaft Replacement",
+              "url": "astra-k/4604391.pdf"
+            },
+            {
+              "title": "Main Shaft Replacement",
+              "url": "astra-k/4604393.pdf"
+            },
+            {
+              "title": "Reverse Idler Gear Shaft Replacement",
+              "url": "astra-k/4604394.pdf"
+            },
+            {
+              "title": "Clutch Housing Replacement",
+              "url": "astra-k/4604395.pdf"
+            },
+            {
+              "title": "Transmission Case Replacement",
+              "url": "astra-k/4604398.pdf"
+            },
+            {
+              "title": "Transmission Overhaul",
+              "url": "astra-k/4604397.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - Off Vehicle",
+          "subsections": [
+            {
+              "title": "Front Wheel Drive Shaft Seal Removal - Case Side",
+              "url": "astra-k/3708247.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Oil Seal Removal - Clutch Housing Side",
+              "url": "astra-k/3708248.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Removal",
+              "url": "astra-k/3708239.pdf"
+            },
+            {
+              "title": "Shift Control Housing Removal",
+              "url": "astra-k/3708233.pdf"
+            },
+            {
+              "title": "Transmission Case Disassemble",
+              "url": "astra-k/3708243.pdf"
+            },
+            {
+              "title": "Transmission Magnet Removal",
+              "url": "astra-k/3708230.pdf"
+            },
+            {
+              "title": "Transmission Oil Trough Removal - Transmission Case",
+              "url": "astra-k/3708615.pdf"
+            },
+            {
+              "title": "Reverse Idler Gear Shaft Removal",
+              "url": "astra-k/3708616.pdf"
+            },
+            {
+              "title": "Input Shaft and Main Shaft Assembly Removal",
+              "url": "astra-k/3708617.pdf"
+            },
+            {
+              "title": "Shift Shaft Bushing Removal",
+              "url": "astra-k/3708618.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Removal",
+              "url": "astra-k/3708231.pdf"
+            },
+            {
+              "title": "Bearing Cup and Bearing Race Removal - Clutch Housing",
+              "url": "astra-k/3708619.pdf"
+            },
+            {
+              "title": "Bearing Cup and Bearing Race Removal - Transmission Case",
+              "url": "astra-k/3708620.pdf"
+            },
+            {
+              "title": "Shift Control Shaft Bearing Removal",
+              "url": "astra-k/3708627.pdf"
+            },
+            {
+              "title": "Transmission Oil Trough Removal - Input and Main Shaft",
+              "url": "astra-k/3708621.pdf"
+            },
+            {
+              "title": "Input and Main Shaft Bearing Retainer Removal",
+              "url": "astra-k/3708628.pdf"
+            },
+            {
+              "title": "Input Shaft Disassemble",
+              "url": "astra-k/3711280.pdf"
+            },
+            {
+              "title": "Input Shaft Assemble",
+              "url": "astra-k/3711305.pdf"
+            },
+            {
+              "title": "Main Shaft Disassemble",
+              "url": "astra-k/3710270.pdf"
+            },
+            {
+              "title": "Main Shaft Assemble",
+              "url": "astra-k/3710398.pdf"
+            },
+            {
+              "title": "Input and Main Shaft Bearing Retainer Installation",
+              "url": "astra-k/3708629.pdf"
+            },
+            {
+              "title": "Reverse Idler Gear Shaft Disassemble",
+              "url": "astra-k/3710284.pdf"
+            },
+            {
+              "title": "Reverse Idler Gear Shaft Assemble",
+              "url": "astra-k/3710287.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Disassemble",
+              "url": "astra-k/3708227.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Assemble",
+              "url": "astra-k/3708245.pdf"
+            },
+            {
+              "title": "Reverse Idler Gear Shaft and Differential Shimming",
+              "url": "astra-k/3960634.pdf"
+            },
+            {
+              "title": "Shift Control Shaft Bearing Installation",
+              "url": "astra-k/3708630.pdf"
+            },
+            {
+              "title": "Bearing Cup and Bearing Race Installation - Clutch Housing",
+              "url": "astra-k/3711330.pdf"
+            },
+            {
+              "title": "Transmission Oil Trough Installation - Input and Main Shaft",
+              "url": "astra-k/3708622.pdf"
+            },
+            {
+              "title": "Transmission Oil Trough Installation - Transmission Case",
+              "url": "astra-k/3708623.pdf"
+            },
+            {
+              "title": "Shift Shaft Bushing Installation",
+              "url": "astra-k/3708624.pdf"
+            },
+            {
+              "title": "Input Shaft and Main Shaft Assembly Installation",
+              "url": "astra-k/3708625.pdf"
+            },
+            {
+              "title": "Reverse Idler Gear Shaft Installation",
+              "url": "astra-k/3708626.pdf"
+            },
+            {
+              "title": "Transmission Magnet Installation",
+              "url": "astra-k/3708234.pdf"
+            },
+            {
+              "title": "Front Differential Assembly Installation",
+              "url": "astra-k/3708236.pdf"
+            },
+            {
+              "title": "Transmission Case Assemble",
+              "url": "astra-k/3708242.pdf"
+            },
+            {
+              "title": "Shift Control Housing Installation",
+              "url": "astra-k/3708244.pdf"
+            },
+            {
+              "title": "Clutch Actuator Cylinder Installation",
+              "url": "astra-k/3708241.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Oil Seal Installation - Clutch Housing Side",
+              "url": "astra-k/3708250.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Installation - Case Side",
+              "url": "astra-k/3708614.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Manual Transmission Protection Description and Operation",
+              "url": "astra-k/4733202.pdf"
+            },
+            {
+              "title": "Transmission System Description and Operation",
+              "url": "astra-k/3711393.pdf"
+            },
+            {
+              "title": "Transmission Identification Information (Printed)",
+              "url": "astra-k/3687881.pdf"
+            },
+            {
+              "title": "Transmission Identification Information (Sticker)",
+              "url": "astra-k/3755072.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Manual Transmission - M32-6 (MZ0 MZ4 M60)",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            },
+            {
+              "title": "Manual Transmission Specifications",
+              "url": "astra-k/4581980.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/ Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Manual Transmission Schematics (M60, MZ0 or MZ4)",
+              "url": "astra-k/4446274.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Manual Transmission Component Views",
+              "url": "astra-k/4228966.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC P0806-P0808",
+              "url": "astra-k/4197300.pdf"
+            },
+            {
+              "title": "DTC P080A",
+              "url": "astra-k/5457081.pdf"
+            },
+            {
+              "title": "DTC P086F",
+              "url": "astra-k/4515534.pdf"
+            },
+            {
+              "title": "DTC P086B-P086D (LE2, LWC)",
+              "url": "astra-k/3872445.pdf"
+            },
+            {
+              "title": "DTC P086B-P086D (LWQ, LVL)",
+              "url": "astra-k/4506912.pdf"
+            },
+            {
+              "title": "DTC P08A8-P08AA",
+              "url": "astra-k/5312847.pdf"
+            },
+            {
+              "title": "DTC P17A2",
+              "url": "astra-k/5598528.pdf"
+            },
+            {
+              "title": "Symptoms - Manual Transmission",
+              "url": "astra-k/1790074.pdf"
+            },
+            {
+              "title": "Transmission Shifts Hard",
+              "url": "astra-k/2474228.pdf"
+            },
+            {
+              "title": "Transmission Gear Clash When Shifting Gears",
+              "url": "astra-k/2371906.pdf"
+            },
+            {
+              "title": "Clutch Pedal Position Learn",
+              "url": "astra-k/3767705.pdf"
+            },
+            {
+              "title": "Excessive Clutch Slip Data Reset",
+              "url": "astra-k/4578694.pdf"
+            },
+            {
+              "title": "Excessive Clutch Slip Data Reset",
+              "url": "astra-k/4578694.pdf"
+            },
+            {
+              "title": "Neutral Position Sensor Learn",
+              "url": "astra-k/3285712.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - On Vehicle",
+          "subsections": [
+            {
+              "title": "Transmission Fluid Drain and Fill",
+              "url": "astra-k/4284333.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Replacement",
+              "url": "astra-k/4855291.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Knob Retainer Replacement",
+              "url": "astra-k/4230721.pdf"
+            },
+            {
+              "title": "Manual Transmission Control Lever Release Pawl Replacement",
+              "url": "astra-k/4228855.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Replacement",
+              "url": "astra-k/4327967.pdf"
+            },
+            {
+              "title": "Selector and Shift Lever Cable Bracket Replacement",
+              "url": "astra-k/4288761.pdf"
+            },
+            {
+              "title": "Transmission Control Replacement",
+              "url": "astra-k/4327980.pdf"
+            },
+            {
+              "title": "Manual Transmission Selector and Shift Lever Cable Adjustment",
+              "url": "astra-k/4288758.pdf"
+            },
+            {
+              "title": "Transmission Shift Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327981.pdf"
+            },
+            {
+              "title": "Transmission Selector Lever Cable Adjuster Replacement",
+              "url": "astra-k/4327983.pdf"
+            },
+            {
+              "title": "Shift Control Housing Seal Replacement",
+              "url": "astra-k/4288756.pdf"
+            },
+            {
+              "title": "Backup Lamp Switch Replacement",
+              "url": "astra-k/4228868.pdf"
+            },
+            {
+              "title": "Shift Control Housing Replacement (1.4L LE2)",
+              "url": "astra-k/4262462.pdf"
+            },
+            {
+              "title": "Shift Control Housing Replacement (1.6L LWC)",
+              "url": "astra-k/4262465.pdf"
+            },
+            {
+              "title": "Shift Control Housing Replacement (1.6L Diesel LVL, LWQ)",
+              "url": "astra-k/4278606.pdf"
+            },
+            {
+              "title": "Transmission Rear Mount Replacement",
+              "url": "astra-k/4290780.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Bracket Replacement (1.6L LWC or 1.6L Diesel LVL, LWQ)",
+              "url": "astra-k/4291072.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Bracket Replacement (1.4L LE2)",
+              "url": "astra-k/5081656.pdf"
+            },
+            {
+              "title": "Transmission Mount Strut Replacement",
+              "url": "astra-k/4288768.pdf"
+            },
+            {
+              "title": "Transmission Mount Replacement",
+              "url": "astra-k/4291076.pdf"
+            },
+            {
+              "title": "Transmission Mount Transmission-Side Bracket Replacement",
+              "url": "astra-k/4291077.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Left Side",
+              "url": "astra-k/4335574.pdf"
+            },
+            {
+              "title": "Front Wheel Drive Shaft Seal Replacement - Right Side",
+              "url": "astra-k/4335573.pdf"
+            },
+            {
+              "title": "Input and Main Shaft Bearing Replacement",
+              "url": "astra-k/4604390.pdf"
+            },
+            {
+              "title": "3rd and 4th Gear Synchronizer Replacement",
+              "url": "astra-k/4604380.pdf"
+            },
+            {
+              "title": "Transmission Converter Cover Replacement",
+              "url": "astra-k/4228968.pdf"
+            },
+            {
+              "title": "Transmission Replacement (1.4L LE2)",
+              "url": "astra-k/4290448.pdf"
+            },
+            {
+              "title": "Transmission Replacement (1.6L Diesel LVL, LWQ)",
+              "url": "astra-k/4228872.pdf"
+            },
+            {
+              "title": "Transmission Replacement (1.6L LWC)",
+              "url": "astra-k/4541239.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Transmission System Description and Operation",
+              "url": "astra-k/3711393.pdf"
+            },
+            {
+              "title": "Manual Transmission Protection Description and Operation",
+              "url": "astra-k/4733202.pdf"
+            },
+            {
+              "title": "Transmission Identification Information",
+              "url": "astra-k/6370051.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shift Lock Control",
+      "nestedSections": [
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Shift Lock Control Schematics",
+              "url": "astra-k/4446277.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC B270A",
+              "url": "astra-k/2127163.pdf"
+            },
+            {
+              "title": "Symptoms - Automatic Transmission Shift Lock Control",
+              "url": "astra-k/1922532.pdf"
+            },
+            {
+              "title": "Transmission Control Lever Malfunction",
+              "url": "astra-k/2094084.pdf"
+            },
+            {
+              "title": "Shift Lock Control Operational and Functional Checks",
+              "url": "astra-k/2891525.pdf"
+            },
+            {
+              "title": "Shift Lock Manual Release",
+              "url": "astra-k/3821280.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Automatic Transmission Shift Lock Control Description and Operation",
+              "url": "astra-k/1919577.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Supplemental Manual Transmission Auto Shift (ME6 MJA MN2)",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities",
+              "url": "astra-k/4670693.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel/ Vauxhall)",
+              "url": "astra-k/4229412.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "Manual Transmission Schematics (MJA)",
+              "url": "Document.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Component Locator",
+          "subsections": [
+            {
+              "title": "Component Location",
+              "url": "astra-k/3975903.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC P062F",
+              "url": "astra-k/3981692.pdf"
+            },
+            {
+              "title": "DTC P0631",
+              "url": "astra-k/3981724.pdf"
+            },
+            {
+              "title": "DTC P0634",
+              "url": "astra-k/3981695.pdf"
+            },
+            {
+              "title": "DTC P0642 or P0643",
+              "url": "astra-k/3981913.pdf"
+            },
+            {
+              "title": "DTC P0652 or P0653",
+              "url": "astra-k/4204561.pdf"
+            },
+            {
+              "title": "DTC P0716-P0718",
+              "url": "astra-k/3981867.pdf"
+            },
+            {
+              "title": "DTC P0730",
+              "url": "astra-k/3981845.pdf"
+            },
+            {
+              "title": "DTC P073F, P188D-P188F, or P189B",
+              "url": "astra-k/4527427.pdf"
+            },
+            {
+              "title": "DTC P07FE",
+              "url": "astra-k/3981848.pdf"
+            },
+            {
+              "title": "DTC P0806-P0809 or P171E",
+              "url": "astra-k/3981865.pdf"
+            },
+            {
+              "title": "DTC P080A",
+              "url": "astra-k/5457081.pdf"
+            },
+            {
+              "title": "DTC P0811",
+              "url": "astra-k/3981843.pdf"
+            },
+            {
+              "title": "DTC P0820",
+              "url": "astra-k/3981968.pdf"
+            },
+            {
+              "title": "DTC P0841-P0844",
+              "url": "astra-k/3981864.pdf"
+            },
+            {
+              "title": "DTC P085F",
+              "url": "astra-k/4530607.pdf"
+            },
+            {
+              "title": "DTC P0860-P0862",
+              "url": "astra-k/4228908.pdf"
+            },
+            {
+              "title": "DTC P0881 or P0882",
+              "url": "astra-k/4735004.pdf"
+            },
+            {
+              "title": "DTC P0896",
+              "url": "astra-k/3981840.pdf"
+            },
+            {
+              "title": "DTC P0900, P0902, P0903, or P1754",
+              "url": "astra-k/3981863.pdf"
+            },
+            {
+              "title": "DTC P0905-P0909 or P172D",
+              "url": "astra-k/3981862.pdf"
+            },
+            {
+              "title": "DTC P0915-P0918 or P172C",
+              "url": "astra-k/3981861.pdf"
+            },
+            {
+              "title": "DTC P0944",
+              "url": "astra-k/3943057.pdf"
+            },
+            {
+              "title": "DTC P0945, P0947, P094A, or P094B",
+              "url": "astra-k/3981860.pdf"
+            },
+            {
+              "title": "DTC P094C or P094D",
+              "url": "astra-k/3981920.pdf"
+            },
+            {
+              "title": "DTC P094E",
+              "url": "astra-k/4228902.pdf"
+            },
+            {
+              "title": "DTC P0960, P0962-P0964, P0966-P0968, P0970, P0971, or P175D",
+              "url": "astra-k/3981858.pdf"
+            },
+            {
+              "title": "DTC P1401",
+              "url": "astra-k/4211549.pdf"
+            },
+            {
+              "title": "DTC P165A",
+              "url": "astra-k/3981694.pdf"
+            },
+            {
+              "title": "DTC P16F9",
+              "url": "astra-k/3981690.pdf"
+            },
+            {
+              "title": "DTC P1719",
+              "url": "astra-k/3981839.pdf"
+            },
+            {
+              "title": "DTC P171D",
+              "url": "astra-k/4204558.pdf"
+            },
+            {
+              "title": "DTC P172F",
+              "url": "astra-k/3981989.pdf"
+            },
+            {
+              "title": "DTC P174E or P174F",
+              "url": "astra-k/3981722.pdf"
+            },
+            {
+              "title": "DTC P1752, P1753, or P17D2",
+              "url": "astra-k/3981970.pdf"
+            },
+            {
+              "title": "DTC P1755",
+              "url": "astra-k/3981856.pdf"
+            },
+            {
+              "title": "DTC P1757",
+              "url": "astra-k/3981855.pdf"
+            },
+            {
+              "title": "DTC P175E",
+              "url": "astra-k/3981992.pdf"
+            },
+            {
+              "title": "DTC P177B or P177C",
+              "url": "astra-k/3981917.pdf"
+            },
+            {
+              "title": "DTC P177D or P177E",
+              "url": "astra-k/3981916.pdf"
+            },
+            {
+              "title": "DTC P17D1",
+              "url": "astra-k/4205863.pdf"
+            },
+            {
+              "title": "DTC P18CA",
+              "url": "astra-k/3981719.pdf"
+            },
+            {
+              "title": "DTC P2711",
+              "url": "astra-k/3981752.pdf"
+            },
+            {
+              "title": "DTC P2712",
+              "url": "astra-k/3981836.pdf"
+            },
+            {
+              "title": "DTC P2787",
+              "url": "astra-k/3981975.pdf"
+            },
+            {
+              "title": "DTC P286E or P286F",
+              "url": "astra-k/3981915.pdf"
+            },
+            {
+              "title": "DTC P2871 or P2872",
+              "url": "astra-k/3981853.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Fluid Level Check",
+              "url": "astra-k/4228786.pdf"
+            },
+            {
+              "title": "Poor Shift Quality",
+              "url": "astra-k/4802916.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - On Vehicle",
+          "subsections": [
+            {
+              "title": "Hydraulic Clutch System Bleeding",
+              "url": "astra-k/4228784.pdf"
+            },
+            {
+              "title": "Clutch Accumulator Pressure Relief",
+              "url": "astra-k/3977238.pdf"
+            },
+            {
+              "title": "Clutch Actuator Replacement",
+              "url": "astra-k/4228793.pdf"
+            },
+            {
+              "title": "Shift Control Actuator Replacement",
+              "url": "astra-k/3981596.pdf"
+            },
+            {
+              "title": "Automatic Control Knob Replacement",
+              "url": "astra-k/4228815.pdf"
+            },
+            {
+              "title": "Transmission Control Replacement",
+              "url": "astra-k/4327980.pdf"
+            },
+            {
+              "title": "Transmission Control Module Replacement",
+              "url": "astra-k/3978037.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Pump Replacement",
+              "url": "astra-k/3979371.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Pump Motor Replacement",
+              "url": "astra-k/4228798.pdf"
+            },
+            {
+              "title": "Clutch Actuator Pipe Replacement",
+              "url": "astra-k/4228802.pdf"
+            },
+            {
+              "title": "Transmission Vent Pipe Replacement",
+              "url": "astra-k/4228807.pdf"
+            },
+            {
+              "title": "Shift Control Housing Cover Gasket Replacement",
+              "url": "astra-k/4228791.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Wiring Harness Replacement",
+              "url": "astra-k/4228809.pdf"
+            },
+            {
+              "title": "Shift Control Actuator Fluid Reservoir Replacement",
+              "url": "astra-k/4228811.pdf"
+            },
+            {
+              "title": "Input Speed Sensor Replacement",
+              "url": "astra-k/4255726.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions - Off Vehicle",
+          "subsections": [
+            {
+              "title": "Clutch Actuator Pipe Removal",
+              "url": "astra-k/3979373.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Wiring Harness Removal",
+              "url": "astra-k/3979374.pdf"
+            },
+            {
+              "title": "Transmission Vent Pipe Removal",
+              "url": "astra-k/3979375.pdf"
+            },
+            {
+              "title": "Shift Control Actuator Fluid Reservoir Removal",
+              "url": "astra-k/3979377.pdf"
+            },
+            {
+              "title": "Transmission Control Module Removal",
+              "url": "astra-k/3979379.pdf"
+            },
+            {
+              "title": "Shift Control Actuator Removal",
+              "url": "astra-k/3979378.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Pump Motor Removal",
+              "url": "astra-k/3979381.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Pump Motor Installation",
+              "url": "astra-k/3979384.pdf"
+            },
+            {
+              "title": "Shift Control Actuator Installation",
+              "url": "astra-k/3979388.pdf"
+            },
+            {
+              "title": "Transmission Control Module Installation",
+              "url": "astra-k/3979386.pdf"
+            },
+            {
+              "title": "Shift Control Actuator Fluid Reservoir Installation",
+              "url": "astra-k/3979389.pdf"
+            },
+            {
+              "title": "Transmission Vent Pipe Installation",
+              "url": "astra-k/3979391.pdf"
+            },
+            {
+              "title": "Clutch and Shift Control Actuator Wiring Harness Installation",
+              "url": "astra-k/3979392.pdf"
+            },
+            {
+              "title": "Clutch Actuator Pipe Installation",
+              "url": "astra-k/3979394.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Emergency Mode",
+              "url": "astra-k/3979396.pdf"
+            },
+            {
+              "title": "Definition of Terms",
+              "url": "astra-k/3979397.pdf"
+            },
+            {
+              "title": "Special Functions",
+              "url": "astra-k/3981594.pdf"
+            },
+            {
+              "title": "Electronic Component Description",
+              "url": "astra-k/3982892.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Transmission Cooling",
+          "nestedSections": [
+            {
+              "title": "Specifications",
+              "subsections": [
+                {
+                  "title": "Fastener Specifications",
+                  "url": "astra-k/4371842.pdf"
+                },
+                {
+                  "title": "Transmission Fluid Temperature Sensor Specifications",
+                  "url": "astra-k/2242466.pdf"
+                }
+              ]
+            },
+            {
+              "title": "Diagnostic Information and Procedures",
+              "subsections": [
+                {
+                  "title": "Transmission Overheats",
+                  "url": "astra-k/2242491.pdf"
+                },
+                {
+                  "title": "Transmission Fluid Cooler Flow Test and Flushing (6T40/6T45)",
+                  "url": "astra-k/2086375.pdf"
+                }
+              ]
+            },
+            {
+              "title": "Repair Instructions",
+              "subsections": [
+                {
+                  "title": "Transmission Fluid Auxiliary Cooler Replacement",
+                  "url": "astra-k/4455626.pdf"
+                },
+                {
+                  "title": "Transmission Fluid Cooler Hose/Pipe Quick-Connect Fitting Disconnection and Connection",
+                  "url": "astra-k/2169718.pdf"
+                },
+                {
+                  "title": "Transmission Fluid Cooler Inlet Pipe Replacement",
+                  "url": "astra-k/4542631.pdf"
+                },
+                {
+                  "title": "Transmission Fluid Cooler Outlet Pipe Replacement",
+                  "url": "astra-k/4542632.pdf"
+                }
+              ]
+            },
+            {
+              "title": "Special Tools and Equipment",
+              "subsections": [
+                {
+                  "title": "Special Tools",
+                  "url": "astra-k/3259387.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "call": "1",
+    "part": "(13585947)",
+    "desc": "MIRROR,ASSY.,REAR VIEW,INTERIOR (EXCEPT LIGHT SENSITIVE INTERIOR MIRROR) (NLS.- USE YR00190480)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 163,
+        "y": 1432
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11611789)",
+    "desc": "-SCREW (NLS.- NO REPLACEMENT PART)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 306,
+        "y": 1390
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13581081)",
+    "desc": "MIRROR,ASSY.,REAR VIEW,INTERIOR (FOR LIGHT SENSITIVE INTERIOR MIRROR,RPO DD8) (NLS.- USE YR00190280)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 43,
+        "y": 2134
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(YR00190280)",
+    "desc": "MIRROR,ASSY.,REAR VIEW,INTERIOR (FOR LIGHT SENSITIVE INTERIOR MIRROR,RPO DD8) (NLS.- USE YR00848480)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11611790",
+    "desc": "-SCREW",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 172,
+        "y": 2072
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13588462)",
+    "desc": "MIRROR,ASSY.,REAR VIEW,INTERIOR (FOR LIGHT SENSITIVE INTERIOR MIRROR,RPO DD8) (NLS.- USE YR00190380)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1087,
+        "y": 2233
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13422724",
+    "desc": "COVER,SENSOR,RH (FOR FRONT CAMERA,RPO UHX)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1801,
+        "y": 613
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13422722",
+    "desc": "COVER,SENSOR,RH (EXCEPT RPO UHX,FRONT CAMERA) (FOR RAIN SENSOR,RPO CE1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1795,
+        "y": 186
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13422723",
+    "desc": "COVER,SENSOR,LH (FOR FRONT CAMERA,RPO UHX)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 79,
+        "y": 792
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13422721",
+    "desc": "COVER,SENSOR,LH (EXCEPT RPO UHX,FRONT CAMERA) (FOR RAIN SENSOR,RPO CE1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 106,
+        "y": 371
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39131329",
+    "desc": "COVER,LHD (FOR RAIN SENSOR,RPO CE1) (FOR HEATED WINDSCREEN,RPO C50) (FOR FRONT CAMERA,RPO UHX)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1962,
+        "y": 736
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39131330",
+    "desc": "COVER,RHD (FOR RAIN SENSOR,RPO CE1) (FOR HEATED WINDSCREEN,RPO C50) (FOR FRONT CAMERA,RPO UHX)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39131318",
+    "desc": "INSERT (FOR RAIN SENSOR,RPO CE1) (FOR HEATED WINDSCREEN,RPO C50) (FOR LANE DEPARTURE WARNING,RPO UHX)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1938,
+        "y": 1522
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

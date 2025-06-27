@@ -1,0 +1,134 @@
+[
+  {
+    "call": "46X",
+    "part": "(98500217)",
+    "desc": "CLUTCH AND HUB,ASSY.,FIRST AND SECOND GEAR (NLS.- USE 24588397)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12X",
+    "part": "98500542",
+    "desc": "-KIT,SYNCHRONIZER CONE,FIRST AND SECOND GEAR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "24579265",
+    "desc": "-CLUTCH AND HUB,ASSY.,FIRST AND SECOND GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55558717",
+    "desc": "--KEY,SYNCHRONIZER CONE",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "47X",
+    "part": "98500187",
+    "desc": "CLUTCH AND HUB,ASSY.,THIRD AND FOURTH GEAR",
+    "qty": "1",
+    "usage": "(T)      -A16359940\nNote : FOR 3RD / 4TH GEAR DUAL CONE TYPE TRANSMISSION",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21X",
+    "part": "98500543",
+    "desc": "-KIT,SYNCHRONIZER CONE,THIRD AND FOURTH GEAR",
+    "qty": "2",
+    "usage": "(T)      -A16359940\nNote : FOR 3RD / 4TH GEAR DUAL CONE TYPE TRANSMISSION",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "24579261",
+    "desc": "-CLUTCH AND HUB,ASSY.,THIRD AND FOURTH GEAR",
+    "qty": "1",
+    "usage": "(T)      -A16359940\nNote : FOR 3RD / 4TH GEAR DUAL CONE TYPE TRANSMISSION",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "55558717",
+    "desc": "--KEY,SYNCHRONIZER CONE,THIRD AND FOURTH GEARS",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "48X",
+    "part": "98500188",
+    "desc": "RING,SYNCHRONIZER,FIFTH GEAR,KIT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55350140",
+    "desc": "-CONE,SYNCHRONIZER,FIFTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "24579270",
+    "desc": "-CLUTCH AND HUB,ASSY.,FIFTH GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "55558717",
+    "desc": "--KEY,SYNCHRONIZER CONE",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

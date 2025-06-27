@@ -1,0 +1,173 @@
+{
+  "sectionTitle": "View All Bulletins",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Information",
+      "subsections": [
+        {
+          "title": "#23-NA-141: Engine Block Cracked - (Aug 7, 2024)",
+          "url": "astra-k/6407891.pdf"
+        },
+        {
+          "title": "#24-NA-141: Transmission Core Damage - (Jul 24, 2024)",
+          "url": "astra-k/6673689.pdf"
+        },
+        {
+          "title": "#10-08-45-001H: Electrical Ground Repair - (Mar 28, 2024)",
+          "url": "astra-k/6594766.pdf"
+        },
+        {
+          "title": "#22-NA-009: New Torque Spec for Oil Filters - (Mar 17, 2023)",
+          "url": "astra-k/5951345.pdf"
+        },
+        {
+          "title": "#13-00-89-008B: GM Wiring Repair Strategy - (Aug 19, 2019)",
+          "url": "astra-k/5377622.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Technical",
+      "subsections": [
+        {
+          "title": "#17-E-3352: Astra-K - LWC B16SHT - Engine Misfire and DTC P0300 - (Sep 13, 2017)",
+          "url": "astra-k/4864170.pdf"
+        },
+        {
+          "title": "#17-E-3347: Astra-K - Blurred Vision Through The Rear View Camera - (Aug 31, 2017)",
+          "url": "astra-k/4850400.pdf"
+        },
+        {
+          "title": "#17-E-3348: B16SHT/L - DTCs P0366; P0014 - MIL \"Engine Power Reduced\" - (Aug 31, 2017)",
+          "url": "astra-k/4851347.pdf"
+        },
+        {
+          "title": "#17-E-3340: BYOM2 - Onstar destination download failure - (Aug 17, 2017)",
+          "url": "astra-k/4583617.pdf"
+        },
+        {
+          "title": "#17-E-3341: Astra-K - Water Ingress With Installed Roof Carrier - (Jul 27, 2017)",
+          "url": "astra-k/4843236.pdf"
+        },
+        {
+          "title": "#17-E-3313: Astra-K - Door Squeak Noises - (Jul 13, 2017)",
+          "url": "astra-k/4839453.pdf"
+        },
+        {
+          "title": "#17-E-3335: Astra-K - Body Control Module software deviation - (Jul 6, 2017)",
+          "url": "astra-k/4829596.pdf"
+        },
+        {
+          "title": "#17-E-3332: Astra-K, Corsa-E - Ticking noise from engine compartment - (May 18, 2017)",
+          "url": "astra-k/4806791.pdf"
+        },
+        {
+          "title": "#17-E-3331: Astra-K, Insignia, Mokka - Human Machine Interface (HMI) - (May 4, 2017)",
+          "url": "astra-k/4793834.pdf"
+        },
+        {
+          "title": "#17-E-3320: Astra-K - Front Suspension Creak Noise - (Apr 6, 2017)",
+          "url": "astra-k/4769860.pdf"
+        },
+        {
+          "title": "#17-E-3319: Metallic noise in engine and sporadic loss of power - (Mar 30, 2017)",
+          "url": "astra-k/4742975.pdf"
+        },
+        {
+          "title": "#17-E-3303: Easytronic Transmission (MJA) - Explanation of Shifting Behavior - (Feb 2, 2017)",
+          "url": "astra-k/4672018.pdf"
+        },
+        {
+          "title": "#14-E-3149: 1.6L Engines - Coolant Temperature Indication - (Jan 19, 2017)",
+          "url": "astra-k/4674051.pdf"
+        },
+        {
+          "title": "#17-E-3304: Astra-K - Power Steering - (Jan 19, 2017)",
+          "url": "astra-k/4672030.pdf"
+        },
+        {
+          "title": "#17-E-3306: Astra-K - Diesel Filter - (Jan 19, 2017)",
+          "url": "astra-k/4672122.pdf"
+        },
+        {
+          "title": "#16-E-3297: Blocked Seat Height Adjustment - (Jan 5, 2017)",
+          "url": "astra-k/4633405.pdf"
+        },
+        {
+          "title": "#05-E-1863: Window Glass - Visible Marks on Glass - (Jan 5, 2017)",
+          "url": "astra-k/4650405.pdf"
+        },
+        {
+          "title": "#16-E-3289: F17 - Reverse Gear Juddering - (Nov 10, 2016)",
+          "url": "astra-k/4590666.pdf"
+        },
+        {
+          "title": "#16-E-3287: Astra-K - Instrument Dimming - (Sep 22, 2016)",
+          "url": "astra-k/4587068.pdf"
+        },
+        {
+          "title": "#16-E-3286: Astra-K - Clutch Pedal - (Sep 22, 2016)",
+          "url": "astra-k/4585724.pdf"
+        },
+        {
+          "title": "#16-E-3270: Astra K - Sealer Roof Panel - (Aug 25, 2016)",
+          "url": "astra-k/4563466.pdf"
+        },
+        {
+          "title": "#16-E-3278: B14XFT - Juddering During Acceleration - (Aug 18, 2016)",
+          "url": "astra-k/4574105.pdf"
+        },
+        {
+          "title": "#16-E-3269: MDE B16DTx Trouble Codes P0421 P2080 - (Aug 4, 2016)",
+          "url": "astra-k/4561767.pdf"
+        },
+        {
+          "title": "#15-E-3225: Diagnosis - Dual Mass Flywheel Noise - (Jul 28, 2016)",
+          "url": "astra-k/4256053.pdf"
+        },
+        {
+          "title": "#08-E-2379: Two-mass flywheel - Diagnosis - (Jul 28, 2016)",
+          "url": "astra-k/4562238.pdf"
+        },
+        {
+          "title": "#16-E-3268: Howling Noise From Differential Drivetrain - (Jul 14, 2016)",
+          "url": "astra-k/4555379.pdf"
+        },
+        {
+          "title": "#16-E-3242: Astra-K - Brake Pedal Click Fit Connector - (May 13, 2016)",
+          "url": "astra-k/4473502.pdf"
+        },
+        {
+          "title": "#16-E-3248: B16DTx - Wining Noise from Engine Compartment - (May 13, 2016)",
+          "url": "astra-k/4500886.pdf"
+        },
+        {
+          "title": "#16-E-3241: Astra-K - Clutch rattling noise during operation - (Mar 17, 2016)",
+          "url": "astra-k/4454281.pdf"
+        },
+        {
+          "title": "#14-E-3102: F17 Transmission - Reverse Gear - (Oct 22, 2015)",
+          "url": "astra-k/3969096.pdf"
+        },
+        {
+          "title": "#15-E-3226: Astra-K - Steering System Noise - (Aug 21, 2015)",
+          "url": "astra-k/4256401.pdf"
+        },
+        {
+          "title": "#15-E-3213: Exhaust - Cracked Exhaust Manifold Flexpipe - P0299 might be set - (Jun 25, 2015)",
+          "url": "astra-k/4223127.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Warranty Administration",
+      "subsections": [
+        {
+          "title": "#20-NA-131: Warranty Procedures (Cadillac Europe Only) - (Dec 15, 2021)",
+          "url": "astra-k/5614404.pdf"
+        }
+      ]
+    }
+  ]
+}

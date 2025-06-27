@@ -1,0 +1,134 @@
+[
+  {
+    "call": "31X",
+    "part": "55588335",
+    "desc": "BEARING,CONNECTING ROD,KIT (STD.) (EMISSION CODE NE4)",
+    "qty": "4",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31X",
+    "part": "55588336",
+    "desc": "BEARING,CONNECTING ROD,KIT,0.127MM U/S",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55488894",
+    "desc": "BEARING,CONNECTING ROD,STD.,UPPER,BLUE,CLASS B",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55488895",
+    "desc": "BEARING,CONNECTING ROD,STD.,UPPER,YELLOW,CLASS C",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55488895",
+    "desc": "BEARING,CONNECTING ROD,STD.,UPPER,YELLOW,CLASS C (EMISSION CODE NCV)",
+    "qty": "4",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55503651",
+    "desc": "BEARING,CONNECTING ROD,STD.,UPPER,GREEN,CLASS D (EMISSION CODE NCV)",
+    "qty": "4",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "55504907",
+    "desc": "BEARING,CONNECTING ROD,STD.,UPPER,BLACK,CLASS E (EMISSION CODE NCV)",
+    "qty": "4",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "55488897",
+    "desc": "BEARING,CONNECTING ROD,STD.,LOWER,BLUE,CLASS B",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "55488898",
+    "desc": "BEARING,CONNECTING ROD,STD.,LOWER,YELLOW,CLASS C",
+    "qty": "4",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "55488898",
+    "desc": "BEARING,CONNECTING ROD,STD.,LOWER,YELLOW,CLASS C (EMISSION CODE NCV)",
+    "qty": "4",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "55503650",
+    "desc": "BEARING,CONNECTING ROD,STD.,LOWER,GREEN,CLASS D (EMISSION CODE NCV)",
+    "qty": "4",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "55504908",
+    "desc": "BEARING,CONNECTING ROD,STD.,LOWER,BLACK,CLASS E (EMISSION CODE NCV)",
+    "qty": "4",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

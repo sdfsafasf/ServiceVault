@@ -1,0 +1,30 @@
+[
+  {
+    "code": "1",
+    "name": "FRONT DOOR WEATHERSTRIP"
+  },
+  {
+    "code": "2",
+    "name": "FRONT DOOR WINDOW RECESS WEATHERSTRIP"
+  },
+  {
+    "code": "3",
+    "name": "REAR DOOR WEATHERSTRIP (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "4",
+    "name": "REAR DOOR WEATHERSTRIP (ESTATE 35)"
+  },
+  {
+    "code": "5",
+    "name": "REAR DOOR WINDOW RECESS WEATHERSTRIP (5 DOOR HATCH 68)"
+  },
+  {
+    "code": "6",
+    "name": "REAR DOOR WINDOW RECESS WEATHERSTRIP (ESTATE 35)"
+  },
+  {
+    "code": "7",
+    "name": "TAIL GATE WEATHERSTRIP"
+  }
+]

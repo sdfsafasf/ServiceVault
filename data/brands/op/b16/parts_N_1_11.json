@@ -1,0 +1,73 @@
+[
+  {
+    "call": "1",
+    "part": "(9598799)",
+    "desc": "NUT,WHEEL FIXING (NLS.- USE YR00110280)",
+    "qty": "20",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 270,
+        "y": 211
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13450276",
+    "desc": "CAP,BLANKING,27 MM LONG,CHARCOAL (ALLOY WHEELS)",
+    "qty": "20",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39025602",
+    "desc": "CAP,BLANKING,27 MM LONG,ANTHRACITE (ALLOY WHEELS)",
+    "qty": "20",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13450277",
+    "desc": "CAP,BLANKING,24 MM LONG,BLACK (STEEL WHEELS)",
+    "qty": "20",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "90510336",
+    "desc": "LUBRICANT,4ML,CENTERING SEAT,ROAD WHEEL MOUNTING (PACK OF 50) (IDENT GR11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "90512280",
+    "desc": "LUBRICANT,100 GRAMS,CENTERING SEAT,ROAD WHEEL MOUNTING (IDENT GR11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

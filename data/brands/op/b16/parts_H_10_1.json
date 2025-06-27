@@ -1,0 +1,79 @@
+[
+  {
+    "call": "8",
+    "part": "(55486233)",
+    "desc": "CABLE,ASSY.,GEARSHIFT CONTROL (NLS.- USE 55499528)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(55499528)",
+    "desc": "CABLE,ASSY.,GEARSHIFT CONTROL (NLS.- USE 55507058)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55507058",
+    "desc": "CABLE,ASSY.,GEARSHIFT CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55512304",
+    "desc": "CABLE,ASSY.,GEARSHIFT CONTROL",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55583331",
+    "desc": "BRACKET,GEARSHIFT CONTROL CABLE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11546389)",
+    "desc": "NUT,FLANGED,M6 (NLS.- USE YR00713080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "11547176",
+    "desc": "SCREW,TORX",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

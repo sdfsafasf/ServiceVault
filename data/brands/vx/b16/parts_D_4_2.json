@@ -1,0 +1,2362 @@
+[
+  {
+    "call": "1",
+    "part": "(39015828)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAQC,TAQD,TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39066322)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [
+      {
+        "x": 397,
+        "y": 2462
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066322)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAQC,TAQD,TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39078022)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078022)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD,TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39118869)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078022)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118869)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39090562)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQC,TAQD,TAQE,TAQF) (NLS.- USE 39118860)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118860)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQC,TAQD,TAQE,TAQF) (NLS.- USE 39145583)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145575",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQK,TAQL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145583",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQC,TAQD,TAQE,TAQF)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145583",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAQC,TAQD,TAQE,TAQF,TAS8,TAUU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39015822)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAQC,TAQD,TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39066312)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066312)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAQC,TAQD,TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39078024)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078024)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD,TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39118872)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078024)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118872)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39090557)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQC,TAQD,TAQE,TAQF) (NLS.- USE 39118865)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078024)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQK,TAQL) (NLS.- USE 39118872)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145572",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQK,TAQL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39090557)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQC,TAQD,TAQE,TAQF) (NLS.- USE 39118865)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145578",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAS8,TAUU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39015832)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39066313)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066313)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39078036)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078036)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39105766)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39105766)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39118854)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118854)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39145598)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145598",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODES TAPQ,TAP4,TAQH,TASB,TAU2,TAU3,TAVV)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39078172",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39090558)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39118864)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118864)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39145591)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145591",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145591",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39015833)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQJ) (NLS.- USE 39066314)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066314)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQJ) (NLS.- USE 39078035)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078035)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQJ) (NLS.- USE 39105765)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39105765)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQJ) (NLS.- USE 39118853)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118853)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQJ) (NLS.- USE 39145599)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145599",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-LHD (TRIM CODE TAQJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39015836)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39066323)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066323)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39078030)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078030)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39105756)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39105756)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39118848)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118848)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39145604)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145604",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODES TAPQ,TAP4,TAQH,TASB,TAU2,TAU3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39078170",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39090563)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39118859)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118859)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39145593)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145593",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145593",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39015837)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQJ) (NLS.- USE 39066324)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39066324)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQJ) (NLS.- USE 39078029)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39078029)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQJ) (NLS.- USE 39105755)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39105755)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQJ) (NLS.- USE 39118847)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39118847)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQJ) (NLS.- USE 39145605)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39145605",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-RHD (TRIM CODE TAQJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39015808)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQC,TAQD) (NLS.- USE 39066305)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [
+      {
+        "x": 1126,
+        "y": 2462
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39066305)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQC,TAQD) (NLS.- USE 39078017)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39078017",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39090554)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD) (NLS.- USE 39118868)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39118868)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD) (NLS.- USE 39145576)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39145576",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39145576",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQC,TAQD)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39015816)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQC,TAQD) (NLS.- USE 39066316)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39066316)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQC,TAQD) (NLS.- USE 39078019)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39078019",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39090559)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD) (NLS.- USE 39118863)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39118863)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD) (NLS.- USE 39145579)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39145579",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQC,TAQD)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39145579",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO AER,ELECTRIC REAR WINDOWS) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQC,TAQD)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015810)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39066306)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [
+      {
+        "x": 1840,
+        "y": 2465
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066306)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39078018)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078018)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39118874)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078018)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118874)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39090555)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQE,TAQF) (NLS.- USE 39118867)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078018)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118874)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145570",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQK,TAQL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39090555)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQE,TAQF) (NLS.- USE 39118867)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145577",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQE,TAQF,TAS8,TAUU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015814)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39066315)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066315)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39078020)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078020)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39118871)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078020)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118871)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39090560)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQE,TAQF) (NLS.- USE 39118862)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078020)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118871)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39090560)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAQE,TAQF) (NLS.- USE 39118862)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145580",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAS8,TAUU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015830)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39066307)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066307)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39078032)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078032)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39105762)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105762)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB,TAU2,TAU3) (NLS.- USE 39118858)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118858)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB,TAU2,TAU3) (NLS.- USE 39145594)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145594",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB,TAU2,TAU3,TAVV)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39078171",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39090556)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39118866)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118866)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39145590)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145590",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145590",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015831)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39066308)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066308)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39078031)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078031)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39105761)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105761)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39118857)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118857)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39145595)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145595",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015834)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39066318)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066318)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39078026)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078026)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39105752)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105752)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39118851)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118851)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB) (NLS.- USE 39145600)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145600",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODES TAPQ,TAP4,TAQH,TASB,TAU2,TAU3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39078169",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39090561)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39118861)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118861)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG) (NLS.- USE 39145592)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145592",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145592",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015835)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39066319)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066319)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39078025)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39078025",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105767)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39118852)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118852)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ) (NLS.- USE 39145601)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145601",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (EXCEPT RPO TC2,POWER OPENING TAILGATE) (TRIM CODE TAQJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015812)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39066317)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066317)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39078021)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078021)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39118870)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078021)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118870)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118870)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39145574)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145574",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145574",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQK,TAQL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015818)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39066309)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066309)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39078023)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078023)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODES TAQE,TAQF,TAQK,TAQL) (NLS.- USE 39118873)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078023)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39118873)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118873)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (TRIM CODE TAQK,TAQL) (NLS.- USE 39145571)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145571",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR RPO ABW,BREAKPOINT CONTROL MY17.5) (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQK,TAQL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145571",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR ELECTRIC REAR WINDOWS,RPO AER) (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQK,TAQL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015838)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39066310)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066310)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39078034)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078034)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39105764)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105764)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39118856)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118856)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39145596)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145596",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB,TAU2,TAU3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015839)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39066311)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066311)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39078033)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078033)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39105763)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105763)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39118855)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118855)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39145597)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145597",
+    "desc": "TRIM,ASSY.,FRONT DOOR,LH-LHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015840)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39066320)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066320)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39078028)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078028)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39105754)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105754)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39118850)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118850)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAPQ,TAP4,TAQG,TAQH,TAQI,TASB) (NLS.- USE 39145602)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145602",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODES TAU2,TAU3)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39015841)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39066321)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066834\n(C)      -GG066834",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39066321)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39078027)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066835-G8999999\n(C)  GG066835-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39078027)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39105753)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39105753)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39118849)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(39118849)",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ) (NLS.- USE 39145603)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39145603",
+    "desc": "TRIM,ASSY.,FRONT DOOR,RH-RHD (FOR POWER OPENING TAILGATE,RPO TC2) (TRIM CODE TAQJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13252118)",
+    "desc": "-CLIP,12MM OD. (NLS.- USE YQ00108480)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 966,
+        "y": 870
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 687,
+        "y": 1357
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13475304",
+    "desc": "-ESCUTCHEON,BLACK,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 551,
+        "y": 600
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13475302",
+    "desc": "-ESCUTCHEON,BLACK,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39093020)",
+    "desc": "CLAMP (NLS.- USE YQ00527180)",
+    "qty": "12",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 787,
+        "y": 544
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13413063)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,PIANO BLACK,RH (NLS.- USE 39039968)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8101401\n(C)      -GG076569",
+    "positions": [
+      {
+        "x": 589,
+        "y": 1583
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039968)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,PIANO BLACK,RH (NLS.- USE 39068977)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8101401\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068977",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,PIANO BLACK,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8101402-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13413062)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,PIANO BLACK,LH (NLS.- USE 39039976)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8102991\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039976)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,PIANO BLACK,LH (NLS.- USE 39068978)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8102991\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068978",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,PIANO BLACK,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8102992-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39006408)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,ANTELAO SAND,RH (NLS.- USE 39039970)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8094326\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039970)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,ANTELAO SAND,RH (NLS.- USE 39068981)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8094326\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068981",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,ANTELAO SAND,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8094327-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39006405)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,ANTELAO SAND,LH (NLS.- USE 39039978)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8094819\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039978)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,ANTELAO SAND,LH (NLS.- USE 39068982)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8094819\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068982",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,ANTELAO SAND,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8094820-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39006409)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,TOFANO GOLD,RH (NLS.- USE 39039969)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039969)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,TOFANO GOLD,RH (NLS.- USE 39068979)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068979",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,TOFANO GOLD,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000079-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39006406)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,TOFANO GOLD,LH (NLS.- USE 39039977)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039977)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,TOFANO GOLD,LH (NLS.- USE 39068980)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8000078\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068980",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,TOFANO GOLD,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000079-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39006410)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,CORONADO BROWN,RH (NLS.- USE 39039967)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8110291\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039967)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,CORONADO BROWN,RH (NLS.- USE 39068975)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8110291\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068975",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,CORONADO BROWN,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8110292-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39006407)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,CORONADO BROWN,LH (NLS.- USE 39039975)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8105663\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39039975)",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,CORONADO BROWN,LH (NLS.- USE 39068976)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8105663\n(C)      -GG076569",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39068976",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,CORONADO BROWN,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8105664-\n(C)  GG076570-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39094443",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,POLAR SILVER,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39094442",
+    "desc": "COVER,ASSIST HANDLE,FRONT DOOR,POLAR SILVER,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 548,
+        "y": 1445
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39033881)",
+    "desc": "DEFLECTOR,WATER,FRONT DOOR TRIM,RH (NLS.- USE 39060611)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1469,
+        "y": 1310
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39060611)",
+    "desc": "DEFLECTOR,WATER,FRONT DOOR TRIM,RH (NLS.- USE 39087558)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39087558)",
+    "desc": "DEFLECTOR,WATER,FRONT DOOR TRIM,RH (NLS.- USE 39161691)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39033880)",
+    "desc": "DEFLECTOR,WATER,FRONT DOOR TRIM,LH (NLS.- USE 39060610)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39060610)",
+    "desc": "DEFLECTOR,WATER,FRONT DOOR TRIM,LH (NLS.- USE 39087557)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39087557)",
+    "desc": "DEFLECTOR,WATER,FRONT DOOR TRIM,LH (NLS.- USE 39161690)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13356687",
+    "desc": "DEFLECTOR,WATER,FRONT DOOR TRIM (USED WHEN LOUDSPEAKERS NOT FITTED)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1745,
+        "y": 1316
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13451693",
+    "desc": "CAP,SCREW,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 247,
+        "y": 1159
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13451692",
+    "desc": "CAP,SCREW,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11589012",
+    "desc": "SCREW,M4.2 X 25,TRIM TO DOOR",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1500,
+        "y": 1736
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11589012",
+    "desc": "SCREW,M4.2 X 25,TRIM TO DOOR",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 300,
+        "y": 1266
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11589012",
+    "desc": "SCREW,M4.2 X 25,TRIM TO DOOR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 363,
+        "y": 1109
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11570654",
+    "desc": "NUT,PRESS",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1293,
+        "y": 1049
+      },
+      {
+        "x": 1139,
+        "y": 782
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11610524)",
+    "desc": "NUT,PRESS (NLS.- USE YQ00109780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11546868)",
+    "desc": "NUT,PRESS (NLS.- USE YQ00165780)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1516,
+        "y": 1476
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39006427)",
+    "desc": "MOULDING,FRONT DOOR WINDOW FRAME,RH (NLS.- USE 39047285)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 385,
+        "y": 327
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39047285",
+    "desc": "MOULDING,FRONT DOOR WINDOW FRAME,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39006426)",
+    "desc": "MOULDING,FRONT DOOR WINDOW FRAME,LH (NLS.- USE 39047284)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39047284",
+    "desc": "MOULDING,FRONT DOOR WINDOW FRAME,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

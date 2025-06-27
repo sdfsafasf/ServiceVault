@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "(13587304)",
+    "desc": "ALTERNATOR,ASSY.,140 AMP (EXCHANGE - REMAN PART 95519912) (NLS.- USE 13520813) (IDENT AJ5)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13520813",
+    "desc": "ALTERNATOR,ASSY.,140 AMP (EXCHANGE - REMAN PART 95527140) (IDENT AXV)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95519912)",
+    "desc": "ALTERNATOR,ASSY.,EXCHANGE - REMAN,140 AMP (CORE RETURN NO. 95524437) (NLS.- USE 95527140)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95527140",
+    "desc": "ALTERNATOR,ASSY.,EXCHANGE - REMAN,140 AMP (CORE RETURN NO. 95524437)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11611100",
+    "desc": "STUD,M8",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11588694",
+    "desc": "SCREW,HEX.HD.,M8 X 120",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "code": "1",
+    "name": "B10XFL[LE1],B10XFT[LE1] PETROL ENGINES"
+  },
+  {
+    "code": "2",
+    "name": "B12XEL[LDC] PETROL ENGINE"
+  },
+  {
+    "code": "3",
+    "name": "B14XEJ[LDD],B14XEL[LDD] PETROL ENGINES"
+  },
+  {
+    "code": "4",
+    "name": "B14NEH[LUJ],B14NEJ[LUJ] PETROL ENGINES"
+  },
+  {
+    "code": "5",
+    "name": "B16LES[LLU] PETROL ENGINE"
+  },
+  {
+    "code": "6",
+    "name": "B13DTC[LKV],B13DTE[LKU],B13DTR[LKU] DIESEL ENGINES"
+  },
+  {
+    "code": "7",
+    "name": "CLUTCH CONTROLS - F17 MANUAL TRANSMISSION"
+  },
+  {
+    "code": "8",
+    "name": "CLUTCH CONTROLS - F17 EASYTRONIC TRANSMISSION"
+  },
+  {
+    "code": "9",
+    "name": "CLUTCH CONTROLS - M20 TRANSMISSION"
+  },
+  {
+    "code": "10",
+    "name": "CLUTCH CONTROLS - M22 TRANSMISSION"
+  },
+  {
+    "code": "11",
+    "name": "CLUTCH CONTROLS - M32 TRANSMISSION"
+  }
+]

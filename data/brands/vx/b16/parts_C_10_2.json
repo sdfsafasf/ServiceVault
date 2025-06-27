@@ -1,0 +1,103 @@
+[
+  {
+    "call": "14",
+    "part": "(13583618)",
+    "desc": "HINGE,ASSY.,FRONT DOOR,LOWER,RH (NLS.- USE YQ00224480)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2047,
+        "y": 1664
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13583618)",
+    "desc": "HINGE,ASSY.,FRONT DOOR,UPPER,LH (NLS.- USE YQ00224480)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13583613)",
+    "desc": "HINGE,ASSY.,FRONT DOOR,LOWER,LH (NLS.- USE YQ00224380)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2001,
+        "y": 2034
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13583613)",
+    "desc": "HINGE,ASSY.,FRONT DOOR,UPPER,RH (NLS.- USE YQ00224380)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11562507)",
+    "desc": "SCREW,HEX,HD.,M8 X 26.5,DOOR SIDE (NLS.- USE YQ00516680)",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [
+      {
+        "x": 2111,
+        "y": 1747
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11561763)",
+    "desc": "SCREW,HEX,HD.,M8 X 30,BODY SIDE (EXCEPT RPO GWP,MANUFACTURED IN GLIWICE) (NLS.- USE YR00713580)",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [
+      {
+        "x": 2111,
+        "y": 2015
+      },
+      {
+        "x": 2154,
+        "y": 1646
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "11609343",
+    "desc": "SCREW,HEX,HD.,M8 X 35,BODY SIDE (MANUFACTURED IN GLIWICE,RPO GWP)",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

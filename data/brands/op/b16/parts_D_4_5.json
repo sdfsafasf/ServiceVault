@@ -1,0 +1,419 @@
+[
+  {
+    "call": "1",
+    "part": "(13417651)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (NLS.- USE 39040434)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [
+      {
+        "x": 583,
+        "y": 2399
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39040434)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (NLS.- USE 39066899)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39066899",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK",
+    "qty": "1",
+    "usage": "TRIM LEVEL C",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13417651)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (EXCEPT RPO BS1,SOUND ACOUSTIC PACKAGE) (NLS.- USE 39040434)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39040434)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (EXCEPT RPO BS1,SOUND ACOUSTIC PACKAGE) (NLS.- USE 39066899)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39066899",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (EXCEPT RPO BS1,SOUND ACOUSTIC PACKAGE)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39010824)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (FOR SOUND ACOUSTIC PACKAGE,RPO BS1) (NLS.- USE 39040435)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "",
+    "positions": [
+      {
+        "x": 1669,
+        "y": 2396
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39040435)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (FOR SOUND ACOUSTIC PACKAGE,RPO BS1) (NLS.- USE 39066898)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39066898)",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK (FOR SOUND ACOUSTIC PACKAGE,RPO BS1) (NLS.- USE 39075514)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39075514",
+    "desc": "TRIM,ASSY.,TAIL GATE,LOWER,BLACK",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39032303",
+    "desc": "-COVER,ACCESS,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 77,
+        "y": 2213
+      },
+      {
+        "x": 1186,
+        "y": 2219
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39032302",
+    "desc": "-COVER,ACCESS,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(24405740)",
+    "desc": "-CLIP (NLS.- USE YQ00149080)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1069,
+        "y": 1648
+      },
+      {
+        "x": 2171,
+        "y": 1644
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1242,
+        "y": 739
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11609952)",
+    "desc": "NUT,INSERT,M4.2 (NLS.- USE YQ00109480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1846,
+        "y": 1133
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13417649)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,LIGHT TITANIUM (NLS.- USE 39046025)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8065318\n(C)      -GG082630",
+    "positions": [
+      {
+        "x": 1312,
+        "y": 537
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39046025)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,LIGHT TITANIUM (NLS.- USE 39054687)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8065319-\n(C)  GG082631-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39054687)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,LIGHT TITANIUM (NLS.- USE 39079444)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8065319-\n(C)  GG082631-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13493902)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,BLACK (NLS.- USE 39046024)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8066016\n(C)      -GG082966",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39046024)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,BLACK (NLS.- USE 39054686)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066017-\n(C)  GG082967-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(39054686)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,RH,BLACK (NLS.- USE 39079442)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8066017-\n(C)  GG082967-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13417648)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,LIGHT TITANIUM (NLS.- USE 39046023)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8065318\n(C)      -GG082698",
+    "positions": [
+      {
+        "x": 1015,
+        "y": 682
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39046023)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,LIGHT TITANIUM (NLS.- USE 39054685)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8065319-\n(C)  GG082699-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39054685)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,LIGHT TITANIUM (NLS.- USE 39079443)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8065319-\n(C)  GG082699-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13493901)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,BLACK (NLS.- USE 39046022)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8067714\n(C)      -GG082878",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39046022)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,BLACK (NLS.- USE 39054684)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8067715-\n(C)  GG082879-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39054684)",
+    "desc": "TRIM,ASSY.,TAIL GATE,UPPER,LH,BLACK (NLS.- USE 39079441)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8067715-\n(C)  GG082879-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(24405740)",
+    "desc": "-CLIP (NLS.- USE YQ00149080)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1410,
+        "y": 101
+      },
+      {
+        "x": 589,
+        "y": 442
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13438262",
+    "desc": "-RETAINER,STRAP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1413,
+        "y": 436
+      },
+      {
+        "x": 816,
+        "y": 650
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11588783)",
+    "desc": "-CLIP (NLS.- USE YQ00102780)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1031,
+        "y": 237
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13435002)",
+    "desc": "CLIP (NLS.- USE YQ00108180)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 358,
+        "y": 145
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

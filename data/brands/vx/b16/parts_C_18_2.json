@@ -1,0 +1,103 @@
+[
+  {
+    "call": "1",
+    "part": "9072231",
+    "desc": "HANDLE,ASSIST,FRONT,LIGHT TITANIUM",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 792,
+        "y": 1937
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13329244)",
+    "desc": "HANDLE,ASSIST,FRONT,BLACK (NLS.- USE YR003706YX)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11569613",
+    "desc": "-SCREW,M6 X 25",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 685,
+        "y": 1837
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11569613",
+    "desc": "-SCREW,M6 X 25",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "9072235",
+    "desc": "HANDLE,ASSIST,REAR,LIGHT TITANIUM",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1746,
+        "y": 1599
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13329246)",
+    "desc": "HANDLE,ASSIST,REAR,BLACK (NLS.- USE YR003707YX)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(25640395)",
+    "desc": "NUT,M6,ROOF ASSIST HANDLE (NLS.- USE YQ00113980)",
+    "usage": "",
+    "range": "",
+    "qty": "8",
+    "positions": [
+      {
+        "x": 1173,
+        "y": 1471
+      },
+      {
+        "x": 1999,
+        "y": 1077
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

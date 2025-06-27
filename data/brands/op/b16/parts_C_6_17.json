@@ -1,0 +1,831 @@
+[
+  {
+    "call": "1",
+    "part": "(39008520)",
+    "desc": "CASE,ASSY.,HEATER AND VENTILATOR (NLS.- USE 39057008)",
+    "usage": "",
+    "range": "(C)      -K8071389\n(C)      -KG321733",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 203,
+        "y": 2041
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39057008)",
+    "desc": "CASE,ASSY.,HEATER AND VENTILATOR (NLS.- USE 39206991)",
+    "usage": "",
+    "range": "(C)      -K8071389\n(C)      -KG321733",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39206991",
+    "desc": "CASE,ASSY.,HEATER AND VENTILATOR",
+    "usage": "",
+    "range": "(C)  K8071390-\n(C)  KG321734-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13276238",
+    "desc": "-GEAR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 951,
+        "y": 1579
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13276238",
+    "desc": "-GEAR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 890,
+        "y": 1549
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13276239",
+    "desc": "-LEVER,AIR DISTRIBUTION FLAP",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 695,
+        "y": 1662
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13276237",
+    "desc": "-LEVER,MODE CONTROL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 732,
+        "y": 1973
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13338024)",
+    "desc": "-CAM,MODE CONTROL (USE IN CONJUNCTION WITH 90510259 19 48 605) (NLS.- USE 39057010)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 924,
+        "y": 1967
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39057010",
+    "desc": "-CAM,MODE CONTROL (USE IN CONJUNCTION WITH 90510259 19 48 605)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13276236",
+    "desc": "-PLATE,RETAINING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 741,
+        "y": 2068
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13276231",
+    "desc": "-SCREW,PLATE",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 316,
+        "y": 1839
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13416716)",
+    "desc": "-MOTOR,SERVO,MODE CONTROL (NLS.- USE 13426651)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 564,
+        "y": 2086
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13276231",
+    "desc": "-SCREW,MOTOR,SERVO,MODE CONTROL",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 469,
+        "y": 2108
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13276231",
+    "desc": "-SCREW,MOTOR,SERVO,MODE CONTROL",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1220,
+        "y": 1860
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13287933",
+    "desc": "-CLIP,CASE",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1694,
+        "y": 1521
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13276244",
+    "desc": "LEVER,MOTOR,SERVO,AIR MIXING FLAP",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1168,
+        "y": 2401
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13416716)",
+    "desc": "MOTOR,SERVO,AIR MIXING FLAP (NLS.- USE 13426651)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 823,
+        "y": 2212
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13276231",
+    "desc": "SCREW,MOTOR,SERVO,AIR MIXING FLAP",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 744,
+        "y": 2276
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13303350",
+    "desc": "HOUSING,AIR INLET",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 362,
+        "y": 303
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13276231",
+    "desc": "SCREW,HOUSING,AIR INLET",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1016,
+        "y": 205
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13356914)",
+    "desc": "FILTER,ACTIVATED CARBON,INTERIOR VENTILATION (NLS.- USE 1684471080)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1034,
+        "y": 425
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "1689027280",
+    "desc": "FILTER,ACTIVATED CARBON,INTERIOR VENTILATION (EUROREPAR)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "1684471080",
+    "desc": "FILTER,ACTIVATED CARBON,INTERIOR VENTILATION",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "1689027280",
+    "desc": "FILTER,ACTIVATED CARBON,INTERIOR VENTILATION (EUROREPAR)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(13433073)",
+    "desc": "HOUSING,BLOWER,RHD (NLS.- USE 39060049)",
+    "usage": "",
+    "range": "(C)      -G8090519\n(C)      -GG124181",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1187,
+        "y": 675
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39060049)",
+    "desc": "HOUSING,BLOWER,RHD (NLS.- USE 39080388)",
+    "usage": "",
+    "range": "(C)  G8090520-J8066463\n(C)  GG124182-JG114587",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39080388",
+    "desc": "HOUSING,BLOWER,RHD",
+    "usage": "",
+    "range": "(C)  G8090520-J8066463\n(C)  GG124182-JG114587",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39137550",
+    "desc": "HOUSING,BLOWER,RHD",
+    "usage": "",
+    "range": "(C)  J8066464-\n(C)  JG114588-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39018593",
+    "desc": "HOUSING,BLOWER,LHD",
+    "usage": "",
+    "range": "(C)      -G8090519\n(C)      -GG124131",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39060086)",
+    "desc": "HOUSING,BLOWER,LHD (NLS.- USE 39060048)",
+    "usage": "",
+    "range": "(C)  G8090520-\n(C)  GG124132-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39060048)",
+    "desc": "HOUSING,BLOWER,LHD (NLS.- USE 39137551)",
+    "usage": "",
+    "range": "(C)  G8090520-\n(C)  GG124132-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39137551",
+    "desc": "HOUSING,BLOWER,LHD",
+    "usage": "",
+    "range": "(C)  G8090520-\n(C)  GG124132-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(11561629)",
+    "desc": "-NUT,CLAMP,LHD (NLS.- USE YQ00110380)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 295,
+        "y": 1317
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13276231",
+    "desc": "SCREW,CASE,BLOWER UNIT",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 221,
+        "y": 510
+      },
+      {
+        "x": 512,
+        "y": 446
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "13287933",
+    "desc": "CLIP,CASE,BLOWER UNIT",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 472,
+        "y": 733
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "13433082",
+    "desc": "GRILLE,BLOWER UNIT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1028,
+        "y": 987
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "13497776",
+    "desc": "BLOWER,ASSY.,FAN,LHD",
+    "usage": "",
+    "range": "(C)      -J8030683\n(C)      -JG056656",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 927,
+        "y": 987
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(39118612)",
+    "desc": "BLOWER,ASSY.,FAN,LHD (NLS.- USE 39240617)",
+    "usage": "",
+    "range": "(C)  J8030684-\n(C)  JG056657-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "39010173",
+    "desc": "BLOWER,ASSY.,FAN,RHD",
+    "usage": "",
+    "range": "(C)      -J8030683\n(C)      -JG056656",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "39137547",
+    "desc": "BLOWER,ASSY.,FAN,RHD",
+    "usage": "",
+    "range": "(C)  J8030684-\n(C)  JG056657-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "13276231",
+    "desc": "SCREW,BLOWER,ASSY.",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 661,
+        "y": 1356
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "",
+    "desc": "SEAL,HEATER CASING (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 209,
+        "y": 1082
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "27X",
+    "part": "13287939",
+    "desc": "CORE,ASSY.,HEATER,LESS PIPES",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1675,
+        "y": 1839
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28X",
+    "part": "13466241",
+    "desc": "SET,TUBES,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1550,
+        "y": 1931
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "28X",
+    "part": "13466242",
+    "desc": "SET,TUBES,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "24449576",
+    "desc": "-CLIP,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1633,
+        "y": 2144
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30X",
+    "part": "13435999",
+    "desc": "GASKET KIT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1220,
+        "y": 370
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31X",
+    "part": "13287940",
+    "desc": "-KIT,CLAMP,TUBE,HEATER CONNECTION",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1853,
+        "y": 578
+      },
+      {
+        "x": 1730,
+        "y": 2001
+      },
+      {
+        "x": 1663,
+        "y": 2089
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31X",
+    "part": "13287940",
+    "desc": "-KIT,CLAMP,TUBE,HEATER CONNECTION",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "31X",
+    "part": "13287940",
+    "desc": "-KIT,CLAMP,TUBE,HEATER CONNECTION",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "32",
+    "part": "13432020",
+    "desc": "STUD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 225,
+        "y": 642
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "33",
+    "part": "(11546456)",
+    "desc": "NUT (NLS.- USE YR00059880)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 148,
+        "y": 599
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "34",
+    "part": "(11519375)",
+    "desc": "SCREW,HEX.HD.,M6 X 19 (NLS.- USE YQ00159180)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 915,
+        "y": 669
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "35",
+    "part": "(13293445)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M6 X 20,MODULE,HEATER, AIR CONDITIONING AND VENTILATION (NLS.- USE YR00195380)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2161,
+        "y": 727
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "11609411",
+    "desc": "NUT,M6,MODULE,HEATER, AIR CONDITIONING AND VENTILATION",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1969,
+        "y": 727
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "37",
+    "part": "13506209",
+    "desc": "MODULE,BLOWER CONTROL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1132,
+        "y": 764
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "38",
+    "part": "90510259",
+    "desc": "GREASE,POLYLUB GLY 801,90 GRAMS (IDENT GR10)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 438,
+        "y": 2383
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

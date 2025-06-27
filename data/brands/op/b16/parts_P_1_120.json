@@ -1,0 +1,24 @@
+[
+  {
+    "call": "9",
+    "part": "",
+    "desc": "SENSOR,COOLANT TEMPERATURE,RADIATOR (PLEASE REFER TO GROUP F) (RADIATOR) (SHORTCUT: B16.F370)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55491198",
+    "desc": "SENSOR,COOLANT TEMPERATURE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

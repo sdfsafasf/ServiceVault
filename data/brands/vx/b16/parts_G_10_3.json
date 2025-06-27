@@ -1,0 +1,35 @@
+[
+  {
+    "call": "35",
+    "part": "55504439",
+    "desc": "INJECTOR,ASSY.,DIESEL EXHAUST FLUID (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "55580455",
+    "desc": "-GASKET (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "37",
+    "part": "11516076",
+    "desc": "NUT,HEX.,M8 (EMISSION CODE NCV)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

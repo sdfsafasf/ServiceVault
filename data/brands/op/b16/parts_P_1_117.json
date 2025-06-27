@@ -1,0 +1,57 @@
+[
+  {
+    "call": "1",
+    "part": "(55511872)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 55515671)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -M8999999\n(C)      -MG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55515671)",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED (NLS.- USE 55517251)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -M8999999\n(C)      -MG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55517251",
+    "desc": "CONTROL MODULE,ENGINE,UNPROGRAMMED",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  N8000001-\n(C)  NG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39239096",
+    "desc": "BRACKET,ENGINE CONTROL MODULE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588723)",
+    "desc": "SCREW,HEX,HD.,M8 X 25,BRACKET (NLS.- USE YR00058780)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

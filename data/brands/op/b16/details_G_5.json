@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1",
+    "name": "AIR CLEANER"
+  },
+  {
+    "code": "2",
+    "name": "AIRFLOW METER"
+  },
+  {
+    "code": "3",
+    "name": "EXHAUST PIPE,SILENCER AND CATALYTIC CONVERTER"
+  },
+  {
+    "code": "4",
+    "name": "FUEL INJECTION"
+  },
+  {
+    "code": "5",
+    "name": "FUEL PIPES AND FITTINGS"
+  },
+  {
+    "code": "6",
+    "name": "INDUCTION MANIFOLD"
+  },
+  {
+    "code": "7",
+    "name": "THROTTLE VALVE BODY"
+  },
+  {
+    "code": "8",
+    "name": "TURBOCHARGER"
+  }
+]

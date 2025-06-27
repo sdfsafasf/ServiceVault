@@ -1,0 +1,487 @@
+[
+  {
+    "call": "1",
+    "part": "(39038613)",
+    "desc": "CARPET,ASSY.,FRONT,LHD,BLACK (EXC.REAR FLOOR VENTILATION DUCT) (NLS.- USE 39133218)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [
+      {
+        "x": 781,
+        "y": 293
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39133218",
+    "desc": "CARPET,ASSY.,FRONT,LHD,BLACK (EXC.REAR FLOOR VENTILATION DUCT)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39057210)",
+    "desc": "CARPET,ASSY.,FRONT,RHD,BLACK (EXC.REAR FLOOR VENTILATION DUCT) (NLS.- USE 39133217)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39133217",
+    "desc": "CARPET,ASSY.,FRONT,RHD,BLACK (EXC.REAR FLOOR VENTILATION DUCT)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39038612)",
+    "desc": "CARPET,ASSY.,FRONT,LHD,BLACK (FOR REAR FLOOR VENTILATION DUCT) (NLS.- USE 39133220)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39133220",
+    "desc": "CARPET,ASSY.,FRONT,LHD,BLACK (FOR REAR FLOOR VENTILATION DUCT)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39057211)",
+    "desc": "CARPET,ASSY.,FRONT,RHD,BLACK (FOR REAR FLOOR VENTILATION DUCT) (NLS.- USE 39133219)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39133219",
+    "desc": "CARPET,ASSY.,FRONT,RHD,BLACK (FOR REAR FLOOR VENTILATION DUCT)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13306292",
+    "desc": "-COVER,VIN PLATE,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1216,
+        "y": 419
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13142010)",
+    "desc": "-CLIP,MAT,LOWER (NLS.- USE YQ00112080)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 989,
+        "y": 517
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13267626",
+    "desc": "-RETAINER,MAT,UPPER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1043,
+        "y": 514
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13106333",
+    "desc": "CLIP,CARPET,ANTHRACITE (PRODUCTION NO. 13106286)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 509,
+        "y": 139
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13413319)",
+    "desc": "COVER,SILL PANEL AND CARPET,FRONT,RH,BLACK (NLS.- USE 39067558)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8085558\n(C)      -GG199766",
+    "positions": [
+      {
+        "x": 336,
+        "y": 1410
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39067558",
+    "desc": "COVER,SILL PANEL AND CARPET,FRONT,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8085559-\n(C)  GG119767-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39088711)",
+    "desc": "COVER,SILL PANEL AND CARPET,FRONT,RH,BLACK (NLS.- USE 39067558)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8085559-\n(C)  GG119767-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13413318)",
+    "desc": "COVER,SILL PANEL AND CARPET,FRONT,LH,BLACK (NLS.- USE 39067559)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8085558\n(C)      -GG120111",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39067559",
+    "desc": "COVER,SILL PANEL AND CARPET,FRONT,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8085559-\n(C)  GG120112-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(39088710)",
+    "desc": "COVER,SILL PANEL AND CARPET,FRONT,LH,BLACK (NLS.- USE 39067559)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8085559-\n(C)  GG120112-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13450611",
+    "desc": "COVER,SILL PANEL AND CARPET,REAR,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 774,
+        "y": 1586
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13450610",
+    "desc": "COVER,SILL PANEL AND CARPET,REAR,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13435002)",
+    "desc": "-CLIP (NLS.- USE YQ00108180)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 724,
+        "y": 1460
+      },
+      {
+        "x": 484,
+        "y": 1356
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13439406)",
+    "desc": "CARPET,ASSY.,REAR SEAT BACK,RH (FOR 40/60 SPLIT REAR SEAT,RPO A64) (EXCEPT HOLDEN) (NLS.- USE YR003977YX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1746,
+        "y": 167
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13439588",
+    "desc": "CARPET,ASSY.,REAR SEAT BACK,RH (FOR 40/60 SPLIT REAR SEAT,RPO A64) (HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13439405",
+    "desc": "CARPET,ASSY.,REAR SEAT BACK,LH (FOR 40/60 SPLIT REAR SEAT,RPO A64)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1418,
+        "y": 318
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13439591)",
+    "desc": "CARPET,ASSY.,REAR SEAT BACK,RH (FOR 40/20/40 SPLIT REAR SEAT,RPO ARJ) (NLS.- USE YR003978YX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2071,
+        "y": 763
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13439589",
+    "desc": "CARPET,ASSY.,REAR SEAT BACK,CENTRE (FOR 40/20/40 SPLIT REAR SEAT,RPO ARJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1910,
+        "y": 839
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13476061",
+    "desc": "CARPET,ASSY.,REAR SEAT BACK,LH (FOR 40/20/40 SPLIT REAR SEAT,RPO ARJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1768,
+        "y": 896
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(39038069)",
+    "desc": "CARPET,ASSY.,REAR LOAD FLOOR (NLS.- USE 39081582)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1535,
+        "y": 1552
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(39081582)",
+    "desc": "CARPET,ASSY.,REAR LOAD FLOOR (EXCEPT DUAL FUEL - CNG) (NLS.- USE 39103806)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(39103806)",
+    "desc": "CARPET,ASSY.,REAR LOAD FLOOR (EXCEPT DUAL FUEL - CNG) (NLS.- USE 39187991)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13476470)",
+    "desc": "CARPET,ASSY.,REAR LOAD FLOOR (DUAL FUEL - CNG) (NLS.- USE 39103807)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(39103807)",
+    "desc": "CARPET,ASSY.,REAR LOAD FLOOR (DUAL FUEL - CNG) (NLS.- USE 39187990)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(39017043)",
+    "desc": "-HANDLE,BLACK (NLS.- USE 39081583)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1778,
+        "y": 1568
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39081583",
+    "desc": "-HANDLE,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "13343122",
+    "desc": "-RETAINER,UPPER,BLACK,REAR LOAD FLOOR CARPET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1771,
+        "y": 1514
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "13343124",
+    "desc": "-RETAINER,LOWER,BLACK,REAR LOAD FLOOR CARPET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1775,
+        "y": 1627
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

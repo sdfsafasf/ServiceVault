@@ -1,0 +1,211 @@
+[
+  {
+    "call": "1",
+    "part": "(24296549)",
+    "desc": "COVER,SIDE,VALVE BODY (NLS.- USE 24049671)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24241898",
+    "desc": "SCREW,COVER FIXING",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24232800",
+    "desc": "STUD",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(24291935)",
+    "desc": "BODY,ASSY.,VALVE (NLS.- USE 24293404)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "24227105",
+    "desc": "-PIN",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "24291076",
+    "desc": "PLATE,SPACER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(24043757)",
+    "desc": "VALVE,SOLENOID (NLS.- USE 24045659)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "-HARNESS,ASSY.,AUTOMATIC TRANSMISSION (PLEASE REFER TO GROUP P) (WIRING HARNESS) (TRANSMISSION HARNESS) (SHORTCUT: B16.P523)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "--SEAL (PLEASE REFER TO GROUP P) (WIRING HARNESS) (TRANSMISSION HARNESS) (SHORTCUT: B16.P523)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "11547422",
+    "desc": "-SCREW,M5 X 20",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "11547173",
+    "desc": "SCREW,HEX.HD.,M5 X 65",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "11547174",
+    "desc": "SCREW,HEX.HD.,M5 X 85",
+    "qty": "9",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11547175",
+    "desc": "SCREW,HEX.HD.,M5 X 94",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11547313",
+    "desc": "SCREW,HEX.HD.,M5 X 37",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "11547377",
+    "desc": "SCREW,HEX.HD.,M5 X 55",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "24288355",
+    "desc": "VALVE,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11547183)",
+    "desc": "-SCREW,M6 X 25 (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "",
+    "desc": "SENSOR,REVOLUTIONS,OUTPUT (PLEASE REFER TO GROUP P) (TRANSMISSION) (AUTOMATIC TRANSMISSION) (SHORTCUT: B16.P150)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "",
+    "desc": "SCREW,M6 X 25,AUTOMATIC TRANSMISSION SPEED SENSOR (OUTPUT) (PLEASE REFER TO GROUP P) (TRANSMISSION) (AUTOMATIC TRANSMISSION) (SHORTCUT: B16.P150)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

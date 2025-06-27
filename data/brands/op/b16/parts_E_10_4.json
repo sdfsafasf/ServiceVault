@@ -1,0 +1,35 @@
+[
+  {
+    "call": "23X",
+    "part": "(55588337)",
+    "desc": "ROD,ASSY.,CONNECTING,KIT (NLS.- USE 55501494)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23X",
+    "part": "55501494",
+    "desc": "ROD,ASSY.,CONNECTING,KIT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(11610588)",
+    "desc": "-SCREW (NLS.- USE 11548927)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

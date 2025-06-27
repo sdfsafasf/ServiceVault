@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(55594897)",
+    "desc": "TRANSMISSION,ASSY. (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (FINAL DRIVE RATIO 3.09) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 55599695, 55582313 7 55 030) (IDENT BBT)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)      -G8111033\n(C)      -GG092401",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55599695",
+    "desc": "TRANSMISSION,ASSY. (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (FINAL DRIVE RATIO 3.09) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95522801) (IDENT BJC)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  G8111034-\n(C)  GG092402-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95522801",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (FINAL DRIVE RATIO 3.09) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT BJC)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  G8111034-\n(C)  GG092402-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55594112)",
+    "desc": "TRANSMISSION,ASSY. (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FINAL DRIVE RATIO 3.55) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 55486827, 55582313 7 55 030) (IDENT BL4)",
+    "qty": "1",
+    "usage": "B16DTR[LVK]",
+    "range": "(C)      -G8071972\n(C)      -GG071972",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55486827",
+    "desc": "TRANSMISSION,ASSY. (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FINAL DRIVE RATIO 3.55) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95522799) (IDENT BL5)",
+    "qty": "1",
+    "usage": "B16DTR[LVK]",
+    "range": "(C)  G8071973-\n(C)  GG071973-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95522799",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR F40 MANUAL TRANSMISSION,RPO MR6) (FINAL DRIVE RATIO 3.55) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT BL5)",
+    "qty": "1",
+    "usage": "B16DTR[LVK]",
+    "range": "(C)  G8071973-\n(C)  GG071973-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

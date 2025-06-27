@@ -1,0 +1,138 @@
+[
+  {
+    "code": "1",
+    "name": "CAMSHAFT"
+  },
+  {
+    "code": "2",
+    "name": "CLUTCH"
+  },
+  {
+    "code": "3",
+    "name": "CONNECTING ROD"
+  },
+  {
+    "code": "4",
+    "name": "CONNECTING ROD BEARINGS"
+  },
+  {
+    "code": "5",
+    "name": "CRANKSHAFT"
+  },
+  {
+    "code": "6",
+    "name": "CRANKSHAFT BEARINGS AND SEALS"
+  },
+  {
+    "code": "7",
+    "name": "CRANKSHAFT PULLEY"
+  },
+  {
+    "code": "8",
+    "name": "CYLINDER BLOCK"
+  },
+  {
+    "code": "9",
+    "name": "CYLINDER BLOCK PLUGS"
+  },
+  {
+    "code": "10",
+    "name": "CYLINDER HEAD COVER AND GASKET"
+  },
+  {
+    "code": "11",
+    "name": "CYLINDER HEAD, PLUGS AND GASKET"
+  },
+  {
+    "code": "12",
+    "name": "ENGINE ASSEMBLY"
+  },
+  {
+    "code": "13",
+    "name": "ENGINE COVER"
+  },
+  {
+    "code": "14",
+    "name": "ENGINE LIFTING HANGER"
+  },
+  {
+    "code": "15",
+    "name": "ENGINE MOUNTINGS (FOR M32 MANUAL TRANSMISSION,RPO MZ0/MGR)"
+  },
+  {
+    "code": "16",
+    "name": "ENGINE MOUNTINGS (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG)"
+  },
+  {
+    "code": "17",
+    "name": "ENGINE VENTILATION"
+  },
+  {
+    "code": "18",
+    "name": "ENGINE,STRIPPED"
+  },
+  {
+    "code": "19",
+    "name": "FLEXPLATE AND FITTINGS"
+  },
+  {
+    "code": "20",
+    "name": "FLYWHEEL AND FITTINGS"
+  },
+  {
+    "code": "21",
+    "name": "FRONT COVER"
+  },
+  {
+    "code": "22",
+    "name": "OIL FILLER"
+  },
+  {
+    "code": "23",
+    "name": "OIL FILTER"
+  },
+  {
+    "code": "24",
+    "name": "OIL LEVEL INDICATOR"
+  },
+  {
+    "code": "25",
+    "name": "OIL PAN AND FITTINGS"
+  },
+  {
+    "code": "26",
+    "name": "OIL PIPES,VALVES AND FITTINGS"
+  },
+  {
+    "code": "27",
+    "name": "OIL PUMP AND FITTINGS"
+  },
+  {
+    "code": "28",
+    "name": "PISTON AND RINGS (STANDARD)"
+  },
+  {
+    "code": "29",
+    "name": "PISTON AND RINGS (OVERSIZE)"
+  },
+  {
+    "code": "30",
+    "name": "ROCKER ARM"
+  },
+  {
+    "code": "31",
+    "name": "TIMING CHAIN,GEAR AND PULLEYS"
+  },
+  {
+    "code": "32",
+    "name": "VALVE LIFTER"
+  },
+  {
+    "code": "33",
+    "name": "VALVES, INLET AND EXHAUST"
+  },
+  {
+    "code": "34",
+    "name": "WATER PUMP,THERMOSTAT AND OIL COOLER"
+  }
+]

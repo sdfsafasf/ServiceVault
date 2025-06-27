@@ -1,0 +1,35 @@
+[
+  {
+    "call": "36",
+    "part": "(13491088)",
+    "desc": "LAMP,ASSY.,SIDE REPEATER,LH (NLS.- USE YQ00011580)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "36",
+    "part": "(13491089)",
+    "desc": "LAMP,ASSY.,SIDE REPEATER,RH (NLS.- USE YQ00011480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "37",
+    "part": "(10351682)",
+    "desc": "BULB,12V/5W (WY5W) (NLS.- USE 6216C1)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "call": "4X",
+    "part": "39021506",
+    "desc": "KIT,CIGARETTE LIGHTER,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13579473)",
+    "desc": "-ASHTRAY,ASSY. (NLS.- USE 1662443080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13596428",
+    "desc": "-LIGHTER,ASSY.,CIGARETTE",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13502516",
+    "desc": "-RETAINER,HOUSING",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13502522",
+    "desc": "-HOUSING,CIGARETTE LIGHTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

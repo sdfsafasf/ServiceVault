@@ -1,0 +1,54 @@
+[
+  {
+    "call": "8",
+    "part": "(11570273)",
+    "desc": "NUT,7/16\",REAR SEAT CENTRE BELT (NLS.- USE YR00218880)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 891,
+        "y": 1511
+      },
+      {
+        "x": 750,
+        "y": 1775
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13409377",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1050,
+        "y": 2149
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13409378",
+    "desc": "BUCKLE,ASSY.,SEAT BELT,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 106,
+        "y": 2152
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

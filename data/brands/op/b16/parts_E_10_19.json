@@ -1,0 +1,79 @@
+[
+  {
+    "call": "17",
+    "part": "(55494831)",
+    "desc": "FLYWHEEL,ASSY. (EMISSION CODE NE4) (NLS.- USE 55498277)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(55498277)",
+    "desc": "FLYWHEEL,ASSY. (EMISSION CODE NE4) (NLS.- USE 55503943)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55503943",
+    "desc": "FLYWHEEL,ASSY. (EMISSION CODE NE4) (EXCHANGE - REMAN PART 95530660)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "95530660",
+    "desc": "FLYWHEEL,ASSY.,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 1656310980)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55504336",
+    "desc": "FLYWHEEL,ASSY. (EMISSION CODE NCV) (EXCHANGE - REMAN PART 95530721)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(95530721)",
+    "desc": "FLYWHEEL,ASSY.,EXCHANGE - REMAN (EMISSION CODE NCV) (CORE RETURN NO. 1656310980) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "55574451",
+    "desc": "-SCREW,M10 X 26",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

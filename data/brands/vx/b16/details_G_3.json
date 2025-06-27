@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1",
+    "name": "AIR CLEANER"
+  },
+  {
+    "code": "2",
+    "name": "AIRFLOW METER"
+  },
+  {
+    "code": "3",
+    "name": "EXHAUST PIPE,SILENCER AND CATALYTIC CONVERTER"
+  },
+  {
+    "code": "4",
+    "name": "FUEL EVAPORATION TANK"
+  },
+  {
+    "code": "5",
+    "name": "FUEL INJECTION"
+  },
+  {
+    "code": "6",
+    "name": "FUEL PIPES AND FITTINGS"
+  },
+  {
+    "code": "7",
+    "name": "INDUCTION MANIFOLD"
+  },
+  {
+    "code": "8",
+    "name": "THROTTLE VALVE BODY"
+  }
+]

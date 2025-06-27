@@ -1,0 +1,68 @@
+[
+  {
+    "call": "1",
+    "part": "(93199699)",
+    "desc": "BASE,CHILD SEAT,ISOFIX (FOR INFANTS FROM 0KG TO 13KG) (GROUP 0+) (USE IN CONJUNCTION WITH 93199690 17 46 532) (FURTHER USAGE IN MANUAL) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(93199690)",
+    "desc": "CHILD SEAT,BABY SAFE,LESS TRANSPONDER,WITH PROVISION FOR ISOFIX BASE (FOR INFANTS FROM 0KG TO 13KG) (FURTHER USAGE IN MANUAL) (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "GROUP 0+",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3X",
+    "part": "(13342988)",
+    "desc": "CHILD SEAT,DUO ISOFIX,LESS TRANSPONDER,WITH TOP TETHER KIT (FOR INFANTS FROM 9KG TO 18KG) (FURTHER USAGE IN MANUAL) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "GROUP 1",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "93199692",
+    "desc": "-CHILD SEAT,DUO ISOFIX,LESS TRANSPONDER (FOR INFANTS FROM 9KG TO 18KG) (FURTHER USAGE IN MANUAL)",
+    "qty": "1",
+    "usage": "GROUP 1",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5X",
+    "part": "93199031",
+    "desc": "-KIT,TOP TETHER (DUO ISOFIX)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(93199694)",
+    "desc": "CHILD SEAT,KID,LESS TRANSPONDER (FOR INFANTS FROM 15KG TO 36KG) (EXCEPT ISOFIX) (NLS.- USE 1662443280)",
+    "qty": "1",
+    "usage": "GROUP 2/3",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

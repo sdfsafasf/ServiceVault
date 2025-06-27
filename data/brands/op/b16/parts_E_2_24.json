@@ -1,0 +1,46 @@
+[
+  {
+    "call": "19X",
+    "part": "(55513875)",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (STD.) (NLS.- USE 3X 12710889,3X 55512354)",
+    "qty": "3",
+    "usage": "(E)      -A1212491MLKX0081",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19X",
+    "part": "12710889",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (STD.)",
+    "qty": "3",
+    "usage": "(E)  A1212491MLKX0081-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20X",
+    "part": "55507069",
+    "desc": "-RING SET,PISTON,STD.",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "12639680",
+    "desc": "-RING,SNAP",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

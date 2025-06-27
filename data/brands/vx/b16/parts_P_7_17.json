@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1",
+    "part": "39235964",
+    "desc": "HARNESS ASM-ECM & ENG WRG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39235965",
+    "desc": "HARNESS ASM-ECM & ENG WRG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39241902",
+    "desc": "HARNESS ASM-ECM & ENG WRG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39227945",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR M32 MANUAL TRANSMISSION,RPO MGP) (FOR AIR CONDITIONING) (FOR STOP/START ENGINE SYSTEM,RPO KL5) (IDENT G6C)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39227946",
+    "desc": "HARNESS,ASSY.,ENGINE CONTROL MODULE (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (FOR AIR CONDITIONING) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (IDENT G7C)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39222219",
+    "desc": "CABLE,ALTERNATOR AND STARTER (FOR M32 MANUAL TRANSMISSION,RPO MGP) (IDENT 3KJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39222397",
+    "desc": "CABLE,ALTERNATOR AND STARTER (FOR 9T45 AUTOMATIC TRANSMISSION,RPO Mi7) (IDENT 4KJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

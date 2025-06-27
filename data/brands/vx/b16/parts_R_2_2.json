@@ -1,0 +1,46 @@
+[
+  {
+    "call": "7",
+    "part": "9271410",
+    "desc": "SILENCER,ASSY.,EXHAUST",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "9271407",
+    "desc": "CLAMP,PIPE TO SILENCER",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "9269977",
+    "desc": "PIPE,EXHAUST,1M LONG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "9269950",
+    "desc": "BRACE,BRACKET,SILENCER,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

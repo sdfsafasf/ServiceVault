@@ -1,0 +1,120 @@
+[
+  {
+    "call": "5",
+    "part": "90002500",
+    "desc": "VALVE,TYRE,43 MM,RUBBER",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1486,
+        "y": 1089
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "90002500",
+    "desc": "VALVE,TYRE,43 MM,RUBBER (EXCEPT TYRE PRESSURE MONITORING SYSTEM)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13506028)",
+    "desc": "SENSOR,WITH VALVE,MANUAL LEARN (FOR TYRE PRESSURE MONITORING SYSTEM,RPO UJM) (NLS.- USE 39186445)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 611,
+        "y": 1745
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7X",
+    "part": "13507405",
+    "desc": "-VALVE,TYRE,KIT,MANUAL LEARN (FOR TYRE PRESSURE MONITORING SYSTEM,RPO UJM)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 497,
+        "y": 2360
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39186445)",
+    "desc": "SENSOR,WITH VALVE,AUTO LEARN (FOR TYRE PRESSURE MONITORING SYSTEM,RPO UJN) (NLS.- USE YR00254380)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)      -L8999999\n(C)      -LG999999",
+    "positions": [
+      {
+        "x": 1811,
+        "y": 1736
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(YR00254380)",
+    "desc": "SENSOR,WITH VALVE,AUTO LEARN (FOR TYRE PRESSURE MONITORING SYSTEM,RPO UJN) (NLS.- USE YQ00956280)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)      -L8999999\n(C)      -LG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9X",
+    "part": "39186446",
+    "desc": "-VALVE,TYRE,KIT,AUTO LEARN (FOR TYRE PRESSURE MONITORING SYSTEM,RPO UJN)",
+    "qty": "4",
+    "usage": "",
+    "range": "(C)      -L8999999\n(C)      -LG999999",
+    "positions": [
+      {
+        "x": 1877,
+        "y": 1893
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "YQ00956280",
+    "desc": "SENSOR,WITH VALVE,AUTO LEARN (FOR TYRE PRESSURE MONITORING SYSTEM,RPO UJN)",
+    "qty": "AR",
+    "usage": "",
+    "range": "(C)  M8000001-\n(C)  MG000001-",
+    "positions": [
+      {
+        "x": 103,
+        "y": 1310
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

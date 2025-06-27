@@ -1,0 +1,152 @@
+[
+  {
+    "call": "2",
+    "part": "(11589165)",
+    "desc": "SCREW,HEX.HD.,M10 X 34 (NLS.- USE 9826136280)",
+    "usage": "",
+    "range": "",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 103,
+        "y": 870
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11516754",
+    "desc": "NUT,M10",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "6",
+    "positions": [
+      {
+        "x": 973,
+        "y": 2356
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11546462)",
+    "desc": "NUT,M10 (NLS.- USE YR00270680)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "6",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13420399",
+    "desc": "BAG,REMOVABLE DRAWBAR",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 199,
+        "y": 987
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39026779",
+    "desc": "HARNESS,ASSY.,TRAILER COUPLING",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1382,
+        "y": 1486
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13363075",
+    "desc": "-SOCKET,PLUG,13 PIN,TRAILER COUPLING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1347,
+        "y": 1588
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(11040782)",
+    "desc": "SCREW,RD.HD.,M5 X 30,PLUG SOCKET FIXING (NLS.- USE YQ00219680)",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 1466,
+        "y": 1677
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13420396)",
+    "desc": "PLATFORM,ASSY.,WEIGHT DISTRIBUTION,TRAILER COUPLING (NLS.- USE 39151246)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1795,
+        "y": 1898
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39151246",
+    "desc": "PLATFORM,ASSY.,WEIGHT DISTRIBUTION,TRAILER COUPLING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13420400",
+    "desc": "DRAWBAR,REMOVABLE,TRAILER COUPLING",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1798,
+        "y": 2428
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

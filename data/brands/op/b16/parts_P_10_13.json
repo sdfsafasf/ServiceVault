@@ -1,0 +1,46 @@
+[
+  {
+    "call": "9",
+    "part": "(13578464)",
+    "desc": "SENSOR,SOLAR,HEADLAMP AUTOMATIC CONTROL,AMBIENT LIGHT (FOR HEADLAMPS,AUTOMATIC ON-OFF,RPO T83) (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (NLS.- USE 13525291)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13578461)",
+    "desc": "SENSOR,SOLAR,HEADLAMP AUTOMATIC CONTROL,AMBIENT LIGHT (FOR HEADLAMPS,AUTOMATIC ON-OFF,RPO T83) (EXCEPT RPO CJ2,DUAL ZONE CLIMATE CONTROL) (NLS.- USE 13525289)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13525290",
+    "desc": "SENSOR,SOLAR,HEADLAMP AUTOMATIC CONTROL,AMBIENT LIGHT (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (EXCEPT RPO T83, HEADLAMPS,AUTOMATIC ON-OFF) (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13525292",
+    "desc": "SENSOR,SOLAR,HEADLAMP AUTOMATIC CONTROL,AMBIENT LIGHT (HOLDEN) (FOR DUAL ZONE CLIMATE CONTROL,RPO CJ2) (EXCEPT RPO T83, HEADLAMPS,AUTOMATIC ON-OFF)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

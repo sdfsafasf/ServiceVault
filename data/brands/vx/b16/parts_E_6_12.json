@@ -1,0 +1,79 @@
+[
+  {
+    "call": "1X",
+    "part": "12708875",
+    "desc": "GASKET KIT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-GASKET,CYLINDER HEAD (PLEASE REFER TO GROUP E) (CYLINDER HEAD) (SHORTCUT: B16.E88)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-SCREW,HEX.HD.,M6 X 109 (PLEASE REFER TO GROUP E) (CYLINDER HEAD) (SHORTCUT: B16.E88)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-SCREW,M10 X 107 (PLEASE REFER TO GROUP E) (CYLINDER HEAD) (SHORTCUT: B16.E88)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "",
+    "desc": "-SCREW,HEX.HD.,M6 X 43 (PLEASE REFER TO GROUP E) (CYLINDER HEAD) (SHORTCUT: B16.E88)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "",
+    "desc": "-GASKET (PLEASE REFER TO GROUP G) (INDUCTION MANIFOLD) (SHORTCUT: B16.G422)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "-SHIELD,HEAT (PLEASE REFER TO GROUP G) (TURBOCHARGER) (SHORTCUT: B16.G421)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

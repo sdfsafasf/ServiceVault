@@ -1,0 +1,90 @@
+[
+  {
+    "call": "24",
+    "part": "(55485624)",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (STD.) (NLS.- USE 55491877)",
+    "qty": "3",
+    "usage": "(E)      -20 B1172587HTSX0120",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "55491877",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (STD.)",
+    "qty": "3",
+    "usage": "(E)  20 B1172587HTSX0121-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "55486934",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (0.5MM O/S)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "12639680",
+    "desc": "-RING,SNAP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "12639680",
+    "desc": "-RING,SNAP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26X",
+    "part": "55588455",
+    "desc": "-RING SET,PISTON,STD.",
+    "qty": "3",
+    "usage": "(E)      -20 B1172587HTSX0120",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26X",
+    "part": "55503506",
+    "desc": "-RING SET,PISTON,STD.",
+    "qty": "3",
+    "usage": "(E)  20 B1172587HTSX0121-",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26X",
+    "part": "55488272",
+    "desc": "-RING SET,PISTON,0.5MM O/S",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

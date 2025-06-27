@@ -1,0 +1,68 @@
+[
+  {
+    "call": "4",
+    "part": "(13587198)",
+    "desc": "SOCKET,ACCESSORY POWER OUTLET,USB (FOR CENTRE CONSOLE SLIDING ARMREST,RPO DBU) (FOR USB CHARGE PORT,RPO USS) (NLS.- USE 13598459)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13598459",
+    "desc": "SOCKET,ACCESSORY POWER OUTLET,USB (FOR CENTRE CONSOLE SLIDING ARMREST,RPO DBU) (FOR USB CHARGE PORT,RPO USS)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13502523)",
+    "desc": "SOCKET,ACCESSORY POWER OUTLET,12V (EXCEPT RPO DT4) (NLS.- USE YR00306080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13502523)",
+    "desc": "SOCKET,ACCESSORY POWER OUTLET,12V,LOAD COMPARTMENT (EXC.RPO ACN,BREAKPOINT CONTROL MY19.5) (NLS.- USE YR00306080)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13504492",
+    "desc": "RING,RETAINING,SOCKET,EXCEPT RPO DT4",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13504000)",
+    "desc": "RING,RETAINING,12V,LOAD COMPARTMENT (NLS.- USE 13537518)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "call": "1",
+    "part": "(13495685)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,LHD (NLS.- USE 39021647)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39021647)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,LHD (NLS.- USE 39047278)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39047278)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,LHD (NLS.- USE 39093293)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39093293)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,LHD (NLS.- USE 39133699)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13495683)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,RHD (NLS.- USE 39021649)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39021649)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,RHD (NLS.- USE 39047280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39047280)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,RHD (NLS.- USE 39093299)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39093299)",
+    "desc": "LEVER,ASSY.,HANDBRAKE,WITH SWITCH,RHD (NLS.- USE 39133701)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "",
+    "desc": "-SWITCH,ASSY.,HANDBRAKE WARNING LIGHT (PLEASE REFER TO GROUP P) (BRAKES) (HANDBRAKE WARNING LIGHT SWITCH) (SHORTCUT: B16.P201)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-SCREW (PLEASE REFER TO GROUP P) (BRAKES) (HANDBRAKE WARNING LIGHT SWITCH) (SHORTCUT: B16.P201)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39010160",
+    "desc": "BOOT,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39010162)",
+    "desc": "BOOT,RHD (NLS.- USE 39128854)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11561645",
+    "desc": "NUT,HEX.,M8",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

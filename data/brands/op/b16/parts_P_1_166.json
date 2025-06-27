@@ -1,0 +1,167 @@
+[
+  {
+    "call": "1",
+    "part": "(55570068)",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95520329) (NLS.- USE 55491789)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1648216480",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95520329) (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55491789)",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95522288) (NLS.- USE 55497878)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1648216480",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95522288) (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55497878)",
+    "desc": "STARTER,ASSY. (EXCHANGE - REMAN PART 95523575) (NLS.- USE 55503483)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55503483)",
+    "desc": "STARTER,ASSY. (MANUAL TRANSMISSION) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95525759) (NLS.- USE 55510936)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95520329)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (NLS.- USE 95522288)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1648216480",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95522288)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (NLS.- USE 95523575)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1648216480",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (EUROREPAR) (NLS.- USE 95523575)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95523575)",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (NLS.- USE 95525759)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1648216480",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1648216480",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1648216480",
+    "desc": "STARTER,ASSY.,EXCHANGE - REMAN (CORE RETURN NO. 95524454) (EUROREPAR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11515758",
+    "desc": "SCREW,HEX.HD.,M8 X 30",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

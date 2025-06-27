@@ -1,0 +1,324 @@
+[
+  {
+    "call": "1",
+    "part": "(39021379)",
+    "desc": "TRIM,FRONT PILLAR,RH,BLACK (NLS.- USE 39030008)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8013545\n(C)      -GG007214",
+    "positions": [
+      {
+        "x": 1492,
+        "y": 532
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39030008)",
+    "desc": "TRIM,FRONT PILLAR,RH,BLACK (NLS.- USE 39043915)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8013546-G8999999\n(C)  GG007215-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39043915)",
+    "desc": "TRIM,FRONT PILLAR,RH,BLACK (NLS.- USE 39099399)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8013546-G8999999\n(C)  GG007215-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39099399",
+    "desc": "TRIM,FRONT PILLAR,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39018303)",
+    "desc": "TRIM,FRONT PILLAR,RH,LIGHT TITANIUM (NLS.- USE 39030007)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8011862\n(C)      -GG011142",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39030007)",
+    "desc": "TRIM,FRONT PILLAR,RH,LIGHT TITANIUM (NLS.- USE 39043914)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8011863-G8999999\n(C)  GG011143-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39043914)",
+    "desc": "TRIM,FRONT PILLAR,RH,LIGHT TITANIUM (NLS.- USE 39099397)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8011863-G8999999\n(C)  GG011143-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39099397",
+    "desc": "TRIM,FRONT PILLAR,RH,LIGHT TITANIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39021378)",
+    "desc": "TRIM,FRONT PILLAR,LH,BLACK (NLS.- USE 39030006)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8013545\n(C)      -GG013545",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39030006)",
+    "desc": "TRIM,FRONT PILLAR,LH,BLACK (NLS.- USE 39043917)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8013546-G8999999\n(C)  GG013546-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39043917)",
+    "desc": "TRIM,FRONT PILLAR,LH,BLACK (NLS.- USE 39099400)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8013546-G8999999\n(C)  GG013546-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39099400",
+    "desc": "TRIM,FRONT PILLAR,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39018302)",
+    "desc": "TRIM,FRONT PILLAR,LH,LIGHT TITANIUM (NLS.- USE 39030005)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8011821\n(C)      -GG011821",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39030005)",
+    "desc": "TRIM,FRONT PILLAR,LH,LIGHT TITANIUM (NLS.- USE 39043916)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8011822-G8999999\n(C)  GG011822-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39043916)",
+    "desc": "TRIM,FRONT PILLAR,LH,LIGHT TITANIUM (NLS.- USE 39099398)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8011822-G8999999\n(C)  GG011822-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39099398",
+    "desc": "TRIM,FRONT PILLAR,LH,LIGHT TITANIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11611805",
+    "desc": "-FASTENER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1495,
+        "y": 726
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11588783)",
+    "desc": "-CLIP (NLS.- USE YQ00102780)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8013545\n(C)      -GG007214",
+    "positions": [
+      {
+        "x": 1357,
+        "y": 635
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11548627)",
+    "desc": "-CLIP (NLS.- USE 11548408)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  G8013546-G8999999\n(C)  GG007215-GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11548408",
+    "desc": "-CLIP",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13413313)",
+    "desc": "TRIM,ASSY.,CENTRE PILLAR,UPPER,RH,BLACK (NLS.- USE 39031944)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8028285\n(C)      -GG025947",
+    "positions": [
+      {
+        "x": 680,
+        "y": 682
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39031944)",
+    "desc": "TRIM,ASSY.,CENTRE PILLAR,UPPER,RH,BLACK (NLS.- USE 39058339)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8028286-G8059858\n(C)  GG025948-GG069877",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39058339",
+    "desc": "TRIM,ASSY.,CENTRE PILLAR,UPPER,RH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8059859-\n(C)  GG069878-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13413312)",
+    "desc": "TRIM,ASSY.,CENTRE PILLAR,UPPER,LH,BLACK (NLS.- USE 39031943)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8028285\n(C)      -GG025889",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(39031943)",
+    "desc": "TRIM,ASSY.,CENTRE PILLAR,UPPER,LH,BLACK (NLS.- USE 39058338)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8028286-G8059424\n(C)  GG025890-GG069844",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39058338",
+    "desc": "TRIM,ASSY.,CENTRE PILLAR,UPPER,LH,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  G8059425-\n(C)  GG069845-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13435002)",
+    "desc": "-CLIP (NLS.- USE YQ00108180)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 722,
+        "y": 814
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

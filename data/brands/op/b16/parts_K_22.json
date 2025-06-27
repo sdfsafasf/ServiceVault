@@ -1,0 +1,90 @@
+[
+  {
+    "call": "1",
+    "part": "(13580304)",
+    "desc": "HUB,ASSY.,FRONT (NLS.- USE 13510543)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13510543)",
+    "desc": "HUB,ASSY.,FRONT,WITH BEARINGS (NLS.- USE 13517459)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(9599370)",
+    "desc": "-STUD,M12 (NLS.- USE 9599489)",
+    "qty": "5",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13208079",
+    "desc": "NUT,HEX.,M22",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "11611964",
+    "desc": "WASHER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(11548714)",
+    "desc": "SCREW,HEX.HD. (SINGLE USE PART) (NLS.- USE YR00068080)",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13398836)",
+    "desc": "CAP,DRIVE SHAFT,NUT (NLS.- USE YR00065180)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "95599704",
+    "desc": "GREASE,5 GRAMS,HUB,FRONT WHEEL (IDENT GR20)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

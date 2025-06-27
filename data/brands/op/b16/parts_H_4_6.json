@@ -1,0 +1,134 @@
+[
+  {
+    "call": "1",
+    "part": "(55496142)",
+    "desc": "TRANSMISSION,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MGW) (FINAL DRIVE RATIO 3.35) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (EXCHANGE - REMAN PART 95526265) (NLS.- NO REPLACEMENT PART) (IDENT B1G)",
+    "qty": "1",
+    "usage": "D14XFL[LE2],D14XFT[LE2],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95526265",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MGW) (FINAL DRIVE RATIO 3.35) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (CORE RETURN NO. 95524458) (IDENT B1G)",
+    "qty": "1",
+    "usage": "D14XFL[LE2],D14XFT[LE2],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55496144",
+    "desc": "TRANSMISSION,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MGR) (FINAL DRIVE RATIO 3.83) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95526266) (IDENT B1J)",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95526266",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MGR) (FINAL DRIVE RATIO 3.83) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT B1J)",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55489280",
+    "desc": "TRANSMISSION,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MGP) (FINAL DRIVE RATIO 3.35) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95526267) (IDENT BR8)",
+    "qty": "1",
+    "usage": "D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95526267",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MGP) (FINAL DRIVE RATIO 3.35) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT BR8)",
+    "qty": "1",
+    "usage": "D16DTI[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55489281",
+    "desc": "TRANSMISSION,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MGP) (FINAL DRIVE RATIO 3.65) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95526264) (IDENT BR9)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95526264",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MGP) (FINAL DRIVE RATIO 3.65) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT BR9)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55495832",
+    "desc": "TRANSMISSION,ASSY. (FOR M35 MANUAL TRANSMISSION,RPO MOP) (FINAL DRIVE RATIO 3.65) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95526268) (IDENT B0B)",
+    "qty": "1",
+    "usage": "D16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95526268",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR M35 MANUAL TRANSMISSION,RPO MOP) (FINAL DRIVE RATIO 3.65) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524458) (IDENT B0B)",
+    "qty": "1",
+    "usage": "D16DTR[LVK]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55506883",
+    "desc": "TRANSMISSION,ASSY. (FINAL DRIVE RATIO 3.35) (FOR M32 MANUAL TRANSMISSION,RPO MGP) (FOR STOP/START ENGINE SYSTEM,RPO KL5/KL9) (EXCHANGE - REMAN PART 1681370080) (IDENT DHR)",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(1681370080)",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FINAL DRIVE RATIO 3.35) (FOR M32 MANUAL TRANSMISSION,RPO MGP) (FOR STOP/START ENGINE SYSTEM,RPO KL5/KL9) (CORE RETURN NO. 95524458) (NLS.- USE 1681777080) (IDENT DHR)",
+    "qty": "1",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "vx": [
+    { "code": "B16", "name": "Astra-K (16 - )",     "epc": true,
+    "servicemanual": true },
+    { "code": "P10", "name": "Astra-J (10-20)",    "epc": true,
+    "servicemanual": true },
+    { "code": "S07", "name": "Corsa-D (06-14)",    "epc": true,
+    "servicemanual": true },
+    { "code": "X15", "name": "Corsa-E (14-19)",    "epc": true,
+    "servicemanual": true },
+    { "code": "G09", "name": "Insignia-A (08-17)",    "epc": true,
+    "servicemanual": true },
+    { "code": "Z18", "name": "Insignia-B (17 - )",    "epc": true,
+    "servicemanual": true }
+  ]
+}

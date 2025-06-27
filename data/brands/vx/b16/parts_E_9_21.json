@@ -1,0 +1,123 @@
+[
+  {
+    "call": "21",
+    "part": "(55485218)",
+    "desc": "FLYWHEEL,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (NLS.- USE 55494829)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(55494829)",
+    "desc": "FLYWHEEL,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MZ4) (NLS.- USE 55498275)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(55498275)",
+    "desc": "FLYWHEEL,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP) (EXCHANGE - REMAN PART 1688689780) (NLS.- USE 55504335)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "1688689780",
+    "desc": "FLYWHEEL,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP) (CORE RETURN NO. 1656310980)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "55504335",
+    "desc": "FLYWHEEL,ASSY. (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP) (EXCHANGE - REMAN PART 95530575)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "95530575",
+    "desc": "FLYWHEEL,ASSY.,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO MZ4/MGP) (CORE RETURN NO. 1656310980)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(55494830)",
+    "desc": "FLYWHEEL,ASSY. (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (NLS.- USE 55498276)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(55498276)",
+    "desc": "FLYWHEEL,ASSY. (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (NLS.- USE 55503942)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "55503942",
+    "desc": "FLYWHEEL,ASSY. (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (EXCHANGE - REMAN PART 95530578)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "95530578",
+    "desc": "FLYWHEEL,ASSY.,EXCHANGE - REMAN (FOR F40 MANUAL TRANSMISSION,RPO MYJ) (CORE RETURN NO. 1656310980)",
+    "qty": "1",
+    "usage": "B16DTU[LWV]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "55574451",
+    "desc": "-SCREW,M10 X 26",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

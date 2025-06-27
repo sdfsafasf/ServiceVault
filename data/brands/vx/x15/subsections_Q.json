@@ -1,0 +1,26 @@
+[
+  {
+    "code": "1",
+    "name": "BODY EXTERIOR FITTINGS"
+  },
+  {
+    "code": "2",
+    "name": "BODY INTERIOR FITTINGS"
+  },
+  {
+    "code": "3",
+    "name": "BODY INTERIOR TRIM"
+  },
+  {
+    "code": "4",
+    "name": "FUEL AND EXHAUST"
+  },
+  {
+    "code": "5",
+    "name": "ROAD WHEELS"
+  },
+  {
+    "code": "6",
+    "name": "ELECTRICAL"
+  }
+]

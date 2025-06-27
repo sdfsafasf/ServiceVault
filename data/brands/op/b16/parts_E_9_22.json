@@ -1,0 +1,178 @@
+[
+  {
+    "call": "1",
+    "part": "(55487858)",
+    "desc": "OIL AND VACUUM PUMP (NLS.- USE 55509127)",
+    "qty": "1",
+    "usage": "B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55489324)",
+    "desc": "OIL AND VACUUM PUMP (NLS.- USE 55509128)",
+    "qty": "1",
+    "usage": "B16DTU[LWV],D16DTN[LXO]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55573790",
+    "desc": "-SEAL,24 MM OD.,BOOSTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55573791",
+    "desc": "-SEAL,20 MM OD.,BOOSTER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "22531637",
+    "desc": "-PIN,8 X 12,OIL PUMP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11588725",
+    "desc": "-SCREW,HEX.HD.,M8 X 35",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "11588327",
+    "desc": "-SLEEVE,SCREW",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "55573788",
+    "desc": "SPROCKET,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55577567",
+    "desc": "SCREW,SPROCKET,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55573877",
+    "desc": "TENSIONER,GUIDE,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55582910",
+    "desc": "-SCREW,GUIDE,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11588712)",
+    "desc": "SCREW,HEX.HD.,M6 X 20,TENSIONER,OIL PUMP (NLS.- USE YR00052080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55573876",
+    "desc": "CHAIN,DRIVE,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(55598157)",
+    "desc": "VALVE,FLOW CONTROL,OIL PUMP (NLS.- USE 55491644)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55491644",
+    "desc": "VALVE,FLOW CONTROL,OIL PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(11588712)",
+    "desc": "-SCREW,HEX.HD.,M6 X 20,VALVE,OIL PUMP (NLS.- USE YR00052080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

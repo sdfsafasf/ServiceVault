@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "(90351710)",
+    "desc": "SLEEVE,CYLINDER BLOCK (NLS.- USE YQ00690080)",
+    "qty": "10",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "55572084",
+    "desc": "SCREW,M8 X 80MM,CRANKCASE LOWER TO CYLINDER BLOCK",
+    "qty": "11",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(55578374)",
+    "desc": "SCREW,M10 X 115MM,CRANKCASE LOWER TO CYLINDER BLOCK (NLS.- USE 55502967)",
+    "qty": "10",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "BLOCK,ASSY.,CYLINDER (NOT SERVICED)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "call": "9",
+    "part": "13383719",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39163948",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13490407)",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39163928)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39163928",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (FOR DAB RADIO,RPO U2Q)",
+    "qty": "5",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(39066277)",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (EXCEPT RPO U2Q,DAB RADIO) (NLS.- USE 39163964)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39163964",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (EXCEPT RPO U2Q,DAB RADIO)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13490197)",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39066276)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39066276",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (FOR DAB RADIO,RPO U2Q)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39163949",
+    "desc": "AMPLIFIER,AERIAL (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (FOR DAB RADIO,RPO U2Q)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(39126739)",
+    "desc": "AMPLIFIER (FOR PREMIUM SPEAKER SYSTEM,RPO UQA) (NLS.- USE 39229685)",
+    "qty": "1",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11519384)",
+    "desc": "SCREW,M6 X 25 (FOR PREMIUM SPEAKER SYSTEM,RPO UQA) (NLS.- USE YR00059780)",
+    "qty": "4",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(11547582)",
+    "desc": "NUT,M6 (FOR PREMIUM SPEAKER SYSTEM,RPO UQA) (NLS.- USE YR00047180)",
+    "qty": "4",
+    "usage": "ESTATE 35",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

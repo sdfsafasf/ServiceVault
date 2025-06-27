@@ -1,0 +1,1465 @@
+[
+  {
+    "call": "1",
+    "part": "(39022517)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,LHD,BLACK (EXCEPT RPO UEU,FORWARD COLLISION SENSOR) (NLS.- USE 39056612)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [
+      {
+        "x": 699,
+        "y": 245
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39056612)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,LHD,BLACK (EXCEPT RPO UEU,FORWARD COLLISION SENSOR) (NLS.- USE 39085191)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39085191",
+    "desc": "PANEL,ASSY.,INSTRUMENT,LHD,BLACK (EXCEPT RPO UEU,FORWARD COLLISION SENSOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39085191",
+    "desc": "PANEL,ASSY.,INSTRUMENT,LHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39022518)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (EXCEPT RPO UEU,FORWARD COLLISION SENSOR) (NLS.- USE 39056611)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39056611)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (EXCEPT RPO UEU,FORWARD COLLISION SENSOR) (NLS.- USE 39085190)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39085190",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (EXCEPT RPO UEU,FORWARD COLLISION SENSOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39085190",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (EXCEPT HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39085190",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (EXCEPT RPO UEU,FORWARD COLLISION SENSOR) (HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39022519)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,LHD,BLACK (FOR FORWARD COLLISION SENSOR,RPO UEU) (NLS.- USE 39056610)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [
+      {
+        "x": 1705,
+        "y": 254
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39056610)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,LHD,BLACK (FOR FORWARD COLLISION SENSOR,RPO UEU) (NLS.- USE 39085189)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39085189",
+    "desc": "PANEL,ASSY.,INSTRUMENT,LHD,BLACK (FOR FORWARD COLLISION SENSOR,RPO UEU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39022520)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (FOR FORWARD COLLISION SENSOR,RPO UEU) (NLS.- USE 39056609)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(39056609)",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (FOR FORWARD COLLISION SENSOR,RPO UEU) (NLS.- USE 39085188)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39085188",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (FOR FORWARD COLLISION SENSOR,RPO UEU)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39085188",
+    "desc": "PANEL,ASSY.,INSTRUMENT,RHD,BLACK (FOR FORWARD COLLISION SENSOR,RPO UEU) (HOLDEN)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13325584",
+    "desc": "-BUMPER",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 862,
+        "y": 1545
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13406747",
+    "desc": "-GRILLE,DEFROSTER,INSTRUMENT PANEL,RH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 457,
+        "y": 738
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13406746",
+    "desc": "-GRILLE,DEFROSTER,INSTRUMENT PANEL,LH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 363,
+        "y": 1338
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11561629)",
+    "desc": "-NUT,CLAMP (NLS.- USE YQ00110380)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1849,
+        "y": 964
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (NLS.- USE YQ00133880)",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 363,
+        "y": 2067
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "",
+    "desc": "GRILLE,DEFROSTER,INSTRUMENT PANEL,CENTRE (PLEASE REFER TO GROUP C) (HEATER, AIR CONDITIONING AND VENTILATION) (AIR DUCTS) (SHORTCUT: B16.C80)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 674,
+        "y": 525
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13413110)",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,RH-LHD,BLACK (EXCEPT RPO C99,PASSENGER AIRBAG DISABLE SWITCH) (NLS.- USE 39038142)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 212,
+        "y": 1878
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39038142",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,RH-LHD,BLACK (EXCEPT RPO C99,PASSENGER AIRBAG DISABLE SWITCH)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13413110)",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,RH-RHD,BLACK (NLS.- USE 39038142)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39038142",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,RH-RHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13413121)",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,LH-RHD,BLACK (EXCEPT RPO C99,PASSENGER AIRBAG DISABLE SWITCH) (NLS.- USE 39038144)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39038144",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,LH-RHD,BLACK (EXCEPT RPO C99,PASSENGER AIRBAG DISABLE SWITCH)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(13413121)",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,LH-LHD,BLACK (NLS.- USE 39038144)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39038144",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,LH-LHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13413122)",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,RH-LHD,BLACK (FOR PASSENGER AIRBAG DISABLE SWITCH,RPO C99) (NLS.- USE 39038141)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 2148,
+        "y": 1049
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39038141",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,RH-LHD,BLACK (FOR PASSENGER AIRBAG DISABLE SWITCH,RPO C99)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13413109)",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,LH-RHD,BLACK (FOR PASSENGER AIRBAG DISABLE SWITCH,RPO C99) (NLS.- USE 39038143)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39038143",
+    "desc": "COVER,INSTRUMENT PANEL,OUTER,LH-RHD,BLACK (FOR PASSENGER AIRBAG DISABLE SWITCH,RPO C99)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13458094)",
+    "desc": "STORAGE COMPARTMENT,INSTRUMENT PANEL,LHD,BLACK (NLS.- USE 39050201)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 558,
+        "y": 2406
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39050201",
+    "desc": "STORAGE COMPARTMENT,INSTRUMENT PANEL,LHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(13458095)",
+    "desc": "STORAGE COMPARTMENT,INSTRUMENT PANEL,RHD,BLACK (NLS.- USE 39050202)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39050202",
+    "desc": "STORAGE COMPARTMENT,INSTRUMENT PANEL,RHD,BLACK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13413125",
+    "desc": "PANEL,INSTRUMENT,CENTRE,UPPER,BLACK (EXCEPT INTELLILINK)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1387,
+        "y": 2318
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39010375",
+    "desc": "PANEL,INSTRUMENT,CENTRE,UPPER,BLACK (FOR RADIO INFOTAINMENT SYSTEM,RPO IOB/IOR)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1444,
+        "y": 1379
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1431,
+        "y": 1508
+      },
+      {
+        "x": 1434,
+        "y": 2164
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13310360",
+    "desc": "CLIP (FOR RADIO INFOTAINMENT SYSTEM,RPO IOA)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 168,
+        "y": 2205
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(39027467)",
+    "desc": "COVER,RADIO APERTURE,BLACK (RADIO,DELETE) (NLS.- USE 39063514)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1180,
+        "y": 2054
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "39063514",
+    "desc": "COVER,RADIO APERTURE,BLACK (RADIO,DELETE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11589015)",
+    "desc": "SCREW,HEX.HD.,WITH WASHER,M4.2 X 20 (RADIO,DELETE) (NLS.- USE YQ00133880)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1541,
+        "y": 1793
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39006389",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C",
+    "range": "",
+    "positions": [
+      {
+        "x": 1752,
+        "y": 2183
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413041",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413041",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,GALVANO SILVER (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,F",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413041",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094450",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,POLAR SILVER (FOR RPO ABW,BREAKPOINT CONTROL MY17.5)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094450",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,POLAR SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL D",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094450",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,POLAR SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413037",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,PIANO BLACK (FOR RPO ABW,BREAKPOINT CONTROL MY17.5)",
+    "qty": "1",
+    "usage": "TRIM LEVEL F",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413037",
+    "desc": "MOULDING,INSTRUMENT PANEL,RH-LHD,PIANO BLACK",
+    "qty": "1",
+    "usage": "TRIM LEVEL F",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39006388",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413042",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,E,F",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413042",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,GALVANO SILVER (EXC.RPO ABW,BREAKPOINT CONTROL MY17.5)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D,F",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413042",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094451",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,POLAR SILVER (FOR RPO ABW,BREAKPOINT CONTROL MY17.5)",
+    "qty": "1",
+    "usage": "TRIM LEVEL D",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094451",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,POLAR SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL D",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094451",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,POLAR SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413038",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,PIANO BLACK (FOR RPO ABW,BREAKPOINT CONTROL MY17.5)",
+    "qty": "1",
+    "usage": "TRIM LEVEL F",
+    "range": "(C)  H8000001-H8999999\n(C)  HG000001-HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "13413038",
+    "desc": "MOULDING,INSTRUMENT PANEL,LH-RHD,PIANO BLACK",
+    "qty": "1",
+    "usage": "TRIM LEVEL F",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39005729)",
+    "desc": "MOULDING,LH-LHD,ANTELAO SAND (NLS.- USE 39039990)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [
+      {
+        "x": 661,
+        "y": 2063
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39039990",
+    "desc": "MOULDING,LH-LHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39005730)",
+    "desc": "MOULDING,LH-LHD,TOFANO GOLD (NLS.- USE 39039989)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39039989",
+    "desc": "MOULDING,LH-LHD,TOFANO GOLD",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39005731)",
+    "desc": "MOULDING,RH-RHD,ANTELAO SAND (NLS.- USE 39039988)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39039988",
+    "desc": "MOULDING,RH-RHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39005732)",
+    "desc": "MOULDING,RH-RHD,TOFANO GOLD (NLS.- USE 39039987)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39039987",
+    "desc": "MOULDING,RH-RHD,TOFANO GOLD",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39011708)",
+    "desc": "MOULDING,LH-LHD,PIANO BLACK/GALVANO SILVER (NLS.- USE 39039986)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [
+      {
+        "x": 1010,
+        "y": 2023
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39039986",
+    "desc": "MOULDING,LH-LHD,PIANO BLACK/GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39005733)",
+    "desc": "MOULDING,LH-LHD,CORONADO BROWN (NLS.- USE 39039985)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39039985",
+    "desc": "MOULDING,LH-LHD,CORONADO BROWN",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39200841",
+    "desc": "MOULDING,LH-LHD,LIQUID PALLADIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39011709)",
+    "desc": "MOULDING,RH-RHD,PIANO BLACK/GALVANO SILVER (NLS.- USE 39039980)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39039980",
+    "desc": "MOULDING,RH-RHD,PIANO BLACK/GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(39005734)",
+    "desc": "MOULDING,RH-RHD,CORONADO BROWN (NLS.- USE 39039979)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39039979",
+    "desc": "MOULDING,RH-RHD,CORONADO BROWN",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39200840",
+    "desc": "MOULDING,RH-RHD,LIQUID PALLADIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39006399",
+    "desc": "MOULDING,LH-LHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [
+      {
+        "x": 1089,
+        "y": 1966
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39006400",
+    "desc": "MOULDING,LH-LHD,TOFANO GOLD",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13413045",
+    "desc": "MOULDING,LH-LHD,PIANO BLACK/GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39006401",
+    "desc": "MOULDING,LH-LHD,CORONADO BROWN",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39173078",
+    "desc": "MOULDING,LH-LHD,LIQUID PALLADIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39006402",
+    "desc": "MOULDING,RH-RHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39006403",
+    "desc": "MOULDING,RH-RHD,TOFANO GOLD",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13413046",
+    "desc": "MOULDING,RH-RHD,PIANO BLACK/GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39006404",
+    "desc": "MOULDING,RH-RHD,CORONADO BROWN",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39173080",
+    "desc": "MOULDING,RH-RHD,LIQUID PALLADIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39005723)",
+    "desc": "MOULDING,RH-LHD,ANTELAO SAND (NLS.- USE 39040002)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [
+      {
+        "x": 1805,
+        "y": 1237
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39040002)",
+    "desc": "MOULDING,RH-LHD,ANTELAO SAND (NLS.- USE 39130316)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39130316",
+    "desc": "MOULDING,RH-LHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39005725)",
+    "desc": "MOULDING,RH-LHD,TOFANO GOLD (NLS.- USE 39040001)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39040001)",
+    "desc": "MOULDING,RH-LHD,TOFANO GOLD (NLS.- USE 39130315)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39005724)",
+    "desc": "MOULDING,LH-RHD,ANTELAO SAND (NLS.- USE 39040000)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39040000)",
+    "desc": "MOULDING,LH-RHD,ANTELAO SAND (NLS.- USE 39130314)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39130314",
+    "desc": "MOULDING,LH-RHD,ANTELAO SAND",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39005726)",
+    "desc": "MOULDING,LH-RHD,TOFANO GOLD (NLS.- USE 39039999)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39039999)",
+    "desc": "MOULDING,LH-RHD,TOFANO GOLD (NLS.- USE 39130313)",
+    "qty": "1",
+    "usage": "TRIM LEVEL C,D",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(13422934)",
+    "desc": "MOULDING,RH-LHD,PIANO BLACK/GALVANO SILVER (NLS.- USE 39039998)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [
+      {
+        "x": 1890,
+        "y": 1680
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39039998",
+    "desc": "MOULDING,RH-LHD,PIANO BLACK/GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(39005728)",
+    "desc": "MOULDING,RH-LHD,CORONADO BROWN (NLS.- USE 39039997)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39039997",
+    "desc": "MOULDING,RH-LHD,CORONADO BROWN",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39200843",
+    "desc": "MOULDING,RH-LHD,LIQUID PALLADIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(13422935)",
+    "desc": "MOULDING,LH-RHD,PIANO BLACK/GALVANO SILVER (NLS.- USE 39039992)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39039992",
+    "desc": "MOULDING,LH-RHD,PIANO BLACK/GALVANO SILVER",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(39005727)",
+    "desc": "MOULDING,LH-RHD,CORONADO BROWN (NLS.- USE 39039991)",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39039991",
+    "desc": "MOULDING,LH-RHD,CORONADO BROWN",
+    "qty": "1",
+    "usage": "TRIM LEVEL E,F",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "39200842",
+    "desc": "MOULDING,LH-RHD,LIQUID PALLADIUM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "11547375",
+    "desc": "-CLIP",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1705,
+        "y": 2308
+      },
+      {
+        "x": 1799,
+        "y": 1790
+      },
+      {
+        "x": 1045,
+        "y": 1850
+      },
+      {
+        "x": 957,
+        "y": 2148
+      },
+      {
+        "x": 674,
+        "y": 1960
+      },
+      {
+        "x": 1742,
+        "y": 1344
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "",
+    "desc": "GRILLE,RH (PLEASE REFER TO GROUP P) (AUDIO, NAVIGATION AND DEVICE CONNECTIVITY) (LOUDSPEAKERS) (SHORTCUT: B16.P811)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 115,
+        "y": 732
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "",
+    "desc": "GRILLE,LH (PLEASE REFER TO GROUP P) (AUDIO, NAVIGATION AND DEVICE CONNECTIVITY) (LOUDSPEAKERS) (SHORTCUT: B16.P811)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13413111)",
+    "desc": "BEZEL,DISPLAY UNIT,FORWARD COLLISION ALERT,LHD (NLS.- USE 39050050)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 382,
+        "y": 515
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "39050050",
+    "desc": "BEZEL,DISPLAY UNIT,FORWARD COLLISION ALERT,LHD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "(13413112)",
+    "desc": "BEZEL,DISPLAY UNIT,FORWARD COLLISION ALERT,RHD (NLS.- USE 39050051)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "26",
+    "part": "39050051",
+    "desc": "BEZEL,DISPLAY UNIT,FORWARD COLLISION ALERT,RHD",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "call": "20",
+    "part": "(23482909)",
+    "desc": "CONTROL MODULE (NLS.- USE 23382564)",
+    "qty": "",
+    "usage": "B10XFL[LE1],B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTU[LWV]",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "23382564",
+    "desc": "CONTROL MODULE,EMISSION CODE NE4",
+    "qty": "",
+    "usage": "B10XFL[LE1],B14XFL[LE2],B14XFT[LE2],B16SHT[LWC],B16DTE[LWQ],B16DTU[LWV]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13540017",
+    "desc": "CONTROL MODULE",
+    "qty": "",
+    "usage": "B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13540017",
+    "desc": "CONTROL MODULE (EMISSION CODE NCV)",
+    "qty": "",
+    "usage": "D10XFL[LE1],D14XFL[LE2],D14XFT[LE2],D16SHT[LWC]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13540017",
+    "desc": "CONTROL MODULE",
+    "qty": "",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "23382564",
+    "desc": "CONTROL MODULE (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO],D16DTR[LVK]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13540017",
+    "desc": "CONTROL MODULE",
+    "qty": "",
+    "usage": "F14SHL[L3T],F14SHT[L3T]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13540017",
+    "desc": "CONTROL MODULE",
+    "qty": "",
+    "usage": "D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13464005",
+    "desc": "BRACKET,CONTROL MODULE",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13464005",
+    "desc": "BRACKET,CONTROL MODULE (EMISSION CODE NE4)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "13464005",
+    "desc": "BRACKET,CONTROL MODULE (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "D16DTH[LVL],D16DTN[LVL],D16DTI[LXO],D16DTR[LVK]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39193596",
+    "desc": "BRACKET,CONTROL MODULE (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "D10XFL[LE1],D14XFL[LE2],D14XFT[LE2],D16SHT[LWC]",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "11546437",
+    "desc": "NUT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

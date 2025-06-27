@@ -1,0 +1,112 @@
+[
+  {
+    "call": "1",
+    "part": "(55488461)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION (EXCEPT RPO ZA1,EVAPORATIVE CONTROL SYSTEM) (NLS.- USE 55491544)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55491544)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION (EXCEPT RPO ZA1,EVAPORATIVE CONTROL SYSTEM) (NLS.- USE 55494219)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55494219)",
+    "desc": "MANIFOLD,ASSY.,INDUCTION (EXCEPT RPO ZA1,EVAPORATIVE CONTROL SYSTEM) (NLS.- USE 55497915)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "55504625",
+    "desc": "MANIFOLD,ASSY.,INDUCTION (FOR EVAPORATIVE CONTROL SYSTEM,RPO ZA1)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11588717",
+    "desc": "-SCREW,M6 X 45,INDUCTION MANIFOLD",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "",
+    "desc": "-PIPE ASSY.,FUEL EVAPORATION CONTROL (PLEASE REFER TO GROUP G) (FUEL PIPES AND FITTINGS) (SHORTCUT: B16.G103)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "",
+    "desc": "-BRACKET,PIPE,FUEL EVAPORATION (PLEASE REFER TO GROUP G) (FUEL PIPES AND FITTINGS) (SHORTCUT: B16.G103)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "55595142",
+    "desc": "-SEAL,INDUCTION MANIFOLD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "",
+    "desc": "-SENSOR,PRESSURE (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P5)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "",
+    "desc": "-SCREW,TORX (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (POWERTRAIN SENSORS AND ENGINE CONTROL MODULE) (SHORTCUT: B16.P5)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

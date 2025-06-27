@@ -1,0 +1,626 @@
+[
+  {
+    "call": "1",
+    "part": "(39022613)",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,LHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV) (NLS.- USE 39121587)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 841,
+        "y": 2305
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39121587",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,LHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39103372",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,LHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39126537",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,LHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "B14XFT[LE2]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39022615)",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,RHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV) (NLS.- USE 39121589)",
+    "usage": "",
+    "range": "(C)      -H8999999\n(C)      -HG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39121589",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,RHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)  J8000001-K8999999\n(C)  JG000001-KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39103374",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,RHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39126539",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,RHD (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "B14XFT[LE2],B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(39009499)",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,LHD (FOR R-134A REFRIGERANT,RPO KR1) (NLS.- USE 39121591)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39198802",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,LHD (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "F12SHL[LIH],F12SHT[LIH],F12SHR[LIH],F14SHL[L3T],F14SHT[L3T],D15DVC[LXD],F15DVC[LXD],D15DVH[LXD],F15DVH[LXD]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39126541",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,LHD (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "B14XFT[LE2]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(13409400)",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,RHD (FOR R-134A REFRIGERANT,RPO KR1) (NLS.- USE 39121593)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39121593",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,RHD (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39126543",
+    "desc": "PIPE,LIQUID REFRIGERANT,EVAPORATOR,RHD (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "B14XFT[LE2],B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13418808",
+    "desc": "-SEAL,RING (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 450,
+        "y": 373
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "24436645",
+    "desc": "-SEAL,RING (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13418808",
+    "desc": "-SEAL,RING (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13418807",
+    "desc": "-SEAL,RING (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 383,
+        "y": 376
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "24436644",
+    "desc": "-SEAL,RING (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13418807",
+    "desc": "-SEAL,RING (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13418807",
+    "desc": "-SEAL,RING (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1580,
+        "y": 2113
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "24436644",
+    "desc": "-SEAL,RING (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13418807",
+    "desc": "-SEAL,RING (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "22758701",
+    "desc": "-CAP (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 75,
+        "y": 370
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39050399",
+    "desc": "-CAP (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "52458768",
+    "desc": "-CAP (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "39018774",
+    "desc": "-CAP (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "22758701",
+    "desc": "-CAP (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1125,
+        "y": 1173
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "39050347",
+    "desc": "-CAP (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "52458768",
+    "desc": "-CAP (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13499425",
+    "desc": "-CAP (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "25872392",
+    "desc": "-VALVE (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 841,
+        "y": 1157
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39007928",
+    "desc": "-VALVE (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "3041827",
+    "desc": "-VALVE (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "39007928",
+    "desc": "-VALVE (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "22748614",
+    "desc": "-VALVE (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 374,
+        "y": 465
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39050348",
+    "desc": "-VALVE (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13277003",
+    "desc": "-VALVE (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39050348",
+    "desc": "-VALVE (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "",
+    "desc": "--SEAL,RING (FOR R-1234YF LOW GWP REFRIGERANT,RPO KRV) (NOT SERVICED SEPARATELY)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 282,
+        "y": 541
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "90381762",
+    "desc": "--'O'RING (FOR R-134A REFRIGERANT,RPO KR1)",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "13326248",
+    "desc": "-CLIP,PIPE,REFRIGERANT",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 121,
+        "y": 1344
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13271959",
+    "desc": "-CLIP,PIPE,REFRIGERANT",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 160,
+        "y": 941
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "13358753",
+    "desc": "-CLIP,PIPE,REFRIGERANT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1143,
+        "y": 1588
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "13276280",
+    "desc": "-CLIP,PIPE,REFRIGERANT",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 359,
+        "y": 1475
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "22817754",
+    "desc": "-CLIP,PIPE,REFRIGERANT",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1110,
+        "y": 1731
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39146818",
+    "desc": "-CLIP,PIPE,REFRIGERANT",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 231,
+        "y": 840
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 969,
+        "y": 465
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(11546377)",
+    "desc": "NUT,HEX.,M8 (NLS.- USE YR00004280)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1415,
+        "y": 889
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "call": "6",
+    "part": "24579206",
+    "desc": "GEAR,FIRST SPEED,41 TEETH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "24466888",
+    "desc": "BEARING,NEEDLE,FIRST GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "90465914",
+    "desc": "WASHER,THRUST,FIRST GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "24466890",
+    "desc": "PLATE,WEAR,FIRST GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "90465911",
+    "desc": "RING,SNAP,34 X 1.75 MM,MAINSHAFT,FIRST AND SECOND GEARS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "90235914",
+    "desc": "WASHER,THRUST,MAINSHAFT,FIRST AND SECOND GEARS",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12X",
+    "part": "98500542",
+    "desc": "KIT,SYNCHRONIZER CONE,FIRST AND SECOND GEAR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "24579265",
+    "desc": "CLUTCH AND HUB,ASSY.,FIRST AND SECOND GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "55558717",
+    "desc": "-KEY,SYNCHRONIZER CONE",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(24584699)",
+    "desc": "GEAR,SECOND SPEED,49 TEETH (FOR F17 MANUAL TRANSMISSION,RPO M26) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(24584698)",
+    "desc": "GEAR,SECOND SPEED,47 TEETH (FOR F17 EASYTRONIC TRANSMISSION,RPO MJA) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "55350231",
+    "desc": "BEARING,NEEDLE,SECOND GEAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "55566239",
+    "desc": "WASHER,THRUST,SECOND AND THIRD GEAR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "90465912",
+    "desc": "RING,SNAP,SECOND AND THIRD GEAR,34 X 1.75 MM",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,11 @@
+[
+  { "code": "1", "name": "CHASSIS BLANKING PLUGS" },
+  { "code": "2", "name": "FLOOR PANEL" },
+  { "code": "3", "name": "FRONT UNDERBODY" },
+  { "code": "4", "name": "REAR UNDERBODY (5 DOOR HATCH 68)" },
+  { "code": "5", "name": "REAR UNDERBODY (ESTATE 35)" },
+  { "code": "6", "name": "UNDERGUARDS (DIESEL ENGINES (FOR EURO 6 EMISSION,RPO NCV)" },
+  { "code": "7", "name": "UNDERGUARDS (EXCEPT RPO XL4,BAD ROAD PACKAGE (EXCEPT RPO XFE,AERODYNAMIC PERFORMANCE PACKAGE))" },
+  { "code": "8", "name": "UNDERGUARDS (FOR ECOFLEX,RPO IK9)" },
+  { "code": "9", "name": "UNDERGUARDS (CONTD.) (FOR AERODYNAMIC PERFORMANCE PACKAGE,RPO XFE)" }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "13479898",
+    "desc": "HORN,ASSY. (FOR SINGLE HORN,RPO U04)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39024489",
+    "desc": "HORN,ASSY. (FOR DUAL HORN,RPO U05)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(11546365)",
+    "desc": "NUT (NLS.- USE YR00047480)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "call": "1",
+    "part": "39137679",
+    "desc": "TANK,ASSY.,FUEL,CNG,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "39068734",
+    "desc": "INSULATOR,CNG,FUEL TANK,FRONT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39103491",
+    "desc": "PLUG,CNG,FUEL TANK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39131657",
+    "desc": "STRAP,RETAINING,FRONT,FUEL TANK,CNG",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "13470235",
+    "desc": "BRACKET,MOUNTING,FRONT,FUEL TANK,CNG",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(11519388)",
+    "desc": "SCREW,BRACKET,MOUNTING,FUEL TANK,CNG,M8 X 25 (NLS.- USE YR00712980)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(11610137)",
+    "desc": "STUD,BRACKET,MOUNTING,FUEL TANK,CNG (NLS.- USE YR00096380)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "39137678",
+    "desc": "TANK,ASSY.,FUEL,CNG,REAR",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "39090799",
+    "desc": "INSULATION,CNG,FUEL TANK,REAR",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39103491",
+    "desc": "PLUG,CNG,FUEL TANK",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39131656",
+    "desc": "STRAP,RETAINING,REAR,FUEL TANK,CNG",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39161397",
+    "desc": "BRACKET,MOUNTING,REAR,FUEL TANK,CNG",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11588726)",
+    "desc": "SCREW,BRACKET,MOUNTING,FUEL TANK,CNG,M8 X 40 (NLS.- USE YR00047280)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "11589271",
+    "desc": "SCREW,BRACKET,MOUNTING,FUEL TANK,CNG,M12 X 30",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39161398",
+    "desc": "BRACKET,SUPPORT,FUEL TANK,CNG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "13470253",
+    "desc": "BRACKET,COVER,FUEL TANK,CNG",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(11588723)",
+    "desc": "SCREW,M8 X 25,BRACKET,COVER (NLS.- USE YR00058780)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

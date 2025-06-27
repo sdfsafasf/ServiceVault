@@ -1,0 +1,24 @@
+[
+  {
+    "call": "7",
+    "part": "55587172",
+    "desc": "SWITCH,OIL PRESSURE,UPPER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55488247",
+    "desc": "SWITCH,OIL PRESSURE,LOWER",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

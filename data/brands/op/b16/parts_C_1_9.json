@@ -1,0 +1,133 @@
+[
+  {
+    "call": "1",
+    "part": "13431571",
+    "desc": "INSULATOR,REAR,LH (FOR SOUND ACOUSTIC PACKAGE,RPO BS1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1686,
+        "y": 944
+      },
+      {
+        "x": 1943,
+        "y": 2301
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13431572",
+    "desc": "INSULATOR,REAR (RH) (FOR SOUND ACOUSTIC PACKAGE,RPO BS1)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 443,
+        "y": 282
+      },
+      {
+        "x": 107,
+        "y": 1388
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13431576",
+    "desc": "INSULATOR,REAR,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1671,
+        "y": 1455
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13431577",
+    "desc": "INSULATOR,REAR,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 473,
+        "y": 1125
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(39057890)",
+    "desc": "INSULATOR,RH,BODY SIDE PANEL (NLS.- USE 39104752)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 640,
+        "y": 1065
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(39057891)",
+    "desc": "INSULATOR,LH,BODY SIDE PANEL (NLS.- USE 39104753)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 2152,
+        "y": 1437
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "39104753",
+    "desc": "INSULATOR,LH,BODY SIDE PANEL",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "39207601",
+    "desc": "INSULATOR,BODY SIDE PANEL",
+    "usage": "ESTATE 35",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1916,
+        "y": 1866
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

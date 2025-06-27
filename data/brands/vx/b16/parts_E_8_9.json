@@ -1,0 +1,24 @@
+[
+  {
+    "call": "1",
+    "part": "55514675",
+    "desc": "SCREW,HEX.HD.,M10 X 94",
+    "qty": "8",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "X",
+    "part": "",
+    "desc": "BLOCK,ASSY.,CYLINDER (NOT SERVICED)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

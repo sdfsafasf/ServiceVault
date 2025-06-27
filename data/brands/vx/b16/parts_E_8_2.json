@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1X",
+    "part": "(55509014)",
+    "desc": "KIT,CLUTCH (NLS.- USE 55514986)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "55514986",
+    "desc": "KIT,CLUTCH",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "11570368",
+    "desc": "SCREW,HEX.HD.,M8 X 15",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95599784",
+    "desc": "GREASE,LUBRICATING,100G (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

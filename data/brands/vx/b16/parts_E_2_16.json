@@ -1,0 +1,24 @@
+[
+  {
+    "call": "22",
+    "part": "55505202",
+    "desc": "FLYWHEEL,ASSY.",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "55488930",
+    "desc": "SCREW,HEX.SOCKET HD.",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

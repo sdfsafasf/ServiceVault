@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1X",
+    "part": "(13437251)",
+    "desc": "KIT,PARKING PILOT SENSOR,FRONT (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13365692",
+    "desc": "-SWITCH,PARK PILOT,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13352256",
+    "desc": "-HARNESS,PARKING PILOT SYSTEM SENSOR,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4X",
+    "part": "(13437253)",
+    "desc": "KIT,PARKING PILOT SENSOR,REAR (NLS - NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

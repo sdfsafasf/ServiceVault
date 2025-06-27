@@ -1,0 +1,774 @@
+[
+  {
+    "call": "1",
+    "part": "(13486199)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,RH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5) (NLS.- USE YR003887YX)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1835,
+        "y": 1056
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13439496",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,RH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13439496",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,RH",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13486198",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,LH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13439495",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,LH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "13439495",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,LH",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(13404442)",
+    "desc": "KNOB,SEAT RECLINER,BLACK (NLS.- USE YR003824YX)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1956,
+        "y": 1149
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "(13470480)",
+    "desc": "WHEEL,HAND,MECHANISM (NLS.- USE YR003822YX)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2068,
+        "y": 1171
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13470481)",
+    "desc": "COVER,BLACK (NLS.- USE YR003825YX)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2164,
+        "y": 1225
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13404424)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,RH (NLS.- USE 39061290)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1917,
+        "y": 1500
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39061290)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,RH (NLS.- USE YR003891YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(13404423)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,LH (NLS.- USE 39061289)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39061289)",
+    "desc": "COVER,ADJUSTER MECHANISM,OUTER,BLACK,LH (NLS.- USE YR003890YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "(13282592)",
+    "desc": "SWITCH,SEAT HEIGHT ADJUSTER,BLACK (IDENT SB) (NLS.- USE YQ000103PM) (PRODUCTION NO. 13282576)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1311,
+        "y": 1629
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13463504)",
+    "desc": "LEVER,RH (NLS.- USE YR003817YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1989,
+        "y": 1841
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "(13462141)",
+    "desc": "LEVER,LH (NLS.- USE YR003816YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13404447)",
+    "desc": "HANDLE,LH (NLS.- USE 39057217)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1878,
+        "y": 1877
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(13404448)",
+    "desc": "HANDLE,RH (NLS.- USE 39057218)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "(39057218)",
+    "desc": "HANDLE,RH (NLS.- USE YR003813YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(39010085)",
+    "desc": "SWITCH,LUMBAR SUPPORT,BLACK,RH (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVU/AVK) (NLS.- USE YR003827YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1579,
+        "y": 1801
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "(39010084)",
+    "desc": "SWITCH,LUMBAR SUPPORT,BLACK,LH (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVU/AVK) (NLS.- USE YR003826YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(13336059)",
+    "desc": "SCREW,LEVER,TILT (NLS.- USE YR00182180)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 2125,
+        "y": 1835
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13472701",
+    "desc": "RETAINER,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1440,
+        "y": 2007
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "13472700",
+    "desc": "RETAINER,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13486206)",
+    "desc": "COVER,ADJUSTER MECHANISM,INNER,BLACK,RH SEAT (NLS.- USE YR003899YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 448,
+        "y": 1116
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(13486205)",
+    "desc": "COVER,ADJUSTER MECHANISM,INNER,BLACK,LH SEAT (NLS.- USE YR003898YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13383815)",
+    "desc": "FRAME,ASSY.,CUSHION EXTENSION,FRONT SEAT (NLS.- USE YR00164380)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 74,
+        "y": 950
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "13404388",
+    "desc": "LEVER,ADJUSTING,EXTENSION,CUSHION,BLACK",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 77,
+        "y": 1367
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(11098671)",
+    "desc": "NUT,HEX.,M5,CUSHION FRAME (NLS.- USE YQ00165080)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 547,
+        "y": 1593
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13507289)",
+    "desc": "SUPPORT,LUMBAR (EXCEPT RPO AF6,MASSAGE SEAT) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVU/AVK) (NLS.- USE 13510034)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 267,
+        "y": 618
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13510034)",
+    "desc": "SUPPORT,LUMBAR (EXCEPT RPO AF6,MASSAGE SEAT) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVU/AVK) (NLS.- USE 13511247)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13511247)",
+    "desc": "SUPPORT,LUMBAR (EXCEPT RPO AF6,MASSAGE SEAT) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVU/AVK) (NLS.- USE 13515731)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13507288)",
+    "desc": "SUPPORT,LUMBAR (FOR MASSAGE SEAT,RPO AF6) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVK) (NLS.- USE 13510033)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13510033)",
+    "desc": "SUPPORT,LUMBAR (FOR MASSAGE SEAT,RPO AF6) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVK) (NLS.- USE 13511246)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13511246)",
+    "desc": "SUPPORT,LUMBAR (FOR MASSAGE SEAT,RPO AF6) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVK) (NLS.- USE 13513261)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13513261)",
+    "desc": "SUPPORT,LUMBAR (FOR MASSAGE SEAT,RPO AF6) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVK) (NLS.- USE 13515732)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "(13515732)",
+    "desc": "SUPPORT,LUMBAR (FOR MASSAGE SEAT,RPO AF6) (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVK) (NLS.- USE 13525201)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13484089)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,RH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE 39058157)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 297,
+        "y": 808
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(39058157)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,RH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE YR00177680)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13484088)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,LH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE 39058156)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(39058156)",
+    "desc": "SUPPORT,PAD FRONT SEAT SQUAB,LH (FOR SEAT VENTILATION,RPO KU1/KU3) (NLS.- USE YR00177580)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39014716)",
+    "desc": "BRACKET,BACK / SQUAB FRAME,RH (NLS.- USE YR00170180)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 707,
+        "y": 814
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39014715)",
+    "desc": "BRACKET,BACK / SQUAB FRAME,LH (NLS.- USE YR00170080)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(39014652)",
+    "desc": "RIVET (NLS.- USE YR00172280)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 915,
+        "y": 365
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13404440",
+    "desc": "COVER,OUTER GUIDE RAIL,RH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1630,
+        "y": 2176
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39140173",
+    "desc": "COVER,OUTER GUIDE RAIL,RH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39140173",
+    "desc": "COVER,OUTER GUIDE RAIL,RH",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "13443784",
+    "desc": "COVER,OUTER GUIDE RAIL,LH (EXC.RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39140172",
+    "desc": "COVER,OUTER GUIDE RAIL,LH (FOR RPO AEG,BREAKPOINT CONTROL MY18.5)",
+    "usage": "",
+    "range": "(C)  J8000001-J8999999\n(C)  JG000001-JG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39140172",
+    "desc": "COVER,OUTER GUIDE RAIL,LH",
+    "usage": "",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(23219472)",
+    "desc": "HANDLE,ASSY.,SEAT ADJUSTMENT,RH,BLACK (NLS.- USE 23505230)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 101,
+        "y": 1647
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(23505230)",
+    "desc": "HANDLE,ASSY.,SEAT ADJUSTMENT,RH,BLACK (NLS.- USE YR003811YX)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(23219473)",
+    "desc": "HANDLE,ASSY.,SEAT ADJUSTMENT,LH,BLACK (NLS.- USE 23505231)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "13292253",
+    "desc": "SCREW,HANDLE,M6 X 10",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 186,
+        "y": 1741
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "(13383906)",
+    "desc": "SCREW,TORX (NLS.- USE YR00069880)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1890,
+        "y": 1409
+      },
+      {
+        "x": 1214,
+        "y": 1792
+      },
+      {
+        "x": 1157,
+        "y": 2061
+      },
+      {
+        "x": 1305,
+        "y": 2281
+      },
+      {
+        "x": 741,
+        "y": 1104
+      },
+      {
+        "x": 315,
+        "y": 980
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "39030279",
+    "desc": "COVER,FRONT SEAT BACK (FOR 4 WAY POWERED LUMBAR SUPPORT,RPO AVU/AVK)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 2095,
+        "y": 654
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "13513145",
+    "desc": "COVER,FINISHER,SEAT ADJUSTERS",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 698,
+        "y": 1886
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

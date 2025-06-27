@@ -1,0 +1,449 @@
+{
+  "sectionTitle": "Preface",
+  "isOpen": true,
+  "subsections": [],
+  "nestedSections": [
+    {
+      "title": "Preface",
+      "subsections": [
+        {
+          "title": "Danger",
+          "url": "astra-k/2294711.pdf"
+        },
+        {
+          "title": "Title Page",
+          "url": "astra-k/4378721.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Dangers, Warnings, and Cautions",
+      "subsections": [
+        {
+          "title": "Definition of Danger, Warning, Caution, and Note",
+          "url": "astra-k/2065373.pdf"
+        },
+        {
+          "title": "ABS Component Handling Warning",
+          "url": "astra-k/2061929.pdf"
+        },
+        {
+          "title": "Actions to Take When Working with Fuel Warning",
+          "url": "astra-k/2068371.pdf"
+        },
+        {
+          "title": "Approved Equipment for Collision Repair Warning",
+          "url": "astra-k/2061931.pdf"
+        },
+        {
+          "title": "Assistant Driving Warning",
+          "url": "astra-k/2061932.pdf"
+        },
+        {
+          "title": "Battery Disconnect Warning",
+          "url": "astra-k/2061934.pdf"
+        },
+        {
+          "title": "Brake Dust Warning",
+          "url": "astra-k/2061936.pdf"
+        },
+        {
+          "title": "Brake Fluid Irritant Warning",
+          "url": "astra-k/2061939.pdf"
+        },
+        {
+          "title": "Caliper Piston Removing Warning",
+          "url": "astra-k/3633283.pdf"
+        },
+        {
+          "title": "Checking Hot Transmission Fluid through Drain Plug Hole Warning",
+          "url": "astra-k/2065724.pdf"
+        },
+        {
+          "title": "Cleaning Solvent Warning",
+          "url": "astra-k/2061941.pdf"
+        },
+        {
+          "title": "Clutch Actuator Cylinder Warning",
+          "url": "astra-k/2811225.pdf"
+        },
+        {
+          "title": "Collision Sectioning Warning",
+          "url": "astra-k/2065730.pdf"
+        },
+        {
+          "title": "Cracked Window Warning",
+          "url": "astra-k/2064122.pdf"
+        },
+        {
+          "title": "Defroster Outlet Warning",
+          "url": "astra-k/2064126.pdf"
+        },
+        {
+          "title": "Diesel/Gasoline Vapors Warning",
+          "url": "astra-k/2061961.pdf"
+        },
+        {
+          "title": "DOT 4 Brake Fluid Warning",
+          "url": "astra-k/2243987.pdf"
+        },
+        {
+          "title": "Exhaust Service Warning",
+          "url": "astra-k/2064129.pdf"
+        },
+        {
+          "title": "Express Down Feature Warning",
+          "url": "astra-k/2066496.pdf"
+        },
+        {
+          "title": "Express Window Down Warning",
+          "url": "astra-k/2061946.pdf"
+        },
+        {
+          "title": "Eye Protection Warning",
+          "url": "astra-k/2061947.pdf"
+        },
+        {
+          "title": "Flame Around Fuel Warning",
+          "url": "astra-k/3610840.pdf"
+        },
+        {
+          "title": "Foam Sound Deadeners Warning",
+          "url": "astra-k/2061950.pdf"
+        },
+        {
+          "title": "Fuel and Evaporative Emission Pipe Warning",
+          "url": "astra-k/2063597.pdf"
+        },
+        {
+          "title": "Fuel Gauge Leak Warning",
+          "url": "astra-k/2061952.pdf"
+        },
+        {
+          "title": "Fuel Pipe Fitting Warning",
+          "url": "astra-k/2063600.pdf"
+        },
+        {
+          "title": "Fuel Storage Warning",
+          "url": "astra-k/2061953.pdf"
+        },
+        {
+          "title": "Fuel Vapors in Evaporative Emission Components Warning",
+          "url": "astra-k/2061959.pdf"
+        },
+        {
+          "title": "Glass and Sheet Metal Handling Warning",
+          "url": "astra-k/2061962.pdf"
+        },
+        {
+          "title": "Halogen Bulb Warning",
+          "url": "astra-k/2061963.pdf"
+        },
+        {
+          "title": "Hood Hold-Open Device Warning",
+          "url": "astra-k/2066379.pdf"
+        },
+        {
+          "title": "Hot Exhaust System Warning",
+          "url": "astra-k/2061964.pdf"
+        },
+        {
+          "title": "Inner Panels and Reinforcements Warning",
+          "url": "astra-k/4837851.pdf"
+        },
+        {
+          "title": "Moving Parts and Hot Surfaces Warning",
+          "url": "astra-k/2061967.pdf"
+        },
+        {
+          "title": "Parking Brake and Drive Wheels Warning",
+          "url": "astra-k/2357106.pdf"
+        },
+        {
+          "title": "Pressing Transmission Shafts Warning",
+          "url": "astra-k/3743088.pdf"
+        },
+        {
+          "title": "Protective Goggles and Glove Warning",
+          "url": "astra-k/2064137.pdf"
+        },
+        {
+          "title": "R-1234yf Proper Service Procedures Warning",
+          "url": "astra-k/2775162.pdf"
+        },
+        {
+          "title": "Relieving Fuel Pressure Warning",
+          "url": "astra-k/2062007.pdf"
+        },
+        {
+          "title": "Road Test Warning",
+          "url": "astra-k/2062008.pdf"
+        },
+        {
+          "title": "Safety Glasses and Compressed Air Warning",
+          "url": "astra-k/2062011.pdf"
+        },
+        {
+          "title": "Safety Glasses Warning",
+          "url": "astra-k/2062009.pdf"
+        },
+        {
+          "title": "Safety Goggles and Fuel Warning",
+          "url": "astra-k/2062012.pdf"
+        },
+        {
+          "title": "SIR Deployed Inflator Modules Are Hot Warning",
+          "url": "astra-k/2062023.pdf"
+        },
+        {
+          "title": "SIR Inflatable Module Deployment Outside Vehicle Warning",
+          "url": "astra-k/2062024.pdf"
+        },
+        {
+          "title": "SIR Inflator Module Disposal Warning",
+          "url": "astra-k/2062030.pdf"
+        },
+        {
+          "title": "SIR Inflator Module Handling and Storage Warning",
+          "url": "astra-k/2063606.pdf"
+        },
+        {
+          "title": "SIR Seatbelt Pretensioner Handling Warning",
+          "url": "astra-k/2063706.pdf"
+        },
+        {
+          "title": "SIR Special Tool Warning",
+          "url": "astra-k/2062031.pdf"
+        },
+        {
+          "title": "SIR Warning",
+          "url": "astra-k/4044030.pdf"
+        },
+        {
+          "title": "Steering Angle Sensor Initialization Warning",
+          "url": "astra-k/2310755.pdf"
+        },
+        {
+          "title": "Steering Angle Sensor Rotation Warning",
+          "url": "astra-k/2348920.pdf"
+        },
+        {
+          "title": "Structural Adhesive Warning",
+          "url": "astra-k/4837847.pdf"
+        },
+        {
+          "title": "Torque-to-Yield Fastener Warning",
+          "url": "astra-k/2406051.pdf"
+        },
+        {
+          "title": "Well Ventilated Workspace Warning",
+          "url": "astra-k/2701047.pdf"
+        },
+        {
+          "title": "Window Retention Warning",
+          "url": "astra-k/2268944.pdf"
+        },
+        {
+          "title": "Work Stall Test Warning",
+          "url": "astra-k/2062035.pdf"
+        },
+        {
+          "title": "Air Conditioning Sealing Washers Oil or Lubricant Exposure Caution",
+          "url": "astra-k/5971905.pdf"
+        },
+        {
+          "title": "Air in the Power Steering System Caution",
+          "url": "astra-k/2063654.pdf"
+        },
+        {
+          "title": "Avoid Chipping or Scratching the Coating Caution",
+          "url": "astra-k/2062038.pdf"
+        },
+        {
+          "title": "Ball Stud Removal Caution",
+          "url": "astra-k/2065734.pdf"
+        },
+        {
+          "title": "Belt Dressing Caution",
+          "url": "astra-k/2062039.pdf"
+        },
+        {
+          "title": "Blocking Ring Caution",
+          "url": "astra-k/3742686.pdf"
+        },
+        {
+          "title": "Brake Caliper Caution",
+          "url": "astra-k/2063674.pdf"
+        },
+        {
+          "title": "Brake Fluid Effects on Paint and Electrical Components Caution",
+          "url": "astra-k/2062040.pdf"
+        },
+        {
+          "title": "Clearcoat/Ultraviolet Screeners Caution",
+          "url": "astra-k/2062043.pdf"
+        },
+        {
+          "title": "Clutch Actuator Cylinder and Seal Caution",
+          "url": "astra-k/2811193.pdf"
+        },
+        {
+          "title": "Clutch Actuator Cylinder Pipe Seal Caution",
+          "url": "astra-k/2877929.pdf"
+        },
+        {
+          "title": "Clutch Actuator Cylinder Mounting Sleeve Caution",
+          "url": "astra-k/2811205.pdf"
+        },
+        {
+          "title": "Component Fastener Tightening Caution",
+          "url": "astra-k/2062045.pdf"
+        },
+        {
+          "title": "Crankshaft Position Sensor Reluctor Ring Caution",
+          "url": "astra-k/3971883.pdf"
+        },
+        {
+          "title": "Drive Axle Caution",
+          "url": "astra-k/2065737.pdf"
+        },
+        {
+          "title": "EN-47632 Cleaning Tool Rotation Caution",
+          "url": "astra-k/3414839.pdf"
+        },
+        {
+          "title": "Engine Coolant Thermostat Housing Caution",
+          "url": "astra-k/2288097.pdf"
+        },
+        {
+          "title": "Exhaust Flexible Pipe Bending Caution",
+          "url": "astra-k/2279268.pdf"
+        },
+        {
+          "title": "Exterior Trim Emblem Removal Caution",
+          "url": "astra-k/2062053.pdf"
+        },
+        {
+          "title": "Fastener Caution",
+          "url": "astra-k/2062054.pdf"
+        },
+        {
+          "title": "Filling the Master Cylinder Caution",
+          "url": "astra-k/2262740.pdf"
+        },
+        {
+          "title": "Fuel and Evaporative Emission Hose/Pipe Connection Cleaning Caution",
+          "url": "astra-k/2063679.pdf"
+        },
+        {
+          "title": "Fuel Contamination Caution",
+          "url": "astra-k/3610753.pdf"
+        },
+        {
+          "title": "Fuel Rail Removal Caution",
+          "url": "astra-k/4286572.pdf"
+        },
+        {
+          "title": "Heated Oxygen and Oxygen Sensor Caution",
+          "url": "astra-k/2062072.pdf"
+        },
+        {
+          "title": "Heated Oxygen Sensor Resistance Learn Reset Caution",
+          "url": "astra-k/2062073.pdf"
+        },
+        {
+          "title": "HVAC Module Drain Tube Caution",
+          "url": "astra-k/3961978.pdf"
+        },
+        {
+          "title": "Installing Hoses without Twists or Bends Caution",
+          "url": "astra-k/2062075.pdf"
+        },
+        {
+          "title": "Liftgate Assist Rod Caution",
+          "url": "astra-k/2063684.pdf"
+        },
+        {
+          "title": "Pipe Wrench Positioning Caution",
+          "url": "astra-k/2062097.pdf"
+        },
+        {
+          "title": "Power Steering Hose Disconnected Caution",
+          "url": "astra-k/2065756.pdf"
+        },
+        {
+          "title": "Sheet Metal Thickness Caution",
+          "url": "astra-k/4837875.pdf"
+        },
+        {
+          "title": "Silicon Contamination of Heated Oxygen Sensors Caution",
+          "url": "astra-k/2062103.pdf"
+        },
+        {
+          "title": "Steering Column in Lock Position Caution",
+          "url": "astra-k/2062105.pdf"
+        },
+        {
+          "title": "Steering Gear Preload Adjustment Caution",
+          "url": "astra-k/2065842.pdf"
+        },
+        {
+          "title": "Steering Wheel in the Full Turn Position Caution",
+          "url": "astra-k/2062106.pdf"
+        },
+        {
+          "title": "Steering Wheel Straight and Column Locked Caution",
+          "url": "astra-k/2065819.pdf"
+        },
+        {
+          "title": "Structural Adhesive in MIG-Brazing Areas Caution",
+          "url": "astra-k/4837858.pdf"
+        },
+        {
+          "title": "Test Probe Caution",
+          "url": "astra-k/2159723.pdf"
+        },
+        {
+          "title": "Three-Way Catalytic Converter Damage Caution",
+          "url": "astra-k/2062109.pdf"
+        },
+        {
+          "title": "Torque Reaction Against Timing Drive Chain Caution",
+          "url": "astra-k/2064165.pdf"
+        },
+        {
+          "title": "Torque-to-Yield Fastener Caution",
+          "url": "astra-k/2406054.pdf"
+        },
+        {
+          "title": "Transmission Fluid Vent Cap Removal Caution",
+          "url": "astra-k/2065848.pdf"
+        },
+        {
+          "title": "Transmission Overfill Caution",
+          "url": "astra-k/2065854.pdf"
+        },
+        {
+          "title": "Transmission Shift Fork Caution",
+          "url": "astra-k/2910421.pdf"
+        },
+        {
+          "title": "Turbocharger Oil Feed Pipe Bolt Torque Caution",
+          "url": "astra-k/5460717.pdf"
+        },
+        {
+          "title": "Using Proper Power Steering Fluid Caution",
+          "url": "astra-k/2062110.pdf"
+        },
+        {
+          "title": "Valve Lifter Priming Caution",
+          "url": "astra-k/2066376.pdf"
+        },
+        {
+          "title": "Window Edge Damage Caution",
+          "url": "astra-k/2063697.pdf"
+        }
+      ]
+    }
+  ]
+}

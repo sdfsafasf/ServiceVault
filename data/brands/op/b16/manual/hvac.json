@@ -1,0 +1,1007 @@
+{
+  "sectionTitle": "HVAC",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Heating, Ventilation, and Air Conditioning",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities (R-1234yf)",
+              "url": "astra-k/4281490.pdf"
+            },
+            {
+              "title": "Approximate Fluid Capacities (R-134a)",
+              "url": "astra-k/3703954.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Visual Identification",
+          "subsections": [
+            {
+              "title": "Refrigerant Label Symbols",
+              "url": "astra-k/2786535.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "DTC 1 (01h), 60-63 (3Ch-3Fh), or 129 (81h)",
+              "url": "astra-k/2742644.pdf"
+            },
+            {
+              "title": "DTC 2 (02h), 47 (2Fh), 56 (38h), 57 (39h), 98 (62h), 130 (82h), or 131 (83h)",
+              "url": "astra-k/2742645.pdf"
+            },
+            {
+              "title": "DTC 4 (04h), 76 (4Ch), 132 (84h), or 156 (9Ch)",
+              "url": "astra-k/2742646.pdf"
+            },
+            {
+              "title": "DTC 5 (05h)",
+              "url": "astra-k/2742648.pdf"
+            },
+            {
+              "title": "DTC 6 (06h)",
+              "url": "astra-k/2742649.pdf"
+            },
+            {
+              "title": "DTC 8 (08h) or 136 (88h)",
+              "url": "astra-k/2742650.pdf"
+            },
+            {
+              "title": "DTC 11 (0Bh) or 139 (8Bh)",
+              "url": "astra-k/2742651.pdf"
+            },
+            {
+              "title": "DTC 21 (15h), 45 (2Dh), or 137 (89h)",
+              "url": "astra-k/2742652.pdf"
+            },
+            {
+              "title": "DTC 25 (19h), 46 (2Eh), or 153 (99h)",
+              "url": "astra-k/2742653.pdf"
+            },
+            {
+              "title": "DTC 27 (1B), 148 (94h), or 171 (ABh)",
+              "url": "astra-k/2742654.pdf"
+            },
+            {
+              "title": "DTC 55 (37h)",
+              "url": "astra-k/2744852.pdf"
+            },
+            {
+              "title": "DTC 58 (3Ah), 146 (92h), or 170 (AAh)",
+              "url": "astra-k/2744853.pdf"
+            },
+            {
+              "title": "DTC 135 (87h)",
+              "url": "astra-k/2742655.pdf"
+            },
+            {
+              "title": "Horns Malfunction",
+              "url": "astra-k/4209405.pdf"
+            },
+            {
+              "title": "Traction Control/Stability Control Indicator Malfunction",
+              "url": "astra-k/4214871.pdf"
+            },
+            {
+              "title": "Rear Window Defogger Malfunction",
+              "url": "astra-k/4215018.pdf"
+            },
+            {
+              "title": "DTC B297B or B297C",
+              "url": "astra-k/4215082.pdf"
+            },
+            {
+              "title": "Front Disc Brake Mounting and Hardware Inspection",
+              "url": "astra-k/4215490.pdf"
+            },
+            {
+              "title": "DTC B3622 (with UDD)",
+              "url": "astra-k/4215709.pdf"
+            },
+            {
+              "title": "Front Floor Panel Carpet Replacement",
+              "url": "astra-k/4217543.pdf"
+            },
+            {
+              "title": "Body Lock Pillar Upper Trim Panel Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4218286.pdf"
+            },
+            {
+              "title": "Rear Side Door Trim Replacement",
+              "url": "astra-k/4218291.pdf"
+            },
+            {
+              "title": "Front Fender Replacement",
+              "url": "astra-k/4218305.pdf"
+            },
+            {
+              "title": "DTC B153E - Liftgate Angle Sensor Malfunction",
+              "url": "astra-k/4223277.pdf"
+            },
+            {
+              "title": "Power Windows Malfunction (AXG, AEF, AER)",
+              "url": "astra-k/4243384.pdf"
+            },
+            {
+              "title": "Rear Side Door Armrest Pull Cup Replacement",
+              "url": "astra-k/4250089.pdf"
+            },
+            {
+              "title": "Rear Fog Lamps Malfunction",
+              "url": "astra-k/4260062.pdf"
+            },
+            {
+              "title": "Brake Rotor Thickness Measurement",
+              "url": "astra-k/4283318.pdf"
+            },
+            {
+              "title": "Brake Rotor Surface and Wear Inspection",
+              "url": "astra-k/4283327.pdf"
+            },
+            {
+              "title": "Power Windows Malfunction (AXG, AED, AEQ)",
+              "url": "astra-k/4521786.pdf"
+            },
+            {
+              "title": "Symptoms - Heating, Ventilation, and Air Conditioning",
+              "url": "astra-k/2743620.pdf"
+            },
+            {
+              "title": "Fuel Operated Heater Diagnostic Trouble Code (DTC) Displaying and Clearing",
+              "url": "astra-k/2742656.pdf"
+            },
+            {
+              "title": "Fuel Operated Heater Malfunction",
+              "url": "astra-k/2743622.pdf"
+            },
+            {
+              "title": "Leak Testing (Nitrogen Method)",
+              "url": "astra-k/2904883.pdf"
+            },
+            {
+              "title": "Leak Testing (Fluorescent Dye Method)",
+              "url": "astra-k/3816696.pdf"
+            },
+            {
+              "title": "Air Conditioning (A/C) System Performance Test",
+              "url": "astra-k/2352544.pdf"
+            },
+            {
+              "title": "Heating Performance Diagnostic",
+              "url": "astra-k/4290402.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Oil Diagnosis",
+              "url": "astra-k/2164726.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Odor Correction",
+              "url": "astra-k/883665.pdf"
+            },
+            {
+              "title": "Refrigerant Recovery and Recharging (R-134a)",
+              "url": "astra-k/3712835.pdf"
+            },
+            {
+              "title": "Refrigerant Recovery and Recharging (R-1234yf)",
+              "url": "astra-k/5035303.pdf"
+            },
+            {
+              "title": "Flushing (R-1234yf)",
+              "url": "astra-k/4543578.pdf"
+            },
+            {
+              "title": "Flushing (R-134a)",
+              "url": "astra-k/3713922.pdf"
+            },
+            {
+              "title": "Flushing (Contaminated R-1234yf)",
+              "url": "astra-k/4864825.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Oil Balancing",
+              "url": "astra-k/3713047.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Oil Drain Plug Replacement",
+              "url": "astra-k/4215872.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Replacement (1.4L LE2, LV7)",
+              "url": "astra-k/4215859.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Replacement (1.0L LE1)",
+              "url": "astra-k/3942971.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Replacement (1.6L LWC)",
+              "url": "astra-k/4543660.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Replacement (1.6L Diesel)",
+              "url": "astra-k/5157196.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Pressure Relief Valve Replacement (1.0L LE1 and 1.6L LWC)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Pressure Relief Valve Replacement (1.4L LE2, LV7)",
+              "url": "astra-k/4215861.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Pressure Relief Valve Replacement (1.6L Diesel LVK, LVL, LWQ, and LWV)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Bracket Replacement",
+              "url": "astra-k/2866957.pdf"
+            },
+            {
+              "title": "Air Conditioning System Seal Replacement",
+              "url": "astra-k/2091886.pdf"
+            },
+            {
+              "title": "Air Conditioning O-Ring Seal Replacement",
+              "url": "astra-k/2152025.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Hose Replacement (1.0L LE1)",
+              "url": "astra-k/4215855.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Hose Replacement (1.4L LE2, LV7)",
+              "url": "astra-k/4215856.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Hose Replacement (1.6L LWC)",
+              "url": "astra-k/4329371.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Hose Replacement (1.6L (LVL) Diesel)",
+              "url": "astra-k/5153691.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator Hose Replacement (1.0L LE1, 1.4L LE2, and 1.4L LV7)",
+              "url": "astra-k/4215865.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator Hose Replacement (1.6L LWC)",
+              "url": "astra-k/4329372.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator Hose Replacement (1.6L Diesel LVK, LVL, LWQ, and LWV)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Air Conditioning Refrigerant Filter Replacement",
+              "url": "astra-k/4840070.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator Thermal Expansion Valve Replacement",
+              "url": "astra-k/6261703.pdf"
+            },
+            {
+              "title": "Air Conditioning Refrigerant Pressure Sensor Replacement (1.0L LE1)",
+              "url": "astra-k/4215862.pdf"
+            },
+            {
+              "title": "Air Conditioning Refrigerant Pressure Sensor Replacement (1.4L LE2, LV7)",
+              "url": "astra-k/4215863.pdf"
+            },
+            {
+              "title": "Air Conditioning Refrigerant Pressure Sensor Replacement (1.6L Diesel LVK, LVL, LWQ, and LWV)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Air Conditioning Condenser Replacement",
+              "url": "astra-k/4396015.pdf"
+            },
+            {
+              "title": "Heater and Air Conditioning Evaporator and Blower Module Removal and Installation",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Heater and Air Conditioning Evaporator Case Replacement (CJ2)",
+              "url": "astra-k/4171604.pdf"
+            },
+            {
+              "title": "Heater and Air Conditioning Evaporator Case Replacement (C67)",
+              "url": "astra-k/4447313.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Wiring Harness Replacement",
+              "url": "astra-k/4371886.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator Core Replacement",
+              "url": "astra-k/4429440.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator and Blower Case Replacement",
+              "url": "astra-k/4429441.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator and Blower Module Drain Hose Replacement (Lower Hose)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Air Conditioning Evaporator and Blower Module Drain Hose Replacement (Upper Hose)",
+              "url": "Document.pdf"
+            },
+            {
+              "title": "Heater and Air Conditioning Control Bracket Replacement",
+              "url": "astra-k/4229587.pdf"
+            },
+            {
+              "title": "Heater Inlet Hose Replacement (1.0L LE1, 1.4L LE2, LV7)",
+              "url": "astra-k/4215866.pdf"
+            },
+            {
+              "title": "Heater Inlet Hose Replacement (1.6L LWC)",
+              "url": "astra-k/2898248.pdf"
+            },
+            {
+              "title": "Heater Inlet Hose Replacement (Engine Coolant Heater)",
+              "url": "astra-k/4444329.pdf"
+            },
+            {
+              "title": "Heater Inlet Hose Replacement (1.6L Diesel)",
+              "url": "astra-k/5121623.pdf"
+            },
+            {
+              "title": "Heater Outlet Hose Replacement (1.0L LE1, 1.4L LE2, LV7)",
+              "url": "astra-k/4215867.pdf"
+            },
+            {
+              "title": "Heater Outlet Hose Replacement (1.6L Diesel LVK, LVL, LWQ, and LWV)",
+              "url": "astra-k/3603721.pdf"
+            },
+            {
+              "title": "Heater Outlet Hose Replacement (1.6L LWC)",
+              "url": "astra-k/2898255.pdf"
+            },
+            {
+              "title": "Heater Outlet Hose Replacement (Engine Coolant Heater)",
+              "url": "astra-k/4444330.pdf"
+            },
+            {
+              "title": "Heater Core Outlet Tube Replacement",
+              "url": "astra-k/3785324.pdf"
+            },
+            {
+              "title": "Heater Core Inlet Tube Replacement",
+              "url": "astra-k/3785325.pdf"
+            },
+            {
+              "title": "Passenger Compartment Air Filter Replacement",
+              "url": "astra-k/4570530.pdf"
+            },
+            {
+              "title": "Air Inlet Duct Replacement",
+              "url": "astra-k/3687077.pdf"
+            },
+            {
+              "title": "Air Inlet Housing Replacement",
+              "url": "astra-k/3687070.pdf"
+            },
+            {
+              "title": "Blower Motor Replacement (Right Hand Drive)",
+              "url": "astra-k/4215868.pdf"
+            },
+            {
+              "title": "Blower Motor Replacement (Left Hand Drive)",
+              "url": "astra-k/3687055.pdf"
+            },
+            {
+              "title": "Side Window Defogger Outlet Grille Replacement",
+              "url": "astra-k/4215874.pdf"
+            },
+            {
+              "title": "Instrument Panel Outer Air Outlet Replacement - Left Side",
+              "url": "astra-k/4215869.pdf"
+            },
+            {
+              "title": "Instrument Panel Center Air Outlet Replacement",
+              "url": "astra-k/4215870.pdf"
+            },
+            {
+              "title": "Instrument Panel Outer Air Outlet Replacement - Right Side",
+              "url": "astra-k/4215871.pdf"
+            },
+            {
+              "title": "Body Air Outlet Deflector Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4222993.pdf"
+            },
+            {
+              "title": "Body Air Outlet Deflector Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4329373.pdf"
+            },
+            {
+              "title": "Floor Air Outlet Replacement",
+              "url": "astra-k/4327955.pdf"
+            },
+            {
+              "title": "Floor Front Air Outlet Duct Replacement - Right Side (Right Hand Drive)",
+              "url": "astra-k/4215875.pdf"
+            },
+            {
+              "title": "Floor Front Air Outlet Duct Replacement - Right Side (Left Hand Drive)",
+              "url": "astra-k/3687080.pdf"
+            },
+            {
+              "title": "Floor Front Air Outlet Duct Replacement - Left Side (Right Hand Drive)",
+              "url": "astra-k/4215876.pdf"
+            },
+            {
+              "title": "Floor Front Air Outlet Duct Replacement - Left Side (Left Hand Drive)",
+              "url": "astra-k/4084751.pdf"
+            },
+            {
+              "title": "Floor Rear Air Outlet Duct Replacement",
+              "url": "astra-k/4257166.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Bracket Replacement",
+              "url": "astra-k/4353753.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Control Module Replacement",
+              "url": "astra-k/4353754.pdf"
+            },
+            {
+              "title": "Remote Control Engine Coolant Heater Receiver Antenna Replacement",
+              "url": "astra-k/2496044.pdf"
+            },
+            {
+              "title": "Remote Control Engine Coolant Heater Receiver Replacement",
+              "url": "astra-k/4353891.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Replacement",
+              "url": "astra-k/4353815.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Pump Replacement",
+              "url": "astra-k/4353904.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Pump Bracket Replacement",
+              "url": "astra-k/4353917.pdf"
+            },
+            {
+              "title": "Heater Core Replacement",
+              "url": "astra-k/4327956.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Air Supply Hose Screen Replacement",
+              "url": "astra-k/4353924.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Fuel Pump Bracket Replacement",
+              "url": "astra-k/4353831.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Fuel Pump Replacement",
+              "url": "astra-k/4353850.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Exhaust Muffler Replacement",
+              "url": "astra-k/4353874.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Exhaust Pipe Replacement - Heater to Muffler",
+              "url": "astra-k/4353954.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Exhaust Pipe Replacement - Pipe with Endcap",
+              "url": "astra-k/4353977.pdf"
+            },
+            {
+              "title": "Engine Coolant Heater Switch Replacement",
+              "url": "astra-k/2496095.pdf"
+            },
+            {
+              "title": "Auxiliary Heater Core Replacement",
+              "url": "astra-k/4543658.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Fuel Operated Heater Description and Operation",
+              "url": "astra-k/2837201.pdf"
+            },
+            {
+              "title": "Heating and Air Conditioning System Description and Operation",
+              "url": "astra-k/2841937.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HVAC - Automatic",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel / Vauxhall)",
+              "url": "astra-k/4483168.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "HVAC Schematics",
+              "url": "astra-k/4446044.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "HVAC Component Replacement Reference",
+              "url": "astra-k/4223339.pdf"
+            },
+            {
+              "title": "DTC B0163, B0183, or B1405",
+              "url": "astra-k/2325385.pdf"
+            },
+            {
+              "title": "DTC B0173, B0178, B0509, B0514 or B3933",
+              "url": "astra-k/4223264.pdf"
+            },
+            {
+              "title": "DTC B018A, B048C, B048F, or B1395",
+              "url": "astra-k/2585607.pdf"
+            },
+            {
+              "title": "DTC B0193",
+              "url": "astra-k/4223155.pdf"
+            },
+            {
+              "title": "DTC B0223, B022A, B0233, B023A, B0408, or B0418",
+              "url": "astra-k/3270739.pdf"
+            },
+            {
+              "title": "DTC B048D or B048E",
+              "url": "astra-k/4278346.pdf"
+            },
+            {
+              "title": "DTC B393B",
+              "url": "astra-k/2662509.pdf"
+            },
+            {
+              "title": "DTC P0532 or P0533",
+              "url": "astra-k/2726682.pdf"
+            },
+            {
+              "title": "DTC P0645-P0647",
+              "url": "astra-k/4223226.pdf"
+            },
+            {
+              "title": "DTC P1540",
+              "url": "astra-k/2295447.pdf"
+            },
+            {
+              "title": "Symptoms - HVAC Systems - Automatic",
+              "url": "astra-k/2586180.pdf"
+            },
+            {
+              "title": "HVAC System Malfunction",
+              "url": "astra-k/3630858.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Malfunction",
+              "url": "astra-k/3417613.pdf"
+            },
+            {
+              "title": "Afterblow Enabling",
+              "url": "astra-k/2382151.pdf"
+            },
+            {
+              "title": "Actuator Recalibration",
+              "url": "astra-k/2356389.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instruction",
+          "subsections": [
+            {
+              "title": "Wire to Wire Repair - HVAC",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - HVAC",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Heater and Air Conditioning Control Replacement",
+              "url": "astra-k/4084787.pdf"
+            },
+            {
+              "title": "Heater and Air Conditioning Remote Control Replacement",
+              "url": "astra-k/4084802.pdf"
+            },
+            {
+              "title": "Air Conditioning Module Wiring Harness Replacement (Left Hand Drive)",
+              "url": "astra-k/4261582.pdf"
+            },
+            {
+              "title": "Air Conditioning Module Wiring Harness Replacement (Right Hand Drive)",
+              "url": "astra-k/4215884.pdf"
+            },
+            {
+              "title": "Mode Valve Lever Replacement (Left Hand Drive)",
+              "url": "astra-k/2326362.pdf"
+            },
+            {
+              "title": "Mode Valve Lever Replacement (Right Hand Drive)",
+              "url": "astra-k/2326340.pdf"
+            },
+            {
+              "title": "Vent Valve Lever Replacement (Left Hand Drive)",
+              "url": "astra-k/2277275.pdf"
+            },
+            {
+              "title": "Vent Valve Lever Replacement (Right Hand Drive)",
+              "url": "astra-k/2320568.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Lever Replacement - Front (Left Hand Drive)",
+              "url": "astra-k/4215889.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Lever Replacement - Front (Right Hand Drive)",
+              "url": "astra-k/4215890.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Lever Replacement - Middle (Left Hand Drive)",
+              "url": "astra-k/4215891.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Lever Replacement - Middle (Right Hand Drive)",
+              "url": "astra-k/4215892.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Lever Replacement - Rear (Left Hand Drive)",
+              "url": "astra-k/4215893.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Lever Replacement - Rear (Right Hand Drive)",
+              "url": "astra-k/4215894.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Actuator Replacement (Right Hand Drive)",
+              "url": "astra-k/4215877.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Actuator Replacement (Left Hand Drive)",
+              "url": "astra-k/4589444.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Link Replacement (Left Hand Drive)",
+              "url": "astra-k/4215899.pdf"
+            },
+            {
+              "title": "Air Inlet Valve Link Replacement (Right Hand Drive)",
+              "url": "astra-k/4215900.pdf"
+            },
+            {
+              "title": "Mode Valve Gear Replacement (Left Hand Drive)",
+              "url": "astra-k/2291693.pdf"
+            },
+            {
+              "title": "Mode Valve Gear Replacement (Right Hand Drive)",
+              "url": "astra-k/2320564.pdf"
+            },
+            {
+              "title": "Mode Control Cam Actuator Replacement (Left Hand Drive)",
+              "url": "astra-k/4215885.pdf"
+            },
+            {
+              "title": "Mode Control Cam Actuator Replacement (Right Hand Drive)",
+              "url": "astra-k/4215886.pdf"
+            },
+            {
+              "title": "Mode Control Cam Replacement (Left Hand Drive)",
+              "url": "astra-k/2289398.pdf"
+            },
+            {
+              "title": "Mode Control Cam Replacement (Right Hand Drive)",
+              "url": "astra-k/2320557.pdf"
+            },
+            {
+              "title": "Mode Control Cam Actuator Mounting Plate Replacement (Right Hand Drive)",
+              "url": "astra-k/4215888.pdf"
+            },
+            {
+              "title": "Mode Control Cam Actuator Mounting Plate Replacement (Left Hand Drive)",
+              "url": "astra-k/2277274.pdf"
+            },
+            {
+              "title": "Floor Air Valve Actuator Replacement (Left Hand Drive)",
+              "url": "astra-k/4573512.pdf"
+            },
+            {
+              "title": "Temperature Valve Actuator Replacement - Right Side (Left Hand Drive)",
+              "url": "astra-k/4215878.pdf"
+            },
+            {
+              "title": "Temperature Valve Actuator Replacement - Right Side (Right Hand Drive)",
+              "url": "astra-k/4215879.pdf"
+            },
+            {
+              "title": "Temperature Valve Actuator Replacement - Left Side (Right Hand Drive)",
+              "url": "astra-k/4215882.pdf"
+            },
+            {
+              "title": "Air Conditioning Refrigerant Temperature Sensor Replacement (Right Hand Drive)",
+              "url": "astra-k/4215883.pdf"
+            },
+            {
+              "title": "Air Conditioning Refrigerant Temperature Sensor Replacement (Left Hand Drive)",
+              "url": "astra-k/3688453.pdf"
+            },
+            {
+              "title": "Inside Air Temperature Sensor Replacement - Left Side Upper (Right Hand Drive)",
+              "url": "astra-k/4215895.pdf"
+            },
+            {
+              "title": "Inside Air Temperature Sensor Replacement - Left Side Upper (Left Hand Drive)",
+              "url": "astra-k/3688463.pdf"
+            },
+            {
+              "title": "Inside Air Temperature Sensor Replacement - Left Side Lower (Right Hand Drive)",
+              "url": "astra-k/4215896.pdf"
+            },
+            {
+              "title": "Inside Air Temperature Sensor Replacement - Left Side Lower (Left Hand Drive)",
+              "url": "astra-k/4816817.pdf"
+            },
+            {
+              "title": "Inside Air Temperature Sensor Replacement - Right Side Upper (Right Hand Drive)",
+              "url": "astra-k/4215897.pdf"
+            },
+            {
+              "title": "Inside Air Temperature Sensor Replacement - Right Side Upper (Left Hand Drive)",
+              "url": "astra-k/4084808.pdf"
+            },
+            {
+              "title": "Inside Air Moisture and Windshield Temperature Sensor Replacement",
+              "url": "astra-k/4092286.pdf"
+            },
+            {
+              "title": "Sun Load Temperature Sensor Replacement",
+              "url": "astra-k/4222997.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Automatic HVAC Description and Operation",
+              "url": "astra-k/2662461.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HVAC - Manual",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Holden)",
+              "url": "astra-k/4542612.pdf"
+            },
+            {
+              "title": "Adhesives, Fluids, Lubricants, and Sealers (Opel / Vauxhall)",
+              "url": "astra-k/4483168.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Schematic and Routing Diagrams",
+          "subsections": [
+            {
+              "title": "HVAC Schematics",
+              "url": "astra-k/4446044.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Information and Procedures",
+          "subsections": [
+            {
+              "title": "HVAC Component Replacement Reference",
+              "url": "astra-k/4223339.pdf"
+            },
+            {
+              "title": "DTC B0193",
+              "url": "astra-k/4223155.pdf"
+            },
+            {
+              "title": "DTC B0223, B0233, B023A, or B0408",
+              "url": "astra-k/3543277.pdf"
+            },
+            {
+              "title": "DTC B048D or B048E",
+              "url": "astra-k/4278346.pdf"
+            },
+            {
+              "title": "DTC B3933",
+              "url": "astra-k/2294180.pdf"
+            },
+            {
+              "title": "DTC B393B",
+              "url": "astra-k/2662509.pdf"
+            },
+            {
+              "title": "DTC P0532 or P0533",
+              "url": "astra-k/2726682.pdf"
+            },
+            {
+              "title": "DTC P0645-P0647",
+              "url": "astra-k/4223226.pdf"
+            },
+            {
+              "title": "DTC P1540",
+              "url": "astra-k/2295447.pdf"
+            },
+            {
+              "title": "Symptoms - HVAC Systems - Manual",
+              "url": "astra-k/3272203.pdf"
+            },
+            {
+              "title": "HVAC System Malfunction",
+              "url": "astra-k/3630858.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Malfunction",
+              "url": "astra-k/3417613.pdf"
+            },
+            {
+              "title": "Actuator Recalibration",
+              "url": "astra-k/2356389.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "HVAC Component Replacement Reference",
+              "url": "astra-k/4223339.pdf"
+            },
+            {
+              "title": "DTC B0193",
+              "url": "astra-k/4223155.pdf"
+            },
+            {
+              "title": "DTC B0223, B0233, B023A, or B0408",
+              "url": "astra-k/3543277.pdf"
+            },
+            {
+              "title": "DTC B048D or B048E",
+              "url": "astra-k/4278346.pdf"
+            },
+            {
+              "title": "DTC B3933",
+              "url": "astra-k/2294180.pdf"
+            },
+            {
+              "title": "DTC B393B",
+              "url": "astra-k/2662509.pdf"
+            },
+            {
+              "title": "DTC P0532 or P0533",
+              "url": "astra-k/2726682.pdf"
+            },
+            {
+              "title": "DTC P0645-P0647",
+              "url": "astra-k/4223226.pdf"
+            },
+            {
+              "title": "DTC P1540",
+              "url": "astra-k/2295447.pdf"
+            },
+            {
+              "title": "Symptoms - HVAC Systems - Manual",
+              "url": "astra-k/3272203.pdf"
+            },
+            {
+              "title": "HVAC System Malfunction",
+              "url": "astra-k/3630858.pdf"
+            },
+            {
+              "title": "Air Conditioning Compressor Malfunction",
+              "url": "astra-k/3417613.pdf"
+            },
+            {
+              "title": "Actuator Recalibration",
+              "url": "astra-k/2356389.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Manual HVAC Description and Operation",
+              "url": "astra-k/2633195.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Special Tools and Equipment",
+          "subsections": [
+            {
+              "title": "Special Tools",
+              "url": "astra-k/654598.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

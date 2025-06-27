@@ -1,0 +1,167 @@
+[
+  {
+    "call": "6",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,PLUG (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(55491728)",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (NLS.- USE 55488808 56 07 315)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(55488808)",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (NLS.- USE 55490099 56 07 322)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(55490099)",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (NLS.- USE 55497386)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55497386",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES (EXCHANGE - REMAN PART 95521111)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "95521111",
+    "desc": "HEAD,ASSY.,CYLINDER,WITH VALVES,EXCHANGE - REMAN (CORE RETURN NO. 95524441)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "90351709",
+    "desc": "-SLEEVE,CAMSHAFT BEARING CAP TO CYLINDER HEAD,FRONT",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "12570816",
+    "desc": "-SCREW,HEX.HD.,M6 X 39",
+    "qty": "26",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "11546664",
+    "desc": "-PLUG,M10 X 39,OIL DUCT",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "11570754",
+    "desc": "-PLUG,11MM OD.,OIL DUCT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "11562127",
+    "desc": "-PLUG,14 MM OD.,OIL DUCT",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "",
+    "desc": "-PLUG,ASSY.,SPARK (PLEASE REFER TO GROUP P) (ENGINE AND COOLING) (SPARK PLUG) (SHORTCUT: B16.P81)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "55596125",
+    "desc": "GASKET,CYLINDER HEAD",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "55569189",
+    "desc": "SCREW,HEX.HD.,M10 X 138",
+    "qty": "10",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "55590891",
+    "desc": "SLEEVE",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "call": "X",
+    "part": "",
+    "desc": "TRANSMISSION,ASSY.",
+    "qty": "1",
+    "usage": "Note : NO NEW PART AVAILABLE PLEASE ORDER EXCHANGE PART",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "24278589",
+    "desc": "TRANSMISSION,ASSY. (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FINAL DRIVE RATIO 3.14) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EXCHANGE - REMAN PART 95523507) (IDENT 7NLS)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95519804)",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FINAL DRIVE RATIO 3.14) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524460) (NLS.- USE 95523507) (IDENT 6NLS)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95523507)",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FINAL DRIVE RATIO 3.14) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524460) (NLS.- USE 19354027) (IDENT 7NLS)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  H8000001-J8999999\n(C)  HG000001-JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95528276",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FINAL DRIVE RATIO 3.14) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EMISSION CODE NE4) (CORE RETURN NO. 95524460) (IDENT 9PES)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "95527836",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MNU) (FINAL DRIVE RATIO 3.14) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (EMISSION CODE NCV) (CORE RETURN NO. 95524460) (IDENT 9JRS)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "1681324280",
+    "desc": "TRANSMISSION,ASSY. (FOR 6T35 AUTOMATIC TRANSMISSION,RPO MQK) (EMISSION CODE NE4) (FINAL DRIVE RATIO 3.14) (CORE RETURN NO. 95524460) (IDENT 1LTS)",
+    "qty": "1",
+    "usage": "B14XFL[LE2],B14XFT[LE2]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "95519798",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MNP) (FINAL DRIVE RATIO 2.64) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (CORE RETURN NO. 95524460) (IDENT 6LNW)",
+    "qty": "1",
+    "usage": "B16DTH[LVL]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95523513",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (FINAL DRIVE RATIO 2.64) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524460) (IDENT 7RVW)",
+    "qty": "1",
+    "usage": "B16DTH[LVL],D16DTH[LVL]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95523515",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (FINAL DRIVE RATIO 2.89) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524460) (IDENT 7RYW)",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)      -J8999999\n(C)      -JG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "95527834",
+    "desc": "TRANSMISSION,ASSY.,EXCHANGE - REMAN (FOR 6T45 AUTOMATIC TRANSMISSION,RPO MHG) (FINAL DRIVE RATIO 2.89) (FOR STOP/START ENGINE SYSTEM,RPO KL9) (CORE RETURN NO. 95524460) (IDENT 9XKW)",
+    "qty": "1",
+    "usage": "B16SHT[LWC],D16SHT[LWC]",
+    "range": "(C)  K8000001-\n(C)  KG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "code": "1",
+    "name": "INSULATORS"
+  },
+  {
+    "code": "2",
+    "name": "INSTRUMENT PANEL"
+  },
+  {
+    "code": "3",
+    "name": "FRONT TUNNEL CONSOLE"
+  },
+  {
+    "code": "4",
+    "name": "AIRBAG"
+  },
+  {
+    "code": "5",
+    "name": "WATER DEFLECTOR"
+  },
+  {
+    "code": "6",
+    "name": "HEATER, AIR CONDITIONING AND VENTILATION"
+  },
+  {
+    "code": "7",
+    "name": "PEDALS AND FIXINGS"
+  },
+  {
+    "code": "8",
+    "name": "WEATHERSTRIPS"
+  },
+  {
+    "code": "9",
+    "name": "BONNET FITTINGS"
+  },
+  {
+    "code": "10",
+    "name": "FRONT DOOR FITTINGS"
+  },
+  {
+    "code": "11",
+    "name": "READY CUT KEY / KEYLESS ENTRY RADIO SENDER"
+  },
+  {
+    "code": "12",
+    "name": "REAR DOOR FITTINGS"
+  },
+  {
+    "code": "13",
+    "name": "TAIL GATE FITTINGS"
+  },
+  {
+    "code": "14",
+    "name": "CARGO RESTRAINT"
+  },
+  {
+    "code": "15",
+    "name": "FRONT SEAT FRAME AND FITTINGS"
+  },
+  {
+    "code": "16",
+    "name": "REAR SEAT FRAME AND FITTINGS"
+  },
+  {
+    "code": "17",
+    "name": "SEAT BELTS"
+  },
+  {
+    "code": "18",
+    "name": "ROOF FITTINGS"
+  }
+]

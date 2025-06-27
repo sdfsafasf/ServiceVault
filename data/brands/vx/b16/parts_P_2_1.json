@@ -1,0 +1,46 @@
+[
+  {
+    "call": "1",
+    "part": "(55583570)",
+    "desc": "SWITCH,ASSY.,REVERSE LAMP (FOR F17 MANUAL TRANSMISSION,RPO M26) (USE IN CONJUNCTION WITH 90542117 15 10 181) (NOT USED WITH EASYTRONIC TRANSMISSION) (NLS.- USE 55577819)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55583570)",
+    "desc": "SWITCH,ASSY.,REVERSE LAMP (FOR M32 MANUAL TRANSMISSION,RPO M60/MZ4) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (USE IN CONJUNCTION WITH 90542117 15 10 181) (NOT USED WITH EASYTRONIC TRANSMISSION) (NLS.- USE 55577819)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55583570)",
+    "desc": "SWITCH,ASSY.,REVERSE LAMP (FOR M32 MANUAL TRANSMISSION,RPO MGW) (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM) (USE IN CONJUNCTION WITH 90542117 15 10 181) (NOT USED WITH EASYTRONIC TRANSMISSION) (NLS.- USE 55577819)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "90542117",
+    "desc": "LOCKING COMPOUND,50ML,REVERSE LAMP SWITCH (IDENT SC18)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

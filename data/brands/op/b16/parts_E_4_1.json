@@ -1,0 +1,90 @@
+[
+  {
+    "call": "1X",
+    "part": "(24583157)",
+    "desc": "KIT,CLUTCH (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 24281250)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "(24281250)",
+    "desc": "KIT,CLUTCH (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (NLS.- USE 24280088)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "24280088",
+    "desc": "KIT,CLUTCH (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (EXCHANGE - REMAN PART 1690617280)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1X",
+    "part": "1690617280",
+    "desc": "KIT,CLUTCH,EXCHANGE - REMAN (FOR M1x/M22 MANUAL TRANSMISSION,RPO MFX) (CORE RETURN NO. 90141216)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "55574768",
+    "desc": "KIT,CLUTCH (FOR M32 MANUAL TRANSMISSION,RPO M60/MGW) (EXCHANGE - REMAN PART 95530169)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "95530169",
+    "desc": "KIT,CLUTCH,EXCHANGE - REMAN (FOR M32 MANUAL TRANSMISSION,RPO M60/MGW) (CORE RETURN NO. 90141216, 90141217)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "11570368",
+    "desc": "SCREW,HEX.HD.,M8 X 15",
+    "qty": "6",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(90397024)",
+    "desc": "GREASE,LUBRICATING ,MICROLUBE GNY 202,200GRAMS,MAINDRIVE PINION SPLINES (NLS.- USE 95599784) (IDENT GR08)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

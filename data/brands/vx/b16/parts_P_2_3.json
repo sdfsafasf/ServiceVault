@@ -1,0 +1,35 @@
+[
+  {
+    "call": "19",
+    "part": "(24290348)",
+    "desc": "CONTROL MODULE (NLS.- USE 24046814)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "",
+    "desc": "BRACKET (AWAITING TECHNICAL RELEASE)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "11514516",
+    "desc": "NUT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

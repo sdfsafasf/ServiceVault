@@ -1,0 +1,79 @@
+[
+  {
+    "call": "6X",
+    "part": "39048967",
+    "desc": "BRACKET,MOBILE TELEPHONE CRADLE (VAUXHALL)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "(39079102)",
+    "desc": "BRACKET,MOBILE TELEPHONE CRADLE (VAUXHALL) (NLS.- USE 39132946)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "(13471402)",
+    "desc": "BRACKET,MOBILE TELEPHONE CRADLE (OPEL) (NLS.- USE 39079103)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "(39079103)",
+    "desc": "BRACKET,MOBILE TELEPHONE CRADLE (OPEL) (NLS.- USE 39132945)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "(93199404)",
+    "desc": "TEST DATA - NOT FOR DEALER USE!! (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "(93199404)",
+    "desc": "TEST DATA - NOT FOR DEALER USE!! (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6X",
+    "part": "(93199404)",
+    "desc": "TEST DATA - NOT FOR DEALER USE!! (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "call": "1",
+    "part": "13462066",
+    "desc": "COWL,AIR INTAKE,HEATER HOUSING",
+    "usage": "",
+    "range": "(C)      -K8999999\n(C)      -KG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 531,
+        "y": 357
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "39144985",
+    "desc": "COWL,AIR INTAKE,HEATER HOUSING",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(11546449)",
+    "desc": "NUT,HEX.,M6 (NLS.- USE YQ00112780)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 623,
+        "y": 399
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "39012504",
+    "desc": "DUCT,AIR,FOOTWELL,LH-LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 311,
+        "y": 1455
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "(13367735)",
+    "desc": "DUCT,AIR,FOOTWELL,LH-RHD (NLS.- USE 39129286)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 388,
+        "y": 1835
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39129286",
+    "desc": "DUCT,AIR,FOOTWELL,LH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "5",
+    "part": "(39012503)",
+    "desc": "DUCT,AIR,FOOTWELL,RH-LHD (NLS.- USE 39129287)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1622,
+        "y": 913
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "6",
+    "part": "13367734",
+    "desc": "DUCT,AIR,FOOTWELL,RH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1822,
+        "y": 1443
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "7",
+    "part": "13262276",
+    "desc": "CAP",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1328,
+        "y": 1737
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13367765",
+    "desc": "DUCT,AIR,REAR LEG ROOM,RH-LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1328,
+        "y": 1886
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13367765",
+    "desc": "DUCT,AIR,REAR LEG ROOM,LH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13367766",
+    "desc": "DUCT,AIR,REAR LEG ROOM,LH-LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "13367766",
+    "desc": "DUCT,AIR,REAR LEG ROOM,RH-RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13367767",
+    "desc": "DUCT,AIR,REAR LEG ROOM,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1334,
+        "y": 1984
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "13367768",
+    "desc": "DUCT,AIR,REAR LEG ROOM,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "(11589293)",
+    "desc": "RIVET,EXPANDING,FOOTWELL AIR DUCT FIXING (NLS.- USE YR00001480)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 79,
+        "y": 1410
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "(11546970)",
+    "desc": "SCREW,HEX.HD.,DUCT (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 159,
+        "y": 2174
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "(11589289)",
+    "desc": "RIVET,EXPANDING,FOOTWELL AIR DUCT FIXING (NLS.- USE YQ00159480)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1483,
+        "y": 2165
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13406751)",
+    "desc": "HOUSING,AIR VENT,NOZZLE,OUTER,RH (NLS.- USE 39079604)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 73,
+        "y": 1342
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39079604",
+    "desc": "HOUSING,AIR VENT,NOZZLE,OUTER,RH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(13406750)",
+    "desc": "HOUSING,AIR VENT,NOZZLE,OUTER,LH (NLS.- USE 39079603)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "39079603",
+    "desc": "HOUSING,AIR VENT,NOZZLE,OUTER,LH",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13406754)",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,DRIVERS SIDE,LHD (NLS.- USE 39079605)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1274,
+        "y": 89
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39079605",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,DRIVERS SIDE,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(13406757)",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,DRIVERS SIDE,RHD (NLS.- USE 39079608)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "39079608",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,DRIVERS SIDE,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13406755)",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,PASSENGER SIDE,LHD (NLS.- USE 39079606)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1393,
+        "y": 51
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39079606",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,PASSENGER SIDE,LHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "(13406756)",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,PASSENGER SIDE,RHD (NLS.- USE 39079607)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "39079607",
+    "desc": "HOUSING,AIR VENT,NOZZLE,INNER,PASSENGER SIDE,RHD",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "16",
+    "part": "",
+    "desc": "GRILLE,SIDE DEFROST,OUTER (PLEASE REFER TO GROUP D) (INSTRUMENT PANEL AND CONSOLE TRIM) (SHORTCUT: B16.D1)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 76,
+        "y": 1065
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(13413124)",
+    "desc": "GRILLE,DEFROSTER,INSTRUMENT PANEL,CENTRE (NLS.- USE 39056777)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 507,
+        "y": 506
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "39056777",
+    "desc": "GRILLE,DEFROSTER,INSTRUMENT PANEL,CENTRE",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39135069",
+    "desc": "DUCT,AIR,CONSOLE,CENTRE,LHD (FOR WIRELESS CHARGING,RPO K4C)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 730,
+        "y": 1538
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39220570",
+    "desc": "DUCT,AIR,CONSOLE,CENTRE,RHD (FOR WIRELESS CHARGING,RPO K4C)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "39135070",
+    "desc": "DUCT,AIR,CONSOLE,CENTRE (FOR WIRELESS CHARGING,RPO K4C)",
+    "usage": "",
+    "range": "(C)  L8000001-\n(C)  LG000001-",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1328,
+        "y": 1467
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(11546970)",
+    "desc": "SCREW,TORX,M4 X 14 (FOR WIRELESS CHARGING,RPO K4C) (NLS.- USE YR00202680)",
+    "usage": "",
+    "range": "",
+    "qty": "3",
+    "positions": [
+      {
+        "x": 935,
+        "y": 1690
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "11546968",
+    "desc": "SCREW,TORX,M4 X 12 (FOR WIRELESS CHARGING,RPO K4C)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 483,
+        "y": 1371
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

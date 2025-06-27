@@ -1,0 +1,35 @@
+[
+  {
+    "call": "1",
+    "part": "(24290928)",
+    "desc": "HARNESS,ASSY.,AUTOMATIC TRANSMISSION (NLS.- USE 24042636)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(24042636)",
+    "desc": "HARNESS,ASSY.,AUTOMATIC TRANSMISSION (NLS.- USE 24042660)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(24290926)",
+    "desc": "-SEAL (NLS.- USE 24280824)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

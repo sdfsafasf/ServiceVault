@@ -1,0 +1,57 @@
+[
+  {
+    "call": "17",
+    "part": "12667052",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (STD.)",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "17",
+    "part": "(12666883)",
+    "desc": "PISTON,PIN AND RINGS,ASSY. (0.25MM O/S) (NLS.- NO REPLACEMENT PART)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18X",
+    "part": "55588455",
+    "desc": "-RING SET,PISTON,STD.",
+    "qty": "4",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "12639680",
+    "desc": "-RING,SNAP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "12639680",
+    "desc": "-RING,SNAP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

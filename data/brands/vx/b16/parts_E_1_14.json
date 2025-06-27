@@ -1,0 +1,35 @@
+[
+  {
+    "call": "2",
+    "part": "(55495865)",
+    "desc": "ENGINE,ASSY.,STRIPPED (EMISSION CODE NE4) (NLS.- NO REPLACEMENT PART) (IDENT HMJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55497384)",
+    "desc": "ENGINE,ASSY.,STRIPPED (EMISSION CODE NE4) (NLS.- NO REPLACEMENT PART) (IDENT HMJ)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "(55508842)",
+    "desc": "ENGINE,ASSY.,STRIPPED (EMISSION CODE NCV) (NLS.- NO REPLACEMENT PART) (IDENT JRG)",
+    "qty": "1",
+    "usage": "",
+    "range": "(C)  J8000001-\n(C)  JG000001-",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "call": "4",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,CRANKSHAFT,BEARING CAP,THREEBOND 1227,80ML (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12X",
+    "part": "(12657719)",
+    "desc": "BEARING KIT (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 12668199 6 18 435)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12X",
+    "part": "(12668199)",
+    "desc": "BEARING KIT (FOR STOP/START ENGINE SYSTEM,RPO KL9) (NLS.- USE 12693093)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12X",
+    "part": "25204450",
+    "desc": "BEARING KIT (EXCEPT RPO KL9,ENGINE STOP / START SYSTEM)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "(12653686)",
+    "desc": "SEAL,OIL,CRANKSHAFT,FRONT (NLS.- USE 12661527 6 14 222)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "12661527",
+    "desc": "SEAL,OIL,CRANKSHAFT,FRONT",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "12653685",
+    "desc": "SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

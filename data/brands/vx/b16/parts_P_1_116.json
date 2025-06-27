@@ -1,0 +1,35 @@
+[
+  {
+    "call": "29",
+    "part": "(12677718)",
+    "desc": "SENSOR,EXHAUST PRESSURE DIFFERENCE (EMISSION CODE NCV) (NLS.- USE 55500458)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "29",
+    "part": "55500458",
+    "desc": "SENSOR,EXHAUST PRESSURE DIFFERENCE (EMISSION CODE NCV)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "30",
+    "part": "(11546389)",
+    "desc": "NUT,M6 (NLS.- USE YR00713080)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "call": "6",
+    "part": "(90297970)",
+    "desc": "COMPOUND,SEALING,LOCTITE 518,65ML,SEAL,OIL,CAMSHAFT (NLS.- USE 95599844) (IDENT SC09)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "55569186",
+    "desc": "-CAMSHAFT,INLET",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "55569187",
+    "desc": "-CAMSHAFT,EXHAUST",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

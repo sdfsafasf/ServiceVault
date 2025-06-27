@@ -1,0 +1,42 @@
+[
+  {
+    "code": "1",
+    "name": "ENGINE AND COOLING"
+  },
+  {
+    "code": "2",
+    "name": "TRANSMISSION"
+  },
+  {
+    "code": "3",
+    "name": "BRAKES"
+  },
+  {
+    "code": "4",
+    "name": "INSTRUMENTS"
+  },
+  {
+    "code": "5",
+    "name": "EXTERIOR LIGHTING"
+  },
+  {
+    "code": "6",
+    "name": "INTERIOR LIGHTING"
+  },
+  {
+    "code": "7",
+    "name": "WIRING HARNESS"
+  },
+  {
+    "code": "8",
+    "name": "FUSE BOX,FUSES AND RELAYS"
+  },
+  {
+    "code": "9",
+    "name": "AUDIO, NAVIGATION AND DEVICE CONNECTIVITY"
+  },
+  {
+    "code": "10",
+    "name": "BODY"
+  }
+]

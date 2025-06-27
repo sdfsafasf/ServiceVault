@@ -1,0 +1,50 @@
+[
+  {
+    "call": "1",
+    "part": "13383366",
+    "desc": "WHEEL,ROAD,6J X 15 (IDENT AAT7)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 543,
+        "y": 127
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2",
+    "part": "13383367",
+    "desc": "WHEEL,ROAD,6.5J X 16 (IDENT AAT8)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 1485,
+        "y": 204
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "13383368",
+    "desc": "WHEEL,ROAD,6.5J X 16 (IDENT AAT9)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [
+      {
+        "x": 627,
+        "y": 1234
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

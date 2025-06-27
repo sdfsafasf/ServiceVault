@@ -1,0 +1,35 @@
+[
+  {
+    "call": "21X",
+    "part": "(13590537)",
+    "desc": "ACTUATOR,ASSY. (NLS.- USE 13529269)",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "13590540",
+    "desc": "-SCREW",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23X",
+    "part": "13590536",
+    "desc": "-KIT,SEAL",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

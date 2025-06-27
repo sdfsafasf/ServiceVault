@@ -1,0 +1,233 @@
+[
+  {
+    "call": "2",
+    "part": "(93165267)",
+    "desc": "COMPOUND,SEALING,CRANKSHAFT,BEARING CAP,THREEBOND 1227,80ML (NLS.- USE 1679592380) (IDENT SC11)",
+    "qty": "AR",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55514332",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 1 (2.422-2.428MM) (IDENT W)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55514333",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 1 (2.428-2.434MM) (IDENT X)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "8",
+    "part": "55514334",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 1 (2.434-2.440MM) (IDENT Z)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55514335",
+    "desc": "BEARING,THRUST,UPPER (2.422-2.428MM) (IDENT W)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55514336",
+    "desc": "BEARING,THRUST,UPPER (2.428-2.434MM) (IDENT X)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "9",
+    "part": "55514337",
+    "desc": "BEARING,THRUST,UPPER (2.434-2.440MM) (IDENT Z)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55514329",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 3 (2.422-2.428MM) (IDENT W)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55514330",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 3 (2.428-2.434MM) (IDENT X)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "10",
+    "part": "55514331",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 3 (2.434-2.440MM) (IDENT Z)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55514326",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 4 (2.422-2.428MM) (IDENT W)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55514327",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 4 (2.428-2.434MM) (IDENT X)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "11",
+    "part": "55514328",
+    "desc": "BEARING,CRANKSHAFT,UPPER,POSITION 4 (2.434-2.440MM) (IDENT Z)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55497818",
+    "desc": "BEARING,CRANKSHAFT,LOWER,POSITION 1 (2.422-2.428MM) (IDENT W)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55497819",
+    "desc": "BEARING,CRANKSHAFT,LOWER,POSITION 1 (2.428-2.434MM) (IDENT X)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "12",
+    "part": "55497820",
+    "desc": "BEARING,CRANKSHAFT,LOWER,POSITION 1 (2.434-2.440MM) (IDENT Z)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55497814",
+    "desc": "BEARING,CRANKSHAFT,LOWER,POSITION 2, 3 & 4 (2.422-2.428MM) (IDENT W)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55497815",
+    "desc": "BEARING,CRANKSHAFT,LOWER,POSITION 2, 3 & 4 (2.428-2.434MM) (IDENT X)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "13",
+    "part": "55497816",
+    "desc": "BEARING,CRANKSHAFT,LOWER,POSITION 2, 3 & 4 (2.434-2.440MM) (IDENT Z)",
+    "qty": "3",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "14",
+    "part": "(55489530)",
+    "desc": "GEAR,BALANCE SHAFT (NLS.- USE 55514977)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "15",
+    "part": "12693989",
+    "desc": "'O'RING",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

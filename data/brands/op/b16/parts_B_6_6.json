@@ -1,0 +1,318 @@
+[
+  {
+    "call": "18",
+    "part": "(39094291)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (EXCEPT DAB RADIO SYSTEM) (NLS.- USE 39094300)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1685,
+        "y": 52
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13475462)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39088579)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39088579)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q) (NLS.- USE 39094301)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094301",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (EXCEPT RPO US3,WINDOW DIVERSITY ANTENNA SYSTEM) (FOR DAB RADIO,RPO U2Q)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(13475462)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (NLS.- USE 39088579)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "(39088579)",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3) (NLS.- USE 39094301)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "39094301",
+    "desc": "SPOILER,REAR,TAIL GATE,PRIMED (FOR WINDOW DIVERSITY ANTENNA SYSTEM,RPO US3)",
+    "usage": "",
+    "range": "",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(11519375)",
+    "desc": "SCREW,HEX.HD. (NLS.- USE YQ00159180)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1838,
+        "y": 688
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "39023773",
+    "desc": "NUT",
+    "usage": "",
+    "range": "",
+    "qty": "5",
+    "positions": [
+      {
+        "x": 1328,
+        "y": 226
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(39032117)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,LH (EXCEPT RPO TC2,POWER OPENING TAILGATE) (NLS.- USE 39076823)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1138,
+        "y": 614
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(39076823)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,LH (EXCEPT RPO TC2,POWER OPENING TAILGATE) (NLS.- USE 39078188)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39078188",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,LH (EXCEPT RPO TC2,POWER OPENING TAILGATE)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(39032118)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,RH (EXCEPT RPO TC2,POWER OPENING TAILGATE) (NLS.- USE 39076824)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "(39076824)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,RH (EXCEPT RPO TC2,POWER OPENING TAILGATE) (NLS.- USE 39078189)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "21",
+    "part": "39078189",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,RH (EXCEPT RPO TC2,POWER OPENING TAILGATE)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39032119)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,LH,WITH SENSOR (FOR POWER OPENING TAILGATE,RPO TC2) (NLS.- USE 39076825)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [
+      {
+        "x": 1160,
+        "y": 999
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39076825)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,LH,WITH SENSOR (FOR POWER OPENING TAILGATE,RPO TC2) (NLS.- USE 39078190)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39078190",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,LH,WITH SENSOR (FOR POWER OPENING TAILGATE,RPO TC2)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39032120)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,RH,WITH SENSOR (FOR POWER OPENING TAILGATE,RPO TC2) (NLS.- USE 39076826)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "(39076826)",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,RH,WITH SENSOR (FOR POWER OPENING TAILGATE,RPO TC2) (NLS.- USE 39078191)",
+    "usage": "",
+    "range": "(C)      -G8999999\n(C)      -GG999999",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "22",
+    "part": "39078191",
+    "desc": "SPOILER,REAR,TAIL GATE,SIDE,RH,WITH SENSOR (FOR POWER OPENING TAILGATE,RPO TC2)",
+    "usage": "",
+    "range": "(C)  H8000001-\n(C)  HG000001-",
+    "qty": "1",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "23",
+    "part": "15893516",
+    "desc": "-RETAINER",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1166,
+        "y": 883
+      },
+      {
+        "x": 1144,
+        "y": 501
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "24",
+    "part": "(39023771)",
+    "desc": "-STUD (NLS.- USE 39114689)",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1257,
+        "y": 917
+      },
+      {
+        "x": 1248,
+        "y": 526
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "25",
+    "part": "39023773",
+    "desc": "NUT",
+    "usage": "",
+    "range": "",
+    "qty": "AR",
+    "positions": [
+      {
+        "x": 1465,
+        "y": 461
+      },
+      {
+        "x": 1474,
+        "y": 847
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

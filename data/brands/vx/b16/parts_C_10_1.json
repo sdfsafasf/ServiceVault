@@ -1,0 +1,61 @@
+[
+  {
+    "call": "18",
+    "part": "(13456208)",
+    "desc": "LINK,CHECK,FRONT DOOR (NLS.- USE YQ00232780)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1565,
+        "y": 2217
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "18",
+    "part": "YQ00232780",
+    "desc": "LINK,CHECK,FRONT DOOR",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "19",
+    "part": "(11570007)",
+    "desc": "SCREW,HEX.HD.,M8 X 23 (NLS.- USE YR00713680)",
+    "usage": "",
+    "range": "",
+    "qty": "2",
+    "positions": [
+      {
+        "x": 1461,
+        "y": 2458
+      }
+    ],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "20",
+    "part": "(11546364)",
+    "desc": "NUT,HEX.,M6 (NLS.- USE YQ00161880)",
+    "usage": "",
+    "range": "",
+    "qty": "4",
+    "positions": [
+      {
+        "x": 1995,
+        "y": 1731
+      }
+    ],
+    "reach": [],
+    "history": []
+  }
+]

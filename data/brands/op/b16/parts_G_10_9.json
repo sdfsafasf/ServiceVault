@@ -1,0 +1,112 @@
+[
+  {
+    "call": "1",
+    "part": "(55490709)",
+    "desc": "PUMP,ASSY.,FUEL INJECTION (EXCHANGE - REMAN PART 95521618) (NLS.- USE 55495425)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55495425)",
+    "desc": "PUMP,ASSY.,FUEL INJECTION (EMISSION CODE NE4) (EXCHANGE - REMAN PART 95522506) (NLS.- USE 55508598)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95521618)",
+    "desc": "PUMP,ASSY.,FUEL INJECTION,EXCHANGE - REMAN (CORE RETURN NO. 95524449) (NLS.- USE 95522506)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95522506)",
+    "desc": "PUMP,ASSY.,FUEL INJECTION,EXCHANGE - REMAN (EMISSION CODE NE4) (CORE RETURN NO. 95524449) (NLS.- USE 95528384)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(55495426)",
+    "desc": "PUMP,ASSY.,FUEL INJECTION (EMISSION CODE NCV) (EXCHANGE - REMAN PART 95522510) (NLS.- USE 55508599)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "1",
+    "part": "(95522510)",
+    "desc": "PUMP,ASSY.,FUEL INJECTION,EXCHANGE - REMAN (EMISSION CODE NCV) (CORE RETURN NO. 95524449) (NLS.- USE 95528385)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "(55582725)",
+    "desc": "-VALVE,PRESSURE CONTROL,KIT,FUEL INJECTION PUMP (NLS.- USE 55495697)",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "2X",
+    "part": "55495697",
+    "desc": "-VALVE,PRESSURE CONTROL,KIT,FUEL INJECTION PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "3",
+    "part": "55486852",
+    "desc": "-'O'RING,FUEL INJECTION PUMP",
+    "qty": "1",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "55585667",
+    "desc": "SCREW,M8 X 47 MM,FUEL INJECTION PUMP",
+    "qty": "2",
+    "usage": "",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]

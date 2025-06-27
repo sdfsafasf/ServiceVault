@@ -1,0 +1,473 @@
+{
+  "sectionTitle": "Body Hardware and Trim",
+  "isOpen": true,
+  "nestedSections": [
+    {
+      "title": "Exterior Trim",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Liftgate Emblem/Nameplate Replacement",
+              "url": "astra-k/4335774.pdf"
+            },
+            {
+              "title": "Front Side Door Window Frame Rear Applique Replacement",
+              "url": "astra-k/3689127.pdf"
+            },
+            {
+              "title": "Body Lock Pillar Molding Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4219102.pdf"
+            },
+            {
+              "title": "Body Lock Pillar Molding Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4502458.pdf"
+            },
+            {
+              "title": "Liftgate Side Spoiler Replacement",
+              "url": "astra-k/4335776.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Frame Front Applique Replacement",
+              "url": "astra-k/4179519.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Opening Insert Replacement - Center",
+              "url": "astra-k/4780575.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Opening Insert Replacement - Outer",
+              "url": "astra-k/4780580.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Bezel Replacement",
+              "url": "astra-k/4219099.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Bezel Replacement - Center",
+              "url": "astra-k/4780599.pdf"
+            },
+            {
+              "title": "Front Fog Lamp Bezel Replacement - Outer",
+              "url": "astra-k/4780601.pdf"
+            },
+            {
+              "title": "Radiator Grille Emblem/Nameplate Replacement (Opel/Vauxhall)",
+              "url": "astra-k/4219098.pdf"
+            },
+            {
+              "title": "Radiator Grille Emblem/Nameplate Replacement (Holden)",
+              "url": "astra-k/4598855.pdf"
+            },
+            {
+              "title": "Front Grille Replacement",
+              "url": "astra-k/4219100.pdf"
+            },
+            {
+              "title": "Front Lower Grille Replacement",
+              "url": "astra-k/4229406.pdf"
+            },
+            {
+              "title": "Front Fender Upper Rear Molding Replacement",
+              "url": "astra-k/4583291.pdf"
+            },
+            {
+              "title": "Roof Panel Joint Finish Molding Replacement",
+              "url": "astra-k/4335772.pdf"
+            },
+            {
+              "title": "Rear End Spoiler Replacement",
+              "url": "astra-k/4219101.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Description and Operation",
+          "subsections": [
+            {
+              "title": "Water Management Description and Operation",
+              "url": "astra-k/2171610.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Floor Coverings and Headlinings",
+      "subsections": [
+        {
+          "title": "Floor Carpet Drying",
+          "url": "astra-k/2142193.pdf"
+        },
+        {
+          "title": "Front Floor Panel Carpet Replacement",
+          "url": "astra-k/4217543.pdf"
+        },
+        {
+          "title": "Headlining Trim Panel Replacement (5-Door Hatchback)",
+          "url": "astra-k/5040836.pdf"
+        },
+        {
+          "title": "Headlining Trim Panel Replacement (5-Door Wagon 35)",
+          "url": "astra-k/5040837.pdf"
+        },
+        {
+          "title": "Wire to Wire Repair - Headliner",
+          "url": "astra-k/2783672.pdf"
+        },
+        {
+          "title": "Connector Reconnection - Headliner",
+          "url": "astra-k/4193976.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Instrument Panel and Console Trim",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Instrument Panel Lower Trim Panel Insulator Replacement",
+              "url": "astra-k/4070602.pdf"
+            },
+            {
+              "title": "Instrument Panel Accessory Bracket Replacement",
+              "url": "astra-k/4217563.pdf"
+            },
+            {
+              "title": "Instrument Panel Knee Bolster Compartment Replacement",
+              "url": "astra-k/3686449.pdf"
+            },
+            {
+              "title": "Instrument Panel Trim Plate Applique Replacement",
+              "url": "astra-k/4217559.pdf"
+            },
+            {
+              "title": "Instrument Panel Trim Plate Applique Replacement - Right Side",
+              "url": "astra-k/4261568.pdf"
+            },
+            {
+              "title": "Instrument Panel Trim Plate Applique Replacement - Left Side",
+              "url": "astra-k/4261592.pdf"
+            },
+            {
+              "title": "Instrument Panel Trim Plate Replacement",
+              "url": "astra-k/4217545.pdf"
+            },
+            {
+              "title": "Instrument Panel Lower Trim Plate Applique Replacement",
+              "url": "astra-k/4282105.pdf"
+            },
+            {
+              "title": "Instrument Panel Fuse Block Access Cover Frame Replacement",
+              "url": "astra-k/4217564.pdf"
+            },
+            {
+              "title": "Instrument Panel Outer Trim Cover Replacement - Right Side (LHD)",
+              "url": "astra-k/4217546.pdf"
+            },
+            {
+              "title": "Instrument Panel Outer Trim Cover Replacement - Right Side (RHD)",
+              "url": "astra-k/4697120.pdf"
+            },
+            {
+              "title": "Instrument Panel Outer Trim Cover Replacement - Left Side (LHD)",
+              "url": "astra-k/4217547.pdf"
+            },
+            {
+              "title": "Instrument Panel Outer Trim Cover Replacement - Left Side (RHD)",
+              "url": "astra-k/4697128.pdf"
+            },
+            {
+              "title": "Instrument Panel Lower Trim Panel Replacement",
+              "url": "astra-k/4217557.pdf"
+            },
+            {
+              "title": "Instrument Panel Center Compartment Door Replacement",
+              "url": "astra-k/4217565.pdf"
+            },
+            {
+              "title": "Instrument Panel Compartment Replacement",
+              "url": "astra-k/4217548.pdf"
+            },
+            {
+              "title": "Instrument Panel Compartment Door Replacement",
+              "url": "astra-k/4217549.pdf"
+            },
+            {
+              "title": "Instrument Panel Compartment Door Dampener Replacement",
+              "url": "astra-k/4217550.pdf"
+            },
+            {
+              "title": "Windshield Defroster Nozzle Grille Replacement",
+              "url": "astra-k/4672123.pdf"
+            },
+            {
+              "title": "Instrument Panel Assembly Replacement",
+              "url": "astra-k/4217551.pdf"
+            },
+            {
+              "title": "Instrument Panel Tie Bar Replacement",
+              "url": "astra-k/4280635.pdf"
+            },
+            {
+              "title": "Instrument Panel Tie Bar Brace Replacement",
+              "url": "astra-k/4328113.pdf"
+            },
+            {
+              "title": "Instrument Panel Wiring Harness Replacement",
+              "url": "astra-k/3687856.pdf"
+            },
+            {
+              "title": "Wire to Wire Repair - Instrument Panel and Console",
+              "url": "astra-k/2783672.pdf"
+            },
+            {
+              "title": "Connector Reconnection - Instrument Panel and Console",
+              "url": "astra-k/4193976.pdf"
+            },
+            {
+              "title": "Front Floor Console Wiring Harness Replacement",
+              "url": "astra-k/4217562.pdf"
+            },
+            {
+              "title": "Front Floor Console Compartment Replacement",
+              "url": "astra-k/4217552.pdf"
+            },
+            {
+              "title": "Front Floor Console Rear Trim Panel Replacement (DBU)",
+              "url": "astra-k/4217560.pdf"
+            },
+            {
+              "title": "Front Floor Console Rear Trim Panel Replacement (except DBU)",
+              "url": "astra-k/4217561.pdf"
+            },
+            {
+              "title": "Front Floor Console Extension Panel Replacement - Right Side",
+              "url": "astra-k/4288218.pdf"
+            },
+            {
+              "title": "Front Floor Console Extension Panel Replacement - Left Side",
+              "url": "astra-k/4288214.pdf"
+            },
+            {
+              "title": "Front Floor Console Replacement",
+              "url": "astra-k/4217553.pdf"
+            },
+            {
+              "title": "Front Floor Rear Console Side Trim Panel Replacement",
+              "url": "astra-k/3689066.pdf"
+            },
+            {
+              "title": "Front Floor Console Bracket Replacement",
+              "url": "astra-k/4217556.pdf"
+            },
+            {
+              "title": "Front Floor Console Armrest Replacement",
+              "url": "astra-k/4217554.pdf"
+            },
+            {
+              "title": "Front Floor Console Trim Plate Replacement",
+              "url": "astra-k/4217555.pdf"
+            },
+            {
+              "title": "Roof Console Backing Plate Replacement",
+              "url": "astra-k/4959881.pdf"
+            },
+            {
+              "title": "Roof Console Replacement",
+              "url": "astra-k/4959879.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interior Trim and Paneling",
+      "nestedSections": [
+        {
+          "title": "Specifications",
+          "subsections": [
+            {
+              "title": "Fastener Specifications",
+              "url": "astra-k/4580982.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Repair Instructions",
+          "subsections": [
+            {
+              "title": "Rear Side Door Armrest Pull Cup Replacement",
+              "url": "astra-k/4250089.pdf"
+            },
+            {
+              "title": "Front Side Door Pull Handle Cover Replacement",
+              "url": "astra-k/4218294.pdf"
+            },
+            {
+              "title": "Front Side Door Inside Handle Bolt Finish Cap Replacement",
+              "url": "astra-k/3686481.pdf"
+            },
+            {
+              "title": "Rear Side Door Inside Handle Bolt Cap Replacement",
+              "url": "astra-k/3686492.pdf"
+            },
+            {
+              "title": "Front Side Door Trim Replacement",
+              "url": "astra-k/4259688.pdf"
+            },
+            {
+              "title": "Front Side Door Water Deflector Replacement",
+              "url": "astra-k/4289769.pdf"
+            },
+            {
+              "title": "Rear Side Door Water Deflector Replacement",
+              "url": "astra-k/4297968.pdf"
+            },
+            {
+              "title": "Rear Side Door Window Garnish Molding Replacement",
+              "url": "astra-k/4297970.pdf"
+            },
+            {
+              "title": "Front Side Door Window Garnish Molding Replacement",
+              "url": "astra-k/4328816.pdf"
+            },
+            {
+              "title": "Front Side Door Sill Garnish Molding Replacement",
+              "url": "astra-k/4218299.pdf"
+            },
+            {
+              "title": "Rear Side Door Sill Garnish Molding Replacement",
+              "url": "astra-k/4218300.pdf"
+            },
+            {
+              "title": "Roof Rail Assist Handle Replacement",
+              "url": "astra-k/4218296.pdf"
+            },
+            {
+              "title": "Sunshade Replacement",
+              "url": "astra-k/4070627.pdf"
+            },
+            {
+              "title": "Sunshade Support Replacement",
+              "url": "astra-k/4062026.pdf"
+            },
+            {
+              "title": "Windshield Garnish Molding Replacement",
+              "url": "astra-k/4061970.pdf"
+            },
+            {
+              "title": "Center Pillar Trim Panel Replacement",
+              "url": "astra-k/4256582.pdf"
+            },
+            {
+              "title": "Body Lock Pillar Upper Trim Panel Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4218286.pdf"
+            },
+            {
+              "title": "Body Lock Pillar Upper Trim Panel Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4332249.pdf"
+            },
+            {
+              "title": "Quarter Window Lower Trim Finish Panel Replacement",
+              "url": "astra-k/4332252.pdf"
+            },
+            {
+              "title": "Quarter Window Trim Finish Panel Replacement",
+              "url": "astra-k/4332253.pdf"
+            },
+            {
+              "title": "Rear End Trim Finish Panel Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4218293.pdf"
+            },
+            {
+              "title": "Rear Compartment Partition Lower Rail Replacement",
+              "url": "astra-k/4331641.pdf"
+            },
+            {
+              "title": "Rear Compartment Partition Upper Rail Replacement",
+              "url": "astra-k/4331647.pdf"
+            },
+            {
+              "title": "Rear Side Door Trim Replacement",
+              "url": "astra-k/4218291.pdf"
+            },
+            {
+              "title": "Liftgate Sill Garnish Molding Replacement",
+              "url": "astra-k/4218302.pdf"
+            },
+            {
+              "title": "Liftgate Upper Center Trim Finish Panel Replacement",
+              "url": "astra-k/4329350.pdf"
+            },
+            {
+              "title": "Liftgate Upper Side Trim Finish Panel Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4218298.pdf"
+            },
+            {
+              "title": "Liftgate Upper Side Trim Finish Panel Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4329351.pdf"
+            },
+            {
+              "title": "Liftgate Lower Trim Finish Panel Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4218295.pdf"
+            },
+            {
+              "title": "Liftgate Lower Trim Finish Panel Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4329349.pdf"
+            },
+            {
+              "title": "Rear Compartment Side Trim Replacement - Left Side (5-Door Hatchback 68)",
+              "url": "astra-k/4218289.pdf"
+            },
+            {
+              "title": "Rear Compartment Side Trim Replacement - Left Side (5-Door Wagon 35)",
+              "url": "astra-k/4332250.pdf"
+            },
+            {
+              "title": "Rear Compartment Side Trim Replacement - Right Side (5-Door Hatchback 68)",
+              "url": "astra-k/4218290.pdf"
+            },
+            {
+              "title": "Rear Compartment Side Trim Replacement - Right Side (5-Door Wagon 35)",
+              "url": "astra-k/4332251.pdf"
+            },
+            {
+              "title": "Cargo Tie Down Loop Replacement",
+              "url": "astra-k/4331635.pdf"
+            },
+            {
+              "title": "Body Lock Pillar Garnish Molding Replacement (5-Door Hatchback 68)",
+              "url": "astra-k/4218288.pdf"
+            },
+            {
+              "title": "Body Lock Pillar Garnish Molding Replacement (5-Door Wagon 35)",
+              "url": "astra-k/4329348.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

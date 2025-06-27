@@ -1,0 +1,90 @@
+[
+  {
+    "call": "4",
+    "part": "13453398",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR TORSION BEAM REAR AXLE WITH WATT LINKAGE,RPO GNG) (FOR STANDARD CHASSIS) (FOR REMOVABLE TRAILER COUPLING,RPO VQ9)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8014813",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13453397",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR TORSION BEAM REAR AXLE WITH WATT LINKAGE,RPO GNG) (FOR STANDARD CHASSIS) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8014813",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13453392",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR TORSION BEAM REAR AXLE WITHOUT WATT LINKAGE,RPO GNF) (FOR STANDARD CHASSIS) (FOR REMOVABLE TRAILER COUPLING,RPO VQ9)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8014813",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "13453391",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR TORSION BEAM REAR AXLE WITHOUT WATT LINKAGE,RPO GNF) (FOR STANDARD CHASSIS) (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING)",
+    "qty": "2",
+    "usage": "",
+    "range": "(C)      -G8014813",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39056534",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR STANDARD CHASSIS)",
+    "qty": "2",
+    "usage": "B10XFL[LE1],D10XFL[LE1],B14XE[LV7],B14XFL[LE2],D14XFL[LE2],B14XFT[LE2],D14XFT[LE2],B16SHT[LWC],D16SHT[LWC],B16DTE[LWQ],B16DTH[LVL],D16DTH[LVL],D16DTN[LVL],D16DTI[LXO],B16DTR[LVK],D16DTR[LVK]",
+    "range": "(C)  G8014814-K8999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39056534",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (FOR REMOVABLE TRAILER COUPLING,RPO VQ9)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  G8014814-K8999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39030538",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR (EXCEPT RPO VQ9,REMOVABLE TRAILER COUPLING)",
+    "qty": "2",
+    "usage": "B16DTU[LWV]",
+    "range": "(C)  G8014814-K8999999",
+    "positions": [],
+    "reach": [],
+    "history": []
+  },
+  {
+    "call": "4",
+    "part": "39097910",
+    "desc": "SHOCK ABSORBER,ASSY.,REAR",
+    "qty": "2",
+    "usage": "B14XNT[LFE],D14XNT[LFE]",
+    "range": "",
+    "positions": [],
+    "reach": [],
+    "history": []
+  }
+]
