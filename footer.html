@@ -1,0 +1,33 @@
+<footer style="
+  width: 100%;
+  padding: 2.8rem 0 2.4rem 0;
+  text-align: center;
+  color: var(--sv-font-color-muted, #888);
+  font-size: 1.06rem;
+  border-top: 1px solid var(--bs-border-color, #333);
+  background: var(--bs-body-bg, #21252b);
+">
+  ServiceVault © <span class="footer-year"></span>
+  &nbsp;|&nbsp;
+  <a href="#" class="footer-link" style="color:var(--sv-font-color-muted);text-decoration:none;margin:0 0.5rem;">Terms of Service</a>
+  &nbsp;|&nbsp;
+  <a href="#" class="footer-link" style="color:var(--sv-font-color-muted);text-decoration:none;margin:0 0.5rem;">Privacy Policy</a>
+  <style>
+    .footer-link {
+      transition: color 0.18s, filter 0.18s;
+    }
+    .footer-link:hover {
+      color: #bbc7d8 !important;  /* subtle light color */
+      text-decoration: none !important;
+      filter: brightness(1.3);
+    }
+  </style>
+</footer>
+<script>
+  // Set footer year on load
+  (function(){
+    var spans = document.querySelectorAll('.footer-year');
+    var year = (new Date()).getFullYear();
+    for(var i=0;i<spans.length;i++){spans[i].textContent = year;}
+  })();
+</script>
