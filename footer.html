@@ -7,7 +7,7 @@
   border-top: 1px solid var(--bs-border-color, #333);
   background: var(--bs-body-bg, #21252b);
 ">
-  ServiceVault © <span class="footer-year"></span>
+    ServiceVault <span id="footer-version"></span> © <span class="footer-year"></span>
   &nbsp;|&nbsp;
   <a href="#" class="footer-link" style="color:var(--sv-font-color-muted);text-decoration:none;margin:0 0.5rem;">Terms of Service</a>
   &nbsp;|&nbsp;
@@ -23,11 +23,4 @@
     }
   </style>
 </footer>
-<script>
-  // Set footer year on load
-  (function(){
-    var spans = document.querySelectorAll('.footer-year');
-    var year = (new Date()).getFullYear();
-    for(var i=0;i<spans.length;i++){spans[i].textContent = year;}
-  })();
-</script>
+

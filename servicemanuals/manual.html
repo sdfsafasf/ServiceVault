@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Service Manual - ServiceVault</title>
+  <title>ServiceVault - Manuals</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath fill='%23fff' opacity='1' d='M430.5 284.4l-31.82-79.54C383.7 177.6 357.7 160 328.4 160H183.6C154.3 160 128.3 177.6 117.4 204.8l-31.82 79.56C62.88 301.1 48 329.2 48 360V480c0 17.67 14.33 32 32 32H96c17.67 0 32-14.33 32-32v-32h288v32c0 17.67 14.33 32 32 32s32-14.33 32-32v-120C464 329.2 449.1 301.1 426.4 284.4zM161.9 222.7C165.5 213.8 174 208 183.6 208h144.8c9.598 0 18.1 5.76 21.66 14.66L366.6 264H145.4L161.9 222.7zM416 400H96v-40c0-26.47 21.53-48 48-48h224c26.47 0 48 21.53 48 48V400zM505.9 111.1H447.8l-21.37-31.1l21.37-31.1h58.14c4.619 0 7.619-5.048 5.246-9.001C497.2 15.66 471.7 0 442.4 0c-32.79 0-60.59 19.86-73.01 48H142.8C131.9 23.19 108.6 4.574 80.9 .7793c-33.87-4.641-64.28 11.89-80.05 38.19c-2.381 3.955 .6094 9.034 5.24 9.034H64.22l21.37 31.1L64.22 112H6.078c-4.619 0-7.619 5.047-5.246 9.002C14.82 144.3 40.33 160 69.57 160c32.79 0 60.59-19.86 73.01-47.1h226.6c10.97 24.81 34.23 43.43 61.94 47.22c33.87 4.641 64.28-11.89 80.05-38.19C513.5 117.1 510.5 111.1 505.9 111.1zM160 336c-13.25 0-24 10.74-24 24C136 373.3 146.7 384 160 384s24-10.75 24-24C184 346.7 173.3 336 160 336zM352 336c-13.25 0-24 10.74-24 24c0 13.25 10.75 24 24 24s24-10.75 24-24C376 346.7 365.3 336 352 336z'/%3E%3Cpath fill='white' opacity='0.4' d='M511.2 121c-15.77 26.3-46.18 42.83-80.05 38.19c-27.7-3.795-50.96-22.41-61.94-47.22H142.6C130.2 140.1 102.4 160 69.57 160C40.33 160 14.82 144.3 .832 121C-1.541 117 1.459 112 6.078 112H64.22l21.37-31.1L64.22 48H6.09c-4.631 0-7.621-5.068-5.24-9.034c15.77-26.3 46.18-42.83 80.05-38.19c27.7 3.795 50.96 22.41 61.94 47.22h226.6C381.8 19.86 409.6 0 442.4 0c29.23 0 54.75 15.66 68.73 38.1c2.373 3.955-.627 9.001-5.246 9.001H447.8l-21.37 31.1l21.37 31.1h58.13C510.5 111.1 513.5 117.1 511.2 121z'/%3E%3C/svg%3E">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
@@ -204,6 +204,12 @@ body[data-bs-theme="dark"]::-webkit-scrollbar-thumb:hover {
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="../vehiclelist.js"></script>
+  
+  
+  
+
+  
+  
  <script>
 document.addEventListener('DOMContentLoaded', () => {
 
@@ -466,18 +472,26 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // --- Part 5: Page Initialization ---
-  function initializePage() {
-    Promise.all([
-      fetch(getIncludePath('header.html')).then(r => r.text()).then(data => { document.getElementById('common-header').outerHTML = data; }),
-      fetch(getIncludePath('footer.html')).then(r => r.text()).then(data => {
-        document.getElementById('common-footer').innerHTML = data;
-        document.querySelectorAll('.footer-year').forEach(span => { span.textContent = new Date().getFullYear(); });
-      })
-    ]).then(() => {
-      setTheme(localStorage.getItem('theme') || 'dark');
-      initializeManual();
-    });
-  }
+function initializePage() {
+  Promise.all([
+    fetch(getIncludePath('header.html')).then(r => r.text()).then(data => { document.getElementById('common-header').outerHTML = data; }),
+    fetch(getIncludePath('footer.html')).then(r => r.text()).then(data => {
+      document.getElementById('common-footer').innerHTML = data;
+      document.querySelectorAll('.footer-year').forEach(span => { span.textContent = new Date().getFullYear(); });
+      // Electron version injection
+      if (window.api && typeof window.api.getVersion === 'function') {
+        window.api.getVersion().then(function(version){
+          var el = document.getElementById('footer-version');
+          if (el) el.textContent = 'v' + version;
+        });
+      }
+    })
+  ]).then(() => {
+    setTheme(localStorage.getItem('theme') || 'dark');
+    initializeManual();
+  });
+}
+
 
   initializePage();
   
