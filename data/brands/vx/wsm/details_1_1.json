@@ -1,0 +1,106 @@
+[
+  {
+    "code": "1",
+    "name": "AEROSOL SPRAY PAINT (SOLID (EXCEPT VAUXHALL))"
+  },
+  {
+    "code": "2",
+    "name": "AEROSOL SPRAY PAINT (SOLID (FOR VAUXHALL))"
+  },
+  {
+    "code": "3",
+    "name": "AEROSOL SPRAY PAINT (SOLID (NOT BRANDED))"
+  },
+  {
+    "code": "4",
+    "name": "AEROSOL SPRAY PAINT (2 COAT (EXCEPT VAUXHALL))"
+  },
+  {
+    "code": "5",
+    "name": "AEROSOL SPRAY PAINT (2 COAT (FOR VAUXHALL))"
+  },
+  {
+    "code": "6",
+    "name": "AEROSOL SPRAY PAINT (2 COAT (NOT BRANDED))"
+  },
+  {
+    "code": "7",
+    "name": "AEROSOL SPRAY PAINT (3 COAT (EXCEPT VAUXHALL))"
+  },
+  {
+    "code": "8",
+    "name": "AEROSOL SPRAY PAINT (3 COAT (FOR VAUXHALL))"
+  },
+  {
+    "code": "9",
+    "name": "AEROSOL SPRAY PAINT (3 COAT (NOT BRANDED))"
+  },
+  {
+    "code": "10",
+    "name": "AEROSOL SPRAY PAINT (1 COMPONENT CLEAR COAT)"
+  },
+  {
+    "code": "11",
+    "name": "MIXING PAINT (HYDRO-BASIC MIXING PAINT)"
+  },
+  {
+    "code": "12",
+    "name": "MIXING PAINT (CONTD.) (VOC MIXING PAINT)"
+  },
+  {
+    "code": "13",
+    "name": "OPEL COLOURMATIC PROFFESSIONAL LINE"
+  },
+  {
+    "code": "14",
+    "name": "OPEL PRIVAT(FOR AUSTRIA,GERMANY)"
+  },
+  {
+    "code": "15",
+    "name": "TOUCH-UP FOIL (SOLID (FOR OPEL/VAUXHALL))"
+  },
+  {
+    "code": "16",
+    "name": "TOUCH-UP FOIL (2 COAT (FOR OPEL/VAUXHALL))"
+  },
+  {
+    "code": "17",
+    "name": "TOUCH-UP PAINT (SOLID (EXCEPT VAUXHALL))"
+  },
+  {
+    "code": "18",
+    "name": "TOUCH-UP PAINT (SOLID (FOR VAUXHALL))"
+  },
+  {
+    "code": "19",
+    "name": "TOUCH-UP PAINT (SOLID (NOT BRANDED))"
+  },
+  {
+    "code": "20",
+    "name": "TOUCH-UP PAINT (2 COAT (EXCEPT VAUXHALL))"
+  },
+  {
+    "code": "21",
+    "name": "TOUCH-UP PAINT (2 COAT (FOR VAUXHALL))"
+  },
+  {
+    "code": "22",
+    "name": "TOUCH-UP PAINT (2 COAT (NOT BRANDED))"
+  },
+  {
+    "code": "23",
+    "name": "TOUCH-UP PAINT (3 COAT (EXCEPT VAUXHALL))"
+  },
+  {
+    "code": "24",
+    "name": "TOUCH-UP PAINT (3 COAT (FOR VAUXHALL))"
+  },
+  {
+    "code": "25",
+    "name": "TOUCH-UP PAINT (3 COAT (NOT BRANDED))"
+  },
+  {
+    "code": "26",
+    "name": "TOUCH-UP PAINT (1 COMPONENT CLEAR COAT)"
+  }
+]

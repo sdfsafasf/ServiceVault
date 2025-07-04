@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1",
+    "name": "AIR CONDITIONING"
+  },
+  {
+    "code": "2",
+    "name": "BRUSH"
+  },
+  {
+    "code": "3",
+    "name": "CAR CLEANING FLUIDS"
+  },
+  {
+    "code": "4",
+    "name": "CAR CLEANING FLUIDS (CONTD.)"
+  },
+  {
+    "code": "5",
+    "name": "CAR CLEANING SPONGE"
+  },
+  {
+    "code": "6",
+    "name": "CAR POLISH"
+  },
+  {
+    "code": "7",
+    "name": "CAR SHAMPOO"
+  },
+  {
+    "code": "8",
+    "name": "CHAMOIS LEATHER"
+  },
+  {
+    "code": "9",
+    "name": "CLEANING KIT"
+  },
+  {
+    "code": "10",
+    "name": "TEMPORARY TYRE REPAIR (FRONTERA-B)"
+  },
+  {
+    "code": "11",
+    "name": "TEMPORARY TYRE REPAIR (ASTRA-G)"
+  },
+  {
+    "code": "12",
+    "name": "TEMPORARY TYRE REPAIR (SPEEDSTER)"
+  },
+  {
+    "code": "13",
+    "name": "TEMPORARY TYRE REPAIR (TIGRA-B)"
+  },
+  {
+    "code": "14",
+    "name": "TEMPORARY TYRE REPAIR (VIVARO)"
+  },
+  {
+    "code": "15",
+    "name": "TEMPORARY TYRE REPAIR (ALL OTHER MODELS)"
+  },
+  {
+    "code": "16",
+    "name": "TYRE INFLATION COMPRESSOR"
+  },
+  {
+    "code": "17",
+    "name": "VEHICLE PROTECTION"
+  },
+  {
+    "code": "18",
+    "name": "WASTE BAGS"
+  },
+  {
+    "code": "19",
+    "name": "WINDSCREEN DE-ICER"
+  },
+  {
+    "code": "20",
+    "name": "WINTER CARE KIT"
+  }
+]
