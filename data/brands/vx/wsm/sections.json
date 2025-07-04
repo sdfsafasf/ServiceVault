@@ -1,58 +1,58 @@
 [
   {
-    "code": "A",
+    "code": "1",
     "name": "PAINTS"
   },
   {
-    "code": "B",
+    "code": "2",
     "name": "WIRING HARNESS REPAIR KITS"
   },
   {
-    "code": "C",
+    "code": "3",
     "name": "CAR CARE MATERIALS"
   },
   {
-    "code": "D",
+    "code": "4",
     "name": "ADHESIVES / REPAIR KITS"
   },
   {
-    "code": "E",
+    "code": "5",
     "name": "ANTI-FREEZE AND COOLANT"
   },
   {
-    "code": "F",
+    "code": "6",
     "name": "BODY REPAIR MATERIALS"
   },
   {
-    "code": "G",
+    "code": "7",
     "name": "BRAKE AND CLUTCH FLUID"
   },
   {
-    "code": "H",
+    "code": "8",
     "name": "OIL"
   },
   {
-    "code": "I",
+    "code": "9",
     "name": "GREASES AND PASTES"
   },
   {
-    "code": "J",
+    "code": "A",
     "name": "SEALANT"
   },
   {
-    "code": "K",
+    "code": "B",
     "name": "TOOLS AND PERSONAL PROTECTION"
   },
   {
-    "code": "L",
+    "code": "C",
     "name": "MISCELLANEOUS"
   },
   {
-    "code": "M",
+    "code": DM",
     "name": "EMISSION CONTROL FLUID / FUEL ADDITIVES"
   },
   {
-    "code": "N",
+    "code": "S",
     "name": "DIAGNOSTIC DEVICES"
   }
 ]
