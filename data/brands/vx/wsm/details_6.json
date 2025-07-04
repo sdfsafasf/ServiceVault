@@ -1,0 +1,34 @@
+[
+  {
+    "code": "1",
+    "name": "BODY REPAIR MATERIALS (HARDENER)"
+  },
+  {
+    "code": "2",
+    "name": "BODY REPAIR MATERIALS (FILLER)"
+  },
+  {
+    "code": "3",
+    "name": "BODY REPAIR MATERIALS (THINNER)"
+  },
+  {
+    "code": "4",
+    "name": "BODY REPAIR MATERIALS (PRIMER)"
+  },
+  {
+    "code": "5",
+    "name": "BODY REPAIR MATERIALS (LACQUER)"
+  },
+  {
+    "code": "6",
+    "name": "BODY REPAIR MATERIALS (PREPARATION)"
+  },
+  {
+    "code": "7",
+    "name": "BODY REPAIR MATERIALS (LOCKING COMPOUND)"
+  },
+  {
+    "code": "8",
+    "name": "BODY REPAIR MATERIALS (FIXINGS)"
+  }
+]

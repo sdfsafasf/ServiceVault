@@ -1,0 +1,234 @@
+[
+  {
+    "code": "1",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 0W-20)"
+  },
+  {
+    "code": "2",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 0W-20 (ACEA C5, PSA B71 2010))"
+  },
+  {
+    "code": "3",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 0W-30 (ACEA A3/B3, API SJ/CF))"
+  },
+  {
+    "code": "4",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 0W-30 (ACEA C1, PSA B71 2302/2312))"
+  },
+  {
+    "code": "5",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 0W-30 (LONGLIFE) (GM-LL-A-025, ACEA A5/B5, API SL/CF))"
+  },
+  {
+    "code": "6",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 0W-40 (GM-LL-A-025 / GM-LL-B-025, ACEA A3/B3/B4, API SL/CF))"
+  },
+  {
+    "code": "7",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-30 (ACEA C3, API SM/CF))"
+  },
+  {
+    "code": "8",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-20)"
+  },
+  {
+    "code": "9",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-30 (LONGLIFE) (GM-LL-A-025 / GM-LL-B-025, ACEA A3/B3/B4, API SL/CF))"
+  },
+  {
+    "code": "10",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-30 - DEXOS 1 (LONGLIFE) (GENERATION 2))"
+  },
+  {
+    "code": "11",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-30 - DEXOS 2 (LONGLIFE) (GMW16177, ACEA A3/B4/C3, API SM/CF))"
+  },
+  {
+    "code": "12",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-30 (PSA B71 2297))"
+  },
+  {
+    "code": "13",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-40 (ACEA A3/B3, API SJ/CF))"
+  },
+  {
+    "code": "14",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-40 (ACEA A3/B3/B4/C4, API SL/CF))"
+  },
+  {
+    "code": "15",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-40 (LONGLIFE) (GM-LL-B-025, ACEA A3/B3/B4))"
+  },
+  {
+    "code": "16",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 5W-40 (SUPREME PLUS) (ACEA A3/B4/C3, API SM/SN/CF))"
+  },
+  {
+    "code": "17",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 10W-40 (API SG/CD, CCMC G5/PD2))"
+  },
+  {
+    "code": "18",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 10W-40 (ACEA A3/B3/B4, API SL/CF))"
+  },
+  {
+    "code": "19",
+    "name": "ENGINE OIL (OPEL/VAUXHALL) (SAE 15W-40 (ACEA A3/B3, API SL/CF))"
+  },
+  {
+    "code": "20",
+    "name": "ENGINE OIL (OTHER BRANDS) (SAE 0W-20)"
+  },
+  {
+    "code": "21",
+    "name": "ENGINE OIL (OTHER BRANDS) (SAE 0W-30)"
+  },
+  {
+    "code": "22",
+    "name": "ENGINE OIL (OTHER BRANDS) (SAE 5W-30)"
+  },
+  {
+    "code": "23",
+    "name": "FRONT AXLE OIL"
+  },
+  {
+    "code": "24",
+    "name": "HYDRAULIC OIL (HYDRAULIC TAIL GATE OIL)"
+  },
+  {
+    "code": "25",
+    "name": "HYDRAULIC OIL (TIPPER BODY)"
+  },
+  {
+    "code": "26",
+    "name": "HYDRAULIC OIL (FOLDING ROOF)"
+  },
+  {
+    "code": "27",
+    "name": "POWER STEERING OIL (ASTRA-G/VECTRA-C/SIGNUM/ZAFIRA-A)"
+  },
+  {
+    "code": "28",
+    "name": "POWER STEERING OIL (ASTRA-H/MERIVA-B/ZAFIRA-B)"
+  },
+  {
+    "code": "29",
+    "name": "POWER STEERING OIL (ASTRA-J/COMBO-D/MOVANO-B/INSIGNIA/ZAFIRA-C)"
+  },
+  {
+    "code": "30",
+    "name": "POWER STEERING OIL (SINTRA)"
+  },
+  {
+    "code": "31",
+    "name": "POWER STEERING OIL (GT)"
+  },
+  {
+    "code": "32",
+    "name": "POWER STEERING OIL (VIVARO-B)"
+  },
+  {
+    "code": "33",
+    "name": "POWER STEERING OIL (ALL OTHER MODELS)"
+  },
+  {
+    "code": "34",
+    "name": "REAR AXLE OIL"
+  },
+  {
+    "code": "35",
+    "name": "TRANSFER BOX OIL"
+  },
+  {
+    "code": "36",
+    "name": "TRANSMISSION OIL - AUTOMATIC (CORSA-C)"
+  },
+  {
+    "code": "37",
+    "name": "TRANSMISSION OIL - AUTOMATIC (CORSA-D)"
+  },
+  {
+    "code": "38",
+    "name": "TRANSMISSION OIL - AUTOMATIC (ASTRA-G/ZAFIRA-A)"
+  },
+  {
+    "code": "39",
+    "name": "TRANSMISSION OIL - AUTOMATIC (ASTRA-H/ZAFIRA-B)"
+  },
+  {
+    "code": "40",
+    "name": "TRANSMISSION OIL - AUTOMATIC (ASTRA-J/ZAFIRA-C)"
+  },
+  {
+    "code": "41",
+    "name": "TRANSMISSION OIL - AUTOMATIC (ASTRA-K/INSIGNIA-B)"
+  },
+  {
+    "code": "42",
+    "name": "TRANSMISSION OIL - AUTOMATIC (VECTRA-B)"
+  },
+  {
+    "code": "43",
+    "name": "TRANSMISSION OIL - AUTOMATIC (VECTRA-C/SIGNUM)"
+  },
+  {
+    "code": "44",
+    "name": "TRANSMISSION OIL - AUTOMATIC (INSIGNIA)"
+  },
+  {
+    "code": "45",
+    "name": "TRANSMISSION OIL - AUTOMATIC (MERIVA-B)"
+  },
+  {
+    "code": "46",
+    "name": "TRANSMISSION OIL - AUTOMATIC (ANTARA)"
+  },
+  {
+    "code": "47",
+    "name": "TRANSMISSION OIL - AUTOMATIC (AMPERA)"
+  },
+  {
+    "code": "48",
+    "name": "TRANSMISSION OIL - AUTOMATIC (AMPERA-e)"
+  },
+  {
+    "code": "49",
+    "name": "TRANSMISSION OIL - AUTOMATIC (CROSSLAND X/GRANDLAND X)"
+  },
+  {
+    "code": "50",
+    "name": "TRANSMISSION OIL - AUTOMATIC (ALL OTHER MODELS)"
+  },
+  {
+    "code": "51",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (LOTUS OMEGA/CARLTON)"
+  },
+  {
+    "code": "52",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (ARENA)"
+  },
+  {
+    "code": "53",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (MOVANO/VIVARO)"
+  },
+  {
+    "code": "54",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (AGILA-A/B)"
+  },
+  {
+    "code": "55",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (COMBO-D)"
+  },
+  {
+    "code": "56",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (VIVA/KARL)"
+  },
+  {
+    "code": "57",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (COMBO E/CROSSLAND X/GRANDLAND X)"
+  },
+  {
+    "code": "58",
+    "name": "TRANSMISSION OIL - MANUAL / EASYTRONIC (ALL OTHER MODELS)"
+  }
+]
