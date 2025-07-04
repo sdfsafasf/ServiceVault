@@ -11,6 +11,14 @@
     { "code": "G09", "name": "Insignia-A (08-17)",    "epc": true,
     "servicemanual": true },
     { "code": "Z18", "name": "Insignia-B (17 - )",    "epc": true,
-    "servicemanual": true }
+    "servicemanual": true },
+	
+	
+	
+	
+	
+	
+	{ "code": "WSM", "name": "WORKSHOP MATERIALS",    "epc": true,
+    "servicemanual": false }
   ]
 }
