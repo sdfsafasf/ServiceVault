@@ -12,7 +12,8 @@
     "servicemanual": false },
     { "code": "Z18", "name": "Insignia-B (17 - )",    "epc": false,
     "servicemanual": false },
-	
+    { "code": "TST", "name": "TESTING",    "epc": false,
+    "servicemanual": false },
 	
 	
 	
