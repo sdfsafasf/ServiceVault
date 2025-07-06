@@ -6,7 +6,7 @@
     "servicemanual": false },
     { "code": "S07", "name": "Corsa-D (06-14)",    "epc": false,
     "servicemanual": false },
-    { "code": "X15", "name": "Corsa-E (14-19)",    "epc": false,
+    { "code": "X15", "name": "Corsa-E (14-19)",    "epc": true,
     "servicemanual": false },
     { "code": "G09", "name": "Insignia-A (08-17)",    "epc": false,
     "servicemanual": false },
