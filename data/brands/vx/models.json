@@ -18,7 +18,7 @@
     { "code": "Z18", "name": "Insignia-B (17 - )",    "epc": false,
     "servicemanual": true },
 
-	      { "code": "J13", "name": "Mokka",    "epc": false,
+	      { "code": "J13", "name": "Mokka-A",    "epc": false,
     "servicemanual": false },
 
 	{ "code": "WSM", "name": "WORKSHOP MATERIALS",    "epc": true,
