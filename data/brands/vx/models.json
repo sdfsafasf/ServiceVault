@@ -1,26 +1,34 @@
 {
   "vx": [
-    { "code": "B16", "name": "Astra-K (16 - )",     "epc": true,
+    { "code": "B16", "name": "Astra-K (16 - 22)",     "epc": true,
     "servicemanual": true },
 	  
-    { "code": "P10", "name": "Astra-J (10-20)",    "epc": false,
+    { "code": "P10", "name": "Astra-J (10 - 20)",    "epc": false,
     "servicemanual": true },
 	  
-    { "code": "S07", "name": "Corsa-D (06-14)",    "epc": false,
+    { "code": "S07", "name": "Corsa-D (06 - 14)",    "epc": false,
     "servicemanual": false },
 	  
-    { "code": "X15", "name": "Corsa-E (14-19)",    "epc": true,
+    { "code": "X15", "name": "Corsa-E (14 - 19)",    "epc": true,
     "servicemanual": true },
 	  
-    { "code": "G09", "name": "Insignia-A (08-17)",    "epc": false,
+    { "code": "G09", "name": "Insignia-A (08 - 17)",    "epc": false,
     "servicemanual": false },
 	  
     { "code": "Z18", "name": "Insignia-B (17 - )",    "epc": false,
     "servicemanual": true },
-
-	      { "code": "J13", "name": "Mokka-A",    "epc": false,
+	  
+	      { "code": "J13", "name": "Mokka-A (12 - 19)" ,    "epc": false,
+    "servicemanual": false },
+	  
+	{ "code": "M13", "name": "Adam (12 – 19)",    "epc": false,
     "servicemanual": false },
 
+
+
+
+
+	  
 	{ "code": "WSM", "name": "WORKSHOP MATERIALS",    "epc": true,
     "servicemanual": false }
   ]
