@@ -13,7 +13,7 @@
     "servicemanual": true },
 	  
     { "code": "G09", "name": "Insignia-A (08 - 17)",    "epc": false,
-    "servicemanual": false },
+    "servicemanual": true },
 	  
     { "code": "Z18", "name": "Insignia-B (17 - )",    "epc": false,
     "servicemanual": true },
