@@ -22,7 +22,7 @@
     "servicemanual": false },
 	  
 	{ "code": "M13", "name": "Adam (12 – 19)",    "epc": false,
-    "servicemanual": false },
+    "servicemanual": true },
 
 
 
