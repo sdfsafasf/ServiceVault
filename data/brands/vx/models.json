@@ -1,35 +1,42 @@
 {
   "vx": [
-    { "code": "B16", "name": "Astra-K (16 - 22)",     "epc": true,
+    { "code": "M13", "name": "Adam (12 - 19)", "epc": false,
     "servicemanual": true },
-	  
-    { "code": "P10", "name": "Astra-J (10 - 20)",    "epc": false,
+
+    { "code": "P10", "name": "Astra-J (09 - 15)", "epc": false,
     "servicemanual": true },
-	  
-    { "code": "S07", "name": "Corsa-D (06 - 14)",    "epc": false,
+
+    { "code": "B16", "name": "Astra-K (16 - 22)", "epc": true,
+    "servicemanual": true },
+
+    { "code": "X12", "name": "Combo D (11 - 18)", "epc": false,
+    "servicemanual": true },
+
+    { "code": "S07", "name": "Corsa-D (06 - 14)", "epc": false,
     "servicemanual": false },
-	  
-    { "code": "X15", "name": "Corsa-E (14 - 19)",    "epc": true,
-    "servicemanual": true },
-	  
-    { "code": "G09", "name": "Insignia-A (08 - 17)",    "epc": false,
-    "servicemanual": true },
-	  
-    { "code": "Z18", "name": "Insignia-B (17 - )",    "epc": false,
-    "servicemanual": true },
-	  
-	      { "code": "J13", "name": "Mokka-A (12 - 19)" ,    "epc": false,
-    "servicemanual": true },
-	  
-	{ "code": "M13", "name": "Adam (12 – 19)",    "epc": false,
+
+    { "code": "X15", "name": "Corsa-E (14 - 19)", "epc": true,
     "servicemanual": true },
 
+    { "code": "P17", "name": "Crossland X (17 - 20)", "epc": false,
+    "servicemanual": true },
 
+    { "code": "G09", "name": "Insignia-A (08 - 17)", "epc": false,
+    "servicemanual": true },
 
+    { "code": "Z18", "name": "Insignia-B (17 - )", "epc": false,
+    "servicemanual": true },
 
+    { "code": "J13", "name": "Mokka-A (12 - 19)", "epc": false,
+    "servicemanual": true },
 
-	  
-	{ "code": "WSM", "name": "WORKSHOP MATERIALS",    "epc": true,
-    "servicemanual": false }
+    { "code": "X62", "name": "Movano B (10 - 21)", "epc": false,
+    "servicemanual": true },
+
+    { "code": "WSM", "name": "WORKSHOP MATERIALS", "epc": true,
+    "servicemanual": false },
+
+    { "code": "A11", "name": "Zafira C/Tourer (11 - 19)", "epc": false,
+    "servicemanual": true }
   ]
 }
