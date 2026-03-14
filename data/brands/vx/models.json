@@ -4,8 +4,6 @@
 
     { "code": "R12", "name": "Ampera (12 - 15)", "epc": false, "servicemanual": true },
 
-    { "code": "H14", "name": "Ampera-E (17 - 19)", "epc": false, "servicemanual": false },
-
     { "code": "L07", "name": "Antara (06 - 15)", "epc": false, "servicemanual": true },
 
     { "code": "P10", "name": "Astra-J (09 - 15)", "epc": false, "servicemanual": true },
