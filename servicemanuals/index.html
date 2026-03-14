@@ -383,11 +383,24 @@ document.addEventListener('DOMContentLoaded', function() {
     return [];
   }
 
-  async function loadBrands() {
+ 
+   async function loadBrands() {
     try {
-      const response = await fetch('../data/brands.json');
-      if (!response.ok) throw new Error('Network error loading brands.json');
-      const brands = await response.json();
+      let brands = [];
+
+      if (window.api && window.api.readDataFile) {
+        try {
+          brands = JSON.parse(await window.api.readDataFile('data/brands.json'));
+        } catch {
+          const response = await fetch('../data/brands.json');
+          if (!response.ok) throw new Error('Network error loading brands.json');
+          brands = await response.json();
+        }
+      } else {
+        const response = await fetch('../data/brands.json');
+        if (!response.ok) throw new Error('Network error loading brands.json');
+        brands = await response.json();
+      }
 
       let downloadedMap = {};
       if (window.api && window.api.listDir) {
@@ -430,6 +443,9 @@ document.addEventListener('DOMContentLoaded', function() {
       syncMainHeight();
     }
   }
+ 
+ 
+ 
 
   async function loadModels(brandCode, brandName) {
     modelPageTitle.textContent = `Select a ${brandName} Model`;
@@ -438,10 +454,22 @@ document.addEventListener('DOMContentLoaded', function() {
     syncMainHeight();
 
     try {
-      const modelJsonPath = `../data/brands/${brandCode}/models.json`;
-      const response = await fetch(modelJsonPath);
-      if (!response.ok) throw new Error(`Could not find models file: ${modelJsonPath}`);
-      const data = await response.json();
+      const modelJsonPath = `data/brands/${brandCode}/models.json`;
+      let data = {};
+
+      if (window.api && window.api.readDataFile) {
+        try {
+          data = JSON.parse(await window.api.readDataFile(modelJsonPath));
+        } catch {
+          const response = await fetch(`../${modelJsonPath}`);
+          if (!response.ok) throw new Error(`Could not find models file: ${modelJsonPath}`);
+          data = await response.json();
+        }
+      } else {
+        const response = await fetch(`../${modelJsonPath}`);
+        if (!response.ok) throw new Error(`Could not find models file: ${modelJsonPath}`);
+        data = await response.json();
+      }
 
       let models = data[brandCode.toUpperCase()] || data[brandCode] || [];
       if (!Array.isArray(models)) throw new Error(`No models found for "${brandName}"`);
@@ -491,6 +519,9 @@ document.addEventListener('DOMContentLoaded', function() {
       syncMainHeight();
     }
   }
+
+
+
 
   backBtn.addEventListener('click', (e) => {
     e.preventDefault();
@@ -568,13 +599,27 @@ document.addEventListener('DOMContentLoaded', function() {
       const viewToShow = params.get('view');
 
       if (brandToShow && viewToShow === 'models') {
-        fetch('../data/brands.json')
-          .then(res => res.json())
-          .then(brands => {
-            const brandData = brands.find(b => b.code.toLowerCase() === brandToShow);
-            const brandName = brandData ? brandData.name : brandToShow.charAt(0).toUpperCase() + brandToShow.slice(1);
-            loadModels(brandToShow, brandName);
-          });
+        const loadBrandAndShowModels = async () => {
+          let brands = [];
+
+          if (window.api && window.api.readDataFile) {
+            try {
+              brands = JSON.parse(await window.api.readDataFile('data/brands.json'));
+            } catch {
+              const res = await fetch('../data/brands.json');
+              brands = await res.json();
+            }
+          } else {
+            const res = await fetch('../data/brands.json');
+            brands = await res.json();
+          }
+
+          const brandData = brands.find(b => b.code.toLowerCase() === brandToShow);
+          const brandName = brandData ? brandData.name : brandToShow.charAt(0).toUpperCase() + brandToShow.slice(1);
+          loadModels(brandToShow, brandName);
+        };
+
+        loadBrandAndShowModels();
       } else {
         loadBrands();
       }
@@ -727,16 +772,42 @@ async function loadBrandModelsAccordion(filter = "") {
   accordion.innerHTML = '<div class="text-center text-secondary py-3">Loading...</div>';
   allBrandsWithModels = [];
   try {
-    const brandsResp = await fetch('../data/brands.json');
-    let brands = await brandsResp.json();
-    brands.sort((a, b) => a.name.localeCompare(b.name));
-    for (const brand of brands) {
-      const modelsUrl = `../data/brands/${brand.code.toLowerCase()}/models.json`;
+    let brands = [];
+
+    if (window.api && window.api.readDataFile) {
       try {
-        const modelsResp = await fetch(modelsUrl);
-        const modelsData = await modelsResp.json();
+        brands = JSON.parse(await window.api.readDataFile('data/brands.json'));
+      } catch {
+        const brandsResp = await fetch('../data/brands.json');
+        brands = await brandsResp.json();
+      }
+    } else {
+      const brandsResp = await fetch('../data/brands.json');
+      brands = await brandsResp.json();
+    }
+
+    brands.sort((a, b) => a.name.localeCompare(b.name));
+
+    for (const brand of brands) {
+      const modelsPath = `data/brands/${brand.code.toLowerCase()}/models.json`;
+      try {
+        let modelsData = {};
+
+        if (window.api && window.api.readDataFile) {
+          try {
+            modelsData = JSON.parse(await window.api.readDataFile(modelsPath));
+          } catch {
+            const modelsResp = await fetch(`../${modelsPath}`);
+            modelsData = await modelsResp.json();
+          }
+        } else {
+          const modelsResp = await fetch(`../${modelsPath}`);
+          modelsData = await modelsResp.json();
+        }
+
         let models = modelsData[brand.code.toLowerCase()] || [];
         models = models.slice().sort((a, b) => a.name.localeCompare(b.name));
+
         allBrandsWithModels.push({
           brand: brand.code.toLowerCase(),
           brandName: brand.name,
@@ -744,6 +815,7 @@ async function loadBrandModelsAccordion(filter = "") {
         });
       } catch (err) { }
     }
+
     renderAccordion(filter);
   } catch (err) {
     accordion.innerHTML = '<div class="text-danger text-center py-3">Failed to load brands or models.</div>';
