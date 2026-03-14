@@ -1,49 +1,5 @@
 {
   "op": [
-    { "code": "M13", "name": "ADAM (12 - 19)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "R12", "name": "Ampera (12 - 15)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "L07", "name": "Antara (06 - 15)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "P10", "name": "Astra-J (09 - 15)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "B16", "name": "Astra-K (16 - 22)", "epc": true,
-    "servicemanual": true },
-
-    { "code": "W13", "name": "Cascada (13 - 19)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "X12", "name": "Combo-D (11 - 18)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "S07", "name": "Corsa-D (06 - 14)", "epc": false,
-    "servicemanual": false },
-
-    { "code": "X15", "name": "Corsa-E (14 - 19)", "epc": true,
-    "servicemanual": true },
-
-    { "code": "P17", "name": "Crossland X (17 - 20)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "G09", "name": "Insignia-A (08 - 17)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "Z18", "name": "Insignia-B (17 - )", "epc": false,
-    "servicemanual": true },
-
-    { "code": "S10", "name": "Meriva-B (10 - 17)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "J13", "name": "Mokka-X (12 - 19)", "epc": false,
-    "servicemanual": true },
-
-    { "code": "X62", "name": "Movano-B (10 - 21)", "epc": false,
-    "servicemanual": true },
 
     { "code": "D08", "name": "Karl (15 - 19)", "epc": false,
     "servicemanual": true },
