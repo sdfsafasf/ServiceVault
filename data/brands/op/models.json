@@ -1,5 +1,5 @@
 {
-  "vx": [
+  "op": [
     { "code": "M13", "name": "Adam M13 (12 - 19)", "epc": false, "servicemanual": true },
 
     { "code": "R12", "name": "Ampera R12 (12 - 15)", "epc": false, "servicemanual": true },
