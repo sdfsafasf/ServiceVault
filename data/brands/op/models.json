@@ -30,12 +30,12 @@
 
     { "code": "S10", "name": "Meriva-B S10 (10 - 17)", "epc": false, "servicemanual": true },
 
-    { "code": "D08", "name": "Viva M75 (15 - 19)", "epc": false, "servicemanual": true },
+    { "code": "C16", "name": "Karl C16 (15 - 19)", "epc": false, "servicemanual": true },
 
     { "code": "X82", "name": "Vivaro-B X82 (14 - 19)", "epc": false, "servicemanual": true },
 
     { "code": "WSM", "name": "WORKSHOP MATERIALS", "epc": true, "servicemanual": false },
 
-    { "code": "A11", "name": "Zafira-C/Tourer A11 (11 - 19)", "epc": false, "servicemanual": true }
+    { "code": "A05", "name": "Zafira-C/Tourer A05 (11 - 19)", "epc": false, "servicemanual": true }
   ]
 }
