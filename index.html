@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ServiceVault - Vehicle Manuals & Parts Catalogs</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath fill='%23f9bc08' opacity='1' d='M430.5 284.4l-31.82-79.54C383.7 177.6 357.7 160 328.4 160H183.6C154.3 160 128.3 177.6 117.4 204.8l-31.82 79.56C62.88 301.1 48 329.2 48 360V480c0 17.67 14.33 32 32 32H96c17.67 0 32-14.33 32-32v-32h288v32c0 17.67 14.33 32 32 32s32-14.33 32-32v-120C464 329.2 449.1 301.1 426.4 284.4zM161.9 222.7C165.5 213.8 174 208 183.6 208h144.8c9.598 0 18.1 5.76 21.66 14.66L366.6 264H145.4L161.9 222.7zM416 400H96v-40c0-26.47 21.53-48 48-48h224c26.47 0 48 21.53 48 48V400zM505.9 111.1H447.8l-21.37-31.1l21.37-31.1h58.14c4.619 0 7.619-5.048 5.246-9.001C497.2 15.66 471.7 0 442.4 0c-32.79 0-60.59 19.86-73.01 48H142.8C131.9 23.19 108.6 4.574 80.9 .7793c-33.87-4.641-64.28 11.89-80.05 38.19c-2.381 3.955 .6094 9.034 5.24 9.034H64.22l21.37 31.1L64.22 112H6.078c-4.619 0-7.619 5.047-5.246 9.002C14.82 144.3 40.33 160 69.57 160c32.79 0 60.59-19.86 73.01-47.1h226.6c10.97 24.81 34.23 43.43 61.94 47.22c33.87 4.641 64.28-11.89 80.05-38.19C513.5 117.1 510.5 111.1 505.9 111.1zM160 336c-13.25 0-24 10.74-24 24C136 373.3 146.7 384 160 384s24-10.75 24-24C184 346.7 173.3 336 160 336zM352 336c-13.25 0-24 10.74-24 24c0 13.25 10.75 24 24 24s24-10.75 24-24C376 346.7 365.3 336 352 336z'/%3E%3Cpath fill='white' opacity='0.4' d='M511.2 121c-15.77 26.3-46.18 42.83-80.05 38.19c-27.7-3.795-50.96-22.41-61.94-47.22H142.6C130.2 140.1 102.4 160 69.57 160C40.33 160 14.82 144.3 .832 121C-1.541 117 1.459 112 6.078 112H64.22l21.37-31.1L64.22 48H6.09c-4.631 0-7.621-5.068-5.24-9.034c15.77-26.3 46.18-42.83 80.05-38.19c27.7 3.795 50.96 22.41 61.94 47.22h226.6C381.8 19.86 409.6 0 442.4 0c29.23 0 54.75 15.66 68.73 38.1c2.373 3.955-.627 9.001-5.246 9.001H447.8l-21.37 31.1l21.37 31.1h58.13C510.5 111.1 513.5 117.1 511.2 121z'/%3E%3C/svg%3E">
+ 
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+    :root {
+      --bs-body-bg: #212529;
+      --bs-body-color: #dee2e7;
+      --bs-border-color: #333333;
+      --sv-card-color: #1e1e1e;
+      --sv-font-color-muted: #888888;
+      --primary-accent: #007BFF;
+      --manual-blue: #007BFF;
+      --epc-yellow: #ffb300;
+    }
+    [data-bs-theme="light"] {
+      --bs-body-bg: #f4f4f9;
+      --bs-body-color: #121212;
+      --bs-border-color: #dee2e6;
+      --sv-card-color: #ffffff;
+      --sv-font-color-muted: #6c757d;
+    }
+    html {
+      overflow-y: scroll;
+    }
+    html, body {
+      height: 100%; margin: 0; padding: 0;
+      background: var(--bs-body-bg); color: var(--bs-body-color);
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.3s, color 0.3s;
+      min-height: 100vh;
+    }
+    body { 
+      display: flex; 
+      flex-direction: column; 
+    }
+    main {
+      flex: 1 1 auto;
+      display: flex;
+    }
+
+    .split-container {
+      flex: 1 1 auto;
+      display: flex;
+    }
+    .split-half {
+      position: relative; flex: 1 1 50%; display: flex;
+      align-items: center; justify-content: center;
+      overflow: hidden; cursor: pointer; min-width: 0;
+      transition: flex 0.28s cubic-bezier(.4,0,.2,1);
+    }
+    .split-half:hover { flex: 1.11 1 56%; z-index: 1; box-shadow: 0 2px 18px 0 rgba(0,0,0,0.10); }
+    .split-bg {
+      position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+      width: 100%; height: 100%;
+      object-fit: cover; z-index: 0;
+      filter: blur(6px) brightness(0.62) grayscale(14%);
+      opacity: 0.7; pointer-events: none;
+      transition: filter 0.22s, opacity 0.15s;
+    }
+    .split-half.manuals .split-bg { border-right: 4px solid var(--manual-blue); }
+    .split-half.epc .split-bg { border-left: 4px solid var(--epc-yellow); }
+    .split-half:hover .split-bg { filter: blur(2.5px) brightness(0.88) grayscale(4%); opacity: 0.88; }
+    
+    .split-content {
+      position: relative; z-index: 1;
+      display: flex; flex-direction: column;
+      text-align: center;
+      width: 100%; max-width: 400px;
+      padding: 3.2rem 1.1rem 3.1rem 1.1rem;
+      border-radius: 18px;
+      background: rgba(20, 25, 28, 0.63);
+      backdrop-filter: blur(2px);
+      border: 1px solid rgba(160,160,160,0.07);
+      box-shadow: 0 2px 16px rgba(0,0,0,0.11);
+      margin: 2.5rem 1.3rem; transition: background 0.13s;
+    }
+    .split-content h1 {
+      font-size: 2.4rem; font-weight: 700;
+      letter-spacing: 0.01em; margin-bottom: 0.43em; margin-top: 0;
+      text-shadow: 0 2px 14px rgba(0,0,0,0.12);
+      color: #fff; /* Always white for contrast on bg */
+    }
+    .split-content p {
+      font-size: 1.18rem; font-weight: 400;
+      color: #ddd; /* Always light gray for contrast on bg */
+      margin-bottom: 2.1rem; margin-top: 0;
+      text-shadow: 0 1px 8px rgba(0,0,0,0.11);
+    }
+    .split-content .cta-btn {
+      display: inline-block; padding: 0.85em 2.2em;
+      font-size: 1.15rem; background: var(--manual-blue);
+      color: #fff; border: none; border-radius: 10px;
+      font-weight: 600; text-decoration: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.14);
+      transition: background 0.18s, box-shadow 0.18s;
+      cursor: pointer; margin-top: auto;
+    }
+    .split-half.epc .cta-btn { background: var(--epc-yellow); color: #222; }
+    .split-content .cta-btn:hover { background: #0056b3; color: #fff; text-decoration: none; box-shadow: 0 6px 24px rgba(0,0,0,0.18); }
+    .split-half.epc .cta-btn:hover { background: #ffcc42; color: #222; }
+    
+    @media (max-width: 950px) {
+      .split-container { flex-direction: column; }
+      .split-half { min-height: 49vh; }
+    }
+    body[data-bs-theme="light"] header a:not(.logo):hover,
+    body[data-bs-theme="light"] footer a:hover {
+        color: var(--primary-accent) !important;
+    }
+  </style>
+</head>
+<body data-bs-theme="dark">
+    <div id="app-download-banner" style="
+  display:none;
+position:fixed;
+left:0; right:0; top:90px; z-index:99999;box-shadow: 0 2px 12px #0004;
+  background:#003366; color:#fff; text-align:center;
+  padding:1em 0.5em; font-size:1.08rem; box-shadow:0 -2px 12px #0004;
+">
+  <span>
+    🚗 <b>Get the full ServiceVault App!</b>
+    &nbsp; Download for Windows for the best experience.
+  </span>
+  <a id="win-download-link" href="#" target="_blank"
+     style="margin-left:1em;padding:0.4em 1.2em;background:#ffb300;color:#222;border-radius:8px;font-weight:600;text-decoration:none;box-shadow:0 1px 8px #0002;">
+    Download
+  </a>
+  <button id="close-app-banner" style="margin-left:2em;background:none;border:none;color:#fff;font-size:1.2em;cursor:pointer;">×</button>
+</div>
+
+  <header id="common-header"></header>
+
+  <main>
+    <div class="split-container">
+      <div class="split-half manuals" onclick="location.href='servicemanuals/index.html'">
+        <img class="split-bg"
+             src="assets/manuals-bg.PNG"
+             data-dark="assets/manuals-bg.PNG"
+             data-light="assets/manuals-light-bg.PNG"
+             alt="Service Manuals background image">
+        <div class="split-content">
+          <h1>Service Manuals</h1>
+          <p>Step-by-step repair, diagrams, and tech specs for your vehicle.</p>
+          <a href="servicemanuals/index.html" class="cta-btn">Browse Manuals</a>
+        </div>
+      </div>
+      <div class="split-half epc" onclick="location.href='epc/index.html'">
+        <img class="split-bg"
+             src="assets/epc-bg.PNG"
+             data-dark="assets/epc-bg.PNG"
+             data-light="assets/epc-light-bg.PNG"
+             alt="Parts Catalog background image">
+        <div class="split-content">
+          <h1>Parts Catalog</h1>
+          <p>Find official part numbers, diagrams, and component info.</p>
+          <a href="epc/index.html" class="cta-btn">Browse EPC</a>
+        </div>
+      </div>
+    </div>
+  </main>
+  
+  <footer id="common-footer"></footer>
+  
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="vehiclelist.js"></script> <!-- Ensure this is included -->
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      let vehicleModalInstance = null;
+
+      function isElectron() { return navigator.userAgent.toLowerCase().indexOf(' electron/') > -1; }
+      function getRootPath() { return './'; }
+      function getIncludePath(filename) { return getRootPath() + filename; }
+
+      function updateSectionImagesForTheme(theme) {
+        document.querySelectorAll('.split-bg').forEach(img => {
+          const newSrc = theme === 'dark' ? img.dataset.dark : img.dataset.light;
+          if (img.src !== newSrc && newSrc) {
+            img.src = newSrc;
+          }
+        });
+      }
+
+      function setTheme(theme) {
+        document.body.setAttribute('data-bs-theme', theme);
+        localStorage.setItem('theme', theme);
+        updateThemeIcon();
+        updateSectionImagesForTheme(theme);
+      }
+      
+      function updateThemeIcon() {
+        document.querySelectorAll('#theme-toggle').forEach(btn => {
+          const moon = btn.querySelector('.moon-icon'); const sun = btn.querySelector('.sun-icon'); if (!moon || !sun) return;
+          if (document.body.getAttribute('data-bs-theme') === 'dark') { sun.style.display = 'none'; moon.style.display = ''; } else { sun.style.display = ''; moon.style.display = 'none'; }
+        });
+      }
+      
+      function initializeModal() {
+        const modalEl = document.getElementById('vehicleListModal');
+        if (modalEl) {
+          vehicleModalInstance = new bootstrap.Modal(modalEl);
+          
+          const searchInput = document.getElementById('modal-search-input');
+          if (searchInput) {
+            searchInput.addEventListener('input', (e) => renderVehicleList('#modal-vehicle-list-container', e.target.value.trim().toLowerCase()));
+          }
+
+          const azNav = document.querySelector('.modal-az-nav');
+          if (azNav) {
+            azNav.addEventListener('click', (e) => {
+              if (e.target.tagName === 'A') {
+                e.preventDefault();
+                const id = e.target.getAttribute('href').slice(1);
+                const el = document.getElementById(id);
+                if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              }
+            });
+          }
+        }
+      }
+      
+      document.body.addEventListener('click', function(e) {
+        const logoLink = e.target.closest('#servicevault-logo');
+        const vehicleListLink = e.target.closest('#open-vehicle-list');
+        const themeToggleButton = e.target.closest('#theme-toggle');
+
+        if (logoLink) {
+          e.preventDefault();
+          window.location.href = isElectron() ? getRootPath() + 'app-home.html' : getRootPath() + 'index.html';
+        }
+        
+        if (vehicleListLink) {
+          e.preventDefault();
+          if (vehicleModalInstance) {
+            renderVehicleList('#modal-vehicle-list-container');
+            const searchInput = document.getElementById('modal-search-input');
+            if (searchInput) searchInput.value = '';
+            vehicleModalInstance.show();
+          } else if (!isElectron()) {
+            window.location.href = getRootPath() + 'vehiclelist.html';
+          }
+        }
+        
+        if (themeToggleButton) { 
+          const current = document.body.getAttribute('data-bs-theme'); 
+          setTheme(current === 'dark' ? 'light' : 'dark'); 
+        }
+      });
+      
+      function initializePage() {
+        Promise.all([
+          fetch(getIncludePath('header.html')).then(r => r.text()).then(data => { document.getElementById('common-header').outerHTML = data; }),
+          fetch(getIncludePath('footer.html')).then(r => r.text()).then(data => { 
+            document.getElementById('common-footer').innerHTML = data;
+            document.querySelectorAll('.footer-year').forEach(span => { span.textContent = new Date().getFullYear(); });
+          })
+        ]).then(() => {
+          const initialTheme = localStorage.getItem('theme') || 'dark';
+          setTheme(initialTheme);
+          initializeModal(); // Initialize modal after header/footer are loaded
+        });
+      }
+
+      initializePage();
+    });
+    (function() {
+  function isElectron() {
+    return navigator.userAgent.toLowerCase().indexOf(' electron/') > -1;
+  }
+  // Only show if NOT Electron and not previously dismissed
+  if (!isElectron() && !localStorage.getItem('hideAppBanner')) {
+    var banner = document.getElementById('app-download-banner');
+    if (banner) banner.style.display = 'block';
+
+    var closeBtn = document.getElementById('close-app-banner');
+    if (closeBtn) {
+      closeBtn.onclick = function() {
+        banner.style.display = 'none';
+        localStorage.setItem('hideAppBanner', '1');
+      };
+    }
+  }
+})();
+
+  </script>
+
+
+<script>
+  fetch('https://api.github.com/repos/sdfsafasf/ServiceVault/releases/latest')
+    .then(r => r.json())
+    .then(release => {
+      // Find the first .exe asset (change if needed)
+      const exe = (release.assets || []).find(a => a.name.endsWith('.exe'));
+      if (exe) {
+        const btn = document.getElementById('win-download-link');
+        btn.href = exe.browser_download_url;
+        btn.textContent = 'Download for Windows';
+        btn.style.display = '';
+      }
+    })
+    .catch(e => {
+      // fallback or hide button
+      document.getElementById('win-download-link').style.display = 'none';
+    });
+</script>
+
+</body>
+</html>
