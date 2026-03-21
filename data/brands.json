@@ -14,7 +14,11 @@
     "code": "BM",
     "name": "BMW",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg"
+  },
+  {
+    "code": "VW",
+    "name": "VW TEST",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/960px-Volkswagen_logo_2019.svg.png"
   }
-
   
 ]
