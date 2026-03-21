@@ -1,6 +1,6 @@
 {
   "vx": [
-    { "code": "M13", "name": "Adam M13 (12 - 19)", "epc": true, "servicemanual": true },
+    { "code": "M13", "name": "Adam M13 (12 -TEST123 19)", "epc": true, "servicemanual": true },
 
     { "code": "R12", "name": "Ampera R12 (12 - 15)", "epc": true, "servicemanual": true },
 
